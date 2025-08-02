@@ -9,31 +9,47 @@ configuration:
   require_license: false
   allowed_licenses:
     - all
+
 categories:
   - category: aggregators
     title: Aggregators
     subtitle: MCP servers for aggregators
+  - category: browsers
+    title: Browsers
+    subtitle: MCP servers for browser automation and web interaction
   - category: cloud-platforms
     title: Cloud Platforms
     subtitle: MCP servers for cloud platforms
   - category: code-execution
     title: Code Execution
     subtitle: MCP servers for code execution
+  - category: communication
+    title: Communication
+    subtitle: MCP servers for communication and messaging
   - category: customer-data-platforms
     title: Customer Data Platforms
     subtitle: MCP servers for customer data platforms
+  - category: databases
+    title: Databases
+    subtitle: MCP servers for database integration and management
   - category: data-platforms
     title: Data Platforms
     subtitle: MCP servers for data platforms
   - category: developer-tools
     title: Developer Tools
     subtitle: MCP servers for developer tools
-  - category: finance--fintech
+  - category: finance-and-fintech
     title: Finance & Fintech
     subtitle: MCP servers for finance & fintech
   - category: gaming
     title: Gaming
     subtitle: MCP servers for gaming
+  - category: geolocation
+    title: Geolocation
+    subtitle: MCP servers for location services and geospatial data
+  - category: knowledge-and-memory
+    title: Knowledge & Memory
+    subtitle: MCP servers for knowledge graphs and memory management
   - category: marketing
     title: Marketing
     subtitle: MCP servers for marketing
@@ -43,16 +59,42 @@ categories:
   - category: multimedia-process
     title: Multimedia Process
     subtitle: MCP servers for multimedia process
+  - category: rag-platforms
+    title: RAG Platforms
+    subtitle: End-to-end RAG platforms
+  - category: search-data-extraction
+    title: Search & Data Extraction
+    subtitle: MCP servers for search and data extraction
+  - category: security
+    title: Security
+    subtitle: MCP servers for security analysis and vulnerability scanning
+  - category: social-media
+    title: Social Media
+    subtitle: MCP servers for social media integration
+  - category: sports
+    title: Sports
+    subtitle: MCP servers for sports data and analytics
   - category: support-and-service-management
     title: Support & Service Management
     subtitle: MCP servers for support & service management
-  - category: translation-services
-    title: Translation Services
-    subtitle: MCP servers for translation services
   - category: text-to-speech
     title: Text-to-Speech
     subtitle: MCP servers for text-to-speech
+  - category: translation-services
+    title: Translation Services
+    subtitle: MCP servers for translation services
+  - category: travel
+    title: Travel
+    subtitle: MCP servers for travel services and transportation
+  - category: utilities
+    title: Utilities
+    subtitle: MCP servers for various utility functions
+
 labels:
+  - label: ai
+    image: https://openmoji.org/data/color/svg/1F916.svg
+    description: >
+      AI and machine learning integration
   - label: api
     image: https://openmoji.org/data/color/svg/1F4DF.svg
     description: >
@@ -61,10 +103,34 @@ labels:
     image: https://openmoji.org/data/color/svg/1F3B5.svg
     description: >
       Audio processing
+  - label: blockchain
+    image: https://openmoji.org/data/color/svg/26D3.svg
+    description: >
+      Blockchain and cryptocurrency
+  - label: cloud
+    image: https://openmoji.org/data/color/svg/2601.svg
+    description: >
+      Cloud-based services
   - label: communication
     image: https://openmoji.org/data/color/svg/1F4AC.svg
     description: >
       Communication tools
+  - label: cpp
+    image: https://cdn.simpleicons.org/cplusplus/00599C
+    description: >
+      C/C++ based MCP server
+  - label: csharp
+    image: https://cdn.simpleicons.org/sharp/239120
+    description: >
+      C# based MCP server
+  - label: embedded
+    image: https://openmoji.org/data/color/svg/1F5A8.svg
+    description: >
+      Embedded systems
+  - label: go
+    image: https://cdn.simpleicons.org/go/00ADD8
+    description: >
+      Go based MCP server
   - label: java
     image: https://www.java.com/favicon.ico
     description: >
@@ -85,6 +151,10 @@ labels:
     image: https://openmoji.org/data/color/svg/1F6A8.svg
     description: >
       Monitoring and alerting
+  - label: official
+    image: https://openmoji.org/data/color/svg/1F396.svg
+    description: >
+      Official implementation
   - label: python
     image: https://cdn.simpleicons.org/python/ffde57
     description: >
@@ -113,6 +183,7 @@ labels:
     image: https://openmoji.org/data/color/svg/F000.svg
     description: >
       Windows compatible
+
 projects:
   - name: 1mcp-agent
     github_id: 1mcp-app/agent
