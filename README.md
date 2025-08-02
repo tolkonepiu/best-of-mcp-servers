@@ -8,6 +8,7 @@
 
 <p align="center">
     <strong>🏆&nbsp; A ranked list of MCP servers. Updated weekly.</strong>
+    </br>
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
 </p>
 
