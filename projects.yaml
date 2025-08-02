@@ -50,9 +50,6 @@ categories:
   - category: data-science-tools
     title: Data Science Tools
     subtitle: MCP servers for data science tools
-  - category: delivery
-    title: Delivery
-    subtitle: MCP servers for delivery
   - category: developer-tools
     title: Developer Tools
     subtitle: MCP servers for developer tools
@@ -3563,12 +3560,6 @@ projects:
       - local
       - typescript
     category: developer-tools
-  - name: JordanDalton/DoorDash-MCP-Server
-    github_id: JordanDalton/DoorDash-MCP-Server
-    description: DoorDash Delivery (Unofficial)
-    labels:
-      - python
-    category: delivery
   - name: arrismo/kaggle-mcp
     github_id: arrismo/kaggle-mcp
     description: Connects to Kaggle, ability to download and analyze datasets.
@@ -7681,4 +7672,10 @@ projects:
     description: A high-level framework for building MCP servers in TypeScript
     labels:
       - typescript
+    category: other-tools-and-integrations
+  - name: JordanDalton/DoorDash-MCP-Server
+    github_id: JordanDalton/DoorDash-MCP-Server
+    description: DoorDash Delivery (Unofficial)
+    labels:
+      - python
     category: other-tools-and-integrations
