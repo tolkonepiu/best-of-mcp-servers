@@ -126,15 +126,15 @@ labels:
     description: >
       Official implementation
   - label: python
-    image: https://cdn.simpleicons.org/python/ffde57
+    image: https://cdn.simpleicons.org/python
     description: >
       Python codebase
   - label: typescript
-    image: https://openmoji.org/data/color/svg/E069.svg
+    image: https://cdn.simpleicons.org/typescript
     description: >
       TypeScript (or JavaScript) codebase
   - label: go
-    image: https://cdn.simpleicons.org/go/00ADD8
+    image: https://cdn.simpleicons.org/go
     description: >
       Go codebase
   - label: rust
@@ -146,7 +146,7 @@ labels:
     description: >
       C# Codebase
   - label: java
-    image: https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
+    image: https://cdn.simpleicons.org/openjdk/5382A1
     description: >
       Java codebase
   - label: cpp
@@ -154,7 +154,7 @@ labels:
     description: >
       C/C++ codebase
   - label: ruby
-    image: https://openmoji.org/data/color/svg/E04F.svg
+    image: https://cdn.simpleicons.org/ruby
     description: >
       Ruby codebase
   - label: cloud
@@ -170,7 +170,7 @@ labels:
     description: >
       Embedded Systems
   - label: macos
-    image: https://openmoji.org/data/color/svg/F8FF.svg
+    image: https://cdn.simpleicons.org/apple/9399b2
     description: >
       For macOS
   - label: windows
@@ -178,7 +178,7 @@ labels:
     description: >
       For Windows
   - label: linux
-    image: https://openmoji.org/data/color/svg/1F427.svg
+    image: https://cdn.simpleicons.org/linux
     description: >
       For Linux
 
