@@ -24,19 +24,19 @@ jobs:
       - if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
         name: set-version-via-date
         run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
       - name: check-version-tag
         shell: bash
         run: |
           git fetch --tags --force
           git show-ref --tags --verify --quiet -- "refs/tags/${{ env.VERSION }}" && echo "VERSION=$(date '+%Y.%m.%d-%H.%M')" >> $GITHUB_ENV || exit 0
       - name: create-update-branch
-        uses: peterjgrainger/action-create-branch@v3.0.0
+        uses: peterjgrainger/action-create-branch@10c7d268152480ae859347db45dc69086cef1d9c # v3.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           branch: "${{ env.BRANCH_PREFIX }}${{ env.VERSION }}"
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
         with:
           fetch-depth: 0
           ref: ${{ env.BRANCH_PREFIX }}${{ env.VERSION }}
@@ -44,12 +44,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: update-best-of-list
-        uses: best-of-lists/best-of-update-action@v0.8.5
+        uses: best-of-lists/best-of-update-action@ee4e7b88df0e3538d496eab82fe5b4e613c999ef # v0.8.5
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
       - name: push-update
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@778341af668090896ca464160c2def5d1d1a3eb0 # v6
         with:
           branch: ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }}
           commit_user_name: best-of update
@@ -69,7 +69,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: create-release
-        uses: actions/create-release@v1
+        uses: actions/create-release@0cb9c9b65d5d1901c1f53e5e66eaf4afd303e70e # v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
