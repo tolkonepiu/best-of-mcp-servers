@@ -636,7 +636,6 @@ projects:
       designed for web automation
     labels:
       - cloud
-      - go
       - linux
       - local
       - macos
@@ -856,7 +855,6 @@ projects:
       and LLM examples on usage.
     labels:
       - cloud
-      - security
     category: cloud-platforms
   - name: liveblocks/liveblocks-mcp-server
     github_id: liveblocks/liveblocks-mcp-server
@@ -1280,10 +1278,8 @@ projects:
       A coding agent for Max (Max/MSP/Jitter), which is a visual programming
       language for music and multimedia.
     labels:
-      - audio
       - local
       - python
-      - video
     category: coding-agents
   - name: VertexStudio/developer
     github_id: VertexStudio/developer
@@ -1319,8 +1315,7 @@ projects:
     description: >-
       A Model Context Protocol server that provides access to iTerm. You can run
       commands and ask questions about what you see in the iTerm terminal.
-    labels:
-      - communication
+    labels: []
     category: command-line
   - name: g0t4/mcp-server-commands
     github_id: g0t4/mcp-server-commands
@@ -1500,7 +1495,6 @@ projects:
       WeCom group robot.
     labels:
       - cloud
-      - local
     category: communication
   - name: hannesrudolph/imessage-query-fastmcp-mcp-server
     github_id: hannesrudolph/imessage-query-fastmcp-mcp-server
@@ -1520,7 +1514,6 @@ projects:
       exposes ACP agents to MCP clients, bridging the communication gap between
       the two protocols.
     labels:
-      - communication
       - python
     category: communication
   - name: InditexTech/mcp-teams-server
@@ -1566,7 +1559,6 @@ projects:
       detect voicemail, and integrate with Vonage APIs for advanced telephony
       workflows.
     labels:
-      - communication
       - python
     category: communication
   - name: korotovsky/slack-mcp-server
@@ -3233,8 +3225,7 @@ projects:
     description: >-
       This MCP server provides a tool to download entire websites using wget. It
       preserves the website structure and converts links to work locally.
-    labels:
-      - local
+    labels: []
     category: developer-tools
   - name: QAInsights/jmeter-mcp-server
     github_id: QAInsights/jmeter-mcp-server
@@ -3421,8 +3412,7 @@ projects:
     description: >-
       MCP server for seamless document format conversion using Pandoc,
       supporting Markdown, HTML, PDF, DOCX (.docx), csv and more.
-    labels:
-      - local
+    labels: []
     category: developer-tools
   - name: biegehydra/BifrostMCP
     github_id: biegehydra/BifrostMCP
@@ -5257,9 +5247,7 @@ projects:
       Using ffmpeg command line to achieve an mcp server, can be very
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
-    labels:
-      - audio
-      - video
+    labels: []
     category: multimedia-process
   - name: vectara/vectara-mcp
     github_id: vectara/vectara-mcp
@@ -6005,7 +5993,6 @@ projects:
       - local
       - macos
       - rust
-      - security
       - windows
     category: security
   - name: gbrigandi/mcp-server-thehive
@@ -6018,7 +6005,6 @@ projects:
       - local
       - macos
       - rust
-      - security
       - windows
     category: security
   - name: gbrigandi/mcp-server-wazuh
@@ -6032,7 +6018,6 @@ projects:
       - local
       - macos
       - rust
-      - security
       - windows
     category: security
   - name: hieuttmmo/entraid-mcp-server
