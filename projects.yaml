@@ -83,9 +83,6 @@ categories:
   - category: multimedia-process
     title: Multimedia Process
     subtitle: MCP servers for multimedia process
-  - category: rag-platforms
-    title: RAG Platforms
-    subtitle: End-to-end RAG platforms
   - category: search-data-extraction
     title: Search & Data Extraction
     subtitle: MCP servers for search and data extraction
@@ -2475,6 +2472,15 @@ projects:
       conversational agents.
     labels:
       - cloud
+      - python
+    category: data-platforms
+  - name: vectara/vectara-mcp
+    github_id: vectara/vectara-mcp
+    description:
+      An MCP server for accessing Vectara's trusted RAG-as-a-service platform.
+    labels:
+      - cloud
+      - local
       - python
     category: data-platforms
   - name: 21st-dev/magic-mcp
@@ -5249,15 +5255,6 @@ projects:
       tailoring, stitching, playback and other functions
     labels: []
     category: multimedia-process
-  - name: vectara/vectara-mcp
-    github_id: vectara/vectara-mcp
-    description:
-      An MCP server for accessing Vectara's trusted RAG-as-a-service platform.
-    labels:
-      - cloud
-      - local
-      - python
-    category: rag-platforms
   - name: 0xDAEF0F/job-searchoor
     github_id: 0xDAEF0F/job-searchoor
     description: >-
