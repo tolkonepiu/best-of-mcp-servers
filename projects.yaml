@@ -128,59 +128,59 @@ labels:
   - label: python
     image: https://cdn.simpleicons.org/python/ffde57
     description: >
-      Python-based MCP server
+      Python codebase
   - label: typescript
     image: https://openmoji.org/data/color/svg/E069.svg
     description: >
-      TypeScript/JavaScript-based MCP server
+      TypeScript (or JavaScript) codebase
   - label: go
     image: https://cdn.simpleicons.org/go/00ADD8
     description: >
-      Go based MCP server
+      Go codebase
   - label: rust
     image: https://cdn.simpleicons.org/rust/CE422B
     description: >
-      Rust-based MCP server
+      Rust codebase
   - label: csharp
-    image: https://cdn.simpleicons.org/sharp/239120
+    image: https://cdn.simpleicons.org/sharp
     description: >
-      C# based MCP server
+      C# Codebase
   - label: java
-    image: https://www.java.com/favicon.ico
+    image: https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
     description: >
-      Java-based MCP server
+      Java codebase
   - label: cpp
-    image: https://cdn.simpleicons.org/cplusplus/00599C
+    image: https://cdn.simpleicons.org/cplusplus
     description: >
-      C/C++ based MCP server
+      C/C++ codebase
   - label: ruby
     image: https://openmoji.org/data/color/svg/E04F.svg
     description: >
-      Ruby-based MCP server
+      Ruby codebase
   - label: cloud
     image: https://openmoji.org/data/color/svg/2601.svg
     description: >
-      Cloud-based services
+      Cloud Service
   - label: local
     image: https://openmoji.org/data/color/svg/1F3E0.svg
     description: >
-      Local MCP server
+      Local Service
   - label: embedded
     image: https://openmoji.org/data/color/svg/1F5A8.svg
     description: >
-      Embedded systems
+      Embedded Systems
   - label: macos
     image: https://openmoji.org/data/color/svg/F8FF.svg
     description: >
-      macOS compatible
+      For macOS
   - label: windows
     image: https://openmoji.org/data/color/svg/F000.svg
     description: >
-      Windows compatible
+      For Windows
   - label: linux
     image: https://openmoji.org/data/color/svg/1F427.svg
     description: >
-      Linux compatible
+      For Linux
 
 projects:
   - name: 1mcp-app/agent

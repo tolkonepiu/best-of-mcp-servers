@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-	<img src="https://cdn.simpleicons.org/modelcontextprotocol/9399b2" width="200" alt="Logo"/><br/>
+	<img src="https://cdn.simpleicons.org/modelcontextprotocol/9399b2" width="150" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	best-of-mcp-servers
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
