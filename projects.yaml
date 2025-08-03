@@ -116,7 +116,7 @@ categories:
 
 labels:
   - label: official
-    image: https://openmoji.org/data/color/svg/1F396.svg
+    image: https://api.iconify.design/material-symbols:award-star-outline.svg?color=orange
     description: >
       Official implementation
   - label: python
@@ -152,15 +152,15 @@ labels:
     description: >
       Ruby codebase
   - label: cloud
-    image: https://openmoji.org/data/color/svg/2601.svg
+    image: https://api.iconify.design/material-symbols:cloud.svg?color=white
     description: >
       Cloud Service
   - label: local
-    image: https://openmoji.org/data/color/svg/1F3E0.svg
+    image: https://api.iconify.design/material-symbols:home.svg?color=blue
     description: >
       Local Service
   - label: embedded
-    image: https://openmoji.org/data/color/svg/1F5A8.svg
+    image: https://api.iconify.design/material-symbols:memory.svg?color=%23f97316
     description: >
       Embedded Systems
   - label: macos
@@ -168,7 +168,7 @@ labels:
     description: >
       For macOS
   - label: windows
-    image: https://openmoji.org/data/color/svg/F000.svg
+    image: https://api.iconify.design/devicon:windows11.svg
     description: >
       For Windows
   - label: linux
