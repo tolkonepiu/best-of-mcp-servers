@@ -5,6 +5,7 @@ configuration:
   max_description_length: 1000
   min_stars: 50
   min_projectrank: 0
+  generate_install_hints: false
   require_homepage: false
   require_license: false
   allowed_licenses:
