@@ -116,19 +116,19 @@ categories:
 
 labels:
   - label: official
-    image: https://api.iconify.design/material-symbols:award-star-outline.svg?color=orange
+    image: https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af
     description: >
       Official implementation
   - label: python
-    image: https://cdn.simpleicons.org/python
+    image: https://api.iconify.design/devicon:python.svg
     description: >
       Python codebase
   - label: typescript
-    image: https://cdn.simpleicons.org/typescript
+    image: https://api.iconify.design/devicon:typescript.svg
     description: >
       TypeScript (or JavaScript) codebase
   - label: go
-    image: https://cdn.simpleicons.org/go
+    image: https://api.iconify.design/devicon:go.svg
     description: >
       Go codebase
   - label: rust
@@ -136,7 +136,7 @@ labels:
     description: >
       Rust codebase
   - label: csharp
-    image: https://cdn.simpleicons.org/sharp
+    image: https://api.iconify.design/devicon:csharp.svg
     description: >
       C# Codebase
   - label: java
@@ -144,19 +144,19 @@ labels:
     description: >
       Java codebase
   - label: cpp
-    image: https://cdn.simpleicons.org/cplusplus
+    image: https://api.iconify.design/devicon:cplusplus.svg
     description: >
       C/C++ codebase
   - label: ruby
-    image: https://cdn.simpleicons.org/ruby
+    image: https://api.iconify.design/devicon:ruby.svg
     description: >
       Ruby codebase
   - label: cloud
-    image: https://api.iconify.design/material-symbols:cloud.svg?color=white
+    image: https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de
     description: >
       Cloud Service
   - label: local
-    image: https://api.iconify.design/material-symbols:home.svg?color=blue
+    image: https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa
     description: >
       Local Service
   - label: embedded
@@ -172,7 +172,7 @@ labels:
     description: >
       For Windows
   - label: linux
-    image: https://cdn.simpleicons.org/linux
+    image: https://api.iconify.design/devicon:linux.svg
     description: >
       For Linux
 
