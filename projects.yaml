@@ -140,7 +140,7 @@ labels:
     description: >
       C# Codebase
   - label: java
-    image: https://cdn.simpleicons.org/openjdk/5382A1
+    image: https://api.iconify.design/devicon:java.svg
     description: >
       Java codebase
   - label: cpp
