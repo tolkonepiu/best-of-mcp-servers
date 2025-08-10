@@ -1282,6 +1282,14 @@ projects:
       - local
       - python
     category: databases
+  - name: tuannvm/mcp-trino
+    github_id: tuannvm/mcp-trino
+    description:
+      A Go implementation of a Model Context Protocol (MCP) server for Trino
+    labels:
+      - cloud
+      - go
+    category: databases
   - name: weaviate/mcp-server-weaviate
     github_id: weaviate/mcp-server-weaviate
     description: >-
@@ -2251,6 +2259,15 @@ projects:
       - cloud
       - python
     category: marketing
+  - name: gomarble-ai/google-ads-mcp-server
+    github_id: gomarble-ai/google-ads-mcp-server
+    description: >-
+      MCP server acting as an interface to the Google Ads, enabling programmatic
+      access to Google Ads data and management features.
+    labels:
+      - cloud
+      - python
+    category: marketing
   - name: open-strategy-partners/osp_marketing_tools
     github_id: open-strategy-partners/osp_marketing_tools
     description: >-
@@ -2270,6 +2287,16 @@ projects:
       - cloud
       - local
       - python
+    category: marketing
+  - name: stape-io/stape-mcp-server
+    github_id: stape-io/stape-mcp-server
+    description: >-
+      This project implements an MCP (Model Context Protocol) server for the
+      Stape platform. It allows interaction with the Stape API using AI
+      assistants like Claude or AI-powered IDEs like Cursor.
+    labels:
+      - cloud
+      - typescript
     category: marketing
   - name: grafana/mcp-grafana
     github_id: grafana/mcp-grafana
@@ -2368,11 +2395,27 @@ projects:
       - cloud
       - python
     category: search-data-extraction
+  - name: angheljf/nyt
+    github_id: angheljf/nyt
+    description: Search articles using the NYTimes API
+    labels:
+      - cloud
+      - typescript
+    category: search-data-extraction
   - name: apify/mcp-server-rag-web-browser
     github_id: apify/mcp-server-rag-web-browser
     description: >-
       An MCP server for Apify's open-source RAG Web Browser Actor to perform web
       searches, scrape URLs, and return content in Markdown.
+    labels:
+      - cloud
+      - typescript
+    category: search-data-extraction
+  - name: Bigsy/Clojars-MCP-Server
+    github_id: Bigsy/Clojars-MCP-Server
+    description:
+      Clojars MCP Server for upto date dependency information of Clojure
+      libraries
     labels:
       - cloud
       - typescript
@@ -2462,6 +2505,15 @@ projects:
       - local
       - typescript
     category: search-data-extraction
+  - name: isnow890/naver-search-mcp
+    github_id: isnow890/naver-search-mcp
+    description: >-
+      MCP server for Naver Search API integration, supporting blog, news,
+      shopping search and DataLab analytics features.
+    labels:
+      - cloud
+      - typescript
+    category: search-data-extraction
   - name: jae-jae/fetcher-mcp
     github_id: jae-jae/fetcher-mcp
     description: >-
@@ -2506,6 +2558,13 @@ projects:
   - name: kagisearch/kagimcp
     github_id: kagisearch/kagimcp
     description: Official Kagi Search MCP Server
+    labels:
+      - cloud
+      - typescript
+    category: search-data-extraction
+  - name: kshern/mcp-tavily
+    github_id: kshern/mcp-tavily
+    description: Tavily AI search API
     labels:
       - cloud
       - typescript
@@ -2832,6 +2891,15 @@ projects:
       - cloud
       - typescript
     category: version-control
+  - name: kopfrechner/gitlab-mr-mcp
+    github_id: kopfrechner/gitlab-mr-mcp
+    description:
+      Interact seamlessly with issues and merge requests of your GitLab
+      projects.
+    labels:
+      - cloud
+      - typescript
+    category: version-control
   - name: Tiberriver256/mcp-server-azure-devops
     github_id: Tiberriver256/mcp-server-azure-devops
     description:
@@ -2996,6 +3064,15 @@ projects:
       - cloud
       - go
     category: other-tools-and-integrations
+  - name: hiromitsusasaki/raindrop-io-mcp-server
+    github_id: hiromitsusasaki/raindrop-io-mcp-server
+    description: >-
+      An integration that allows LLMs to interact with Raindrop.io bookmarks
+      using the Model Context Protocol (MCP).
+    labels:
+      - cloud
+      - typescript
+    category: other-tools-and-integrations
   - name: integromat/make-mcp-server
     github_id: integromat/make-mcp-server
     description: Turn your Make scenarios into callable tools for AI assistants.
@@ -3123,6 +3200,15 @@ projects:
     labels:
       - local
       - python
+    category: other-tools-and-integrations
+  - name: rember/rember-mcp
+    github_id: rember/rember-mcp
+    description: >-
+      Create spaced repetition flashcards in Rember to remember anything you
+      learn in your chats.
+    labels:
+      - local
+      - typescript
     category: other-tools-and-integrations
   - name: roychri/mcp-server-asana
     github_id: roychri/mcp-server-asana
