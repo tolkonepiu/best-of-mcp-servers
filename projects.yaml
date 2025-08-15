@@ -947,6 +947,14 @@ projects:
       - official
       - typescript
     category: customer-data-platforms
+  - name: hustcc/mcp-echarts
+    github_id: hustcc/mcp-echarts
+    description:
+      Generate visual charts using Apache ECharts with AI MCP dynamically.
+    labels:
+      - local
+      - typescript
+    category: customer-data-platforms
   - name: hustcc/mcp-mermaid
     github_id: hustcc/mcp-mermaid
     description: Generate mermaid diagram and chart with AI MCP dynamically.
@@ -1597,8 +1605,8 @@ projects:
       - local
       - python
     category: developer-tools
-  - name: lpigeon/ros-mcp-server
-    github_id: lpigeon/ros-mcp-server
+  - name: robotmcp/ros-mcp-server
+    github_id: robotmcp/ros-mcp-server
     description: >-
       The ROS MCP Server supports robot control by converting user-issued
       natural language commands into ROS or ROS2 control commands.
@@ -2259,15 +2267,6 @@ projects:
       - cloud
       - python
     category: marketing
-  - name: gomarble-ai/google-ads-mcp-server
-    github_id: gomarble-ai/google-ads-mcp-server
-    description: >-
-      MCP server acting as an interface to the Google Ads, enabling programmatic
-      access to Google Ads data and management features.
-    labels:
-      - cloud
-      - python
-    category: marketing
   - name: open-strategy-partners/osp_marketing_tools
     github_id: open-strategy-partners/osp_marketing_tools
     description: >-
@@ -2287,16 +2286,6 @@ projects:
       - cloud
       - local
       - python
-    category: marketing
-  - name: stape-io/stape-mcp-server
-    github_id: stape-io/stape-mcp-server
-    description: >-
-      This project implements an MCP (Model Context Protocol) server for the
-      Stape platform. It allows interaction with the Stape API using AI
-      assistants like Claude or AI-powered IDEs like Cursor.
-    labels:
-      - cloud
-      - typescript
     category: marketing
   - name: grafana/mcp-grafana
     github_id: grafana/mcp-grafana
@@ -2395,27 +2384,11 @@ projects:
       - cloud
       - python
     category: search-data-extraction
-  - name: angheljf/nyt
-    github_id: angheljf/nyt
-    description: Search articles using the NYTimes API
-    labels:
-      - cloud
-      - typescript
-    category: search-data-extraction
   - name: apify/mcp-server-rag-web-browser
     github_id: apify/mcp-server-rag-web-browser
     description: >-
       An MCP server for Apify's open-source RAG Web Browser Actor to perform web
       searches, scrape URLs, and return content in Markdown.
-    labels:
-      - cloud
-      - typescript
-    category: search-data-extraction
-  - name: Bigsy/Clojars-MCP-Server
-    github_id: Bigsy/Clojars-MCP-Server
-    description:
-      Clojars MCP Server for upto date dependency information of Clojure
-      libraries
     labels:
       - cloud
       - typescript
@@ -2505,15 +2478,6 @@ projects:
       - local
       - typescript
     category: search-data-extraction
-  - name: isnow890/naver-search-mcp
-    github_id: isnow890/naver-search-mcp
-    description: >-
-      MCP server for Naver Search API integration, supporting blog, news,
-      shopping search and DataLab analytics features.
-    labels:
-      - cloud
-      - typescript
-    category: search-data-extraction
   - name: jae-jae/fetcher-mcp
     github_id: jae-jae/fetcher-mcp
     description: >-
@@ -2558,13 +2522,6 @@ projects:
   - name: kagisearch/kagimcp
     github_id: kagisearch/kagimcp
     description: Official Kagi Search MCP Server
-    labels:
-      - cloud
-      - typescript
-    category: search-data-extraction
-  - name: kshern/mcp-tavily
-    github_id: kshern/mcp-tavily
-    description: Tavily AI search API
     labels:
       - cloud
       - typescript
