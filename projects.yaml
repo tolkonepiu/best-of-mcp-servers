@@ -87,9 +87,6 @@ categories:
   - category: security
     title: Security
     subtitle: MCP servers for security analysis and vulnerability scanning
-  - category: social-media
-    title: Social Media
-    subtitle: MCP servers for social media integration
   - category: sports
     title: Sports
     subtitle: MCP servers for sports data and analytics
@@ -229,6 +226,21 @@ projects:
       as a single MCP server.
     labels: []
     category: aggregators
+  - name: sitbon/magg
+    github_id: sitbon/magg
+    description: >-
+      Magg: A meta-MCP server that acts as a universal hub, allowing LLMs to
+      autonomously discover, install, and orchestrate multiple MCP servers -
+      essentially giving AI assistants the power to extend their own
+      capabilities on-demand.
+    labels:
+      - cloud
+      - linux
+      - local
+      - macos
+      - python
+      - windows
+    category: aggregators
   - name: SureScaleAI/openai-gpt-image-mcp
     github_id: SureScaleAI/openai-gpt-image-mcp
     description: OpenAI GPT image generation/editing MCP server.
@@ -348,6 +360,14 @@ projects:
       video editing, color grading, media management, and project control
     labels:
       - python
+    category: art-and-culture
+  - name: yuna0x0/anilist-mcp
+    github_id: yuna0x0/anilist-mcp
+    description:
+      A MCP server integrating AniList API for anime and manga information
+    labels:
+      - cloud
+      - typescript
     category: art-and-culture
   - name: genomoncology/biomcp
     github_id: genomoncology/biomcp
@@ -917,6 +937,17 @@ projects:
       suite using Graph API (including Outlook, mail, files, Excel, calendar)
     labels:
       - cloud
+      - typescript
+    category: communication
+  - name: SaseQ/discord-mcp
+    github_id: SaseQ/discord-mcp
+    description: >-
+      A MCP server for the Discord integration. Enable your AI assistants to
+      seamlessly interact with Discord. Enhance your Discord experience with
+      powerful automation capabilities.
+    labels:
+      - java
+      - local
       - typescript
     category: communication
   - name: zcaceres/gtasks-mcp
@@ -1822,6 +1853,16 @@ projects:
       - local
       - typescript
     category: developer-tools
+  - name: zillow/auto-mobile
+    github_id: zillow/auto-mobile
+    description: >-
+      Tool suite built around an MCP server for Android automation for developer
+      workflow and testing
+    labels:
+      - linux
+      - local
+      - typescript
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
@@ -1871,6 +1912,18 @@ projects:
       - macos
       - python
       - windows
+    category: data-science-tools
+  - name: optuna/optuna-mcp
+    github_id: optuna/optuna-mcp
+    description: >-
+      Official MCP server enabling seamless orchestration of hyperparameter
+      search and other optimization tasks with Optuna.
+    labels:
+      - linux
+      - local
+      - macos
+      - official
+      - python
     category: data-science-tools
   - name: reading-plus-ai/mcp-server-data-exploration
     github_id: reading-plus-ai/mcp-server-data-exploration
@@ -2051,6 +2104,14 @@ projects:
       - cloud
       - python
     category: finance-and-fintech
+  - name: kukapay/cryptopanic-mcp-server
+    github_id: kukapay/cryptopanic-mcp-server
+    description:
+      Providing latest cryptocurrency news to AI agents, powered by CryptoPanic.
+    labels:
+      - cloud
+      - python
+    category: finance-and-fintech
   - name: kukapay/freqtrade-mcp
     github_id: kukapay/freqtrade-mcp
     description:
@@ -2072,6 +2133,15 @@ projects:
   - name: OctagonAI/octagon-mcp-server
     github_id: OctagonAI/octagon-mcp-server
     description: Octagon AI Agents to integrate private and public market data
+    labels:
+      - cloud
+      - python
+    category: finance-and-fintech
+  - name: polygon-io/mcp_polygon
+    github_id: polygon-io/mcp_polygon
+    description: >-
+      An MCP server that provides access to Polygon.io financial market data
+      APIs for stocks, indices, forex, options, and more.
     labels:
       - cloud
       - python
@@ -2121,6 +2191,15 @@ projects:
       - local
       - macos
       - windows
+    category: gaming
+  - name: rishijatia/fantasy-pl-mcp
+    github_id: rishijatia/fantasy-pl-mcp
+    description:
+      An MCP server for real-time Fantasy Premier League data and analysis
+      tools.
+    labels:
+      - cloud
+      - python
     category: gaming
   - name: 0xshellming/mcp-summarizer
     github_id: 0xshellming/mcp-summarizer
@@ -2307,6 +2386,26 @@ projects:
     labels:
       - local
       - python
+    category: monitoring
+  - name: getsentry/sentry-mcp
+    github_id: getsentry/sentry-mcp
+    description:
+      Sentry.io integration for error tracking and performance monitoring
+    labels:
+      - cloud
+      - python
+    category: monitoring
+  - name: mpeirone/zabbix-mcp-server
+    github_id: mpeirone/zabbix-mcp-server
+    description: >-
+      Zabbix integration for hosts, items, triggers, templates, problems, data
+      and more.
+    labels:
+      - cloud
+      - linux
+      - macos
+      - python
+      - windows
     category: monitoring
   - name: pydantic/logfire-mcp
     github_id: pydantic/logfire-mcp
@@ -2773,6 +2872,17 @@ projects:
       - cloud
       - typescript
     category: sports
+  - name: nguyenvanduocit/jira-mcp
+    github_id: nguyenvanduocit/jira-mcp
+    description: >-
+      A Go-based MCP connector for Jira that enables AI assistants like Claude
+      to interact with Atlassian Jira. This tool provides a seamless interface
+      for AI models to perform common Jira operations including issue
+      management, sprint planning, and workflow transitions.
+    labels:
+      - cloud
+      - go
+    category: support-and-service-management
   - name: sooperset/mcp-atlassian
     github_id: sooperset/mcp-atlassian
     description: >-
@@ -2917,8 +3027,8 @@ projects:
       - cloud
       - typescript
     category: other-tools-and-integrations
-  - name: apify/actors-mcp-server
-    github_id: apify/actors-mcp-server
+  - name: apify/apify-mcp-server
+    github_id: apify/apify-mcp-server
     description: >-
       Use 3,000+ pre-built cloud tools, known as Actors, to extract data from
       websites, e-commerce, social media, search engines, maps, and more
@@ -3044,6 +3154,16 @@ projects:
       Generate visualizations from fetched data using the VegaLite format and
       renderer.
     labels:
+      - local
+      - python
+    category: other-tools-and-integrations
+  - name: ivnvxd/mcp-server-odoo
+    github_id: ivnvxd/mcp-server-odoo
+    description: >-
+      Connect AI assistants to Odoo ERP systems for business data access, record
+      management, and workflow automation.
+    labels:
+      - cloud
       - local
       - python
     category: other-tools-and-integrations
