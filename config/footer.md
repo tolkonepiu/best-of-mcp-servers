@@ -3,6 +3,8 @@
 
 ## Related Resources
 
+- [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers): A curated list of awesome Model Context Protocol (MCP) servers.
+- [**Awesome MCP Clients**](https://github.com/punkpeye/awesome-mcp-clients): A curated list of awesome Model Context Protocol (MCP) clients.
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 
 ## Contribution
