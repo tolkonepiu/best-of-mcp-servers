@@ -2329,6 +2329,15 @@ projects:
       - local
       - python
     category: location-services
+  - name: mahdin75/gis-mcp
+    github_id: mahdin75/gis-mcp
+    description: >-
+      A Model Context Protocol (MCP) server implementation that connects Large
+      Language Models (LLMs) to GIS operations using GIS libraries, enabling AI
+      assistants to perform accurate geospatial operations and transformations.
+    labels:
+      - local
+    category: location-services
   - name: jjsantos01/qgis_mcp
     github_id: jjsantos01/qgis_mcp
     description: >-
@@ -2632,6 +2641,16 @@ projects:
       - cloud
       - typescript
     category: search-data-extraction
+  - name: lfnovo/content-core
+    github_id: lfnovo/content-core
+    description: >-
+      Extract content from URLs, documents, videos, and audio files using
+      intelligent auto-engine selection. Supports web pages, PDFs, Word docs,
+      YouTube transcripts, and more with structured JSON responses.
+    labels:
+      - local
+      - python
+    category: search-data-extraction
   - name: brightdata/brightdata-mcp
     github_id: brightdata/brightdata-mcp
     description: >-
@@ -2685,6 +2704,15 @@ projects:
     description: An MCP Server to connect to searXNG instances
     labels:
       - local
+      - python
+    category: search-data-extraction
+  - name: takashiishida/arxiv-latex-mcp
+    github_id: takashiishida/arxiv-latex-mcp
+    description: >-
+      Get the LaTeX source of arXiv papers to handle mathematical content and
+      equations
+    labels:
+      - cloud
       - python
     category: search-data-extraction
   - name: tinyfish-io/agentql-mcp
@@ -3307,14 +3335,6 @@ projects:
   - name: Seym0n/tiktok-mcp
     github_id: Seym0n/tiktok-mcp
     description: Interact with TikTok videos
-    labels:
-      - cloud
-      - typescript
-    category: other-tools-and-integrations
-  - name: Shopify/dev-mcp
-    github_id: Shopify/dev-mcp
-    description:
-      Model Context Protocol (MCP) server that interacts with Shopify Dev.
     labels:
       - cloud
       - typescript
