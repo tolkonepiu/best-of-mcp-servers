@@ -1478,6 +1478,17 @@ projects:
       - cloud
       - typescript
     category: developer-tools
+  - name: docker/hub-mcp
+    github_id: docker/hub-mcp
+    description: >-
+      Official MCP server to interact with Docker Hub, providing access to
+      repositories, hub search and Docker Hardened Images
+    labels:
+      - cloud
+      - local
+      - official
+      - typescript
+    category: developer-tools
   - name: gitkraken/gk-cli
     github_id: gitkraken/gk-cli
     description: >-
@@ -2130,6 +2141,14 @@ projects:
       - cloud
       - typescript
     category: finance-and-fintech
+  - name: narumiruna/yfinance-mcp
+    github_id: narumiruna/yfinance-mcp
+    description:
+      An MCP server that uses yfinance to obtain information from Yahoo Finance.
+    labels:
+      - cloud
+      - python
+    category: finance-and-fintech
   - name: OctagonAI/octagon-mcp-server
     github_id: OctagonAI/octagon-mcp-server
     description: Octagon AI Agents to integrate private and public market data
@@ -2303,6 +2322,21 @@ projects:
     labels:
       - local
       - python
+    category: knowledge-and-memory
+  - name: pi22by7/In-Memoria
+    github_id: pi22by7/In-Memoria
+    description: >-
+      Persistent intelligence infrastructure for agentic development that gives
+      AI coding assistants cumulative memory and pattern learning. Hybrid
+      TypeScript/Rust implementation with local-first storage using SQLite +
+      SurrealDB for semantic analysis and incremental codebase understanding.
+    labels:
+      - linux
+      - local
+      - macos
+      - rust
+      - typescript
+      - windows
     category: knowledge-and-memory
   - name: ragieai/ragie-mcp-server
     github_id: ragieai/ragie-mcp-server
