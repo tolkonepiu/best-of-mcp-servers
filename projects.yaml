@@ -720,6 +720,17 @@ projects:
       - local
       - python
     category: coding-agents
+  - name: jinzcdev/leetcode-mcp-server
+    github_id: jinzcdev/leetcode-mcp-server
+    description: >-
+      MCP server enabling automated access to LeetCode's programming problems,
+      solutions, submissions and public data with optional authentication for
+      user-specific features (e.g., notes), supporting both leetcode.com
+      (global) and leetcode.cn (China) sites.
+    labels:
+      - cloud
+      - typescript
+    category: coding-agents
   - name: juehang/vscode-mcp-server
     github_id: juehang/vscode-mcp-server
     description: >-
@@ -729,6 +740,18 @@ projects:
     labels:
       - local
       - typescript
+    category: coding-agents
+  - name: micl2e2/code-to-tree
+    github_id: micl2e2/code-to-tree
+    description: >-
+      A single-binary MCP server that converts source code into AST, regardless
+      of language.
+    labels:
+      - embedded
+      - linux
+      - local
+      - macos
+      - windows
     category: coding-agents
   - name: oraios/serena
     github_id: oraios/serena
@@ -1209,6 +1232,15 @@ projects:
       - cloud
       - python
     category: databases
+  - name: jparkerweb/mcp-sqlite
+    github_id: jparkerweb/mcp-sqlite
+    description: >-
+      Model Context Protocol (MCP) server that provides comprehensive SQLite
+      database interaction capabilities.
+    labels:
+      - local
+      - typescript
+    category: databases
   - name: kiliczsh/mcp-mongo-server
     github_id: kiliczsh/mcp-mongo-server
     description: A Model Context Protocol Server for MongoDB
@@ -1451,6 +1483,19 @@ projects:
       - cloud
       - local
       - typescript
+    category: developer-tools
+  - name: ckanthony/gin-mcp
+    github_id: ckanthony/gin-mcp
+    description: >-
+      A zero-configuration Go library to automatically expose existing Gin web
+      framework APIs as MCP tools.
+    labels:
+      - cloud
+      - embedded
+      - go
+      - linux
+      - macos
+      - windows
     category: developer-tools
   - name: ckreiling/mcp-server-docker
     github_id: ckreiling/mcp-server-docker
@@ -1762,6 +1807,14 @@ projects:
     labels:
       - go
       - local
+    category: developer-tools
+  - name: st3v3nmw/sourcerer-mcp
+    github_id: st3v3nmw/sourcerer-mcp
+    description:
+      MCP for semantic code search & navigation that reduces token waste
+    labels:
+      - cloud
+      - go
     category: developer-tools
   - name: stass/lldb-mcp
     github_id: stass/lldb-mcp
@@ -2211,6 +2264,16 @@ projects:
       - macos
       - windows
     category: gaming
+  - name: pab1it0/chess-mcp
+    github_id: pab1it0/chess-mcp
+    description: >-
+      Access Chess.com player data, game records, and other public information
+      through standardized MCP interfaces, allowing AI assistants to search and
+      analyze chess information.
+    labels:
+      - cloud
+      - python
+    category: gaming
   - name: rishijatia/fantasy-pl-mcp
     github_id: rishijatia/fantasy-pl-mcp
     description:
@@ -2385,6 +2448,15 @@ projects:
     description: >-
       MCP server acting as an interface to the Facebook Ads, enabling
       programmatic access to Facebook Ads data and management features.
+    labels:
+      - cloud
+      - python
+    category: marketing
+  - name: gomarble-ai/google-ads-mcp-server
+    github_id: gomarble-ai/google-ads-mcp-server
+    description: >-
+      MCP server acting as an interface to the Google Ads, enabling programmatic
+      access to Google Ads data and management features.
     labels:
       - cloud
       - python
@@ -2724,6 +2796,15 @@ projects:
       - local
       - python
     category: search-data-extraction
+  - name: OctagonAI/octagon-deep-research-mcp
+    github_id: OctagonAI/octagon-deep-research-mcp
+    description: Lightning-Fast, High-Accuracy Deep Research Agent
+    labels:
+      - cloud
+      - local
+      - official
+      - typescript
+    category: search-data-extraction
   - name: reading-plus-ai/mcp-server-deep-research
     github_id: reading-plus-ai/mcp-server-deep-research
     description: >-
@@ -2887,6 +2968,16 @@ projects:
       - local
       - python
     category: security
+  - name: roadwy/cve-search_mcp
+    github_id: roadwy/cve-search_mcp
+    description: >-
+      A Model Context Protocol (MCP) server for querying the CVE-Search API.
+      This server provides comprehensive access to CVE-Search, browse vendor and
+      product、get CVE per CVE-ID、get the last updated CVEs.
+    labels:
+      - local
+      - python
+    category: security
   - name: securityfortech/secops-mcp
     github_id: securityfortech/secops-mcp
     description: >-
@@ -3044,6 +3135,15 @@ projects:
     labels:
       - cloud
       - python
+    category: workplace-and-productivity
+  - name: takumi0706/google-calendar-mcp
+    github_id: takumi0706/google-calendar-mcp
+    description:
+      An MCP server to interface with the Google Calendar API. Based on
+      TypeScript.
+    labels:
+      - cloud
+      - typescript
     category: workplace-and-productivity
   - name: taylorwilsdon/google_workspace_mcp
     github_id: taylorwilsdon/google_workspace_mcp
@@ -3358,6 +3458,18 @@ projects:
     labels:
       - cloud
       - typescript
+    category: other-tools-and-integrations
+  - name: inkbytefo/ScreenMonitorMCP
+    github_id: inkbytefo/ScreenMonitorMCP
+    description: >-
+      Real-time screen analysis, context-aware recording, and UI monitoring MCP
+      server. Supports AI vision, event hooks, and multimodal agent workflows.
+    labels:
+      - linux
+      - local
+      - macos
+      - python
+      - windows
     category: other-tools-and-integrations
   - name: SecretiveShell/MCP-wolfram-alpha
     github_id: SecretiveShell/MCP-wolfram-alpha
