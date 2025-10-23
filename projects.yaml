@@ -329,6 +329,13 @@ projects:
       - typescript
       - windows
     category: art-and-culture
+  - name: cswkim/discogs-mcp-server
+    github_id: cswkim/discogs-mcp-server
+    description: MCP server to interact with the Discogs API
+    labels:
+      - cloud
+      - typescript
+    category: art-and-culture
   - name: diivi/aseprite-mcp
     github_id: diivi/aseprite-mcp
     description: MCP server using the Aseprite API to create pixel art
@@ -377,6 +384,30 @@ projects:
     labels:
       - cloud
       - python
+    category: bio
+  - name: wso2/fhir-mcp-server
+    github_id: wso2/fhir-mcp-server
+    description: >-
+      Model Context Protocol server for Fast Healthcare Interoperability
+      Resources (FHIR) APIs. Provides seamless integration with FHIR servers,
+      enabling AI assistants to search, retrieve, create, update, and analyze
+      clinical healthcare data with SMART-on-FHIR authentication support.
+    labels:
+      - cloud
+      - local
+      - python
+    category: bio
+  - name: the-momentum/apple-health-mcp-server
+    github_id: the-momentum/apple-health-mcp-server
+    description: >-
+      An MCP server that provides access to exported data from Apple Health.
+      Data analytics included.
+    labels:
+      - linux
+      - local
+      - macos
+      - python
+      - windows
     category: bio
   - name: 34892002/bilibili-mcp-js
     github_id: 34892002/bilibili-mcp-js
@@ -648,6 +679,17 @@ projects:
       - go
       - local
     category: cloud-platforms
+  - name: StacklokLabs/mkp
+    github_id: StacklokLabs/mkp
+    description: >-
+      MKP is a Model Context Protocol (MCP) server for Kubernetes that allows
+      LLM-powered applications to interact with Kubernetes clusters. It provides
+      tools for listing and applying Kubernetes resources through the MCP
+      protocol.
+    labels:
+      - cloud
+      - go
+    category: cloud-platforms
   - name: strowk/mcp-k8s-go
     github_id: strowk/mcp-k8s-go
     description: Kubernetes cluster operations through MCP
@@ -790,6 +832,17 @@ projects:
     labels:
       - local
       - python
+    category: coding-agents
+  - name: nesquikm/mcp-rubber-duck
+    github_id: nesquikm/mcp-rubber-duck
+    description: >-
+      An MCP server that bridges to multiple OpenAI-compatible LLMs - your AI
+      rubber duck debugging panel for explaining problems to various AI "ducks"
+      and getting different perspectives
+    labels:
+      - cloud
+      - local
+      - typescript
     category: coding-agents
   - name: aymericzip/intlayer
     github_id: aymericzip/intlayer
@@ -1332,6 +1385,26 @@ projects:
       - cloud
       - python
     category: databases
+  - name: Snowflake-Labs/mcp
+    github_id: Snowflake-Labs/mcp
+    description: >-
+      Open-source MCP server for Snowflake from official Snowflake-Labs supports
+      prompting Cortex Agents, querying structured & unstructured data, object
+      management, SQL execution, semantic view querying, and more. RBAC,
+      fine-grained CRUD controls, and all authentication methods supported.
+    labels:
+      - cloud
+      - python
+    category: databases
+  - name: subnetmarco/pgmcp
+    github_id: subnetmarco/pgmcp
+    description: >-
+      Natural language PostgreSQL queries with automatic streaming, read-only
+      safety, and universal database compatibility.
+    labels:
+      - go
+      - local
+    category: databases
   - name: supabase-community/supabase-mcp
     github_id: supabase-community/supabase-mcp
     description: >-
@@ -1458,6 +1531,18 @@ projects:
       - rust
       - typescript
     category: developer-tools
+  - name: augmnt/augments-mcp-server
+    github_id: augmnt/augments-mcp-server
+    description: >-
+      Transform Claude Code with intelligent, real-time access to 90+ framework
+      documentation sources. Get accurate, up-to-date code generation that
+      follows current best practices for React, Next.js, Laravel, FastAPI,
+      Tailwind CSS, and more.
+    labels:
+      - cloud
+      - local
+      - typescript
+    category: developer-tools
   - name: automation-ai-labs/mcp-link
     github_id: automation-ai-labs/mcp-link
     description:
@@ -1533,6 +1618,19 @@ projects:
       - local
       - official
       - typescript
+    category: developer-tools
+  - name: etsd-tech/mcp-pointer
+    github_id: etsd-tech/mcp-pointer
+    description: >-
+      Visual DOM element selector for agentic coding tools. Chrome extension +
+      MCP server bridge for Claude Code, Cursor, Windsurf etc. Option+Click to
+      capture elements.
+    labels:
+      - linux
+      - local
+      - macos
+      - typescript
+      - windows
     category: developer-tools
   - name: gitkraken/gk-cli
     github_id: gitkraken/gk-cli
@@ -1670,6 +1768,15 @@ projects:
       MCP server that gives AI assistants seamless access to shadcn/ui v4
       components, blocks, demos, and metadata.
     labels:
+      - local
+      - typescript
+    category: developer-tools
+  - name: kadykov/mcp-openapi-schema-explorer
+    github_id: kadykov/mcp-openapi-schema-explorer
+    description:
+      Token-efficient access to OpenAPI/Swagger specs via MCP Resources.
+    labels:
+      - cloud
       - local
       - typescript
     category: developer-tools
@@ -1827,6 +1934,14 @@ projects:
       - macos
       - python
     category: developer-tools
+  - name: storybookjs/mcp
+    github_id: storybookjs/mcp
+    description:
+      Help agents automatically write and test stories for your UI components.
+    labels:
+      - local
+      - typescript
+    category: developer-tools
   - name: TencentEdgeOne/edgeone-pages-mcp
     github_id: TencentEdgeOne/edgeone-pages-mcp
     description: >-
@@ -1867,6 +1982,13 @@ projects:
     description: Connect to VSCode ide and use semantic tools like find_usages
     labels:
       - typescript
+    category: developer-tools
+  - name: wise-vision/mcp_server_ros_2
+    github_id: wise-vision/mcp_server_ros_2
+    description:
+      MCP server for ROS2 enabling AI-driven robotics applications and services.
+    labels:
+      - python
     category: developer-tools
   - name: ShenghaiWang/xcodebuild
     github_id: ShenghaiWang/xcodebuild
@@ -2481,6 +2603,15 @@ projects:
       - local
       - python
     category: marketing
+  - name: stape-io/google-tag-manager-mcp-server
+    github_id: stape-io/google-tag-manager-mcp-server
+    description: >-
+      This server supports remote MCP connections, includes built-in Google
+      OAuth, and provide an interface to the Google Tag Manager API.
+    labels:
+      - cloud
+      - typescript
+    category: marketing
   - name: grafana/mcp-grafana
     github_id: grafana/mcp-grafana
     description: >-
@@ -2775,6 +2906,13 @@ projects:
       - cloud
       - typescript
     category: search-data-extraction
+  - name: brave/brave-search-mcp-server
+    github_id: brave/brave-search-mcp-server
+    description: Web search capabilities using Brave's Search API
+    labels:
+      - cloud
+      - typescript
+    category: search-data-extraction
   - name: mzxrai/mcp-webresearch
     github_id: mzxrai/mcp-webresearch
     description: Search Google and do deep web research on any topic
@@ -2813,6 +2951,16 @@ projects:
     labels:
       - cloud
       - typescript
+    category: search-data-extraction
+  - name: scrapeless-ai/scrapeless-mcp-server
+    github_id: scrapeless-ai/scrapeless-mcp-server
+    description: >-
+      The Scrapeless Model Context Protocol service acts as an MCP server
+      connector to the Google SERP API, enabling web search within the MCP
+      ecosystem without leaving it.
+    labels:
+      - cloud
+      - python
     category: search-data-extraction
   - name: SecretiveShell/MCP-searxng
     github_id: SecretiveShell/MCP-searxng
@@ -3016,6 +3164,25 @@ projects:
       - java
       - local
     category: security
+  - name: HagaiHen/facebook-mcp-server
+    github_id: HagaiHen/facebook-mcp-server
+    description: >-
+      Integrates with Facebook Pages to enable direct management of posts,
+      comments, and engagement metrics through the Graph API for streamlined
+      social media management.
+    labels:
+      - cloud
+      - python
+    category: social-media
+  - name: karanb192/reddit-mcp-buddy
+    github_id: karanb192/reddit-mcp-buddy
+    description: >-
+      Browse Reddit posts, search content, and analyze user activity without API
+      keys. Works out-of-the-box with Claude Desktop.
+    labels:
+      - local
+      - typescript
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
