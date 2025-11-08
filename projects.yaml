@@ -87,6 +87,11 @@ categories:
   - category: security
     title: Security
     subtitle: MCP servers for security analysis and vulnerability scanning
+  - category: social-media
+    title: Social Media
+    subtitle: >-
+      Integration with social media platforms to allow posting, analytics, and
+      interaction management
   - category: sports
     title: Sports
     subtitle: MCP servers for sports data and analytics
