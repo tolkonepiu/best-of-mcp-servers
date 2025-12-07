@@ -211,6 +211,34 @@ projects:
       - go
       - local
     category: aggregators
+  - name: juspay/neurolink
+    github_id: juspay/neurolink
+    description: >-
+      Making enterprise AI infrastructure universally accessible. Edge-first
+      platform unifying 12 providers and 100+ models with multi-agent
+      orchestration, HITL workflows, guardrails middleware, and context
+      summarization.
+    labels:
+      - cloud
+      - linux
+      - local
+      - macos
+      - typescript
+      - windows
+    category: aggregators
+  - name: K-Dense-AI/claude-skills-mcp
+    github_id: K-Dense-AI/claude-skills-mcp
+    description: >-
+      Intelligent search capabilities to let every model and client use Claude
+      Agent Skills like native.
+    labels:
+      - cloud
+      - linux
+      - local
+      - macos
+      - python
+      - windows
+    category: aggregators
   - name: metatool-ai/metamcp
     github_id: metatool-ai/metamcp
     description: >-
@@ -347,6 +375,14 @@ projects:
     labels:
       - local
       - python
+    category: art-and-culture
+  - name: djalal/quran-mcp-server
+    github_id: djalal/quran-mcp-server
+    description:
+      MCP server to interact with Quran.com corpus via the official REST API v4.
+    labels:
+      - cloud
+      - typescript
     category: art-and-culture
   - name: omni-mcp/isaac-sim-mcp
     github_id: omni-mcp/isaac-sim-mcp
@@ -760,6 +796,18 @@ projects:
       - macos
       - windows
     category: code-execution
+  - name: Shashankss1205/CodeGraphContext
+    github_id: Shashankss1205/CodeGraphContext
+    description: >-
+      An MCP server that indexes local code into a graph database to provide
+      context to AI assistants with a graphical code visualizations for humans.
+    labels:
+      - linux
+      - local
+      - macos
+      - python
+      - windows
+    category: coding-agents
   - name: ezyang/codemcp
     github_id: ezyang/codemcp
     description: Coding agent with basic read, write and command line tools.
@@ -808,6 +856,18 @@ projects:
     labels:
       - local
       - python
+    category: coding-agents
+  - name: pdavis68/RepoMapper
+    github_id: pdavis68/RepoMapper
+    description: >-
+      An MCP server (and command-line tool) to provide a dynamic map of
+      chat-related files from the repository with their function prototypes and
+      related files in order of relevance. Based on the "Repo Map" functionality
+      in Aider.chat
+    labels:
+      - linux
+      - macos
+      - windows
     category: coding-agents
   - name: rinadelph/Agent-MCP
     github_id: rinadelph/Agent-MCP
@@ -1341,6 +1401,13 @@ projects:
       - cloud
       - typescript
     category: databases
+  - name: pab1it0/adx-mcp-server
+    github_id: pab1it0/adx-mcp-server
+    description: Query and analyze Azure Data Explorer databases
+    labels:
+      - cloud
+      - python
+    category: databases
   - name: pab1it0/prometheus-mcp-server
     github_id: pab1it0/prometheus-mcp-server
     description: Query and analyze Prometheus, open-source monitoring system.
@@ -1362,6 +1429,17 @@ projects:
     labels:
       - local
       - typescript
+    category: databases
+  - name: rashidazarang/airtable-mcp
+    github_id: rashidazarang/airtable-mcp
+    description: >-
+      Connect AI tools directly to Airtable. Query, create, update, and delete
+      records using natural language. Features include base management, table
+      operations, schema manipulation, record filtering, and data migration
+      through a standardized MCP interface.
+    labels:
+      - cloud
+      - python
     category: databases
   - name: redis/mcp-redis
     github_id: redis/mcp-redis
@@ -1460,6 +1538,19 @@ projects:
       - local
       - python
     category: databases
+  - name: wenb1n-dev/SmartDB_MCP
+    github_id: wenb1n-dev/SmartDB_MCP
+    description: >-
+      A universal database MCP server supporting simultaneous connections to
+      multiple databases. It provides tools for database operations, health
+      analysis, SQL optimization, and more. Compatible with mainstream databases
+      including MySQL, PostgreSQL, SQL Server, MariaDB, Dameng, and Oracle.
+      Supports Streamable HTTP, SSE, and STDIO; integrates OAuth 2.0; and is
+      designed for easy customization and extension by developers.
+    labels:
+      - local
+      - python
+    category: databases
   - name: XGenerationLab/xiyan_mcp_server
     github_id: XGenerationLab/xiyan_mcp_server
     description: >-
@@ -1523,6 +1614,16 @@ projects:
       repositories, pull requests, workspaces, and code in real time.
     labels:
       - cloud
+      - typescript
+    category: developer-tools
+  - name: abrinsmead/mindpilot-mcp
+    github_id: abrinsmead/mindpilot-mcp
+    description: >-
+      Visualizes code, architecture and other concepts as mermaid diagrams in a
+      locally hosted web app. Just ask your agent to "show me this in a
+      diagram".
+    labels:
+      - local
       - typescript
     category: developer-tools
   - name: admica/FileScopeMCP
@@ -1624,6 +1725,17 @@ projects:
       - official
       - typescript
     category: developer-tools
+  - name: eyaltoledano/claude-task-master
+    github_id: eyaltoledano/claude-task-master
+    description: >-
+      AI-powered task management system for AI-driven development. Features PRD
+      parsing, task expansion, multi-provider support (Claude, OpenAI, Gemini,
+      Perplexity, xAI), and selective tool loading for optimized context usage.
+    labels:
+      - cloud
+      - local
+      - typescript
+    category: developer-tools
   - name: etsd-tech/mcp-pointer
     github_id: etsd-tech/mcp-pointer
     description: >-
@@ -1661,6 +1773,16 @@ projects:
       - local
       - typescript
     category: developer-tools
+  - name: mhmzdev/figma-flutter-mcp
+    github_id: mhmzdev/figma-flutter-mcp
+    description: >-
+      Provide coding agents direct access to Figma data to help them write
+      Flutter code for building apps including assets exports, widgets
+      maintenance and full screens implementations.
+    labels:
+      - local
+      - typescript
+    category: developer-tools
   - name: Govcraft/rust-docs-mcp-server
     github_id: Govcraft/rust-docs-mcp-server
     description: >-
@@ -1679,6 +1801,15 @@ projects:
     labels:
       - local
       - python
+    category: developer-tools
+  - name: hloiseau/mcp-gopls
+    github_id: hloiseau/mcp-gopls
+    description: >-
+      A MCP server for interacting with Go's Language Server Protocol (gopls)
+      and benefit from advanced Go code analysis features.
+    labels:
+      - go
+      - local
     category: developer-tools
   - name: hyperb1iss/droidmind
     github_id: hyperb1iss/droidmind
@@ -1816,6 +1947,17 @@ projects:
       - python
       - windows
     category: developer-tools
+  - name: lpigeon/unitree-go2-mcp-server
+    github_id: lpigeon/unitree-go2-mcp-server
+    description: >-
+      The Unitree Go2 MCP Server is a server built on the MCP that enables users
+      to control the Unitree Go2 robot using natural language commands
+      interpreted by a LLM.
+    labels:
+      - linux
+      - local
+      - python
+    category: developer-tools
   - name: mobile-next/mobile-mcp
     github_id: mobile-next/mobile-mcp
     description: >-
@@ -1856,6 +1998,26 @@ projects:
       This MCP server provides a tool to download entire websites using wget. It
       preserves the website structure and converts links to work locally.
     labels: []
+    category: developer-tools
+  - name: public-ui/kolibri
+    github_id: public-ui/kolibri
+    description: >-
+      Streaming KoliBri MCP server (NPM: @public-ui/mcp) delivering 200+
+      guaranteed accessible web component samples, specs, docs, and scenarios
+      via hosted HTTP endpoint or local kolibri-mcp CLI.
+    labels:
+      - cloud
+      - local
+      - typescript
+    category: developer-tools
+  - name: traceloop/opentelemetry-mcp-server
+    github_id: traceloop/opentelemetry-mcp-server
+    description: >-
+      An MCP server for connecting to any OpenTelemetry backend (Datadog,
+      Grafana, Dynatrace, Traceloop, etc.).
+    labels:
+      - local
+      - python
     category: developer-tools
   - name: QuantGeekDev/docker-mcp
     github_id: QuantGeekDev/docker-mcp
@@ -2345,6 +2507,17 @@ projects:
       - cloud
       - python
     category: finance-and-fintech
+  - name: QuantConnect/mcp-server
+    github_id: QuantConnect/mcp-server
+    description: >-
+      A Dockerized Python MCP server that bridges your local AI (e.g., Claude
+      Desktop, etc) with the QuantConnect API—empowering you to create projects,
+      backtest strategies, manage collaborators, and deploy live-trading
+      workflows directly via natural-language prompts.
+    labels:
+      - cloud
+      - python
+    category: finance-and-fintech
   - name: QuantGeekDev/coincap-mcp
     github_id: QuantGeekDev/coincap-mcp
     description: >-
@@ -2391,6 +2564,16 @@ projects:
       - macos
       - windows
     category: gaming
+  - name: opgginc/opgg-mcp
+    github_id: opgginc/opgg-mcp
+    description: >-
+      Access real-time gaming data across popular titles like League of Legends,
+      TFT, and Valorant, offering champion analytics, esports schedules, meta
+      compositions, and character statistics.
+    labels:
+      - cloud
+      - typescript
+    category: gaming
   - name: pab1it0/chess-mcp
     github_id: pab1it0/chess-mcp
     description: >-
@@ -2428,6 +2611,21 @@ projects:
       - cloud
       - local
       - python
+    category: knowledge-and-memory
+  - name: bitbonsai/mcp-obsidian
+    github_id: bitbonsai/mcp-obsidian
+    description: >-
+      Universal AI bridge for Obsidian vaults using MCP. Provides safe
+      read/write access to notes with 11 comprehensive methods for vault
+      operations including search, batch operations, tag management, and
+      frontmatter handling. Works with Claude, ChatGPT, and any MCP-compatible
+      AI assistant.
+    labels:
+      - linux
+      - local
+      - macos
+      - typescript
+      - windows
     category: knowledge-and-memory
   - name: chatmcp/mcp-server-chatsum
     github_id: chatmcp/mcp-server-chatsum
@@ -2536,6 +2734,21 @@ projects:
     labels:
       - cloud
       - typescript
+    category: knowledge-and-memory
+  - name: redleaves/context-keeper
+    github_id: redleaves/context-keeper
+    description: >-
+      LLM-driven context and memory management with wide-recall +
+      precise-reranking RAG architecture. Features multi-dimensional retrieval
+      (vector/timeline/knowledge graph), short/long-term memory, and complete
+      MCP support (HTTP/WebSocket/SSE).
+    labels:
+      - cloud
+      - go
+      - linux
+      - local
+      - macos
+      - windows
     category: knowledge-and-memory
   - name: upstash/context7
     github_id: upstash/context7
@@ -3121,6 +3334,17 @@ projects:
       - local
       - python
     category: security
+  - name: radareorg/radare2-mcp
+    github_id: radareorg/radare2-mcp
+    description: >-
+      MCP server for Radare2 disassembler. Provides AI with capability to
+      disassemble and look into binaries for reverse engineering.
+    labels:
+      - linux
+      - local
+      - macos
+      - windows
+    category: security
   - name: roadwy/cve-search_mcp
     github_id: roadwy/cve-search_mcp
     description: >-
@@ -3380,6 +3604,13 @@ projects:
       - cloud
       - typescript
     category: other-tools-and-integrations
+  - name: awkoy/replicate-flux-mcp
+    github_id: awkoy/replicate-flux-mcp
+    description: Provides the ability to generate images via Replicate's API.
+    labels:
+      - cloud
+      - typescript
+    category: other-tools-and-integrations
   - name: Azure/azure-mcp
     github_id: Azure/azure-mcp
     description: >-
@@ -3548,6 +3779,16 @@ projects:
       - official
       - rust
     category: other-tools-and-integrations
+  - name: metorial/metorial
+    github_id: metorial/metorial
+    description: >-
+      Connect AI agents to 600+ integrations with a single interface - OAuth,
+      scaling, and monitoring included
+    labels:
+      - cloud
+      - official
+      - typescript
+    category: other-tools-and-integrations
   - name: mrjoshuak/godoc-mcp
     github_id: mrjoshuak/godoc-mcp
     description: >-
@@ -3708,6 +3949,20 @@ projects:
     labels:
       - local
       - typescript
+    category: other-tools-and-integrations
+  - name: thingsboard/thingsboard-mcp
+    github_id: thingsboard/thingsboard-mcp
+    description: >-
+      The ThingsBoard MCP Server provides a natural language interface for LLMs
+      and AI agents to interact with your ThingsBoard IoT platform.
+    labels:
+      - cloud
+      - java
+      - linux
+      - local
+      - macos
+      - official
+      - windows
     category: other-tools-and-integrations
   - name: ttommyth/interactive-mcp
     github_id: ttommyth/interactive-mcp
