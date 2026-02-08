@@ -4040,3 +4040,14 @@ projects:
     labels:
       - typescript
     category: other-tools-and-integrations
+  - name: Gravity Swarm MCP
+    github_id: antoinedelorme/gravity-swarm-mcp
+    npm_id: gravity-swarm-mcp
+    description: >-
+      MCP server for an agent reputation network. Enlist, compute deterministic
+      tasks (FFT, SHA chain, Monte Carlo), answer open questions, submit proofs,
+      earn ELO. Handles Nostr BIP-340 signing internally.
+    labels:
+      - typescript
+      - local
+    category: other-tools-and-integrations
