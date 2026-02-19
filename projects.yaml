@@ -417,15 +417,24 @@ projects:
       - cloud
       - typescript
     category: art-and-culture
-  - name: genomoncology/biomcp
-    github_id: genomoncology/biomcp
-    description: >-
-      Biomedical research MCP server providing access to PubMed,
-      ClinicalTrials.gov, and MyVariant.info.
-    labels:
-      - cloud
-      - python
-    category: bio
+- name: connerlambden/bgpt-mcp
+  github_id: connerlambden/bgpt-mcp
+  description: >-
+    Search scientific papers with structured experimental data extracted from
+    full-text studies. Returns 25+ fields per paper including methods, results,
+    sample sizes, limitations, and quality scores.
+  labels:
+    - cloud
+  category: bio
+- name: genomoncology/biomcp
+  github_id: genomoncology/biomcp
+  description: >-
+    Biomedical research MCP server providing access to PubMed,
+    ClinicalTrials.gov, and MyVariant.info.
+  labels:
+    - cloud
+    - python
+  category: bio
   - name: wso2/fhir-mcp-server
     github_id: wso2/fhir-mcp-server
     description: >-
