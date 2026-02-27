@@ -1114,6 +1114,16 @@ projects:
       - local
       - typescript
     category: communication
+  - name: commune-sh/commune-mcp
+    github_id: commune-sh/commune-mcp
+    description: >-
+      Email infrastructure for AI agents — provision inboxes, send and receive
+      email, manage threads across concurrent conversations, custom domains,
+      structured extraction on inbound mail, and SMS.
+    labels:
+      - cloud
+      - python
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
