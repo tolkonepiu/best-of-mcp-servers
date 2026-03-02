@@ -4051,3 +4051,8 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+
+- name: OpenClaw MCP Ecosystem
+  github_id: yedanyagamiai-cmd/openclaw-mcp-servers
+  category: Utility
+  description: 9 remote MCP servers on Cloudflare Workers - JSON, regex, colors, timestamps, prompts, AI intel, fortune, publishing, AI comparison
