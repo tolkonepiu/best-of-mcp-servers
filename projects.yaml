@@ -180,6 +180,16 @@ labels:
       For Linux
 
 projects:
+  - name: heeyo-life/skillboss-mcp
+    github_id: heeyo-life/skillboss-mcp
+    description: >-
+      Unified MCP server providing access to 100+ AI services including Claude,
+      GPT, Gemini, DALL-E, Midjourney, Flux, Runway, Kling, and ElevenLabs
+      through a single OpenAI-compatible API.
+    labels:
+      - cloud
+      - typescript
+    category: aggregators
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
