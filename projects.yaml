@@ -4051,3 +4051,13 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: LastSaaS
+    github_id: jonradoff/lastsaas
+    description: >-
+      MCP server for SaaS administration. Manage users, subscriptions, billing
+      (Stripe), system logs, and multi-tenant operations through natural
+      language. Built with Go and React.
+    labels:
+      - go
+      - cloud
+    category: developer-tools
