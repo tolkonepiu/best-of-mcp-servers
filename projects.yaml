@@ -4051,3 +4051,14 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: human-pages-ai/humanpages
+    github_id: human-pages-ai/humanpages
+    npm_id: humanpages
+    description: >-
+      Search for and hire humans for real-world tasks. 31 tools for AI agents
+      to browse profiles by skill/location, post jobs, message workers, and
+      handle streaming payments via humanpages.ai.
+    labels:
+      - cloud
+      - typescript
+    category: workplace-and-productivity
