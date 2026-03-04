@@ -2821,6 +2821,17 @@ projects:
       - cloud
       - python
     category: marketing
+  - name: nicofains1/agentic-ads
+    github_id: nicofains1/agentic-ads
+    npm_id: agentic-ads
+    description: >-
+      Ad network for AI agents. MCP servers embed a search_ads() call to surface
+      sponsored recommendations alongside organic results, earning affiliate
+      commissions paid in USDC on Base. Publishers earn 70% of ad revenue.
+    labels:
+      - cloud
+      - typescript
+    category: marketing
   - name: open-strategy-partners/osp_marketing_tools
     github_id: open-strategy-partners/osp_marketing_tools
     description: >-
