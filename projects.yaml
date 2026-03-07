@@ -2613,6 +2613,17 @@ projects:
       - cloud
       - python
     category: gaming
+  - name: tumourlove/monolith
+    github_id: tumourlove/monolith
+    description: >-
+      Unreal Engine 5.7 editor plugin that gives AI assistants full read/write
+      access to Blueprints, Materials, Animation, Niagara, Config, Editor,
+      Project Index, and Engine Source via MCP. 119 actions across 9 domains.
+      Pure C++, embedded Streamable HTTP server, no Python bridges.
+    labels:
+      - local
+      - cpp
+    category: gaming
   - name: 0xshellming/mcp-summarizer
     github_id: 0xshellming/mcp-summarizer
     description: >-
