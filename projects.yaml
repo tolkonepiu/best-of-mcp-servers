@@ -2731,6 +2731,18 @@ projects:
       - local
       - python
     category: knowledge-and-memory
+  - name: omega-memory/omega-memory
+    github_id: omega-memory/omega-memory
+    description: >-
+      Local-first persistent memory for AI coding agents. SQLite storage with
+      ONNX-powered semantic search, auto-decay, and cross-session context.
+      Works with Claude Code, Cursor, Windsurf, and any MCP-compatible client.
+    labels:
+      - local
+      - macos
+      - linux
+      - python
+    category: knowledge-and-memory
   - name: pi22by7/In-Memoria
     github_id: pi22by7/In-Memoria
     description: >-
