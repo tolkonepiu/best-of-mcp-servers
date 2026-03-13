@@ -4051,3 +4051,8 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+
+  - name: codebase-memory-mcp
+    github_id: DeusData/codebase-memory-mcp
+    category: developer-tools
+    description: "MCP server that indexes codebases into a persistent knowledge graph using tree-sitter. 35 languages, sub-ms queries, 120x fewer tokens. Single Go binary with call graph, cross-service HTTP linking, dead code detection, Cypher queries, and auto-sync."
