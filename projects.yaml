@@ -1114,6 +1114,16 @@ projects:
       - local
       - typescript
     category: communication
+  - name: shanjairaj7/commune-mcp
+    github_id: shanjairaj7/commune-mcp
+    description: >-
+      Email infrastructure for AI agents — provision inboxes, send and receive
+      email, manage threads across concurrent conversations, custom domains,
+      structured extraction on inbound mail, and SMS.
+    labels:
+      - cloud
+      - python
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
