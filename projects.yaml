@@ -226,6 +226,17 @@ projects:
       - typescript
       - windows
     category: aggregators
+  - name: microsoft/mcp-gateway
+    github_id: microsoft/mcp-gateway
+    description: >-
+      A reverse proxy and management layer for MCP servers, enabling scalable,
+      session-aware routing and lifecycle management in Kubernetes environments.
+    labels:
+      - official
+      - cloud
+      - csharp
+      - local
+    category: aggregators
   - name: K-Dense-AI/claude-skills-mcp
     github_id: K-Dense-AI/claude-skills-mcp
     description: >-
