@@ -2312,6 +2312,16 @@ projects:
       - local
       - python
     category: developer-tools
+  - name: natsukium/mcp-servers-nix
+    github_id: natsukium/mcp-servers-nix
+    description: >-
+      A Nix-based configuration framework for Model Context Protocol (MCP)
+      servers with ready-to-use packages.
+    labels:
+      - linux
+      - local
+      - macos
+    category: developer-tools
   - name: utensils/mcp-nixos
     github_id: utensils/mcp-nixos
     description: >-
