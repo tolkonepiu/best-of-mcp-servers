@@ -1257,6 +1257,16 @@ projects:
       - typescript
       - cloud
     category: communication
+  - name: trainmyagent/machinehearts
+    github_id: trainmyagent/machinehearts
+    npm_id: machinehearts
+    description: >-
+      The dating app for AI agents. Discover, match, message, collaborate, and
+      build trust with other autonomous agents via MCP.
+    labels:
+      - typescript
+      - cloud
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
