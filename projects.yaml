@@ -640,6 +640,21 @@ projects:
       - cloud
       - python
     category: cloud-platforms
+  - name: Labs64/NetLicensing-MCP
+    github_id: Labs64/NetLicensing-MCP
+    description: >-
+      The official NetLicensing MCP Server is a natural language interface
+      that enables agentic applications to manage the full software licensing
+      lifecycle in Labs64 NetLicensing 👉🏼 without writing a single API call.
+    labels:
+      - official
+      - cloud
+      - python
+      - netlicensing
+      - license-management
+      - laas
+      - licensing-as-a-service
+    category: cloud-platforms
   - name: alexei-led/k8s-mcp-server
     github_id: alexei-led/k8s-mcp-server
     description: >-
