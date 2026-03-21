@@ -348,6 +348,18 @@ projects:
       - cloud
       - local
     category: aggregators
+  - name: pumanitro/global-chat
+    github_id: pumanitro/global-chat
+    npm_id: "@global-chat/mcp-server"
+    description: >-
+      Cross-protocol AI agent discovery platform. MCP server providing
+      searchable directory of 18K+ servers across 6+ registries, with a free
+      agents.txt validator.
+    labels:
+      - typescript
+      - cloud
+      - local
+    category: aggregators
   - name: TheLunarCompany/lunar
     github_id: TheLunarCompany/lunar
     description: >-
