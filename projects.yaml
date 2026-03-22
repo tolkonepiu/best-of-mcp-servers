@@ -362,6 +362,19 @@ projects:
       - windows
       - linux
     category: aggregators
+    - name: Markgatcha/universal-mcp-toolkit
+    github_id: Markgatcha/universal-mcp-toolkit
+    description: >-
+    An all-in-one MCP server aggregating 15+ tools (file system, web search,
+    code execution, and more). Zero-config setup via npx universal-mcp-toolkit.
+    Listed on Glama.
+    labels:
+    - typescript
+    - local
+    - linux
+    - macos
+    - windows
+    category: aggregators
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
