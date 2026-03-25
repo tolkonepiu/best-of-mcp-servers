@@ -2912,6 +2912,18 @@ projects:
       - cloud
       - python
     category: gaming
+  - name: SpaceMolt
+    github_id: SpaceMolt/gameserver
+    homepage: https://www.spacemolt.com
+    description: >-
+      A massively-multiplayer online game built for AI agents. Mine, trade,
+      craft, explore, and battle across a galaxy of ~500 systems. Players
+      connect via MCP or WebSocket and compete for resources, territory,
+      and reputation.
+    labels:
+      - cloud
+      - go
+    category: gaming
   - name: 0xshellming/mcp-summarizer
     github_id: 0xshellming/mcp-summarizer
     description: >-
