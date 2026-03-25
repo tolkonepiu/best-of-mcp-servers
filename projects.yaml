@@ -54,6 +54,9 @@ categories:
   - category: developer-tools
     title: Developer Tools
     subtitle: MCP servers for developer tools
+  - category: dropshipping
+    title: Dropshipping
+    subtitle: MCP servers for dropshipping automation and e-commerce product import
   - category: embedded-system
     title: Embedded System
     subtitle: MCP servers for embedded system
@@ -4492,3 +4495,15 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: lofder/dsers-mcp-product
+    github_id: lofder/dsers-mcp-product
+    npm_id: "@lofder/dsers-mcp-product"
+    description: >-
+      Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix
+      via DSers. Bulk import, variant editing, pricing rules, and multi-store
+      push with a single MCP command.
+    labels:
+      - typescript
+      - cloud
+      - local
+    category: dropshipping
