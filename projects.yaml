@@ -180,7 +180,7 @@ labels:
       For Linux
 
 projects:
-  - name: 1mcp-app/agent
+  - name: Markgatcha/universal-mcp-toolkit   github_id: Markgatcha/universal-mcp-toolkit   description: >-     All-in-one MCP toolkit that bundles 15+ servers into a single package — filesystem,     browser automation, GitHub, weather, web search, and more. Zero config needed: just     run `npx universal-mcp-toolkit` and everything's set up instantly. Listed on Glama.   labels:     - cloud     - linux     - local     - macos     - typescript     - windows   category: aggregators - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
       A unified Model Context Protocol server implementation that aggregates
