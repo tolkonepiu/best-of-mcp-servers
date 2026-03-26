@@ -3329,6 +3329,17 @@ projects:
       - cloud
       - python
     category: search-data-extraction
+  - name: keptlive/contextwire-mcp
+    github_id: keptlive/contextwire-mcp
+    homepage: https://contextwire.dev
+    description: >-
+      Free search API for AI agents with 105 engines, 22 profiles, remote MCP
+      server, and 94.3% SimpleQA accuracy. Tools: ask, search, extract,
+      research, batch_search.
+    labels:
+      - cloud
+      - typescript
+    category: search-data-extraction
   - name: ChanMeng666/server-google-news
     github_id: ChanMeng666/server-google-news
     description: >-
