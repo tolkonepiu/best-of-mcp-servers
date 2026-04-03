@@ -4492,3 +4492,15 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: n3m1/solematica-mcp
+    github_id: n3m1/solematica-mcp
+    npm_id: '@solematica/mcp-server'
+    description: >-
+      Solar estimates, provider comparison, energy prices and blog for Italy.
+      6 MCP tools for the Italian solar energy market using Google Solar API and PVGIS.
+    labels:
+      - node
+      - solar
+      - energy
+      - italy
+    category: other-tools-and-integrations
