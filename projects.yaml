@@ -4492,3 +4492,14 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: COSAI-Labs/toolpipe-mcp-server
+    github_id: COSAI-Labs/make-money-30day-challenge
+    npm_id: "@cosai-labs/toolpipe-mcp-server"
+    description: >-
+      120+ developer utility tools for AI agents. Code review, JSON/XML/YAML conversion,
+      QR codes, hashing, DNS lookup, SSL checker, Docker Compose generator, and more.
+    labels:
+      - typescript
+      - cloud
+      - local
+    category: other-tools-and-integrations
