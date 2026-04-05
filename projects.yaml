@@ -3617,6 +3617,17 @@ projects:
       - windows
       - linux
     category: search-data-extraction
+  - name: Stewyboy1990/companyscope-mcp
+    github_id: Stewyboy1990/companyscope-mcp
+    description: >-
+      Company intelligence MCP server that returns a full company profile from a
+      single tool call. Aggregates data from 8 free public sources including
+      Wikipedia, GitHub, SEC EDGAR, RDAP, and web scraping. No API keys required.
+      Available as both a remote MCP server and an Apify Actor.
+    labels:
+      - typescript
+      - cloud
+    category: search-data-extraction
   - name: mariocandela/beelzebub
     github_id: mariocandela/beelzebub
     description: >-
