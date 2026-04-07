@@ -504,13 +504,13 @@ projects:
     labels:
       - local
       - typescript
-    category: browser-automation
+    category: 
   - name: Automata-Labs-team/MCP-Server-Playwright
     github_id: Automata-Labs-team/MCP-Server-Playwright
     description: An MCP server for browser automation using Playwright
     labels:
       - python
-    category: browser-automation
+    category: 
   - name: blackwhite084/playwright-plus-python-mcp
     github_id: blackwhite084/playwright-plus-python-mcp
     description: >-
@@ -518,7 +518,7 @@ projects:
       for llm
     labels:
       - python
-    category: browser-automation
+    category: 
   - name: browserbase/mcp-server-browserbase
     github_id: browserbase/mcp-server-browserbase
     description: >-
@@ -628,6 +628,18 @@ projects:
       remote browser connection.
     labels:
       - typescript
+      - local
+    category: browser-automation
+  - name: Skyvern-AI/skyvern                                                
+    github_id: Skyvern-AI/skyvern              
+    description: >-
+      Automates browser-based workflows using LLMs and computer 
+      vision — navigate pages, fill forms, extract data, handle authentication, 
+      and automate any website via natural language                            
+    labels:                                                                 
+      - python                                                            
+      - typescript                                                        
+      - cloud
       - local
     category: browser-automation
   - name: alexei-led/aws-mcp-server
