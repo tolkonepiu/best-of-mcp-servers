@@ -504,13 +504,13 @@ projects:
     labels:
       - local
       - typescript
-    category: 
+    category: browser-automation
   - name: Automata-Labs-team/MCP-Server-Playwright
     github_id: Automata-Labs-team/MCP-Server-Playwright
     description: An MCP server for browser automation using Playwright
     labels:
       - python
-    category: 
+    category: browser-automation
   - name: blackwhite084/playwright-plus-python-mcp
     github_id: blackwhite084/playwright-plus-python-mcp
     description: >-
@@ -518,7 +518,7 @@ projects:
       for llm
     labels:
       - python
-    category: 
+    category: browser-automation
   - name: browserbase/mcp-server-browserbase
     github_id: browserbase/mcp-server-browserbase
     description: >-
