@@ -505,6 +505,15 @@ projects:
       - local
       - typescript
     category: browser-automation
+  - name: achiya-automation/safari-mcp
+    github_id: achiya-automation/safari-mcp
+    description: >-
+      Native Safari browser automation for AI agents via AppleScript — 80 tools,
+      zero overhead, keeps logins, runs silently in background. macOS only.
+    labels:
+      - local
+      - typescript
+    category: browser-automation
   - name: Automata-Labs-team/MCP-Server-Playwright
     github_id: Automata-Labs-team/MCP-Server-Playwright
     description: An MCP server for browser automation using Playwright
