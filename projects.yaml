@@ -3835,6 +3835,15 @@ projects:
       - local
       - typescript
     category: social-media
+  - name: usamaejaz/socialbu-mcp
+    github_id: usamaejaz/socialbu-mcp
+    description: >-
+      MCP server for SocialBu that lets AI assistants manage social media posts,
+      scheduling, analytics, automations, and connected accounts from chat.
+    labels:
+      - cloud
+      - typescript
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
