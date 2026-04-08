@@ -2932,6 +2932,23 @@ projects:
     labels:
       - cloud
     category: knowledge-and-memory
+  - name: alphaonedev/ai-memory-mcp
+    github_id: alphaonedev/ai-memory-mcp
+    description: >-
+      AI-agnostic persistent memory system with zero token cost until recall.
+      MCP server (17 tools), HTTP API (20 endpoints), and CLI (25 commands).
+      Hybrid recall with FTS5 keyword + semantic embedding search, TOON compact
+      format (79% smaller than JSON), 4 feature tiers (keyword to autonomous
+      with local LLMs via Ollama). Works with Claude, ChatGPT, Grok, Cursor,
+      Windsurf, Continue.dev, and any MCP client. 97.8% R@5 on ICLR 2025
+      LongMemEval benchmark.
+    labels:
+      - linux
+      - local
+      - macos
+      - rust
+      - windows
+    category: knowledge-and-memory
   - name: apecloud/ApeRAG
     github_id: apecloud/ApeRAG
     description: >-
