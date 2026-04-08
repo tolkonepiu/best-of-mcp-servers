@@ -2481,6 +2481,17 @@ projects:
       - typescript
       - local
     category: developer-tools
+  - name: useful-ai/useful-ai-mcp
+    github_id: useful-ai/useful-ai-mcp
+    homepage: https://api.usefulai.fun
+    description: >-
+      A shared MCP server providing 30+ utility tools for AI agents: unit
+      conversion, text processing, data parsing, formatting, math, and more.
+      No authentication required.
+    labels:
+      - cloud
+      - python
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
