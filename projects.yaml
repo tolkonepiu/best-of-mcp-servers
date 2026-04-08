@@ -2684,6 +2684,17 @@ projects:
       - cloud
       - python
     category: finance-and-fintech
+  - name: grahammccain/chart-library-mcp
+    github_id: grahammccain/chart-library-mcp
+    pypi_id: chartlibrary-mcp
+    description: >-
+      Historical chart pattern search engine for AI agents. 24M+ embeddings,
+      15K+ symbols, 10 years of data. Search by ticker+date, get similar
+      historical patterns with forward returns and market intelligence.
+    labels:
+      - cloud
+      - python
+    category: finance-and-fintech
   - name: Bankless/onchain-mcp
     github_id: Bankless/onchain-mcp
     description: >-
