@@ -630,6 +630,18 @@ projects:
       - typescript
       - local
     category: browser-automation
+  - name: Skyvern-AI/skyvern                                                
+    github_id: Skyvern-AI/skyvern              
+    description: >-
+      Automates browser-based workflows using LLMs and computer 
+      vision — navigate pages, fill forms, extract data, handle authentication, 
+      and automate any website via natural language                            
+    labels:                                                                 
+      - python                                                            
+      - typescript                                                        
+      - cloud
+      - local
+    category: browser-automation
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
     description: >-
