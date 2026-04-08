@@ -3586,6 +3586,18 @@ projects:
       - cloud
       - typescript
     category: search-data-extraction
+  - name: Stewyboy1990/companyscope-mcp
+    github_id: Stewyboy1990/companyscope-mcp
+    npm_id: companyscope-mcp
+    description: >-
+      Company intelligence MCP server aggregating 12 free public sources
+      (Wikipedia, SEC EDGAR, OpenCorporates, USPTO patents, GitHub, Brave
+      Search, DNS, RDAP, web scraping). Full company profile in one tool call.
+    labels:
+      - cloud
+      - local
+      - typescript
+    category: search-data-extraction
   - name: vectorize-io/vectorize-mcp-server
     github_id: vectorize-io/vectorize-mcp-server
     description: >-
