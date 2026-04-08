@@ -193,6 +193,19 @@ projects:
       - typescript
       - windows
     category: aggregators
+  - name: DunkelCloud/ToolMesh
+    github_id: DunkelCloud/ToolMesh
+    description: >-
+      Self-hosted MCP gateway with authorization (OpenFGA), credential injection,
+      audit logging, and output policies. REST APIs are declared in YAML via DADL
+      and exposed as MCP tools without custom server code.
+    labels:
+      - go
+      - cloud
+      - linux
+      - macos
+      - windows
+    category: aggregators
   - name: mcpjungle/MCPJungle
     github_id: mcpjungle/MCPJungle
     description: Self-hosted MCP Server registry for enterprise AI Agents
