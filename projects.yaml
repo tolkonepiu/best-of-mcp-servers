@@ -1794,6 +1794,17 @@ projects:
       - official
       - python
     category: data-platforms
+  - name: meacheal-ai/mrc-data
+    github_id: meacheal-ai/mrc-data
+    description: >-
+      China's apparel supply chain data infrastructure for AI agents. 10 MCP
+      tools covering 1,040+ verified Chinese suppliers, 351 lab-tested fabrics,
+      173 industrial clusters. Every record enriched with AATCC / ISO / GB lab
+      test data.
+    labels:
+      - python
+      - cloud
+    category: data-platforms
   - name: 21st-dev/magic-mcp
     github_id: 21st-dev/magic-mcp
     description:
