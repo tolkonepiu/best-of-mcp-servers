@@ -326,11 +326,11 @@ projects:
       - local
       - typescript
     category: aggregators
-  - name: wegotdocs/open-mcp
-    github_id: wegotdocs/open-mcp
+  - name: boltmcp/boltmcp
+    github_id: boltmcp/boltmcp
     description: >-
-      Turn a web API into an MCP server in 10 seconds and add it to the open
-      source registry: https://open-mcp.org
+      Enterprise-grade MCP orchestration platform to create, deploy, and manage
+      custom MCP servers on-premises
     labels:
       - linux
       - local
@@ -505,9 +505,11 @@ projects:
       - local
       - typescript
     category: browser-automation
-  - name: Automata-Labs-team/MCP-Server-Playwright
-    github_id: Automata-Labs-team/MCP-Server-Playwright
-    description: An MCP server for browser automation using Playwright
+  - name: VikashLoomba/MCP-Server-Playwright
+    github_id: VikashLoomba/MCP-Server-Playwright
+    description:
+      A Model Context Protocol server that provides browser automation
+      capabilities using Playwright
     labels:
       - python
     category: browser-automation
@@ -535,8 +537,8 @@ projects:
       - local
       - typescript
     category: browser-automation
-  - name: co-browser/browser-use-mcp-server
-    github_id: co-browser/browser-use-mcp-server
+  - name: kontext-dev/browser-use-mcp-server
+    github_id: kontext-dev/browser-use-mcp-server
     description: >-
       browser-use packaged as an MCP server with SSE transport. includes a
       dockerfile to run chromium in docker + a vnc server.
@@ -571,8 +573,8 @@ projects:
       - local
       - typescript
     category: browser-automation
-  - name: FradSer/mcp-server-apple-reminders
-    github_id: FradSer/mcp-server-apple-reminders
+  - name: FradSer/mcp-server-apple-events
+    github_id: FradSer/mcp-server-apple-events
     description: An MCP server for interacting with Apple Reminders on macOS
     labels:
       - local
@@ -594,8 +596,8 @@ projects:
     labels:
       - official
     category: browser-automation
-  - name: Operative-Sh/web-eval-agent
-    github_id: Operative-Sh/web-eval-agent
+  - name: refreshdotdev/web-eval-agent
+    github_id: refreshdotdev/web-eval-agent
     description: >-
       An MCP Server that autonomously debugs web applications with browser-use
       browser agents
@@ -630,15 +632,15 @@ projects:
       - typescript
       - local
     category: browser-automation
-  - name: Skyvern-AI/skyvern                                                
-    github_id: Skyvern-AI/skyvern              
+  - name: Skyvern-AI/skyvern
+    github_id: Skyvern-AI/skyvern
     description: >-
       Automates browser-based workflows using LLMs and computer 
       vision — navigate pages, fill forms, extract data, handle authentication, 
-      and automate any website via natural language                            
-    labels:                                                                 
-      - python                                                            
-      - typescript                                                        
+      and automate any website via natural language
+    labels:
+      - python
+      - typescript
       - cloud
       - local
     category: browser-automation
@@ -699,23 +701,6 @@ projects:
       - local
       - typescript
     category: cloud-platforms
-  - name: jdubois/azure-cli-mcp
-    github_id: jdubois/azure-cli-mcp
-    description: >-
-      A wrapper around the Azure CLI command line that allows you to talk
-      directly to Azure
-    labels: []
-    category: cloud-platforms
-  - name: containers/kubernetes-mcp-server
-    github_id: containers/kubernetes-mcp-server
-    description: >-
-      A - powerful Kubernetes MCP server with additional support for OpenShift.
-      Besides providing CRUD operations for any Kubernetes resource, this server
-      provides specialized tools to interact with your cluster.
-    labels:
-      - go
-      - local
-    category: cloud-platforms
   - name: nwiizo/tfmcp
     github_id: nwiizo/tfmcp
     description: >-
@@ -738,18 +723,6 @@ projects:
       - cloud
       - go
       - local
-    category: cloud-platforms
-  - name: pulumi/mcp-server
-    github_id: pulumi/mcp-server
-    description: >-
-      MCP server for interacting with Pulumi using the Pulumi Automation API and
-      Pulumi Cloud API. Enables MCP clients to perform Pulumi operations like
-      retrieving package information, previewing changes, deploying updates, and
-      retrieving stack outputs programmatically.
-    labels:
-      - official
-      - local
-      - typescript
     category: cloud-platforms
   - name: reza-gholizade/k8s-mcp-server
     github_id: reza-gholizade/k8s-mcp-server
@@ -843,8 +816,8 @@ projects:
       - go
       - cloud
     category: cloud-platforms
-  - name: manusa/kubernetes-mcp-server
-    github_id: manusa/kubernetes-mcp-server
+  - name: containers/kubernetes-mcp-server
+    github_id: containers/kubernetes-mcp-server
     description: >-
       powerful Kubernetes MCP server with additional support for OpenShift.
       Besides providing CRUD operations for **any** Kubernetes resource, this
@@ -929,8 +902,8 @@ projects:
       - python
       - local
     category: code-execution
-  - name: Shashankss1205/CodeGraphContext
-    github_id: Shashankss1205/CodeGraphContext
+  - name: CodeGraphContext/CodeGraphContext
+    github_id: CodeGraphContext/CodeGraphContext
     description: >-
       An MCP server that indexes local code into a graph database to provide
       context to AI assistants with a graphical code visualizations for humans.
@@ -1336,12 +1309,13 @@ projects:
       - cloud
       - local
     category: databases
-  - name: bram2w/baserow
-    github_id: bram2w/baserow
+  - name: baserow/baserow
+    github_id: baserow/baserow
     description: >-
       Baserow database integration with table search, list, and row create,
       read, update, and delete capabilities.
-    labels: []
+    labels:
+      - official
     category: databases
   - name: Canner/wren-engine
     github_id: Canner/wren-engine
@@ -1554,15 +1528,6 @@ projects:
     labels:
       - local
       - python
-    category: databases
-  - name: neondatabase-labs/mcp-server-neon
-    github_id: neondatabase-labs/mcp-server-neon
-    description: >-
-      An MCP Server for creating and managing Postgres databases using Neon
-      Serverless Postgres
-    labels:
-      - cloud
-      - typescript
     category: databases
   - name: pab1it0/adx-mcp-server
     github_id: pab1it0/adx-mcp-server
@@ -2357,8 +2322,8 @@ projects:
     labels:
       - typescript
     category: developer-tools
-  - name: wise-vision/mcp_server_ros_2
-    github_id: wise-vision/mcp_server_ros_2
+  - name: wise-vision/ros2_mcp
+    github_id: wise-vision/ros2_mcp
     description:
       MCP server for ROS2 enabling AI-driven robotics applications and services.
     labels:
@@ -2445,18 +2410,6 @@ projects:
       - java
       - local
     category: developer-tools
-  - name: lpigeon/ros-mcp-server
-    github_id: lpigeon/ros-mcp-server
-    description: >-
-      The ROS MCP Server supports robot control by converting user-issued
-      natural language commands into ROS or ROS2 control commands.
-    labels:
-      - python
-      - local
-      - macos
-      - windows
-      - linux
-    category: developer-tools
   - name: mihaelamj/cupertino
     github_id: mihaelamj/cupertino
     description: >-
@@ -2472,14 +2425,6 @@ projects:
       Interactive smart contract generator based on OpenZeppelin Contracts.
     labels:
       - typescript
-    category: developer-tools
-  - name: storybookjs/addon-mcp
-    github_id: storybookjs/addon-mcp
-    description: >-
-      Help agents automatically write and test stories for your UI components.
-    labels:
-      - typescript
-      - local
     category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
@@ -2560,21 +2505,6 @@ projects:
       - local
       - typescript
     category: data-science-tools
-  - name: DataEval/dingo
-    github_id: DataEval/dingo
-    description: >-
-      MCP server for the Dingo: a comprehensive data quality evaluation tool.
-      Server Enables interaction with Dingo's rule-based and LLM- based
-      evaluation capabilities and rules&prompts listing.
-    labels:
-      - official
-      - python
-      - typescript
-      - local
-      - macos
-      - windows
-      - linux
-    category: data-science-tools
   - name: mckinsey/vizro
     github_id: mckinsey/vizro
     description: >-
@@ -2629,14 +2559,6 @@ projects:
     labels:
       - cloud
       - typescript
-    category: file-systems
-  - name: mamertofabian/mcp-everything-search
-    github_id: mamertofabian/mcp-everything-search
-    description: Fast Windows file search using Everything SDK
-    labels:
-      - local
-      - python
-      - windows
     category: file-systems
   - name: mark3labs/mcp-filesystem-server
     github_id: mark3labs/mcp-filesystem-server
@@ -2807,11 +2729,10 @@ projects:
       - cloud
       - python
     category: finance-and-fintech
-  - name: polygon-io/mcp_polygon
-    github_id: polygon-io/mcp_polygon
+  - name: massive-com/mcp_massive
+    github_id: massive-com/mcp_massive
     description: >-
-      An MCP server that provides access to Polygon.io financial market data
-      APIs for stocks, indices, forex, options, and more.
+      An MCP server for Massive.com Financial Market Data
     labels:
       - official
       - cloud
@@ -2849,8 +2770,8 @@ projects:
       - cloud
       - typescript
     category: finance-and-fintech
-  - name: longportapp/openapi
-    github_id: longportapp/openapi
+  - name: longbridge/openapi
+    github_id: longbridge/openapi
     description: >-
       LongPort OpenAPI provides real-time stock market data, provides AI access
       analysis and trading capabilities through MCP.
@@ -2943,8 +2864,8 @@ projects:
       - local
       - python
     category: knowledge-and-memory
-  - name: bitbonsai/mcp-obsidian
-    github_id: bitbonsai/mcp-obsidian
+  - name: bitbonsai/mcpvault
+    github_id: bitbonsai/mcpvault
     description: >-
       Universal AI bridge for Obsidian vaults using MCP. Provides safe
       read/write access to notes with 11 comprehensive methods for vault
@@ -3253,8 +3174,8 @@ projects:
       - go
       - local
     category: monitoring
-  - name: VictoriaMetrics-Community/mcp-victoriametrics
-    github_id: VictoriaMetrics-Community/mcp-victoriametrics
+  - name: VictoriaMetrics/mcp-victoriametrics
+    github_id: VictoriaMetrics/mcp-victoriametrics
     description: >-
       Provides comprehensive integration with your VictoriaMetrics instance APIs
       and documentation for monitoring, observability, and debugging tasks
@@ -3394,15 +3315,6 @@ projects:
     labels:
       - cloud
       - typescript
-    category: search-data-extraction
-  - name: genomoncology/biomcp
-    github_id: genomoncology/biomcp
-    description: >-
-      Biomedical research server providing access to PubMed, ClinicalTrials.gov,
-      and MyVariant.info.
-    labels:
-      - cloud
-      - python
     category: search-data-extraction
   - name: hellokaton/unsplash-mcp-server
     github_id: hellokaton/unsplash-mcp-server
@@ -3605,15 +3517,6 @@ projects:
       - local
       - typescript
     category: search-data-extraction
-  - name: luminati-io/brightdata-mcp
-    github_id: luminati-io/brightdata-mcp
-    description: >-
-      Discover, extract, and interact with the web - one interface powering
-      automated access across the public internet.
-    labels:
-      - typescript
-      - cloud
-    category: search-data-extraction
   - name: serpapi/serpapi-mcp
     github_id: serpapi/serpapi-mcp
     description: >-
@@ -3629,8 +3532,8 @@ projects:
       - windows
       - linux
     category: search-data-extraction
-  - name: mariocandela/beelzebub
-    github_id: mariocandela/beelzebub
+  - name: beelzebub-labs/beelzebub
+    github_id: beelzebub-labs/beelzebub
     description: >-
       Beelzebub is a honeypot framework that lets you build honeypot tools using
       MCP. Its purpose is to detect prompt injection or malicious agent
@@ -3709,8 +3612,8 @@ projects:
       - rust
       - windows
     category: security
-  - name: jtang613/GhidrAssistMCP
-    github_id: jtang613/GhidrAssistMCP
+  - name: symgraph/GhidrAssistMCP
+    github_id: symgraph/GhidrAssistMCP
     description: >-
       A native Model Context Protocol server for Ghidra. Includes GUI
       configuration and logging, 31 powerful tools and no external dependencies.
@@ -3909,16 +3812,6 @@ projects:
       - local
       - python
     category: text-to-speech
-  - name: mbailey/voice-mcp
-    github_id: mbailey/voice-mcp
-    description: >-
-      Complete voice interaction server supporting speech-to-text, text-
-      to-speech, and real-time voice conversations through local microphone,
-      OpenAI-compatible APIs, and LiveKit integration.
-    labels:
-      - python
-      - local
-    category: text-to-speech
   - name: cobanov/teslamate-mcp
     github_id: cobanov/teslamate-mcp
     description: >-
@@ -4000,8 +3893,8 @@ projects:
       - python
       - windows
     category: workplace-and-productivity
-  - name: vasylenko/claude-desktop-extension-bear-notes
-    github_id: vasylenko/claude-desktop-extension-bear-notes
+  - name: vasylenko/bear-notes-mcp
+    github_id: vasylenko/bear-notes-mcp
     description: >-
       Search, read, create, and update Bear Notes directly from Claude.
       Local-only with complete privacy.
@@ -4081,16 +3974,6 @@ projects:
       - cloud
       - typescript
     category: other-tools-and-integrations
-  - name: smithery-ai/mcp-obsidian
-    github_id: smithery-ai/mcp-obsidian
-    description: >-
-      This is a connector to allow Claude Desktop (or any MCP client) to read
-      and search any directory containing Markdown notes (such as an Obsidian
-      vault).
-    labels:
-      - local
-      - typescript
-    category: other-tools-and-integrations
   - name: caol64/wenyan-mcp
     github_id: caol64/wenyan-mcp
     description: >-
@@ -4103,8 +3986,8 @@ projects:
       - typescript
       - windows
     category: other-tools-and-integrations
-  - name: chrishayuk/mcp-cli
-    github_id: chrishayuk/mcp-cli
+  - name: IBM/mcp-cli
+    github_id: IBM/mcp-cli
     description: Yet another CLI tool for testing MCP servers
     labels:
       - local
@@ -4222,8 +4105,8 @@ projects:
       - local
       - python
     category: other-tools-and-integrations
-  - name: mediar-ai/screenpipe
-    github_id: mediar-ai/screenpipe
+  - name: screenpipe/screenpipe
+    github_id: screenpipe/screenpipe
     description: >-
       Local-first system capturing screen/audio with timestamped indexing,
       SQL/embedding storage, semantic search, LLM-powered history analysis, and
@@ -4328,18 +4211,6 @@ projects:
       - cloud
       - typescript
     category: other-tools-and-integrations
-  - name: inkbytefo/ScreenMonitorMCP
-    github_id: inkbytefo/ScreenMonitorMCP
-    description: >-
-      Real-time screen analysis, context-aware recording, and UI monitoring MCP
-      server. Supports AI vision, event hooks, and multimodal agent workflows.
-    labels:
-      - linux
-      - local
-      - macos
-      - python
-      - windows
-    category: other-tools-and-integrations
   - name: SecretiveShell/MCP-wolfram-alpha
     github_id: SecretiveShell/MCP-wolfram-alpha
     description: An MCP server for querying wolfram alpha API.
@@ -4360,17 +4231,6 @@ projects:
       Allows the AI to read from your local Apple Notes database (macOS only)
     labels:
       - local
-      - python
-    category: other-tools-and-integrations
-  - name: sooperset/mcp-atlassian
-    github_id: sooperset/mcp-atlassian
-    description: >-
-      MCP server for Atlassian products (Confluence and Jira). Supports
-      Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides
-      comprehensive tools for searching, reading, creating, and managing content
-      across Atlassian workspaces.
-    labels:
-      - cloud
       - python
     category: other-tools-and-integrations
   - name: suekou/mcp-notion-server
@@ -4449,16 +4309,8 @@ projects:
       - local
       - typescript
     category: other-tools-and-integrations
-  - name: zueai/mcp-manager
-    github_id: zueai/mcp-manager
-    description:
-      Simple Web UI to install and manage MCP servers for Claude Desktop App.
-    labels:
-      - cloud
-      - typescript
-    category: other-tools-and-integrations
-  - name: jlowin/fastmcp
-    github_id: jlowin/fastmcp
+  - name: PrefectHQ/fastmcp
+    github_id: PrefectHQ/fastmcp
     description: A high-level framework for building MCP servers in Python
     labels:
       - python
@@ -4468,26 +4320,6 @@ projects:
     description: A high-level framework for building MCP servers in TypeScript
     labels:
       - typescript
-    category: other-tools-and-integrations
-  - name: Gravity Swarm MCP
-    github_id: antoinedelorme/gravity-swarm-mcp
-    npm_id: gravity-swarm-mcp
-    description: >-
-      MCP server for an agent reputation network. Enlist, compute deterministic
-      tasks (FFT, SHA chain, Monte Carlo), answer open questions, submit proofs,
-      earn ELO. Handles Nostr BIP-340 signing internally.
-    labels:
-      - typescript
-      - local
-    category: other-tools-and-integrations
-  - name: apify/actors-mcp-server
-    github_id: apify/actors-mcp-server
-    description: >-
-      Use 3,000+ pre-built cloud tools, known as Actors, to extract data from
-      websites, e-commerce, social media, search engines, maps, and more.
-    labels:
-      - typescript
-      - cloud
     category: other-tools-and-integrations
   - name: Klavis-AI/klavis
     github_id: Klavis-AI/klavis
