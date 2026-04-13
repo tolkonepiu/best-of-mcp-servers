@@ -411,27 +411,11 @@ projects:
       - local
       - python
     category: art-and-culture
-  - name: djalal/quran-mcp-server
-    github_id: djalal/quran-mcp-server
-    description:
-      MCP server to interact with Quran.com corpus via the official REST API v4.
-    labels:
-      - cloud
-      - typescript
-    category: art-and-culture
   - name: omni-mcp/isaac-sim-mcp
     github_id: omni-mcp/isaac-sim-mcp
     description: >-
       A MCP Server and an extension enables natural language control of NVIDIA
       Isaac Sim, Lab, OpenUSD and etc.
-    labels:
-      - cloud
-      - typescript
-    category: art-and-culture
-  - name: r-huijts/rijksmuseum-mcp
-    github_id: r-huijts/rijksmuseum-mcp
-    description:
-      Rijksmuseum API integration for artwork search, details, and collections
     labels:
       - cloud
       - typescript
@@ -510,14 +494,6 @@ projects:
     description:
       A Model Context Protocol server that provides browser automation
       capabilities using Playwright
-    labels:
-      - python
-    category: browser-automation
-  - name: blackwhite084/playwright-plus-python-mcp
-    github_id: blackwhite084/playwright-plus-python-mcp
-    description: >-
-      An MCP python server using Playwright for browser automation,more suitable
-      for llm
     labels:
       - python
     category: browser-automation
@@ -605,23 +581,6 @@ projects:
       - local
       - macos
       - python
-    category: browser-automation
-  - name: pskill9/web-search
-    github_id: pskill9/web-search
-    description: >-
-      An MCP server that enables free web searching using Google search results,
-      with no API keys required.
-    labels:
-      - local
-      - typescript
-    category: browser-automation
-  - name: recursechat/mcp-server-apple-shortcuts
-    github_id: recursechat/mcp-server-apple-shortcuts
-    description: An MCP Server Integration with Apple Shortcuts
-    labels:
-      - local
-      - macos
-      - typescript
     category: browser-automation
   - name: bytedance/UI-TARS-desktop
     github_id: bytedance/UI-TARS-desktop
@@ -1094,13 +1053,6 @@ projects:
       - typescript
       - windows
     category: command-line
-  - name: adhikasp/mcp-twikit
-    github_id: adhikasp/mcp-twikit
-    description: Interact with Twitter search and timeline
-    labels:
-      - cloud
-      - python
-    category: communication
   - name: areweai/tsgram-mcp
     github_id: areweai/tsgram-mcp
     description: >-
@@ -1265,13 +1217,6 @@ projects:
     labels:
       - local
       - typescript
-    category: customer-data-platforms
-  - name: OpenDataMCP/OpenDataMCP
-    github_id: OpenDataMCP/OpenDataMCP
-    description: Connect any Open Data to any LLM with Model Context Protocol.
-    labels:
-      - cloud
-      - python
     category: customer-data-platforms
   - name: tinybirdco/mcp-tinybird
     github_id: tinybirdco/mcp-tinybird
@@ -1551,14 +1496,6 @@ projects:
       - local
       - python
     category: databases
-  - name: QuantGeekDev/mongo-mcp
-    github_id: QuantGeekDev/mongo-mcp
-    description:
-      MongoDB integration that enables LLMs to interact directly with databases.
-    labels:
-      - local
-      - typescript
-    category: databases
   - name: rashidazarang/airtable-mcp
     github_id: rashidazarang/airtable-mcp
     description: >-
@@ -1589,13 +1526,6 @@ projects:
       capabilities.
     labels:
       - local
-      - python
-    category: databases
-  - name: sirmews/mcp-pinecone
-    github_id: sirmews/mcp-pinecone
-    description: Pinecone integration with vector search capabilities
-    labels:
-      - cloud
       - python
     category: databases
   - name: Snowflake-Labs/mcp
@@ -2153,13 +2083,6 @@ projects:
       - cloud
       - typescript
     category: developer-tools
-  - name: pskill9/website-downloader
-    github_id: pskill9/website-downloader
-    description: >-
-      This MCP server provides a tool to download entire websites using wget. It
-      preserves the website structure and converts links to work locally.
-    labels: []
-    category: developer-tools
   - name: public-ui/kolibri
     github_id: public-ui/kolibri
     description: >-
@@ -2180,13 +2103,6 @@ projects:
       - local
       - python
     category: developer-tools
-  - name: QuantGeekDev/docker-mcp
-    github_id: QuantGeekDev/docker-mcp
-    description: Docker container management and operations through MCP
-    labels:
-      - go
-      - local
-    category: developer-tools
   - name: r-huijts/xcode-mcp-server
     github_id: r-huijts/xcode-mcp-server
     description:
@@ -2195,15 +2111,6 @@ projects:
     labels:
       - local
       - macos
-      - typescript
-    category: developer-tools
-  - name: ReAPI-com/mcp-openapi
-    github_id: ReAPI-com/mcp-openapi
-    description: >-
-      MCP server that lets LLMs know everything about your OpenAPI
-      specifications to discover, explain and generate code/mock data
-    labels:
-      - local
       - typescript
     category: developer-tools
   - name: sammcj/mcp-package-version
@@ -2250,17 +2157,6 @@ projects:
     labels:
       - cloud
       - go
-    category: developer-tools
-  - name: stass/lldb-mcp
-    github_id: stass/lldb-mcp
-    description: >-
-      A MCP server for LLDB enabling AI binary and core file analysis,
-      debugging, disassembling.
-    labels:
-      - linux
-      - local
-      - macos
-      - python
     category: developer-tools
   - name: storybookjs/mcp
     github_id: storybookjs/mcp
@@ -2455,15 +2351,6 @@ projects:
       - local
       - python
     category: data-science-tools
-  - name: jjsantos01/jupyter-notebook-mcp
-    github_id: jjsantos01/jupyter-notebook-mcp
-    description: >-
-      connects Jupyter Notebook to Claude AI, allowing Claude to directly
-      interact with and control Jupyter Notebooks.
-    labels:
-      - local
-      - python
-    category: data-science-tools
   - name: kdqed/zaturn
     github_id: kdqed/zaturn
     description: >-
@@ -2486,15 +2373,6 @@ projects:
       - linux
       - local
       - macos
-      - python
-    category: data-science-tools
-  - name: reading-plus-ai/mcp-server-data-exploration
-    github_id: reading-plus-ai/mcp-server-data-exploration
-    description: >-
-      Enables autonomous data exploration on .csv-based datasets, providing
-      intelligent insights with minimal effort.
-    labels:
-      - cloud
       - python
     category: data-science-tools
   - name: zcaceres/markdownify-mcp
@@ -2617,15 +2495,6 @@ projects:
     labels:
       - cloud
       - python
-    category: finance-and-fintech
-  - name: Bankless/onchain-mcp
-    github_id: Bankless/onchain-mcp
-    description: >-
-      Bankless Onchain API to interact with smart contracts, query transaction
-      and token information
-    labels:
-      - cloud
-      - typescript
     category: finance-and-fintech
   - name: base/base-mcp
     github_id: base/base-mcp
@@ -2750,16 +2619,6 @@ projects:
       - cloud
       - python
     category: finance-and-fintech
-  - name: QuantGeekDev/coincap-mcp
-    github_id: QuantGeekDev/coincap-mcp
-    description: >-
-      Real-time cryptocurrency market data integration using CoinCap's public
-      API, providing access to crypto prices and market information without API
-      keys
-    labels:
-      - cloud
-      - typescript
-    category: finance-and-fintech
   - name: XeroAPI/xero-mcp-server
     github_id: XeroAPI/xero-mcp-server
     description: >-
@@ -2845,14 +2704,6 @@ projects:
       - cloud
       - python
     category: gaming
-  - name: 0xshellming/mcp-summarizer
-    github_id: 0xshellming/mcp-summarizer
-    description: >-
-      AI Summarization MCP Server, Support for multiple content types: Plain
-      text, Web pages, PDF documents, EPUB books, HTML content
-    labels:
-      - cloud
-    category: knowledge-and-memory
   - name: apecloud/ApeRAG
     github_id: apecloud/ApeRAG
     description: >-
@@ -2878,11 +2729,6 @@ projects:
       - macos
       - typescript
       - windows
-    category: knowledge-and-memory
-  - name: chatmcp/mcp-server-chatsum
-    github_id: chatmcp/mcp-server-chatsum
-    description: Query and summarize your chat messages with AI prompts.
-    labels: []
     category: knowledge-and-memory
   - name: CheMiguel23/MemoryMesh
     github_id: CheMiguel23/MemoryMesh
@@ -2941,15 +2787,6 @@ projects:
       one-click Markdown copy, and dynamic visualization features.
     labels:
       - local
-      - typescript
-    category: knowledge-and-memory
-  - name: kaliaboi/mcp-zotero
-    github_id: kaliaboi/mcp-zotero
-    description:
-      A connector for LLMs to work with collections and sources on your Zotero
-      Cloud
-    labels:
-      - cloud
       - typescript
     category: knowledge-and-memory
   - name: mem0ai/mem0-mcp
@@ -3424,11 +3261,6 @@ projects:
       - cloud
       - typescript
     category: search-data-extraction
-  - name: mzxrai/mcp-webresearch
-    github_id: mzxrai/mcp-webresearch
-    description: Search Google and do deep web research on any topic
-    labels: []
-    category: search-data-extraction
   - name: nickclyde/duckduckgo-mcp-server
     github_id: nickclyde/duckduckgo-mcp-server
     description: Web search using DuckDuckGo
@@ -3454,15 +3286,6 @@ projects:
       - local
       - typescript
     category: search-data-extraction
-  - name: reading-plus-ai/mcp-server-deep-research
-    github_id: reading-plus-ai/mcp-server-deep-research
-    description: >-
-      MCP server providing OpenAI/Perplexity-like autonomous deep research,
-      structured query elaboration, and concise reporting.
-    labels:
-      - cloud
-      - typescript
-    category: search-data-extraction
   - name: scrapeless-ai/scrapeless-mcp-server
     github_id: scrapeless-ai/scrapeless-mcp-server
     description: >-
@@ -3471,13 +3294,6 @@ projects:
       ecosystem without leaving it.
     labels:
       - cloud
-      - python
-    category: search-data-extraction
-  - name: SecretiveShell/MCP-searxng
-    github_id: SecretiveShell/MCP-searxng
-    description: An MCP Server to connect to searXNG instances
-    labels:
-      - local
       - python
     category: search-data-extraction
   - name: takashiishida/arxiv-latex-mcp
@@ -3829,13 +3645,6 @@ projects:
       - cloud
       - typescript
     category: travel-and-transportation
-  - name: adhikasp/mcp-git-ingest
-    github_id: adhikasp/mcp-git-ingest
-    description: Read and analyze GitHub repositories with your LLM
-    labels:
-      - local
-      - python
-    category: version-control
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
@@ -3911,29 +3720,6 @@ projects:
       transactions, query the blockchain, and more.
     labels: []
     category: other-tools-and-integrations
-  - name: allenporter/mcp-server-home-assistant
-    github_id: allenporter/mcp-server-home-assistant
-    description: >-
-      Expose all Home Assistant voice intents through a Model Context Protocol
-      Server allowing home control.
-    labels:
-      - local
-      - python
-    category: other-tools-and-integrations
-  - name: anaisbetts/mcp-installer
-    github_id: anaisbetts/mcp-installer
-    description: An MCP server that installs other MCP servers for you.
-    labels:
-      - local
-      - python
-    category: other-tools-and-integrations
-  - name: anaisbetts/mcp-youtube
-    github_id: anaisbetts/mcp-youtube
-    description: Fetch YouTube subtitles
-    labels:
-      - cloud
-      - typescript
-    category: other-tools-and-integrations
   - name: apify/apify-mcp-server
     github_id: apify/apify-mcp-server
     description: >-
@@ -3993,28 +3779,12 @@ projects:
       - local
       - python
     category: other-tools-and-integrations
-  - name: danhilse/notion_mcp
-    github_id: danhilse/notion_mcp
-    description: Integrates with Notion's API to manage personal todo lists
-    labels:
-      - cloud
-      - python
-    category: other-tools-and-integrations
   - name: evalstate/mcp-hfspace
     github_id: evalstate/mcp-hfspace
     description: >-
       Use HuggingFace Spaces directly from Claude. Use Open Source Image
       Generation, Chat, Vision tasks and more. Supports Image, Audio and text
       uploads/downloads.
-    labels:
-      - cloud
-      - typescript
-    category: other-tools-and-integrations
-  - name: evalstate/mcp-miro
-    github_id: evalstate/mcp-miro
-    description: >-
-      Access MIRO whiteboards, bulk create and read items. Requires OAUTH key
-      for REST API.
     labels:
       - cloud
       - typescript
@@ -4027,13 +3797,6 @@ projects:
     labels:
       - local
       - python
-    category: other-tools-and-integrations
-  - name: gotoolkits/mcp-difyworkflow-server
-    github_id: gotoolkits/mcp-difyworkflow-server
-    description: Tools to the query and execute of Dify workflows
-    labels:
-      - cloud
-      - go
     category: other-tools-and-integrations
   - name: hiromitsusasaki/raindrop-io-mcp-server
     github_id: hiromitsusasaki/raindrop-io-mcp-server
@@ -4137,36 +3900,6 @@ projects:
       - go
       - local
     category: other-tools-and-integrations
-  - name: mzxrai/mcp-openai
-    github_id: mzxrai/mcp-openai
-    description: Chat with OpenAI's smartest models
-    labels:
-      - cloud
-      - typescript
-    category: other-tools-and-integrations
-  - name: nguyenvanduocit/all-in-one-model-context-protocol
-    github_id: nguyenvanduocit/all-in-one-model-context-protocol
-    description: >-
-      Some useful tools for developer, almost everything an engineer need:
-      confluence, Jira, Youtube, run script, knowledge base RAG, fetch URL,
-      Manage youtube channel, emails, calendar, gitlab
-    labels:
-      - go
-      - local
-    category: other-tools-and-integrations
-  - name: NON906/omniparser-autogui-mcp
-    github_id: NON906/omniparser-autogui-mcp
-    description: Automatic operation of on-screen GUI.
-    labels:
-      - python
-    category: other-tools-and-integrations
-  - name: pierrebrunelle/mcp-server-openai
-    github_id: pierrebrunelle/mcp-server-openai
-    description: Query OpenAI models directly from Claude using MCP protocol
-    labels:
-      - cloud
-      - python
-    category: other-tools-and-integrations
   - name: PV-Bhat/vibe-check-mcp-server
     github_id: PV-Bhat/vibe-check-mcp-server
     description: >-
@@ -4192,15 +3925,6 @@ projects:
       - local
       - python
     category: other-tools-and-integrations
-  - name: rember/rember-mcp
-    github_id: rember/rember-mcp
-    description: >-
-      Create spaced repetition flashcards in Rember to remember anything you
-      learn in your chats.
-    labels:
-      - local
-      - typescript
-    category: other-tools-and-integrations
   - name: roychri/mcp-server-asana
     github_id: roychri/mcp-server-asana
     description: >-
@@ -4225,14 +3949,6 @@ projects:
       - cloud
       - typescript
     category: other-tools-and-integrations
-  - name: sirmews/apple-notes-mcp
-    github_id: sirmews/apple-notes-mcp
-    description:
-      Allows the AI to read from your local Apple Notes database (macOS only)
-    labels:
-      - local
-      - python
-    category: other-tools-and-integrations
   - name: suekou/mcp-notion-server
     github_id: suekou/mcp-notion-server
     description: Interacting with Notion API
@@ -4249,13 +3965,6 @@ projects:
       - macos
       - typescript
       - windows
-    category: other-tools-and-integrations
-  - name: tanigami/mcp-server-perplexity
-    github_id: tanigami/mcp-server-perplexity
-    description: Interacting with Perplexity API.
-    labels:
-      - cloud
-      - python
     category: other-tools-and-integrations
   - name: tevonsb/homeassistant-mcp
     github_id: tevonsb/homeassistant-mcp
