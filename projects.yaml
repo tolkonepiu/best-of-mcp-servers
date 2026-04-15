@@ -4045,3 +4045,15 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: yynps737/ida-hive
+    github_id: yynps737/ida-hive
+    description: >-
+      Native multi-instance IDA Pro MCP server (Rust + C++). 60 AI tools, up to
+      100 concurrent analysis sessions via idalib headless. Zero Python dependency.
+    category: security
+  - name: yynps737/x64dbg-hive
+    github_id: yynps737/x64dbg-hive
+    description: >-
+      Native x64dbg MCP server (C++ plugin + Rust). 92 AI debugging tools covering
+      disassembly, breakpoints, memory, registers, tracing, anti-debug, PE analysis.
+    category: security
