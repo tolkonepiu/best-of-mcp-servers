@@ -4045,3 +4045,13 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: unitedideas/nothumansearch
+    github_id: unitedideas/nothumansearch
+    description: >-
+      Search engine for AI agents. Discover verified agent-first websites and
+      APIs ranked by agentic readiness (llms.txt, OpenAPI, ai-plugin, MCP,
+      structured API). Public hosted MCP endpoint, no API key required.
+    labels:
+      - cloud
+      - go
+    category: search-data-extraction
