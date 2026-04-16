@@ -4045,3 +4045,15 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: kuberstar/qartez-mcp
+    github_id: kuberstar/qartez-mcp
+    description: >-
+      Semantic code intelligence MCP server with 27 tools for project maps,
+      symbol search, impact analysis, call hierarchies, architecture boundaries,
+      dead code detection, and safe refactoring. Pre-computed AST index for fast,
+      token-efficient code exploration.
+    homepage: https://qartez.dev
+    labels:
+      - local
+      - rust
+    category: coding-agents
