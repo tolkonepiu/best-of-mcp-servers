@@ -3348,6 +3348,15 @@ projects:
       - windows
       - linux
     category: search-data-extraction
+  - name: unitedideas/aidevboard-mcp
+    github_id: unitedideas/aidevboard-mcp
+    description: >-
+      Remote MCP server for AI Dev Jobs — search 5,400+ AI/ML/LLM roles from
+      55+ ATS sources. Tools: search_jobs, get_job, list_companies, get_stats.
+      JSON-RPC 2.0 at https://aidevboard.com/mcp. Free, no auth required.
+    labels:
+      - cloud
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
