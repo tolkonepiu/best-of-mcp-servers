@@ -362,6 +362,14 @@ projects:
       - windows
       - linux
     category: aggregators
+  - name: Chain.Love MCP
+    github: Chain-Love/chain.love-mcp
+    description: Hosted Web3 infrastructure MCP gateway for discovering and comparing RPCs, indexing, oracles, storage, compute, and developer tools across 50+ blockchain networks through a single endpoint.
+    labels:
+      - hosted
+      - typescript
+      - cloud-service
+    category: aggregators
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
