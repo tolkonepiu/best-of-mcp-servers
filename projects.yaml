@@ -193,6 +193,15 @@ projects:
       - typescript
       - windows
     category: aggregators
+  - name: avabuildsdata/mcp-us-business-data
+    github_id: avabuildsdata/mcp-us-business-data
+    category: data-platforms
+    description: >-
+      Search US business entity registrations across 17 states, building permits
+      in 400+ cities, and YellowPages business leads via MCP.
+    labels:
+      - data
+      - government
   - name: mcpjungle/MCPJungle
     github_id: mcpjungle/MCPJungle
     description: Self-hosted MCP Server registry for enterprise AI Agents
