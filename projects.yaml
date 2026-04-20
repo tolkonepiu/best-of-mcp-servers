@@ -4051,3 +4051,14 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+
+  - name: Human Pages
+    github_id: human-pages-ai/humanpages
+    npm_id: humanpages
+    description: >-
+      Hire real humans for tasks AI agents cannot do alone. Search by skill,
+      location, language. USDC payments on Base, x402 pay-per-use, Superfluid
+      streaming, on-chain escrow. 36 tools for the full hiring lifecycle.
+    labels:
+      - typescript
+    category: finance-and-fintech
