@@ -117,67 +117,67 @@ categories:
     title: Other Tools and Integrations
     subtitle: MCP servers for other tools and integrations
 
-labels:
-  - label: official
-    image: https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af
-    description: >
-      Official implementation
-  - label: python
-    image: https://api.iconify.design/devicon:python.svg
-    description: >
-      Python codebase
-  - label: typescript
-    image: https://api.iconify.design/devicon:typescript.svg
-    description: >
-      TypeScript (or JavaScript) codebase
-  - label: go
-    image: https://api.iconify.design/devicon:go.svg
-    description: >
-      Go codebase
-  - label: rust
-    image: https://cdn.simpleicons.org/rust/CE422B
-    description: >
-      Rust codebase
-  - label: csharp
-    image: https://api.iconify.design/devicon:csharp.svg
-    description: >
-      C# Codebase
-  - label: java
-    image: https://api.iconify.design/devicon:java.svg
-    description: >
-      Java codebase
-  - label: cpp
-    image: https://api.iconify.design/devicon:cplusplus.svg
-    description: >
-      C/C++ codebase
-  - label: ruby
-    image: https://api.iconify.design/devicon:ruby.svg
-    description: >
-      Ruby codebase
-  - label: cloud
-    image: https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de
-    description: >
-      Cloud Service
-  - label: local
-    image: https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa
-    description: >
-      Local Service
-  - label: embedded
-    image: https://api.iconify.design/material-symbols:memory.svg?color=%23f97316
-    description: >
-      Embedded Systems
-  - label: macos
-    image: https://cdn.simpleicons.org/apple/9399b2
-    description: >
-      For macOS
-  - label: windows
-    image: https://api.iconify.design/devicon:windows11.svg
-    description: >
-      For Windows
-  - label: linux
-    image: https://api.iconify.design/devicon:linux.svg
-    description: >
-      For Linux
+# labels:
+#   - label: official
+#     image: https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af
+#     description: >
+#       Official implementation
+#   - label: python
+#     image: https://api.iconify.design/devicon:python.svg
+#     description: >
+#       Python codebase
+#   - label: typescript
+#     image: https://api.iconify.design/devicon:typescript.svg
+#     description: >
+#       TypeScript (or JavaScript) codebase
+#   - label: go
+#     image: https://api.iconify.design/devicon:go.svg
+#     description: >
+#       Go codebase
+#   - label: rust
+#     image: https://cdn.simpleicons.org/rust/CE422B
+#     description: >
+#       Rust codebase
+#   - label: csharp
+#     image: https://api.iconify.design/devicon:csharp.svg
+#     description: >
+#       C# Codebase
+#   - label: java
+#     image: https://api.iconify.design/devicon:java.svg
+#     description: >
+#       Java codebase
+#   - label: cpp
+#     image: https://api.iconify.design/devicon:cplusplus.svg
+#     description: >
+#       C/C++ codebase
+#   - label: ruby
+#     image: https://api.iconify.design/devicon:ruby.svg
+#     description: >
+#       Ruby codebase
+#   - label: cloud
+#     image: https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de
+#     description: >
+#       Cloud Service
+#   - label: local
+#     image: https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa
+#     description: >
+#       Local Service
+#   - label: embedded
+#     image: https://api.iconify.design/material-symbols:memory.svg?color=%23f97316
+#     description: >
+#       Embedded Systems
+#   - label: macos
+#     image: https://cdn.simpleicons.org/apple/9399b2
+#     description: >
+#       For macOS
+#   - label: windows
+#     image: https://api.iconify.design/devicon:windows11.svg
+#     description: >
+#       For Windows
+#   - label: linux
+#     image: https://api.iconify.design/devicon:linux.svg
+#     description: >
+#       For Linux
 
 projects:
   - name: 1mcp-app/agent
