@@ -13,6 +13,7 @@ jobs:
       - name: 🚀 Run yamllint
         uses: reviewdog/action-yamllint@v1
         with:
+          yamllint_flags: "projects.yaml"
           reporter: github-pr-review
           filter_mode: nofilter
           fail_level: error

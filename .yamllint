@@ -4,5 +4,3 @@ rules:
   line-length:
     max: 80
   document-start: disable
-  truthy:
-    allowed-values: ["true", "false", "on"]
