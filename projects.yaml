@@ -2545,3 +2545,14 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: pranciskus/newsmcp
+    github_id: pranciskus/newsmcp
+    npm_id: "@newsmcp/server"
+    description: >-
+      Real-time world news for AI agents — events clustered from hundreds of
+      sources, classified by 12 topics and 30+ geographic regions, ranked by
+      importance. Free, no API key required.
+    labels:
+      - cloud
+      - typescript
+    category: search-data-extraction
