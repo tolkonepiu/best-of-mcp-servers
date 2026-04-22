@@ -1,0 +1,20 @@
+name: Lint
+
+on:
+  pull_request:
+
+jobs:
+  yamllint:
+    name: yamllint
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⤵️ Check out code
+        uses: actions/checkout@v6
+      - name: 🚀 Run yamllint
+        uses: reviewdog/action-yamllint@v1
+        with:
+          yamllint_flags: "projects.yaml"
+          reporter: github-pr-review
+          filter_mode: nofilter
+          fail_level: error
+          github_token: ${{ secrets.GITHUB_TOKEN }}
