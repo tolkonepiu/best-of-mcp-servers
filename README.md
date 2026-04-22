@@ -118,7 +118,7 @@ _MCP servers for aggregators_
 
 - [GitHub](https://github.com/PipedreamHQ/pipedream) (👨‍💻 270 · 🔀 5.6K · 📦 14 · 📋 13K - 31% open · ⏱️ 21.04.2026)
 </details>
-<details><summary><b><a href="https://github.com/mindsdb/mindsdb">mindsdb/mindsdb</a></b> (🥇28 ·  ⭐ 39K · 📉) - Connect and unify data across various platforms and databases with MindsDB as a single MCP server. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/mindsdb/mindsdb">mindsdb/mindsdb</a></b> (🥇28 ·  ⭐ 39K) - Connect and unify data across various platforms and databases with MindsDB as a single MCP server. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/mindsdb/mindsdb) (👨‍💻 890 · 🔀 6.2K · 📋 4.4K - 1% open · ⏱️ 15.04.2026)
 </details>
@@ -300,7 +300,7 @@ _MCP servers for biology, medicine and bioinformatics_
 
 <details><summary><b><a href="https://github.com/genomoncology/biomcp">genomoncology/biomcp</a></b> (🥇20 ·  ⭐ 490) - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/genomoncology/biomcp) (👨‍💻 10 · 🔀 94 · 📥 580 · 📋 39 - 2% open · ⏱️ 21.04.2026)
+- [GitHub](https://github.com/genomoncology/biomcp) (👨‍💻 10 · 🔀 94 · 📥 580 · 📋 39 - 2% open · ⏱️ 22.04.2026)
 </details>
 <details><summary><b><a href="https://github.com/wso2/fhir-mcp-server">wso2/fhir-mcp-server</a></b> (🥉12 ·  ⭐ 110) - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
 
@@ -330,7 +330,7 @@ _MCP servers for cloud platforms_
 
 - [GitHub](https://github.com/containers/kubernetes-mcp-server) (👨‍💻 52 · 🔀 280 · 📥 40K · 📋 170 - 16% open · ⏱️ 21.04.2026)
 </details>
-<details><summary><b><a href="https://github.com/Flux159/mcp-server-kubernetes">Flux159/mcp-server-kubernetes</a></b> (🥈23 ·  ⭐ 1.4K · 📉) - Typescript implementation of Kubernetes cluster operations for pods, deployments, services. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Flux159/mcp-server-kubernetes">Flux159/mcp-server-kubernetes</a></b> (🥈23 ·  ⭐ 1.4K) - Typescript implementation of Kubernetes cluster operations for pods, deployments, services. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/Flux159/mcp-server-kubernetes) (👨‍💻 42 · 🔀 240 · 📥 1.4K · 📦 18 · 📋 98 - 9% open · ⏱️ 07.04.2026)
 </details>
@@ -590,7 +590,7 @@ _MCP servers for communication and messaging_
 
 _MCP servers for customer data platforms_
 
-<details><summary><b><a href="https://github.com/antvis/mcp-server-chart">antvis/mcp-server-chart</a></b> (🥇21 ·  ⭐ 4K · 📉) - A Model Context Protocol server for generating visual charts using AntV. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/antvis/mcp-server-chart">antvis/mcp-server-chart</a></b> (🥇21 ·  ⭐ 4K) - A Model Context Protocol server for generating visual charts using AntV. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/antvis/mcp-server-chart) (👨‍💻 21 · 🔀 370 · 📦 11 · 📋 160 - 6% open · ⏱️ 25.02.2026)
 </details>
@@ -698,7 +698,7 @@ _MCP servers for database integration and management_
 
 - [GitHub](https://github.com/gannonh/firebase-mcp) (👨‍💻 4 · 🔀 42 · 📦 4 · 📋 35 - 17% open · ⏱️ 26.05.2025)
 </details>
-<details><summary><b><a href="https://github.com/crystaldba/postgres-mcp">crystaldba/postgres-mcp</a></b> (🥉14 ·  ⭐ 2.6K · 📉) - All-in-one MCP server for Postgres development and operations, with tools for performance analysis, tuning, and health.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/crystaldba/postgres-mcp">crystaldba/postgres-mcp</a></b> (🥉14 ·  ⭐ 2.6K) - All-in-one MCP server for Postgres development and operations, with tools for performance analysis, tuning, and health.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/crystaldba/postgres-mcp) (👨‍💻 10 · 🔀 280 · 📥 210 · 📦 8 · 📋 42 - 69% open · ⏱️ 22.01.2026)
 </details>
@@ -896,7 +896,7 @@ _MCP servers for developer tools_
 </details>
 <details><summary><b><a href="https://github.com/utensils/mcp-nixos">utensils/mcp-nixos</a></b> (🥇18 ·  ⭐ 600) - MCP server providing accurate information about NixOS packages, system options, Home Manager configurations, and nix-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/utensils/mcp-nixos) (👨‍💻 9 · 🔀 32 · 📦 2 · 📋 38 - 10% open · ⏱️ 21.04.2026)
+- [GitHub](https://github.com/utensils/mcp-nixos) (👨‍💻 9 · 🔀 32 · 📦 2 · 📋 38 - 10% open · ⏱️ 22.04.2026)
 </details>
 <details><summary><b><a href="https://github.com/gitkraken/gk-cli">gitkraken/gk-cli</a></b> (🥇18 ·  ⭐ 400 · 💤) - A CLI for interacting with GitKraken APIs. Includes an MCP server via gk mcp that not only wraps GitKraken APIs, but.. <code>❗Unlicensed</code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:go.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:linux.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.simpleicons.org/apple/9399b2" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:windows11.svg" style="display:inline;" width="13" height="13"></code></summary>
 
@@ -1330,7 +1330,7 @@ _MCP servers for knowledge graphs and memory management_
 
 - [GitHub](https://github.com/upstash/context7) (👨‍💻 120 · 🔀 2.5K · 📥 1.1K · 📋 1.9K - 5% open · ⏱️ 21.04.2026)
 </details>
-<details><summary><b><a href="https://github.com/apecloud/ApeRAG">apecloud/ApeRAG</a></b> (🥈21 ·  ⭐ 1.1K · 📈) - Production-ready RAG platform combining Graph RAG, vector search, and full-text search. Best choice for building your.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/apecloud/ApeRAG">apecloud/ApeRAG</a></b> (🥈21 ·  ⭐ 1.1K) - Production-ready RAG platform combining Graph RAG, vector search, and full-text search. Best choice for building your.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/apecloud/ApeRAG) (👨‍💻 21 · 🔀 130 · 📋 400 - 8% open · ⏱️ 21.04.2026)
 </details>
@@ -1424,7 +1424,7 @@ _MCP servers for monitoring_
 
 <details><summary><b><a href="https://github.com/netdata/netdata">netdata/netdata</a></b> (🥇36 ·  ⭐ 79K) - Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs,.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:cplusplus.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:memory.svg?color=%23f97316" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.simpleicons.org/apple/9399b2" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:windows11.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:linux.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/netdata/netdata) (👨‍💻 670 · 🔀 6.3K · 📥 1.4M · 📋 8.2K - 1% open · ⏱️ 21.04.2026)
+- [GitHub](https://github.com/netdata/netdata) (👨‍💻 670 · 🔀 6.3K · 📥 1.4M · 📋 8.2K - 1% open · ⏱️ 22.04.2026)
 </details>
 <details><summary><b><a href="https://github.com/grafana/mcp-grafana">grafana/mcp-grafana</a></b> (🥈26 ·  ⭐ 2.9K) - Search dashboards, investigate incidents and query datasources in your Grafana instance. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
 
@@ -1478,7 +1478,7 @@ _MCP servers for multimedia process_
 
 _MCP servers for search and data extraction_
 
-<details><summary><b><a href="https://github.com/brightdata/brightdata-mcp">brightdata/brightdata-mcp</a></b> (🥇21 ·  ⭐ 2.3K · 📉) - Discover, extract, and interact with the web - one interface powering automated access across the public internet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/brightdata/brightdata-mcp">brightdata/brightdata-mcp</a></b> (🥇21 ·  ⭐ 2.3K) - Discover, extract, and interact with the web - one interface powering automated access across the public internet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/brightdata/brightdata-mcp) (👨‍💻 16 · 🔀 290 · 📦 17 · 📋 48 - 14% open · ⏱️ 20.04.2026)
 </details>
@@ -1582,7 +1582,7 @@ _MCP servers for search and data extraction_
 
 - [GitHub](https://github.com/scrapeless-ai/scrapeless-mcp-server) (👨‍💻 4 · 🔀 25 · 📦 2 · ⏱️ 23.09.2025)
 </details>
-<details><summary><b><a href="https://github.com/ConechoAI/openai-websearch-mcp">ConechoAI/openai-websearch-mcp</a></b> (🥉7 ·  ⭐ 88 · 💤) - This is a Python-based MCP server that provides OpenAI web_search build-in tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ConechoAI/openai-websearch-mcp">ConechoAI/openai-websearch-mcp</a></b> (🥉7 ·  ⭐ 89 · 💤) - This is a Python-based MCP server that provides OpenAI web_search build-in tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/ConechoAI/openai-websearch-mcp) (👨‍💻 3 · 🔀 17 · ⏱️ 12.09.2025)
 </details>
@@ -1726,7 +1726,7 @@ _MCP servers for support & service management_
 
 - [GitHub](https://github.com/sooperset/mcp-atlassian) (👨‍💻 96 · 🔀 1.1K · 📦 10 · 📋 450 - 37% open · ⏱️ 10.04.2026)
 </details>
-<details><summary><b><a href="https://github.com/nguyenvanduocit/jira-mcp">nguyenvanduocit/jira-mcp</a></b> (🥉17 ·  ⭐ 86 · 📈) - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:go.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/nguyenvanduocit/jira-mcp">nguyenvanduocit/jira-mcp</a></b> (🥉17 ·  ⭐ 86) - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:go.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/nguyenvanduocit/jira-mcp) (👨‍💻 8 · 🔀 23 · 📥 240 · ⏱️ 18.04.2026)
 </details>
@@ -1738,7 +1738,7 @@ _MCP servers for support & service management_
 
 _MCP servers for text-to-speech_
 
-<details><summary><b><a href="https://github.com/mbailey/voicemode">mbailey/voicemode</a></b> (🥇22 ·  ⭐ 1.1K · 📈) - Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations through.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mbailey/voicemode">mbailey/voicemode</a></b> (🥇22 ·  ⭐ 1.1K) - Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations through.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:python.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/mbailey/voicemode) (👨‍💻 17 · 🔀 150 · 📋 110 - 26% open · ⏱️ 21.04.2026)
 </details>
@@ -1754,7 +1754,7 @@ _MCP servers for text-to-speech_
 
 _MCP servers for translation services_
 
-<details><summary><b><a href="https://github.com/translated/lara-mcp">translated/lara-mcp</a></b> (🥇12 ·  ⭐ 79 · 📈) - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/translated/lara-mcp">translated/lara-mcp</a></b> (🥇12 ·  ⭐ 79) - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/translated/lara-mcp) (👨‍💻 4 · 🔀 18 · 📋 4 - 25% open · ⏱️ 21.04.2026)
 </details>
@@ -1832,13 +1832,13 @@ _MCP servers for other tools and integrations_
 </details>
 <details><summary><b><a href="https://github.com/screenpipe/screenpipe">screenpipe/screenpipe</a></b> (🥇31 ·  ⭐ 18K) - Local-first system capturing screen/audio with timestamped indexing, SQL/embedding storage, semantic search, LLM-.. <code>❗Unlicensed</code> <code><img src="https://api.iconify.design/material-symbols:award-star-outline.svg?color=%23f9e2af" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.simpleicons.org/apple/9399b2" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.simpleicons.org/rust/CE422B" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/screenpipe/screenpipe) (👨‍💻 110 · 🔀 1.6K · 📥 4.6K · 📦 1 · 📋 1.5K - 1% open · ⏱️ 21.04.2026)
+- [GitHub](https://github.com/screenpipe/screenpipe) (👨‍💻 110 · 🔀 1.6K · 📥 4.6K · 📦 1 · 📋 1.5K - 1% open · ⏱️ 22.04.2026)
 </details>
 <details><summary><b><a href="https://github.com/modelcontextprotocol/servers">modelcontextprotocol/servers</a></b> (🥇28 ·  ⭐ 84K) - MCP server that exercises all the features of the MCP protocol. <code>❗Unlicensed</code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/material-symbols:home.svg?color=%2389b4fa" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/modelcontextprotocol/servers) (👨‍💻 1K · 🔀 10K · 📋 1K - 23% open · ⏱️ 17.04.2026)
 </details>
-<details><summary><b><a href="https://github.com/apify/apify-mcp-server">apify/apify-mcp-server</a></b> (🥇27 ·  ⭐ 1.1K · 📈) - Use 3,000+ pre-built cloud tools, known as Actors, to extract data from websites, e-commerce, social media, search.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/apify/apify-mcp-server">apify/apify-mcp-server</a></b> (🥇27 ·  ⭐ 1.1K) - Use 3,000+ pre-built cloud tools, known as Actors, to extract data from websites, e-commerce, social media, search.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://api.iconify.design/material-symbols:cloud.svg?color=%23bac2de" style="display:inline;" width="13" height="13"></code> <code><img src="https://api.iconify.design/devicon:typescript.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/apify/apify-mcp-server) (👨‍💻 25 · 🔀 150 · 📥 4.5K · 📦 10 · 📋 250 - 32% open · ⏱️ 18.04.2026)
 </details>
