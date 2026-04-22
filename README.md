@@ -17,6 +17,7 @@
     <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-400-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/tolkonepiu/best-of-mcp-servers/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/tolkonepiu/best-of-mcp-servers?color=green&label=updated"></a>
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/tolkonepiu-best-of-mcp-servers)
 </p>
 
 This curated list contains 400 awesome MCP (Model Context Protocol) servers with a total of 970K stars grouped into 34 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/tolkonepiu/best-of-mcp-servers/issues/new/choose), submit a [pull request](https://github.com/tolkonepiu/best-of-mcp-servers/pulls), or directly edit the [projects.yaml](https://github.com/tolkonepiu/best-of-mcp-servers/edit/main/projects.yaml). Contributions are very welcome!
