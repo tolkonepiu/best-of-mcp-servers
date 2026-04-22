@@ -365,9 +365,9 @@ projects:
   - name: Skyvern-AI/skyvern
     github_id: Skyvern-AI/skyvern
     description: >-
-      Automates browser-based workflows using LLMs and computer
-      vision — navigate pages, fill forms, extract data, handle authentication,
-      and automate any website via natural language
+      Automates browser-based workflows using LLMs and computer vision —
+      navigate pages, fill forms, extract data, handle authentication, and
+      automate any website via natural language
     category: browser-automation
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
@@ -1466,6 +1466,13 @@ projects:
     description: >-
       Interactive smart contract generator based on OpenZeppelin Contracts.
     category: developer-tools
+  - name: DeusData/codebase-memory-mcp
+    github_id: DeusData/codebase-memory-mcp
+    description: >
+      High-performance code intelligence MCP server. Indexes codebases into a
+      persistent knowledge graph — average repo in milliseconds. 66 languages,
+      sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
@@ -1700,6 +1707,14 @@ projects:
       An MCP server for real-time Fantasy Premier League data and analysis
       tools.
     category: gaming
+  - name: tumourlove/monolith
+    github_id: tumourlove/monolith
+    description: >-
+      Unreal Engine 5.7 editor plugin that gives AI assistants full read/write
+      access to Blueprints, Materials, Animation, Niagara, Config, Editor,
+      Project Index, and Engine Source via MCP. 119 actions across 9 domains.
+      Pure C++, embedded Streamable HTTP server, no Python bridges.
+    category: gaming
   - name: apecloud/ApeRAG
     github_id: apecloud/ApeRAG
     description: >-
@@ -1810,6 +1825,14 @@ projects:
     description: >-
       Cognitive memory for AI agents with Hebbian learning, 3-tier architecture,
       and knowledge graphs. Single ~15MB binary, runs offline on edge devices.
+    category: knowledge-and-memory
+  - name: omega-memory/omega-memory
+    github_id: omega-memory/omega-memory
+    description: >-
+      Persistent memory for AI coding agents with semantic search, auto-capture,
+      cross-session learning, and intelligent forgetting. #1 on LongMemEval
+      (95.4%).
+    pypi_id: omega-memory
     category: knowledge-and-memory
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
