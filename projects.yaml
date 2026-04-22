@@ -166,7 +166,6 @@ projects:
     description: >-
       Connect and unify data across various platforms and databases with MindsDB
       as a single MCP server.
-    labels: []
     category: aggregators
   - name: sitbon/magg
     github_id: sitbon/magg
@@ -625,7 +624,6 @@ projects:
     description: >-
       A Model Context Protocol server that provides access to iTerm. You can run
       commands and ask questions about what you see in the iTerm terminal.
-    labels: []
     category: command-line
   - name: g0t4/mcp-server-commands
     github_id: g0t4/mcp-server-commands
@@ -649,7 +647,6 @@ projects:
     description: >-
       A secure shell command execution server implementing the Model Context
       Protocol (MCP)
-    labels: []
     category: command-line
   - name: wonderwhy-er/DesktopCommanderMCP
     github_id: wonderwhy-er/DesktopCommanderMCP
@@ -662,7 +659,6 @@ projects:
     description: >-
       TSgram: Telegram + Claude with local workspace access on your phone in
       typescript. Read, write, and vibe code on the go!
-    labels: []
     category: communication
   - name: carterlasalle/mac_messages_mcp
     github_id: carterlasalle/mac_messages_mcp
@@ -775,7 +771,6 @@ projects:
     description: >-
       Supabase MCP Server with support for SQL query execution and database
       exploration tools
-    labels: []
     category: databases
   - name: aliyun/alibabacloud-tablestore-mcp-server
     github_id: aliyun/alibabacloud-tablestore-mcp-server
@@ -1075,7 +1070,6 @@ projects:
     description:
       Create crafted UI components inspired by the best 21st.dev design
       engineers.
-    labels: []
     category: developer-tools
   - name: aashari/mcp-server-atlassian-bitbucket
     github_id: aashari/mcp-server-atlassian-bitbucket
@@ -1397,7 +1391,6 @@ projects:
     description: >-
       MCP server for seamless document format conversion using Pandoc,
       supporting Markdown, HTML, PDF, DOCX (.docx), csv and more.
-    labels: []
     category: developer-tools
   - name: biegehydra/BifrostMCP
     github_id: biegehydra/BifrostMCP
@@ -1837,7 +1830,6 @@ projects:
       connects QGIS Desktop to Claude AI through the MCP. This integration
       enables prompt-assisted project creation, layer loading, code execution,
       and more.
-    labels: []
     category: location-services
   - name: gomarble-ai/facebook-ads-mcp-server
     github_id: gomarble-ai/facebook-ads-mcp-server
@@ -1933,7 +1925,6 @@ projects:
       Using ffmpeg command line to achieve an mcp server, can be very
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
-    labels: []
     category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
@@ -2353,7 +2344,6 @@ projects:
       A Model Context Protocol (MCP) server that enables AI models to interact
       with Bitcoin, allowing them to generate keys, validate addresses, decode
       transactions, query the blockchain, and more.
-    labels: []
     category: other-tools-and-integrations
   - name: apify/apify-mcp-server
     github_id: apify/apify-mcp-server
@@ -2377,7 +2367,6 @@ projects:
     description: >-
       Official Microsoft MCP server for Azure services including Storage, Cosmos
       DB, and Azure Monitor.
-    labels: []
     category: other-tools-and-integrations
   - name: blurrah/mcp-graphql
     github_id: blurrah/mcp-graphql
@@ -2480,7 +2469,6 @@ projects:
     description: >-
       Chat with any other OpenAI SDK Compatible Chat Completions API, like
       Perplexity, Groq, xAI and more
-    labels: []
     category: other-tools-and-integrations
   - name: Rai220/think-mcp
     github_id: Rai220/think-mcp
