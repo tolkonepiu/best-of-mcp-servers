@@ -1618,6 +1618,14 @@ projects:
       An MCP server that integrates with the Freqtrade cryptocurrency trading
       bot.
     category: finance-and-fintech
+  - name: Lightning Wallet MCP
+    github_id: lightningfaucet/lightning-wallet-mcp
+    npm_id: lightning-wallet-mcp
+    description: Give AI agents a Bitcoin wallet with Lightning Network payments and L402 support
+    labels:
+      - cloud
+      - typescript
+    category: finance-and-fintech
   - name: mcpdotdirect/evm-mcp-server
     github_id: mcpdotdirect/evm-mcp-server
     description: >-
