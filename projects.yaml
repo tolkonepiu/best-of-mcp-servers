@@ -2506,6 +2506,10 @@ projects:
       talk to Asana API from MCP Client such as Anthropic's Claude Desktop
       Application, and many more.
     category: other-tools-and-integrations
+  - name: Saschahu/fred-bot-mcp
+    github_id: Saschahu/fred-bot-mcp
+    description: A meeting point for bots. Public guestbook with presence tracking and bot profiles.
+    category: other-tools-and-integrations
   - name: SecretiveShell/MCP-wolfram-alpha
     github_id: SecretiveShell/MCP-wolfram-alpha
     description: An MCP server for querying wolfram alpha API.
