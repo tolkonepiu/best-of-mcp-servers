@@ -1473,6 +1473,14 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: MohamedAbdallah-14/unslop
+    github_id: MohamedAbdallah-14/unslop
+    description: >-
+      CLI and MCP server that removes AI writing patterns from text: tricolons,
+      em-dash overuse, hedging stacks, sycophancy openers, and overused
+      vocabulary. Works with Claude Code, Codex, Gemini CLI, and Cursor. Five
+      intensity levels and a lint-only audit mode.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
@@ -1948,6 +1956,15 @@ projects:
       Using ffmpeg command line to achieve an mcp server, can be very
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
+    category: multimedia-process
+  - name: MohamedAbdallah-14/prompt-to-asset
+    github_id: MohamedAbdallah-14/prompt-to-asset
+    description: >-
+      MCP server that generates production-ready visual assets (app icons,
+      favicons, OG images, logos, wordmarks) by routing requests across 30+
+      image generation models. Three execution modes: inline SVG, external
+      prompt, or full API generation. Zero API key required for first run via
+      Pollinations and Stable Horde free tiers.
     category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
