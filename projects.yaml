@@ -719,6 +719,16 @@ projects:
       An MCP server for searching your personal WhatsApp messages, contacts and
       sending messages to individuals or groups
     category: communication
+  - name: toloco/whasapo
+    github_id: toloco/whasapo
+    description: >-
+      WhatsApp MCP server written in Go. Send and read messages, list chats, and
+      search contacts from any MCP-compatible client. Single binary, no runtime
+      dependencies, local-only session storage.
+    labels:
+      - go
+      - local
+    category: communication
   - name: line/line-bot-mcp-server
     github_id: line/line-bot-mcp-server
     description: MCP Server for Integrating LINE Official Account
