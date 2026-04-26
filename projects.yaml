@@ -2575,3 +2575,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: kiluazen/tteg
+    github_id: kiluazen/tteg
+    description: >-
+      Free Unsplash stock photos for AI agents. Search, save, and batch-download
+      real photos without API keys or registration.
+    labels:
+      - python
+    category: art-and-culture
