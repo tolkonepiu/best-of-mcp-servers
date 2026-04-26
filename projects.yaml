@@ -271,6 +271,15 @@ projects:
       library, smart prompt enhancement, and multi-provider routing (local
       ComfyUI, MeiGen Cloud, OpenAI-compatible APIs).
     category: art-and-culture
+  - name: connerlambden/bgpt-mcp
+    github_id: connerlambden/bgpt-mcp
+    description: >-
+      Search scientific papers with structured experimental data extracted from
+      full-text studies. Returns 25+ fields per paper including methods, results,
+      sample sizes, limitations, and quality scores.
+    labels:
+      - cloud
+    category: bio
   - name: genomoncology/biomcp
     github_id: genomoncology/biomcp
     description: >-
