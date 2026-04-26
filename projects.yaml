@@ -1744,6 +1744,13 @@ projects:
       Enhanced graph-based memory with a focus on AI role-play and story
       generation
     category: knowledge-and-memory
+  - name: Dan8Oren/mcp-apple-notes
+    github_id: Dan8Oren/mcp-apple-notes
+    description: >-
+      Semantic search and RAG over Apple Notes with on-device embeddings, full
+      CRUD, folder management, and fuzzy title matching. 13 tools. Runs fully
+      locally on macOS — no API keys required. 10 tools.
+    category: knowledge-and-memory
   - name: entanglr/zettelkasten-mcp
     github_id: entanglr/zettelkasten-mcp
     description: >-
