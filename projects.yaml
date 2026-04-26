@@ -1473,14 +1473,6 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
-  - name: MohamedAbdallah-14/unslop
-    github_id: MohamedAbdallah-14/unslop
-    description: >-
-      CLI and MCP server that removes AI writing patterns from text: tricolons,
-      em-dash overuse, hedging stacks, sycophancy openers, and overused
-      vocabulary. Works with Claude Code, Codex, Gemini CLI, and Cursor. Five
-      intensity levels and a lint-only audit mode.
-    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
