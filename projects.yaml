@@ -406,6 +406,13 @@ projects:
       Typescript implementation of Kubernetes cluster operations for pods,
       deployments, services.
     category: cloud-platforms
+  - name: kubestellar/console
+    github_id: kubestellar/console
+    description: >-
+      Multi-cluster Kubernetes dashboard with built-in MCP server (kc-agent) for
+      AI-assisted operations, real-time observability, and integrations with 20+
+      CNCF projects across edge and cloud clusters.
+    category: cloud-platforms
   - name: nwiizo/tfmcp
     github_id: nwiizo/tfmcp
     description: >-
