@@ -1078,6 +1078,17 @@ projects:
       Create crafted UI components inspired by the best 21st.dev design
       engineers.
     category: developer-tools
+  - name: Which-Model/whichmodel-mcp
+    github_id: Which-Model/whichmodel-mcp
+    homepage: https://whichmodel.dev
+    description: >-
+      A model routing advisor for autonomous agents — get cost-optimised LLM
+      recommendations via MCP. Query for the best model for any task at the
+      best price, with cross-verified data updated every 4 hours.
+    labels:
+      - cloud
+      - typescript
+    category: developer-tools
   - name: aashari/mcp-server-atlassian-bitbucket
     github_id: aashari/mcp-server-atlassian-bitbucket
     description: >-
