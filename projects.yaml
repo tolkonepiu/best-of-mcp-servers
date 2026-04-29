@@ -2273,6 +2273,18 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: ssemble-mcp-server
+    github_id: ssembleinc/ssemble-mcp-server
+    npm_id: "@ssemble/mcp-server"
+    description: >-
+      Create AI-generated short-form video clips from YouTube with captions,
+      music, gameplay overlays, meme hooks, and viral scoring. 9 tools, 3
+      resources, 2 prompts. Supports stdio and Streamable HTTP transport.
+    labels:
+      - typescript
+      - cloud
+      - local
+    category: multimedia-process
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
