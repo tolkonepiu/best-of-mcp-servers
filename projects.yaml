@@ -2273,6 +2273,17 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: Xquik-dev/x-twitter-scraper
+    github_id: Xquik-dev/x-twitter-scraper
+    description: >-
+      Real-time X (Twitter) data platform for AI agents. 122 REST API endpoints
+      via 2 MCP tools — tweet search, user lookup, bulk extraction (23 tools),
+      write actions, giveaway draws, account monitoring, HMAC webhooks, and
+      trending topics. StreamableHTTP transport with API key auth.
+    labels:
+      - cloud
+      - typescript
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
