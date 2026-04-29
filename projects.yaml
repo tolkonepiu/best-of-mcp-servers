@@ -2015,6 +2015,17 @@ projects:
     github_id: fatwang2/search1api-mcp
     description: Search via search1api (requires paid API key)
     category: search-data-extraction
+  - name: GEOScore MCP
+    github_id: henu-wang/geoscore-mcp
+    npm_id: geoscore-mcp
+    description: >-
+      AI search optimization (GEO). Scan websites for AI search readiness,
+      generate llms.txt, Schema.org fixes, and meta tag optimizations.
+    labels:
+      - cloud
+      - local
+      - typescript
+    category: search-data-extraction
   - name: hellokaton/unsplash-mcp-server
     github_id: hellokaton/unsplash-mcp-server
     description: A MCP server for Unsplash image search.
