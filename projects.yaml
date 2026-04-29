@@ -1679,6 +1679,17 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: PreReason/mcp
+    github_id: PreReason/mcp
+    description:
+      Financial market context API delivering pre-analyzed briefings with trend
+      signals, regime classification, and confidence scores. 17 briefings
+      covering BTC on-chain, macro indicators, and cross-asset correlations.
+      Markdown-first output for efficient LLM token usage.
+    labels:
+      - cloud
+      - typescript
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
