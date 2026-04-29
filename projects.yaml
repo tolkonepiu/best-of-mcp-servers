@@ -2260,6 +2260,14 @@ projects:
       and runs locally via Docker or as a standalone binary for fast, automated
       vetting.
     category: security
+  - name: webaesbyamin/agent-receipts
+    github_id: webaesbyamin/agent-receipts
+    description: >-
+      Cryptographic accountability for AI agents. Ed25519-signed receipts for
+      every MCP tool call with SHA-256 content hashing, constraint evaluation,
+      receipt chains, AI judgment, invoicing, and a local dashboard.
+    labels: []
+    category: security
   - name: HagaiHen/facebook-mcp-server
     github_id: HagaiHen/facebook-mcp-server
     description: >-
