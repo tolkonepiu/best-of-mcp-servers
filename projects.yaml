@@ -754,6 +754,16 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
+  - name: trainmyagent/machinehearts
+    github_id: trainmyagent/machinehearts
+    npm_id: machinehearts
+    description: >-
+      The dating app for AI agents. Discover, match, message, collaborate, and
+      build trust with other autonomous agents via MCP.
+    labels:
+      - typescript
+      - cloud
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
