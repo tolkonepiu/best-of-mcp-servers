@@ -2,19 +2,28 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/apify/apify-mcp-server">apify/apify-mcp-server</a></b> (🥇27 ·  ⭐ 1.1K · 📈) - Use 3,000+ pre-built cloud tools, known as Actors, to extract data from websites, e-commerce, social media, search.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/mbailey/voicemode">mbailey/voicemode</a></b> (🥇22 ·  ⭐ 1.1K · 📈) - Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations through.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/apecloud/ApeRAG">apecloud/ApeRAG</a></b> (🥈21 ·  ⭐ 1.1K · 📈) - Production-ready RAG platform combining Graph RAG, vector search, and full-text search. Best choice for building your.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/nguyenvanduocit/jira-mcp">nguyenvanduocit/jira-mcp</a></b> (🥉17 ·  ⭐ 86 · 📈) - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/translated/lara-mcp">translated/lara-mcp</a></b> (🥇12 ·  ⭐ 79 · 📈) - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/genomoncology/biomcp">genomoncology/biomcp</a></b> (🥇22 ·  ⭐ 500 · 📈) - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/blazickjp/arxiv-mcp-server">blazickjp/arxiv-mcp-server</a></b> (🥇20 ·  ⭐ 2.6K · 📈) - Search ArXiv research papers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/nickclyde/duckduckgo-mcp-server">nickclyde/duckduckgo-mcp-server</a></b> (🥈17 ·  ⭐ 1K · 📈) - Web search using DuckDuckGo. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/tacticlaunch/mcp-linear">tacticlaunch/mcp-linear</a></b> (🥈13 ·  ⭐ 130 · 📈) - Integrates with Linear project management system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/diivi/aseprite-mcp">diivi/aseprite-mcp</a></b> (🥉8 ·  ⭐ 150 · 📈) - MCP server using the Aseprite API to create pixel art. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/mindsdb/mindsdb">mindsdb/mindsdb</a></b> (🥇28 ·  ⭐ 39K · 📉) - Connect and unify data across various platforms and databases with MindsDB as a single MCP server. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/Flux159/mcp-server-kubernetes">Flux159/mcp-server-kubernetes</a></b> (🥈23 ·  ⭐ 1.4K · 📉) - Typescript implementation of Kubernetes cluster operations for pods, deployments, services. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/antvis/mcp-server-chart">antvis/mcp-server-chart</a></b> (🥇21 ·  ⭐ 4K · 📉) - A Model Context Protocol server for generating visual charts using AntV. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/brightdata/brightdata-mcp">brightdata/brightdata-mcp</a></b> (🥇21 ·  ⭐ 2.3K · 📉) - Discover, extract, and interact with the web - one interface powering automated access across the public internet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/crystaldba/postgres-mcp">crystaldba/postgres-mcp</a></b> (🥉14 ·  ⭐ 2.6K · 📉) - All-in-one MCP server for Postgres development and operations, with tools for performance analysis, tuning, and health.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/eyaltoledano/claude-task-master">eyaltoledano/claude-task-master</a></b> (🥇24 ·  ⭐ 27K · 📉) - AI-powered task management system for AI-driven development. Features PRD parsing, task expansion, multi-provider.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/korotovsky/slack-mcp-server">korotovsky/slack-mcp-server</a></b> (🥇23 ·  ⭐ 1.6K · 📉) - The most powerful MCP server for Slack Workspaces. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/duriantaco/skylos">duriantaco/skylos</a></b> (🥈18 ·  ⭐ 420 · 📉) - Dead code detection, security scanning, and code quality analysis for Python, TypeScript, and Go. 98% recall with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/andybrandt/mcp-simple-arxiv">andybrandt/mcp-simple-arxiv</a></b> (🥈13 ·  ⭐ 190 · 📉) - MCP for LLM to search and read papers from arXiv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/wong2/mcp-cli">wong2/mcp-cli</a></b> (🥉8 ·  ⭐ 430 · 💤) - CLI tool for testing MCP servers. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+
+## ➕ Added Projects
+
+_Projects that were recently added to this best-of list._
+
+- <b><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a></b> (🥇24 ·  ⭐ 1.9K · 🐣) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph average repo in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/kubestellar/console">kubestellar/console</a></b> (🥈24 ·  ⭐ 75 · 🐣) - Multi-cluster Kubernetes dashboard with built-in MCP server (kc-agent) for AI-assisted operations, real-time.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/omega-memory/omega-memory">omega-memory/omega-memory</a></b> (🥈17 ·  ⭐ 110 · 🐣) - Persistent memory for AI coding agents with semantic search, auto-capture, cross-session learning, and intelligent.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/tumourlove/monolith">tumourlove/monolith</a></b> (🥈17 ·  ⭐ 83 · 🐣) - Unreal Engine 5.7 editor plugin that gives AI assistants full read/write access to Blueprints, Materials, Animation,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
