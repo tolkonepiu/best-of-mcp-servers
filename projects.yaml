@@ -87,6 +87,13 @@ categories:
   - category: security
     title: Security
     subtitle: MCP servers for security analysis and vulnerability scanning
+  - name: EnigmAgent
+    github_id: Agnuxo1/EnigmAgent
+    npm_id: enigmagent-mcp
+    category: security
+    labels: []
+    description: AES-256-GCM + Argon2id encrypted local vault MCP server. Resolves {{PLACEHOLDER}} secrets at runtime so API keys never appear in prompts or logs.
+
   - category: social-media
     title: Social Media
     subtitle: >-
