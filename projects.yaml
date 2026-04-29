@@ -2575,3 +2575,6 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+- name: Auto.dev
+  github_id: drivly/auto-dev-skill
+  description: VIN decode, vehicle listings, payments, recalls, specs, and more — via MCP tools, CLI, SDK, or direct API. One install covers everything.
