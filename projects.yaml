@@ -1795,6 +1795,16 @@ projects:
       TypeScript/Rust implementation with local-first storage using SQLite +
       SurrealDB for semantic analysis and incremental codebase understanding.
     category: knowledge-and-memory
+  - name: Reporecall
+    github_id: proofofwork-agency/reporecall
+    npm_id: reporecall
+    description: >-
+      Local codebase memory for Claude Code and MCP clients. AST indexing
+      (22 languages), call graph expansion, hybrid keyword + vector search.
+    labels:
+      - local
+      - typescript
+    category: knowledge-and-memory
   - name: ragieai/ragie-mcp-server
     github_id: ragieai/ragie-mcp-server
     description: >-
