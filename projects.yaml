@@ -1879,6 +1879,14 @@ projects:
       A suite of marketing tools from Open Strategy Partners including writing
       style, editing codes, and product marketing value map creation.
     category: marketing
+  - name: Parsegl/parse-mcp
+    github_id: Parsegl/parse-mcp
+    description: >-
+      Look up how any brand surfaces in ChatGPT and Google AI Overviews.
+      Parse's public AI visibility index, queryable from any MCP-capable
+      client. Search brands, prompts, sources, and niches; fetch brand briefs
+      and prompt details; pull dataset stats. 577,000+ brands. No auth required.
+    category: marketing
   - name: pipeboard-co/meta-ads-mcp
     github_id: pipeboard-co/meta-ads-mcp
     description: >-
