@@ -1841,6 +1841,15 @@ projects:
       (95.4%).
     pypi_id: omega-memory
     category: knowledge-and-memory
+  - name: Bidda-Ai/bidda-mcp
+    github_id: Bidda-Ai/bidda-mcp
+    description: >-
+      Sovereign compliance intelligence registry with 3,695 cryptographically-verified
+      regulatory nodes across 31 pillars — EU AI Act, GDPR, NIST AI 600-1, Basel III,
+      HIPAA, DORA, FATF, SOC 2, and 150+ others. Every node traces to primary legal
+      instruments (avg 7 citations) with machine-executable deterministic workflow logic.
+      Zero hallucination by design. Tools: list_pillars, search_nodes, get_node.
+    category: knowledge-and-memory
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
     description:
