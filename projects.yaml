@@ -2575,3 +2575,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: openpulsechain/public
+    github_id: openpulsechain/public
+    npm_id: '@openpulsechain/mcp-server'
+    category: finance-and-fintech
+    description: >-
+      PulseChain blockchain analytics for AI agents. 28 MCP tools: token safety
+      scores, opportunity signals, whale alerts, pair analytics, deployer
+      reputation, AML funding tree, smart money feed, gas price, sentiment.
+      x402 micropayments (USDC on Base).
