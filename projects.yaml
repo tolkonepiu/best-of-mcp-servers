@@ -1595,7 +1595,7 @@ projects:
     category: finance-and-fintech
   - name: Bankee-ai/inferventis
     github_id: Bankee-ai/inferventis
-    homepage: https://mcp-server-295985738387.europe-west1.run.app
+    homepage: https://mcp-server-295985738387.europe-west1.run.app/mcp-pay?src=bestof
     description: >-
       Live financial data MCP for AI agents: real-time FX rates, stock quotes,
       crypto prices (10,000+ coins), Open Banking (PSD2/TrueLayer), Stripe
