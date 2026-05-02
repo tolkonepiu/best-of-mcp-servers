@@ -1593,6 +1593,15 @@ projects:
     description:
       Alpha Vantage API integration to fetch both stock and crypto information
     category: finance-and-fintech
+  - name: Bankee-ai/inferventis
+    github_id: Bankee-ai/inferventis
+    homepage: https://mcp-server-295985738387.europe-west1.run.app
+    description: >-
+      Live financial data MCP for AI agents: real-time FX rates, stock quotes,
+      crypto prices (10,000+ coins), Open Banking (PSD2/TrueLayer), Stripe
+      payment data, financial calculator. Semantic tool_finder discovery.
+      Pay-per-call via x402 micropayments on Base ($0.001 USDC).
+    category: finance-and-fintech
   - name: doggybee/mcp-server-ccxt
     github_id: doggybee/mcp-server-ccxt
     description: >-
