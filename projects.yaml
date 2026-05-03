@@ -1916,6 +1916,15 @@ projects:
       Zabbix integration for hosts, items, triggers, templates, problems, data
       and more.
     category: monitoring
+  - name: AlexlaGuardia/Vigil
+    github_id: AlexlaGuardia/Vigil
+    pypi_id: vigil-agent
+    description: >-
+      MCPWatch instruments any Python MCP server in one line. Supports both
+      FastMCP and the low-level mcp.Server. Tracks per-tool latency
+      (p50/p95/p99), error rates, silent failures, and call volume. REST
+      API, CLI, and alert hooks included.
+    category: monitoring
   - name: pydantic/logfire-mcp
     github_id: pydantic/logfire-mcp
     description:
