@@ -1072,6 +1072,16 @@ projects:
       interact with Keboola Connection Data Platform. This server provides tools
       for listing and accessing data from Keboola Storage API.
     category: data-platforms
+  - name: RipperMercs/tensorfeed-mcp
+    github_id: RipperMercs/tensorfeed-mcp
+    npm_id: "@tensorfeed/mcp-server"
+    description: >-
+      Real-time AI ecosystem data: AI news from 50+ sources, model pricing,
+      AI service status (Claude, OpenAI, Gemini, etc), MCP registry growth,
+      GitHub trending, AI papers. 8 free tools plus 14 premium x402
+      pay-per-call tools (routing, history series, news search, cost
+      projection, recession watch) in USDC on Base. AFTA-certified.
+    category: data-platforms
   - name: 21st-dev/magic-mcp
     github_id: 21st-dev/magic-mcp
     description:
