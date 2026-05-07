@@ -2260,6 +2260,54 @@ projects:
       and runs locally via Docker or as a standalone binary for fast, automated
       vetting.
     category: security
+  - name: CSOAI-ORG/eu-ai-act-compliance-mcp
+    github_id: CSOAI-ORG/eu-ai-act-compliance-mcp
+    description: >-
+      EU AI Act risk classification, 42-point audit, documentation generation,
+      penalties and deadlines. By MEOK AI Labs.
+    category: security
+  - name: CSOAI-ORG/dora-compliance-mcp
+    github_id: CSOAI-ORG/dora-compliance-mcp
+    description: >-
+      DORA financial resilience compliance for ICT risk management, incident
+      reporting and third-party oversight. By MEOK AI Labs.
+    category: security
+  - name: CSOAI-ORG/nis2-compliance-mcp
+    github_id: CSOAI-ORG/nis2-compliance-mcp
+    description: >-
+      NIS2 cybersecurity directive compliance checking for essential and
+      important entities. By MEOK AI Labs.
+    category: security
+  - name: CSOAI-ORG/gdpr-compliance-ai-mcp
+    github_id: CSOAI-ORG/gdpr-compliance-ai-mcp
+    description: >-
+      GDPR compliance for AI/ML systems covering data protection impact
+      assessments and lawful basis. By MEOK AI Labs.
+    category: security
+  - name: CSOAI-ORG/hipaa-compliance-mcp
+    github_id: CSOAI-ORG/hipaa-compliance-mcp
+    description: >-
+      HIPAA healthcare compliance checking for covered entities and business
+      associates. By MEOK AI Labs.
+    category: security
+  - name: CSOAI-ORG/cra-compliance-mcp
+    github_id: CSOAI-ORG/cra-compliance-mcp
+    description: >-
+      EU Cyber Resilience Act compliance for products with digital elements.
+      By MEOK AI Labs.
+    category: security
+  - name: CSOAI-ORG/meok-governance-engine-mcp
+    github_id: CSOAI-ORG/meok-governance-engine-mcp
+    description: >-
+      Multi-framework governance engine spanning 13 regulatory frameworks
+      including EU AI Act, DORA, NIS2, GDPR, SOC2 and ISO 27001. By MEOK AI Labs.
+    category: security
+  - name: CSOAI-ORG/meok-watermark-attest-mcp
+    github_id: CSOAI-ORG/meok-watermark-attest-mcp
+    description: >-
+      EU AI Act Article 50 AI-generated content watermarking with C2PA
+      attestation. By MEOK AI Labs.
+    category: security
   - name: HagaiHen/facebook-mcp-server
     github_id: HagaiHen/facebook-mcp-server
     description: >-
