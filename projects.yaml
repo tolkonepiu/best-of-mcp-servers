@@ -2199,6 +2199,14 @@ projects:
       binaries, renaming methods and data, and listing methods, classes,
       imports, and exports.
     category: security
+  - name: matthiastjong/shellgate
+    github_id: matthiastjong/shellgate
+    description: >-
+      Open-source security gateway for AI agents. Provides scoped API tokens,
+      credential injection, human-in-the-loop approval workflows, SSH command
+      execution, vault for secure credential storage, and audit logging. Self-hosted
+      via Docker or managed cloud.
+    category: security
   - name: mrexodia/ida-pro-mcp
     github_id: mrexodia/ida-pro-mcp
     description: >-
