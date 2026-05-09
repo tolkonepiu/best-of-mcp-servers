@@ -2327,6 +2327,14 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: tanayshah11/travel-mcp-server
+    github_id: tanayshah11/travel-mcp-server
+    description: >-
+      AI-powered travel search exposing flights, hotels, and weather as MCP
+      tools, with a MongoDB-backed per-tool TTL cache whose timeouts are tuned
+      to each upstream API's reliability characteristics.
+    homepage: https://tanayshah.dev/projects/travel-mcp-server/
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
