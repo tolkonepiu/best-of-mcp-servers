@@ -2575,3 +2575,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: AIAppsAPI/adaptive-recall
+    github_id: AIAppsAPI/adaptive-recall
+    npm_id: adaptive-recall
+    description: >-
+      Adaptive memory for AI applications with multi-strategy retrieval,
+      ACT-R cognitive scoring, automatic knowledge graphs, memory lifecycle,
+      and ML that learns from your usage patterns.
+    category: knowledge-and-memory
