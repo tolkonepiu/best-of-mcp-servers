@@ -2171,6 +2171,14 @@ projects:
       MCP server for querying the VirusTotal API. This server provides tools for
       scanning URLs, analyzing file hashes, and retrieving IP address reports.
     category: security
+  - name: Chronolapse411/sicarius-guard
+    github_id: Chronolapse411/sicarius-guard
+    npm_id: sicarius-guard
+    description: >-
+      Solana token safety oracle for AI agents and trading bots. Byte-level SPL
+      mint analysis, honeypot detection, freeze/mint authority checks, Birdeye
+      market enrichment, and composite risk scoring.
+    category: security
   - name: fosdickio/binary_ninja_mcp
     github_id: fosdickio/binary_ninja_mcp
     description: >-
