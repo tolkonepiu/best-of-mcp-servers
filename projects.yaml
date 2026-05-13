@@ -622,12 +622,7 @@ projects:
     category: coding-agents
   - name: ejentum/ejentum-mcp
     github_id: ejentum/ejentum-mcp
-    description: >-
-      Reasoning Harness for agentic AI: 4 cognitive operating modes (reasoning,
-      code, anti-deception, memory) spanning 679 engineered abilities, served
-      as MCP tools. Each call returns a structured scaffold the LLM absorbs
-      before its first token, catching sycophancy, hallucination, causal
-      shortcuts, and reasoning decay at the moment they would otherwise emerge.
+    description: MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
     category: coding-agents
   - name: aymericzip/intlayer
     github_id: aymericzip/intlayer
