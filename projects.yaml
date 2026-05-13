@@ -2345,6 +2345,13 @@ projects:
       Azure DevOps integration for repository management, work items, and
       pipelines.
     category: version-control
+  - name: proompteng/bilig
+    github_id: proompteng/bilig
+    npm_id: "@bilig/headless"
+    description: >-
+      Fast headless spreadsheet engine and WorkPaper MCP server for formulas,
+      JSON persistence, and agent-driven workbook automation.
+    category: workplace-and-productivity
   - name: MarkusPfundstein/mcp-gsuite
     github_id: MarkusPfundstein/mcp-gsuite
     description: Integration with gmail and Google Calendar.
