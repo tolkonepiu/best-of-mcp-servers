@@ -757,10 +757,10 @@ projects:
   - name: dappros/ethora-mcp-cli
     github_id: dappros/ethora-mcp-cli
     description: >-
-      MCP server for the open-source Ethora chat/messaging platform: login,
-      manage apps and chat rooms, broadcast messages, deploy AI bots with RAG
-      sources, and use ERC-20 wallet tools. Supports user-auth and
-      B2B/app-token flows. Run with `npx -y @ethora/mcp-server`.
+      MCP server for the open-source Ethora chat & messaging platform: login,
+      manage apps and chat rooms, broadcast messages, and deploy AI agents /
+      chatbots with RAG sources. Supports user-auth and B2B/app-token flows.
+      Run with `npx -y @ethora/mcp-server`.
     category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
