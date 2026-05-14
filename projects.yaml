@@ -2488,6 +2488,13 @@ projects:
       Token-efficient Go documentation server that provides AI assistants with
       smart access to package docs and types without reading entire source files
     category: other-tools-and-integrations
+  - name: Packrift/packrift-mcp
+    github_id: Packrift/packrift-mcp
+    description: >-
+      Remote MCP server for a packaging supplies catalog, with tools for product
+      search, live pricing and inventory, packaging recommendations, shipping
+      estimates, and cart URLs.
+    category: other-tools-and-integrations
   - name: PV-Bhat/vibe-check-mcp-server
     github_id: PV-Bhat/vibe-check-mcp-server
     description: >-
