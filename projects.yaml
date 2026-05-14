@@ -754,8 +754,8 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
-  - name: dappros/ethora-mcp-cli
-    github_id: dappros/ethora-mcp-cli
+  - name: dappros/ethora-mcp-server
+    github_id: dappros/ethora-mcp-server
     description: >-
       MCP server for the open-source Ethora chat & messaging platform: login,
       manage apps and chat rooms, broadcast messages, and deploy AI agents /
