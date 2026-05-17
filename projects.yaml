@@ -1480,6 +1480,13 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: Coding-Dev-Tools/click-to-mcp
+    github_id: Coding-Dev-Tools/click-to-mcp
+    description: >-
+      Auto-wrap any Click/typer CLI as an MCP (Model Context Protocol)
+      server. Converts existing CLI tools into MCP-compatible servers
+      without modification.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
