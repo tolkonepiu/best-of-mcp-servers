@@ -2260,6 +2260,20 @@ projects:
       and runs locally via Docker or as a standalone binary for fast, automated
       vetting.
     category: security
+  - name: agentic-security-shield
+    github_id: ormuzdo/agentic-security-shield
+    homepage: https://agentic-security-shield-mcp-production.up.railway.app
+    description: >-
+      Drop-in security configs for AI coding agents. 12 layers of protection
+      across 17 AI tools (Claude Code, Cursor, Copilot, Bolt.new, Lovable,
+      v0.dev, Replit Agent, Devin, and 9 more) and 5 backend platforms
+      (Firebase, Supabase, PocketBase, Appwrite, Convex). Defends against
+      prompt injection, MCP tool poisoning, leaked secrets, SSRF, eval
+      injection, PII exposure, autonomous OAuth approval, and subagent
+      privilege escalation. Remote HTTP MCP server with autonomous A2A
+      purchase via x402 (19 USDC on Base, single-use replay-protected).
+      SHA-256 file integrity manifest.
+    category: security
   - name: HagaiHen/facebook-mcp-server
     github_id: HagaiHen/facebook-mcp-server
     description: >-
