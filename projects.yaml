@@ -1729,6 +1729,13 @@ projects:
       full-text search. Best choice for building your own Knowledge Graph and
       for Context Engineering
     category: knowledge-and-memory
+  - name: entire-vc/evc-team-relay-mcp
+    github_id: entire-vc/evc-team-relay-mcp
+    description: >-
+      Collaborative Obsidian vault access via Team Relay — read, write, and sync
+      notes with real-time CRDT-based conflict resolution. Enables AI agents to
+      work with shared Obsidian knowledge bases across multiple users.
+    category: knowledge-and-memory
   - name: bitbonsai/mcpvault
     github_id: bitbonsai/mcpvault
     description: >-
