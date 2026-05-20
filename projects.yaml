@@ -550,6 +550,12 @@ projects:
     github_id: ezyang/codemcp
     description: Coding agent with basic read, write and command line tools.
     category: coding-agents
+  - name: Keesan12/martin-loop
+    github_id: Keesan12/martin-loop
+    description: >-
+      Governed MCP runtime for AI coding agents with budget caps, verifier
+      gates, and inspectable runs.
+    category: coding-agents
   - name: jinzcdev/leetcode-mcp-server
     github_id: jinzcdev/leetcode-mcp-server
     description: >-
