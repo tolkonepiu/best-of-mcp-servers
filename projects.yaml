@@ -1563,6 +1563,13 @@ projects:
       MCP tool access to MarkItDown -- a library that converts many file formats
       (local or remote) to Markdown for LLM consumption.
     category: file-systems
+  - name: kochetkov-ma/brewpage-openapi
+    github_id: kochetkov-ma/brewpage-openapi
+    npm_id: brewpage-mcp
+    description: >-
+      MCP server for BrewPage -- free, no-signup hosting for HTML, Markdown,
+      key-value, JSON, files and multi-file sites via a public REST API.
+    category: file-systems
   - name: aaronjmars/web3-research-mcp
     github_id: aaronjmars/web3-research-mcp
     description: Deep Research for crypto - free & fully local
