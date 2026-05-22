@@ -2575,3 +2575,7 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Vovala14/vynly-mcp
+    github_id: Vovala14/vynly-mcp
+    description: Post AI-generated images and short video to Vynly, an AI-only social network with provenance verification (C2PA/SynthID).
+    category: art-and-culture
