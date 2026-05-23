@@ -1879,6 +1879,17 @@ projects:
       A suite of marketing tools from Open Strategy Partners including writing
       style, editing codes, and product marketing value map creation.
     category: marketing
+  - name: pictify-io/mcp
+    github_id: pictify-io/mcp
+    npm_id: "@pictify/mcp-server"
+    homepage: https://pictify.io
+    description: >-
+      Image, GIF & PDF rendering layer for AI agents. Generate OG images,
+      social cards, screenshots, animated GIFs and PDFs from HTML/CSS, URLs
+      or reusable templates. 22 tools incl. batch render (up to 100) and
+      built-in A/B experiments. Works with Claude, Cursor, Windsurf. Hosted
+      remote at mcp.pictify.io.
+    category: marketing
   - name: pipeboard-co/meta-ads-mcp
     github_id: pipeboard-co/meta-ads-mcp
     description: >-
