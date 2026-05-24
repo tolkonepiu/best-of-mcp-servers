@@ -2575,3 +2575,15 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+
+  - name: Gapup MCP
+    github_id: getgapup/gapup-mcp-public
+    description: >-
+      185 agent-payable C-suite expertise tools — SEC filings, 8-list sanctions/KYC,
+      clinical evidence (GRADE-graded), EU AI Act compliance, EU-first real estate,
+      research paper Q&A. Pay-per-call via x402 (USDC/EURC on Base + Optimism).
+      100 free calls/month, no credit card.
+    homepage: https://hub.gapup.io/agents-api
+    license: MIT
+    labels: ["mcp", "x402", "compliance", "finance"]
+    category: finance-and-fintech
