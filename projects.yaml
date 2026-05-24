@@ -2575,3 +2575,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: just-an-oldsalt/proto-mcp
+    github_id: just-an-oldsalt/proto-mcp
+    description: >-
+      Local-only macOS daemon that bridges Proton Mail to Claude Desktop
+      and Claude Code via Touch-ID-gated MCP tool calls. 29 tools across
+      read, search, compose, label, and send paths with a per-tool YAML
+      policy engine and a redacted audit log. Developer-ID signed +
+      Apple-notarized; installs via `brew install --cask proto-mcp`.
+    category: communication
