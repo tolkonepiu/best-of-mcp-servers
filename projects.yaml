@@ -4051,3 +4051,15 @@ projects:
       - typescript
       - local
     category: other-tools-and-integrations
+  - name: connerlambden/helium-mcp
+    github_id: connerlambden/helium-mcp
+    homepage: https://heliumtrades.com/mcp-page/
+    description: >-
+      Free remote MCP + REST API combining ML-derived options pricing
+      (per-symbol fair value, prob_ITM, Greeks) with structured news
+      intelligence (3.2M+ articles, 31-dim bias scoring). 10 endpoints,
+      JSON in/out, 50 free queries by IP, no signup.
+    labels:
+      - cloud
+      - python
+    category: finance-and-fintech
