@@ -2327,6 +2327,10 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: carvectorio/carvector-mcp
+    github_id: carvectorio/carvector-mcp
+    description: Vehicle specs, federal recall data, and OBD-II DTC
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
