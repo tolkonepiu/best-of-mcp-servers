@@ -1729,6 +1729,15 @@ projects:
       full-text search. Best choice for building your own Knowledge Graph and
       for Context Engineering
     category: knowledge-and-memory
+  - name: 7xuanlu/origin
+    github_id: 7xuanlu/origin
+    npm_id: origin-mcp
+    description: >-
+      Local-first memory layer for AI work. Agents capture decisions, lessons,
+      handoffs, and project context through MCP, then retrieve source-backed
+      memories, distilled Markdown pages, graph context, and hybrid search
+      across Claude Code, Codex, Cursor, Claude Desktop, and other MCP clients.
+    category: knowledge-and-memory
   - name: bitbonsai/mcpvault
     github_id: bitbonsai/mcpvault
     description: >-
