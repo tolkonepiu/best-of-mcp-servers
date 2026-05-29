@@ -1988,6 +1988,16 @@ projects:
       multi-language support, and comprehensive search capabilities including
       headlines, stories, and related topics through SerpAPI.
     category: search-data-extraction
+  - name: Clawdio777/verity
+    github_id: Clawdio777/verity
+    npm_id: verity-mcp
+    description: >-
+      Real-time fact-checking MCP server that verifies claims, URLs, and content
+      against live web sources. Returns structured verdicts (CURRENT, OUTDATED,
+      DISPUTED, or UNVERIFIABLE) with confidence scores and exactly what changed.
+      Eliminates AI hallucinations and stale data in content pipelines. No API
+      key required — pay-per-call via x402 on Base.
+    category: search-data-extraction
   - name: ConechoAI/openai-websearch-mcp
     github_id: ConechoAI/openai-websearch-mcp
     description:
