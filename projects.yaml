@@ -1988,6 +1988,16 @@ projects:
       multi-language support, and comprehensive search capabilities including
       headlines, stories, and related topics through SerpAPI.
     category: search-data-extraction
+  - name: Clawdio777/aeonos-mcp
+    github_id: Clawdio777/aeonos
+    npm_id: aeonos-mcp
+    description: >-
+      AI Search Visibility Agent — audits websites for AEO/GEO readiness and
+      optimises for citation by ChatGPT, Perplexity, Claude, and Google AI
+      Overviews. Returns P1/P2/P3 gap analysis, JSON-LD schema generation, E-E-A-T
+      scoring, entity disambiguation, and llms.txt generation. Pay-per-call via
+      x402 on Base. No API key required.
+    category: search-data-extraction
   - name: Clawdio777/verity
     github_id: Clawdio777/verity
     npm_id: verity-mcp
