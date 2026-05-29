@@ -1733,7 +1733,7 @@ projects:
     github_id: 7xuanlu/origin
     npm_id: origin-mcp
     description: >-
-      Local-first memory layer for AI work. Agents capture decisions, lessons,
+      Local-first AI work memory. Agents capture decisions, lessons,
       handoffs, and project context through MCP, then retrieve source-backed
       wiki pages, graph context, and hybrid search
       across Claude Code, Codex, Cursor, Claude Desktop, and other MCP clients.
