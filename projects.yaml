@@ -1735,7 +1735,7 @@ projects:
     description: >-
       Local-first memory layer for AI work. Agents capture decisions, lessons,
       handoffs, and project context through MCP, then retrieve source-backed
-      memories, distilled Markdown pages, graph context, and hybrid search
+      wiki pages, graph context, and hybrid search
       across Claude Code, Codex, Cursor, Claude Desktop, and other MCP clients.
     category: knowledge-and-memory
   - name: bitbonsai/mcpvault
