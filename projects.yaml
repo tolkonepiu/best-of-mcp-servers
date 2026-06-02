@@ -2575,3 +2575,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: The-Doxa-Way/doxa-mcp-schema
+    github_id: The-Doxa-Way/doxa-mcp-schema
+    description: >-
+      Free hosted MCP server for Christian encouragement and Bible lookup, with
+      three tools grounded in the Berean Standard Bible (public domain):
+      encouragement, scripture verse lookup with deep links, and Doxa Way
+      movement guidance. Remote streamable HTTP at https://doxa.app/mcp/v1, with
+      optional bring-your-own-licence for unlimited use.
+    category: art-and-culture
