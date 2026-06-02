@@ -2327,6 +2327,14 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: easyname889/worldcitisim-frontend
+    github_id: easyname889/worldcitisim-frontend
+    npm_id: "@worldcitisim/mcp-esim"
+    description: >-
+      Travel eSIM MCP server for 193 countries + UK SMS verification numbers.
+      Stripe + Bitcoin checkout, QR delivered by email in ~30s. Anonymous, no
+      API key needed.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
