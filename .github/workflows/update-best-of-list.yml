@@ -24,7 +24,7 @@ jobs:
       - if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
         name: set-version-via-date
         run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
       - name: check-version-tag
         shell: bash
         run: |
@@ -36,7 +36,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           branch: "${{ env.BRANCH_PREFIX }}${{ env.VERSION }}"
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
         with:
           fetch-depth: 0
           ref: ${{ env.BRANCH_PREFIX }}${{ env.VERSION }}
@@ -49,7 +49,7 @@ jobs:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
       - name: push-update
-        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7
+        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
         with:
           branch: ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }}
           commit_user_name: best-of update
@@ -69,7 +69,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: create-release
-        uses: actions/create-release@0cb9c9b65d5d1901c1f53e5e66eaf4afd303e70e # v1
+        uses: actions/create-release@0cb9c9b65d5d1901c1f53e5e66eaf4afd303e70e # v1.1.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
