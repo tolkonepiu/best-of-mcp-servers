@@ -1744,6 +1744,13 @@ projects:
       Enhanced graph-based memory with a focus on AI role-play and story
       generation
     category: knowledge-and-memory
+  - name: chopratejas/headroom
+    github_id: chopratejas/headroom
+    description: >-
+      Context compression layer for AI agents. Compresses tool outputs, logs,
+      RAG chunks, files, and conversation history before they reach the LLM,
+      with reversible retrieval through MCP tools.
+    category: knowledge-and-memory
   - name: entanglr/zettelkasten-mcp
     github_id: entanglr/zettelkasten-mcp
     description: >-
