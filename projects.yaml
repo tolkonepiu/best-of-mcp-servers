@@ -1679,6 +1679,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: twzrd-sol/wzrd-final
+    github_id: twzrd-sol/wzrd-final
+    description: >-
+      Solana-native agent trust scoring via x402 micropayments — free on-chain
+      preflight checks + paid signed V5 trust receipts settled in <1s. Remote
+      MCP at intel.twzrd.xyz/mcp.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
