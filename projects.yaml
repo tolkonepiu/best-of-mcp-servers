@@ -2298,9 +2298,10 @@ projects:
   - name: CSOAI-ORG/ai-incident-reporting-mcp
     github_id: CSOAI-ORG/ai-incident-reporting-mcp
     description: >-
-      Unified AI incident reporting across EU AI Act Article 73, DORA Article 19,
-      NIS2 Article 23, GDPR Article 33, and ISO 42001. One incident triggers all
-      regime clocks in parallel. pip install ai-incident-reporting-mcp.
+      Unified AI incident reporting across EU AI Act Article 73, DORA
+      Article 19, NIS2 Article 23, GDPR Article 33, and ISO 42001. One
+      incident triggers all regime clocks in parallel. pip install
+      ai-incident-reporting-mcp.
     category: security
   - name: CSOAI-ORG/ai-self-audit-mcp
     github_id: CSOAI-ORG/ai-self-audit-mcp
