@@ -155,6 +155,13 @@ projects:
       Intelligent search capabilities to let every model and client use Claude
       Agent Skills like native.
     category: aggregators
+  - name: kansei-link/kansei-mcp-server
+    github_id: kansei-link/kansei-mcp-server
+    npm_id: "@kansei-link/mcp-server"
+    description: >-
+      Local-first MCP navigator with verified data on 11,000+ SaaS services,
+      200 workflow recipes, and 89-97% token savings vs web search. MIT licensed.
+    category: aggregators
   - name: metatool-ai/metamcp
     github_id: metatool-ai/metamcp
     description: >-
