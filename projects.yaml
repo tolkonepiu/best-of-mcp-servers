@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: BuyWhere/buywhere-mcp
+    github_id: BuyWhere/buywhere-mcp
+    description: >-
+      Real-time product search and price comparison for Singapore and Southeast
+      Asia. Search 260K+ products from Lazada, Shopee, FairPrice, Courts, and
+      other major SEA merchants.
+    category: search-data-extraction
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
