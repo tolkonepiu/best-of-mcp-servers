@@ -2,19 +2,25 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/topoteretes/cognee">topoteretes/cognee</a></b> (🥇32 ·  ⭐ 18K · 📈) - Memory manager for AI apps and Agents using various graph and vector stores and allowing ingestion from 30+ data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a></b> (🥇26 ·  ⭐ 2.9K · 🐣) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph average repo in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/safedep/vet">safedep/vet</a></b> (🥇23 ·  ⭐ 1.1K · 📈) - vet-mcp checks open source packageslike those suggested by AI coding toolsfor vulnerabilities and malicious code. It.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/designcomputer/mysql_mcp_server">designcomputer/mysql_mcp_server</a></b> (🥈18 ·  ⭐ 1.3K · 📈) - MySQL database integration with configurable access controls, schema inspection, and comprehensive security guidelines. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/narumiruna/yfinance-mcp">narumiruna/yfinance-mcp</a></b> (🥈16 ·  ⭐ 150 · 📈) - An MCP server that uses yfinance to obtain information from Yahoo Finance. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mindsdb/minds">mindsdb/mindsdb</a></b> (🥇31 ·  ⭐ 39K · 📈) - Connect and unify data across various platforms and databases with MindsDB as a single MCP server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ahujasid/blender-mcp">ahujasid/blender-mcp</a></b> (🥇21 ·  ⭐ 23K · 📈) - MCP server for working with Blender. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/julien040/anyquery">julien040/anyquery</a></b> (🥈21 ·  ⭐ 1.7K · 📈) - Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/tumf/mcp-shell-server">tumf/mcp-shell-server</a></b> (🥉14 ·  ⭐ 180 · 📈) - A secure shell command execution server implementing the Model Context Protocol (MCP). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/SureScaleAI/openai-gpt-image-mcp">SureScaleAI/openai-gpt-image-mcp</a></b> (🥉4 ·  ⭐ 100 · 💀) - OpenAI GPT image generation/editing MCP server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/sooperset/mcp-atlassian">sooperset/mcp-atlassian</a></b> (🥇23 ·  ⭐ 5.3K · 📉) - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/joinly-ai/joinly">joinly-ai/joinly</a></b> (🥉14 ·  ⭐ 520 · 📉) - MCP server to interact with browser-based meeting platforms (Zoom, Teams, Google Meet). Enables AI agents to send bots.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/fatwang2/search1api-mcp">fatwang2/search1api-mcp</a></b> (🥉11 ·  ⭐ 170 · 📉) - Search via search1api (requires paid API key). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/BurtTheCoder/mcp-shodan">BurtTheCoder/mcp-shodan</a></b> (🥉9 ·  ⭐ 130 · 📉) - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/augmnt/augments-mcp-server">augmnt/augments-mcp-server</a></b> (🥉8 ·  ⭐ 120 · 📉) - Transform Claude Code with intelligent, real-time access to 90+ framework documentation sources. Get accurate, up-to-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bytedance/UI-TARS-desktop">bytedance/UI-TARS-desktop</a></b> (🥇30 ·  ⭐ 36K · 📉) - Browser automation capabilities using Puppeteer, both support local and remote browser connection. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/elie222/inbox-zero">elie222/inbox-zero</a></b> (🥇27 ·  ⭐ 11K · 📉) - An MCP server for Inbox Zero. Adds functionality on top of Gmail like finding out which emails you need to reply to or.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a></b> (🥇23 ·  ⭐ 3.4K · 🐣) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph average repo in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/supabase/mcp">supabase-community/supabase-mcp</a></b> (🥈20 ·  ⭐ 2.7K · 📉) - Official Supabase MCP server to connect AI assistants directly with your Supabase project and allows them to perform.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/bgauryy/octocode">bgauryy/octocode-mcp</a></b> (🥈17 ·  ⭐ 860 · 📉) - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub and NPM realms in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+
+## ➕ Added Projects
+
+_Projects that were recently added to this best-of list._
+
+- <b><a href="https://github.com/chopratejas/headroom">chopratejas/headroom</a></b> (🥇30 ·  ⭐ 24K · 🐣) - Context compression layer for AI agents. Compresses tool outputs, logs, RAG chunks, files, and conversation history.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 
