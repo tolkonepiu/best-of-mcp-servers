@@ -1098,6 +1098,15 @@ projects:
       relationships. Generates diagrams and importance scores, helping AI
       assistants understand the codebase.
     category: developer-tools
+  - name: alexisgarcia-dev/claude-mcp-server-template
+    github_id: alexisgarcia-dev/claude-mcp-server-template
+    description: >-
+      Production-survival Python MCP server template. Tools+Resources+Prompts
+      complete, JSON-RPC tools/list healthcheck, OpenTelemetry+Jaeger
+      observability, Streamable HTTP transport, 10 ADR-light decisions
+      documented with verified sources, end-to-end validated quickstart
+      (4 layers). Tag v1.0.0 frozen-by-design.
+    category: developer-tools
   - name: augmnt/augments-mcp-server
     github_id: augmnt/augments-mcp-server
     description: >-
