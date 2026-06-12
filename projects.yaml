@@ -2375,6 +2375,14 @@ projects:
       Search, read, create, and update Bear Notes directly from Claude.
       Local-only with complete privacy.
     category: workplace-and-productivity
+  - name: mstang/casemgr-mcp
+    github_id: mstang/casemgr-mcp
+    description: >-
+      Shared workspace your AI agents write to. CMMN case management
+      with 184 MCP tools: cases, tasks, event-driven CMMN workflows,
+      persistent memory with semantic search, billing and invoicing.
+      OAuth or token auth; hosted MCP endpoint at casemgr.systems.
+    category: workplace-and-productivity
   - name: AbdelStark/bitcoin-mcp
     github_id: AbdelStark/bitcoin-mcp
     description: >-
