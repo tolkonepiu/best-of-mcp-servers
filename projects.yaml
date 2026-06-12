@@ -1541,6 +1541,13 @@ projects:
     github_id: cyberchitta/llm-context.py
     description: Share code context with LLMs via MCP or clipboard
     category: file-systems
+  - name: cuiheng511/filepilot-ai
+    github_id: cuiheng511/filepilot-ai
+    description: >-
+      Local-first file intelligence with a desktop app, CLI, and safe MCP server
+      for AI coding agents to search, summarize, tag, deduplicate, and organize
+      local files.
+    category: file-systems
   - name: isaacphi/mcp-gdrive
     github_id: isaacphi/mcp-gdrive
     description: >-
