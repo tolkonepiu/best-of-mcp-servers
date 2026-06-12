@@ -2582,3 +2582,13 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: ejentum/ejentum-mcp
+    github_id: ejentum/ejentum-mcp
+    npm_id: ejentum-mcp
+    description: >-
+      Reasoning harness exposing four agentic tools (reasoning, code,
+      anti-deception, memory) the agent calls during its loop. Each call
+      returns a structured cognitive operation (named failure pattern,
+      executable procedure, suppression vectors, falsification test) the
+      model reads internally.
+    category: other-tools-and-integrations
