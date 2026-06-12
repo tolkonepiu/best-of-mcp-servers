@@ -1679,6 +1679,14 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: thebrierfox/intuitek-ace
+    github_id: thebrierfox/intuitek-ace
+    homepage: https://api.intuitek.ai/yield/mcp
+    description: >-
+      Passive income opportunity analysis with live US Treasury rates, portfolio
+      yield calculator, and AI-powered income optimization. Remote MCP server —
+      no install required.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
