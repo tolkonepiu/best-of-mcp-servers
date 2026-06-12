@@ -2582,3 +2582,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: yeshello-app/mcp
+    github_id: yeshello-app/mcp
+    description: >-
+      Digital business cards, lead capture forms, and service listings.
+      AI builds from a URL in minutes. 63 tools with live browser editing,
+      stock photos, and guided tours.
+    category: marketing
