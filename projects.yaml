@@ -546,6 +546,15 @@ projects:
       An MCP server that indexes local code into a graph database to provide
       context to AI assistants with a graphical code visualizations for humans.
     category: coding-agents
+  - name: Snehgabani/elite-reasoning-mcp
+    github_id: Snehgabani/elite-reasoning-mcp
+    description: >-
+      66-tool reasoning pipeline that makes any LLM think harder. Intent
+      classification, anti-pattern memory, FMEA risk analysis, confidence
+      calibration, decision council, quality tracking, and cross-session
+      learning. Works with Cursor, Claude Desktop, VS Code, Antigravity.
+      132KB, zero API costs, local SQLite.
+    category: developer-tools
   - name: ezyang/codemcp
     github_id: ezyang/codemcp
     description: Coding agent with basic read, write and command line tools.
