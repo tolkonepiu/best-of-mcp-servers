@@ -1143,6 +1143,16 @@ projects:
     github_id: delano/postman-mcp-server
     description: Interact with Postman API
     category: developer-tools
+  - name: Disentinel/grafema
+    github_id: Disentinel/grafema
+    npm_id: grafema
+    description: >-
+      Semantic code graph MCP server for AI coding agents. Indexes codebases
+      into typed graphs (functions/types/modules as nodes; CALLS/IMPORTS/DATAFLOW
+      edges) with 40+ tools for call-chain tracing, data-flow analysis, and
+      semantic code search.
+    category: developer-tools
+    license: FSL-1.1-Apache-2.0
   - name: docker/hub-mcp
     github_id: docker/hub-mcp
     description: >-
