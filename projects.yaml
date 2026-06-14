@@ -344,6 +344,13 @@ projects:
     github_id: kimtaeyoon83/mcp-server-youtube-transcript
     description: Fetch YouTube subtitles and transcripts for AI analysis
     category: browser-automation
+  - name: Cap-of-tea/GDD
+    github_id: Cap-of-tea/GDD
+    description: >-
+      AI-controlled browser farm - run N isolated Chromium instances with 36 MCP
+      tools for multi-device testing, screenshots, network and geolocation
+      emulation, and console diagnostics
+    category: browser-automation
   - name: microsoft/playwright-mcp
     github_id: microsoft/playwright-mcp
     description: >-
