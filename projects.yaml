@@ -2582,3 +2582,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: EmperorMew/WWF
+    github_id: EmperorMew/WWF
+    description: >-
+      43 tools for U.S. veteran benefits, crisis routing, and service-locator
+      queries — Veterans Crisis Line (988), VA disability rating calculations,
+      PACT Act presumptive condition matching, VA form lookup, accredited
+      representative search, and HSDS resource search across 100,437 veteran
+      service records. Built on open data (VA NCVAS, ACS, CDC PLACES, HUD CHAS).
+    category: other-tools-and-integrations
