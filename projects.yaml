@@ -2582,3 +2582,7 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: MrWizardlyLoaf/rugcheck-ai
+    github_id: MrWizardlyLoaf/rugcheck-ai
+    description: On-chain Solana token safety — screen a token for rug pulls, honeypots and authority traps before trading, then execute MEV-protected swaps.
+    category: security
