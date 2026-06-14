@@ -620,6 +620,13 @@ projects:
       workflow recording, structured data extraction, and browser DOM
       inspection.
     category: coding-agents
+  - name: ejentum/ejentum-mcp
+    github_id: ejentum/ejentum-mcp
+    description: >-
+      MCP server with reasoning, code, anti-deception, and memory tools for AI
+      agents. Two install paths: stdio via `npx -y ejentum-mcp`, or hosted
+      HTTPS at api.ejentum.com/mcp (Bearer auth via EJENTUM_API_KEY).
+    category: coding-agents
   - name: aymericzip/intlayer
     github_id: aymericzip/intlayer
     description: >-
