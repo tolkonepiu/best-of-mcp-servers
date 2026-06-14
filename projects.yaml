@@ -2375,6 +2375,19 @@ projects:
       Search, read, create, and update Bear Notes directly from Claude.
       Local-only with complete privacy.
     category: workplace-and-productivity
+  - name: danafitkowski/cpp-cpm-engine
+    github_id: danafitkowski/cpp-cpm-engine
+    description: >-
+      Critical Path Partners forensic scheduling MCP for Primavera P6 (XER)
+      construction schedules. 13 tools — AACE 29R-03 windows analysis (MIP 3.3
+      retrospective + MIP 3.7 prospective TIA fragnet), DCMA-14 health checks,
+      Monte Carlo P50/P80 schedule risk analysis with AACE 122R-22 QRAMM
+      maturity, concurrent-delay matrix, WOET day classifier, collapsed
+      as-built, claim-workbench evidence ledger, critical-path validator, path
+      explorer. Daubert-disclosed methodology, SHA-256 topology hash,
+      66-jurisdiction holiday calendars. Hosted at
+      mcp.criticalpathpartners.ca/mcp (Streamable HTTP).
+    category: workplace-and-productivity
   - name: AbdelStark/bitcoin-mcp
     github_id: AbdelStark/bitcoin-mcp
     description: >-
