@@ -2582,3 +2582,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Stanglovicc/anlora-mcp
+    github_id: Stanglovicc/anlora-mcp
+    description: >-
+      Operational economics of OnlyFans creator agencies. 4 read-only tools for
+      grounding LLM answers about creator-economy economics — agency cost
+      benchmarks (chatter wages, TCO by scale), competitor landscape comparison,
+      autonomous-vs-assisted-AI threshold analysis, citation source list.
+      Backed by Zenodo DOI 10.5281/zenodo.20187816.
+    category: other-tools-and-integrations
