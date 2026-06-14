@@ -1679,6 +1679,18 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: coinpaprika/dexpaprika-mcp
+    github_id: coinpaprika/dexpaprika-mcp
+    description: Real-time DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, OHLCV, trades. Free, no API key, no rate limits.
+    labels:
+      - cloud
+    category: finance-and-fintech
+  - name: coinpaprika/coinpaprika-mcp
+    github_id: coinpaprika/coinpaprika-mcp
+    description: Crypto market data for 12,000+ coins and 350+ exchanges. Tickers, OHLCV, historical prices, contract lookups. Free, no API key.
+    labels:
+      - cloud
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
