@@ -1751,6 +1751,24 @@ projects:
       RAG chunks, files, and conversation history before they reach the LLM,
       with reversible retrieval through MCP tools.
     category: knowledge-and-memory
+  - name: DollhouseMCP/mcp-server
+    github_id: DollhouseMCP/mcp-server
+    npm_id: "@dollhousemcp/mcp-server"
+    description: >-
+      One-line installable MCP server that adds reusable customization
+      elements — personas, skills, templates, agents, memory, and
+      ensembles (collected customization tools) — to any MCP Client
+      application. Dynamic permissioning for safe AI operations, a
+      robust validation architecture, versioning, and a public
+      collection of shareable content.
+    labels:
+      - typescript
+      - local
+      - npm
+      - macos
+      - windows
+      - linux
+    category: knowledge-and-memory
   - name: entanglr/zettelkasten-mcp
     github_id: entanglr/zettelkasten-mcp
     description: >-
