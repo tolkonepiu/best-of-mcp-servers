@@ -1848,6 +1848,14 @@ projects:
       (95.4%).
     pypi_id: omega-memory
     category: knowledge-and-memory
+  - name: woshilaohei/mindcore-memory-mcp
+    github_id: woshilaohei/mindcore-memory-mcp
+    description: >-
+      Production-grade MCP memory server with hybrid BM25+FAISS search, 3-state
+      circuit breaker, 3D boundary balance algorithm, content deduplication, and
+      Prometheus metrics. 9 tools, 132 tests, zero external API dependencies.
+    pypi_id: mindcore-memory
+    category: knowledge-and-memory
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
     description:
