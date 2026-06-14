@@ -118,6 +118,14 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: x402-agent-tools
+    github_id: Br0ski777/x402-agent-tools
+    description: >-
+      100 x402 micropayment APIs / MCP servers for AI agents — composable in 6
+      use-case bundles (crypto trading, B2B SDR, SEO, security, web intel, sentiment).
+      Pay-per-call USDC on Base L2, no signup, no API keys.
+    category: aggregators
+    homepage: https://klymax402.com
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
