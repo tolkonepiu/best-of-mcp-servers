@@ -1386,6 +1386,18 @@ projects:
       A Nix-based configuration framework for Model Context Protocol (MCP)
       servers with ready-to-use packages.
     category: developer-tools
+  - name: unitedideas/agentprobe
+    github_id: unitedideas/agentprobe
+    description: >-
+      Probe any seller URL for agentic commerce readiness. Returns a 0-95 score
+      and grade (NOT_READY/PARTIAL/AGENT_READY/CERTIFIED) across 10 checks:
+      llms.txt, OpenAPI, ai-plugin.json, MCP endpoint, commerce.json,
+      catalog/quote/checkout APIs, payment rail declarations, and
+      refund/contact metadata. One MCP tool: probe_site(url).
+    labels:
+      - cloud
+      - go
+    category: developer-tools
   - name: utensils/mcp-nixos
     github_id: utensils/mcp-nixos
     description: >-
