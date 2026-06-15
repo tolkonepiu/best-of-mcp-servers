@@ -2286,6 +2286,13 @@ projects:
       A Model Context Protocol (MCP) server that connects to Strava API,
       providing tools to access Strava data through LLMs
     category: sports
+  - name: abaiii168/world-cup-2026-mcp-server
+    github_id: abaiii168/world-cup-2026-mcp-server
+    description: >-
+      Free MCP server for World Cup 2026 fixtures, local kickoff times,
+      calendar links, and dataset metadata. It intentionally excludes live
+      scores, odds, betting, and gambling actions.
+    category: sports
   - name: nguyenvanduocit/jira-mcp
     github_id: nguyenvanduocit/jira-mcp
     description: >-
