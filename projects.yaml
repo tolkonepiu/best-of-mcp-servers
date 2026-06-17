@@ -540,6 +540,14 @@ projects:
     github_id: pydantic/pydantic-ai
     description: Run Python code in a secure sandbox via MCP tool calls.
     category: code-execution
+  - name: aresyn/codex-control-plane-mcp
+    github_id: aresyn/codex-control-plane-mcp
+    pypi_id: codex-control-plane-mcp
+    description: >-
+      Durable MCP control plane for long-running Codex Desktop tasks with
+      async operations, retry-safe polling, Plan Mode approval, hook-backed
+      SQLite history, diagnostics, and recovery.
+    category: coding-agents
   - name: CodeGraphContext/CodeGraphContext
     github_id: CodeGraphContext/CodeGraphContext
     description: >-
