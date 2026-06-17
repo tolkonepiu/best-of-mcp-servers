@@ -2352,6 +2352,15 @@ projects:
       Azure DevOps integration for repository management, work items, and
       pipelines.
     category: version-control
+  - name: DocJacket-LLC/claude-plugin
+    github_id: DocJacket-LLC/claude-plugin
+    homepage: https://docjacket.com/ai-access
+    description: >-
+      Real-estate transaction coordination MCP server. Read transactions, key
+      dates, contingencies, missing documents, and contacts from any MCP client.
+      Hosted at https://mcp.docjacket.com/mcp with OAuth 2.1 + DCR (paste-URL-
+      and-go from Claude, ChatGPT, Codex, or Gemini).
+    category: workplace-and-productivity
   - name: MarkusPfundstein/mcp-gsuite
     github_id: MarkusPfundstein/mcp-gsuite
     description: Integration with gmail and Google Calendar.
