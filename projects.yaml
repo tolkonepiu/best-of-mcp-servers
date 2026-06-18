@@ -1794,6 +1794,12 @@ projects:
       semantically handling code implementations, best practices and technical
       documentation in IDEs like Cursor and Windsurf
     category: knowledge-and-memory
+  - name: pathrule/mcp
+    github_id: pathrule/mcp
+    description: >-
+      AI coding context for Claude Code, Cursor, and Codex. Path-scoped team
+      memories, rules, and skills from Pathrule Web workspaces via OAuth.
+    category: knowledge-and-memory
   - name: pi22by7/In-Memoria
     github_id: pi22by7/In-Memoria
     description: >-
