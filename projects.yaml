@@ -2582,3 +2582,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: tcgtracker-boop/agent-company-mcp
+    github_id: tcgtracker-boop/agent-company-mcp
+    description: >-
+      Form a company for your AI agent — a Nevis LLC that owns the agent,
+      contains its liability, and proves its authority via an Agent Charter
+      (mandate, power of attorney, machine-readable mandate). Free
+      agent_company_diagnostic tool, no API key.
+    category: finance-and-fintech
