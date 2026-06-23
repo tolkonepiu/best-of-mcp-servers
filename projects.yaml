@@ -2582,3 +2582,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Anuj7411/sipcode
+    github_id: Anuj7411/sipcode
+    npm_id: sipcode
+    description: >-
+      A PreToolUse hook and CLI for Claude Code that caps verbose tool output
+      and deduplicates same-session file re-reads to reduce context bloat, with
+      an MCP server exposing context-hygiene stats.
+    category: developer-tools
