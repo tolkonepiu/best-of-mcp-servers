@@ -2334,6 +2334,12 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: OctoTrip/rental-cars
+    github_id: OctoTrip/rental-cars
+    description: >-
+      Free rental car search with real-time pricing from multiple providers
+      worldwide. No API key required. Hosted MCP server at mcp.octotrip.app.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
