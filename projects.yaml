@@ -2532,6 +2532,14 @@ projects:
     github_id: suekou/mcp-notion-server
     description: Interacting with Notion API
     category: other-tools-and-integrations
+  - name: kirvigen/notion-private-api-mcp
+    github_id: kirvigen/notion-private-api-mcp
+    npm_id: notion-private-mcp
+    description: >-
+      Unofficial MCP server built on the private Notion API (token_v2),
+      giving AI agents full read/write access to your entire workspace
+      with no integration token and no per-page sharing.
+    category: workplace-and-productivity
   - name: tacticlaunch/mcp-linear
     github_id: tacticlaunch/mcp-linear
     description: Integrates with Linear project management system
