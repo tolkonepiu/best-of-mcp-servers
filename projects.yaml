@@ -1679,6 +1679,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: subsquid-labs/portal-mcp-server
+    github_id: subsquid-labs/portal-mcp-server
+    description: >-
+      MCP server for querying onchain data across EVM, Solana, Bitcoin,
+      Substrate, and Hyperliquid networks via the SQD Portal API — logs,
+      transactions, token transfers, OHLC, and wallet analytics.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
