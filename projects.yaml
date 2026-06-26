@@ -2483,6 +2483,13 @@ projects:
       event-triggered actions - enables building context-aware AI agents through
       a NextJS plugin ecosystem.
     category: other-tools-and-integrations
+  - name: scotia1973-bot/api-hub
+    github_id: scotia1973-bot/api-hub
+    description: >-
+      194+ free MCP tools for utility, AI text, agent products, ciphers,
+      string, math, reference, converters, ID generators, and date
+      utilities. Install via pip or uvx.
+    category: other-tools-and-integrations
   - name: metorial/metorial
     github_id: metorial/metorial
     description: >-
