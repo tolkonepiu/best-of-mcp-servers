@@ -2582,3 +2582,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: massanaRoger/extracto-mcp
+    github_id: massanaRoger/extracto-mcp
+    description: >-
+      Turn any URL plus a JSON schema into validated, typed JSON via the
+      Extracto API. No CSS selectors; missing fields return null instead of
+      guesses. Run via npx -y extracto-mcp.
+    category: search-data-extraction
