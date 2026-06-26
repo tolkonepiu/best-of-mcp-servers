@@ -2267,6 +2267,104 @@ projects:
       and runs locally via Docker or as a standalone binary for fast, automated
       vetting.
     category: security
+  - name: CSOAI-ORG/meok-ai-bom-mcp
+    github_id: CSOAI-ORG/meok-ai-bom-mcp
+    description: >-
+      EU AI Act Article 53 AI Bill of Materials generator. Creates structured
+      AI-BOMs with dependency tracking and compliance scoring for foundation
+      model providers.
+    category: security
+  - name: CSOAI-ORG/meok-ai-incident-reporting-mcp
+    github_id: CSOAI-ORG/meok-ai-incident-reporting-mcp
+    description: >-
+      EU AI Act Article 62 serious incident reporting for high-risk AI systems.
+      Generates FRIA-style reports with severity classification and 15-day
+      notification tracking.
+    category: security
+  - name: CSOAI-ORG/meok-ai-self-audit-mcp
+    github_id: CSOAI-ORG/meok-ai-self-audit-mcp
+    description: >-
+      GPAI self-assessment audit tool implementing EU AI Act Article 52
+      transparency obligations and Annex XI/XII technical documentation
+      requirements.
+    category: security
+  - name: CSOAI-ORG/meok-bias-detection-mcp
+    github_id: CSOAI-ORG/meok-bias-detection-mcp
+    description: >-
+      Bias and fairness analysis for AI models per EU AI Act Article 10.
+      Detects demographic bias patterns and generates fairness scorecards with
+      remediation guidance.
+    category: security
+  - name: CSOAI-ORG/meok-care-membrane-mcp
+    github_id: CSOAI-ORG/meok-care-membrane-mcp
+    description: >-
+      Ethical AI safety membrane implementing care-based assessment for AI
+      system outputs. Validates decisions against wellbeing, autonomy, and
+      harm-prevention principles.
+    category: security
+  - name: CSOAI-ORG/meok-cra-annex-iv-classifier-mcp
+    github_id: CSOAI-ORG/meok-cra-annex-iv-classifier-mcp
+    description: >-
+      EU Cyber Resilience Act Annex IV product classifier. Determines CRA
+      product classes (Default, I, II) and conformity assessment routes for
+      digital products.
+    category: security
+  - name: CSOAI-ORG/meok-cra-compliance-mcp
+    github_id: CSOAI-ORG/meok-cra-compliance-mcp
+    description: >-
+      EU Cyber Resilience Act compliance checker covering essential
+      cybersecurity requirements, SBOM generation, vulnerability handling,
+      and CE marking readiness.
+    category: security
+  - name: CSOAI-ORG/meok-dora-compliance-mcp
+    github_id: CSOAI-ORG/meok-dora-compliance-mcp
+    description: >-
+      DORA (Digital Operational Resilience Act) compliance for financial
+      entities. ICT risk management frameworks, incident reporting, and
+      third-party risk assessment.
+    category: security
+  - name: CSOAI-ORG/meok-dora-nis2-crosswalk-mcp
+    github_id: CSOAI-ORG/meok-dora-nis2-crosswalk-mcp
+    description: >-
+      Cross-regulation mapping between DORA and NIS2 directives. Identifies
+      overlapping requirements and generates unified compliance strategies
+      for dual-regulated entities.
+    category: security
+  - name: CSOAI-ORG/meok-eu-ai-act-mcp
+    github_id: CSOAI-ORG/meok-eu-ai-act-mcp
+    description: >-
+      Comprehensive EU AI Act compliance toolkit covering risk classification,
+      prohibited practices (Article 5), GPAI obligations, conformity
+      assessment, and regulatory timeline tracking.
+    category: security
+  - name: CSOAI-ORG/meok-nis2-compliance-mcp
+    github_id: CSOAI-ORG/meok-nis2-compliance-mcp
+    description: >-
+      NIS2 Directive compliance for essential and important entities.
+      Cybersecurity risk management, incident reporting obligations, and
+      supply chain security assessment.
+    category: security
+  - name: CSOAI-ORG/meok-omnibus-tracker-mcp
+    github_id: CSOAI-ORG/meok-omnibus-tracker-mcp
+    description: >-
+      Tracks the EU AI Act Omnibus Amendment timeline shifts. Maps revised
+      deadlines for Annex I/III high-risk systems and provides regulatory
+      calendar updates.
+    category: security
+  - name: CSOAI-ORG/meok-uk-ai-bill-compliance-mcp
+    github_id: CSOAI-ORG/meok-uk-ai-bill-compliance-mcp
+    description: >-
+      UK AI Bill (AI (Regulation) Bill) compliance checker. Covers regulatory
+      sandbox requirements, AI Authority obligations, and UK-specific risk
+      classification.
+    category: security
+  - name: CSOAI-ORG/meok-watermark-attest-mcp
+    github_id: CSOAI-ORG/meok-watermark-attest-mcp
+    description: >-
+      AI-generated content watermarking and attestation per EU AI Act Article
+      50. Embeds C2PA provenance metadata with tamper-evident signatures for
+      synthetic content disclosure.
+    category: security
   - name: HagaiHen/facebook-mcp-server
     github_id: HagaiHen/facebook-mcp-server
     description: >-
