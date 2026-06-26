@@ -2142,6 +2142,17 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: BuyWhere/buywhere-mcp
+    github_id: BuyWhere/buywhere-mcp
+    npm_id: '@buywhere/mcp-server'
+    description: >-
+      Real-time product search and price-comparison MCP server for AI agents.
+      Indexes 11M+ products across Shopee, Lazada, Amazon, Walmart, and 20+
+      retailers in Singapore, SEA, and US. Exposes 7 tools (search_products,
+      get_product, compare_products, find_best_price, get_deals,
+      list_categories, find_similar). Free API key with no signup flow.
+    category: search-data-extraction
+
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
