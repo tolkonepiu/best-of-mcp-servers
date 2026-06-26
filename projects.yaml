@@ -2080,6 +2080,12 @@ projects:
       Discover, extract, and interact with the web - one interface powering
       automated access across the public internet.
     category: search-data-extraction
+  - name: searchapi/searchapi-mcp
+    github_id: searchapi/searchapi-mcp
+    description: >-
+      Real-time SERP and web data for AI assistants 100+ tools across Google,
+      Bing, Amazon, YouTube, Maps, and social from one MCP server.
+    category: search-data-extraction
   - name: mikechao/brave-search-mcp
     github_id: mikechao/brave-search-mcp
     description: >-
