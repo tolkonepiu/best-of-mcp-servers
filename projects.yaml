@@ -118,6 +118,12 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: ShieldZCash/shieldz-mcp
+    github_id: ShieldZCash/shieldz-mcp
+    description: >-
+      Non-custodial crypto payments over MCP. Turn a wallet address into a
+      payment link, tip jar, or account-status check with no API key.
+    category: finance-and-fintech
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
