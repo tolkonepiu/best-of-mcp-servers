@@ -1581,6 +1581,14 @@ projects:
       MCP to interface with multiple blockchains, staking, DeFi, swap, bridging,
       wallet management, DCA, Limit Orders, Coin Lookup, Tracking and more.
     category: finance-and-fintech
+  - name: bankbridge-money/bankbridge-plugin
+    github_id: bankbridge-money/bankbridge-plugin
+    homepage: https://bankbridge.money
+    description: >-
+      Read-only bank access for your AI agent. Hosted MCP server giving Claude,
+      ChatGPT, Cursor, Gemini, and Codex access to real bank accounts,
+      transactions, and investment holdings via Plaid. 12 tools.
+    category: finance-and-fintech
   - name: base/base-mcp
     github_id: base/base-mcp
     description: >-
