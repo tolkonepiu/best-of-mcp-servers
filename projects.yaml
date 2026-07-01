@@ -1848,6 +1848,14 @@ projects:
       (95.4%).
     pypi_id: omega-memory
     category: knowledge-and-memory
+  - name: shaqmughal/seekstone
+    github_id: shaqmughal/seekstone
+    npm_id: seekstone
+    description: >-
+      Filesystem-direct Obsidian MCP server that gives Claude direct read/write
+      access to your Obsidian vault with no Obsidian app or plugin required.
+      Exposes 16 tools over stdio with roughly 575x smaller search payloads.
+    category: knowledge-and-memory
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
     description:
