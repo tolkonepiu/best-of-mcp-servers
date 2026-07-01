@@ -1480,6 +1480,13 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: yilmazali325/getmcpauth
+    github_id: yilmazali325/getmcpauth
+    description: >-
+      Hosted OAuth 2.1 + Dynamic Client Registration (RFC 7591) for MCP
+      servers. Drop-in auth without running your own authorization server,
+      with SDKs for Node.js and Python.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
