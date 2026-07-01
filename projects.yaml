@@ -2582,3 +2582,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: scotia1973-bot/gadgethumans-mcp-starter
+    github_id: scotia1973-bot/gadgethumans-mcp-starter
+    description: >-
+      337+ free MCP tools in one server — calculators, health/fitness, text
+      analysis, color tools, readability, code tools, domain/network,
+      financial, utility, AI text analysis, ciphers, math, weather, geocoding,
+      agent memory, and KV storage. No API key required.
+    category: other-tools-and-integrations
