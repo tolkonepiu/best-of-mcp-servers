@@ -1098,6 +1098,12 @@ projects:
       relationships. Generates diagrams and importance scores, helping AI
       assistants understand the codebase.
     category: developer-tools
+  - name: Armigerous/dependency-freshness-mcp
+    github_id: Armigerous/dependency-freshness-mcp
+    description: >-
+      npm & PyPI dependency freshness (version lag + dated breaking-change
+      diffs) for AI coding agents, via MCP.
+    category: developer-tools
   - name: augmnt/augments-mcp-server
     github_id: augmnt/augments-mcp-server
     description: >-
