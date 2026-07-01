@@ -1571,6 +1571,15 @@ projects:
     github_id: alchemyplatform/alchemy-mcp-server
     description: Allow AI agents to interact with Alchemy's blockchain APIs.
     category: finance-and-fintech
+  - name: AlvisoOculus/optionsahoy-mcp
+    github_id: AlvisoOculus/optionsahoy-mcp
+    description: >-
+      Free, keyless remote MCP server from OptionsAhoy for equity-compensation
+      tax optimization. Seven tools cover ISO/AMT exercise scheduling, NSO and
+      RSU sell-vs-hold, single-stock concentration risk, hedge pricing, QSBS
+      eligibility, and cash-goal funding plans. Tax math is independently
+      verified against IRS publications and open-source tax engines.
+    category: finance-and-fintech
   - name: ariadng/metatrader-mcp-server
     github_id: ariadng/metatrader-mcp-server
     description: Enable AI LLMs to execute trades using MetaTrader 5 platform
