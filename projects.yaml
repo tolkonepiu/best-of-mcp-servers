@@ -2582,3 +2582,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: paperandbeyond23-gif/edgrapi-skills
+    github_id: paperandbeyond23-gif/edgrapi-skills
+    description: >-
+      Clean SEC EDGAR company financials, ratios, filings and 10-K/10-Q narrative
+      sections as normalized JSON for 10,000+ US public companies. Hosted MCP
+      server (Streamable HTTP), free tier.
+    category: finance-and-fintech
