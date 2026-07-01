@@ -2375,6 +2375,13 @@ projects:
       Search, read, create, and update Bear Notes directly from Claude.
       Local-only with complete privacy.
     category: workplace-and-productivity
+  - name: bradshawprojects/proposalcraft
+    github_id: bradshawprojects/proposalcraft
+    description: >-
+      MCP server for freelancers and consultants that drafts client proposals in
+      your voice. Save past winning proposals, paste a new brief, and get a
+      ready-to-send proposal in seconds. Local-first, no API key required.
+    category: workplace-and-productivity
   - name: AbdelStark/bitcoin-mcp
     github_id: AbdelStark/bitcoin-mcp
     description: >-
