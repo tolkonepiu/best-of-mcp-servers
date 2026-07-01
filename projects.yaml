@@ -1567,6 +1567,17 @@ projects:
     github_id: aaronjmars/web3-research-mcp
     description: Deep Research for crypto - free & fully local
     category: finance-and-fintech
+  - name: alex-jb/shadow-mentor
+    github_id: alex-jb/shadow-mentor
+    description: >-
+      5-voice AI compliance council for regulated loan origination. 6 tools
+      wrap a deterministic council verdict (block / escalate / approve),
+      institutional risk primitives (VaR / ES / concentration / sector /
+      correlation / beta), AA01–AA05 adverse-action codes per CFPB Bulletin
+      2024-09, Brier calibration, and cross-session recall. FICO < 700 is a
+      hardcoded JS conditional with a pinned test. Runs in-process, MIT.
+    category: finance-and-fintech
+    license: MIT
   - name: alchemyplatform/alchemy-mcp-server
     github_id: alchemyplatform/alchemy-mcp-server
     description: Allow AI agents to interact with Alchemy's blockchain APIs.
