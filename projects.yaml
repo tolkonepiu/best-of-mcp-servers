@@ -2267,6 +2267,90 @@ projects:
       and runs locally via Docker or as a standalone binary for fast, automated
       vetting.
     category: security
+  - name: CSOAI-ORG/eu-ai-act-compliance-mcp
+    github_id: CSOAI-ORG/eu-ai-act-compliance-mcp
+    description: >-
+      EU AI Act compliance for AI agents. Risk classification, 42-point audit,
+      documentation generator, penalty calculator, and deadline tracker.
+      Zero-config free tier. pip install eu-ai-act-compliance-mcp.
+    category: security
+  - name: CSOAI-ORG/bias-detection-mcp
+    github_id: CSOAI-ORG/bias-detection-mcp
+    description: >-
+      AI bias detection and fairness assessment. Detect demographic,
+      representational, and measurement bias in datasets and model outputs.
+      pip install bias-detection-mcp.
+    category: security
+  - name: CSOAI-ORG/ai-bom-mcp
+    github_id: CSOAI-ORG/ai-bom-mcp
+    description: >-
+      AI Bill of Materials generation for EU AI Act Annex IV, NIST AI RMF,
+      and CycloneDX ML-BOM. Supply chain transparency for AI systems.
+      pip install ai-bom-mcp.
+    category: security
+  - name: CSOAI-ORG/dora-compliance-mcp
+    github_id: CSOAI-ORG/dora-compliance-mcp
+    description: >-
+      DORA (EU Digital Operational Resilience Act) compliance. 5-pillar audit,
+      incident classification, Article 28 Register of Information, and TLPT
+      readiness. pip install dora-compliance-mcp.
+    category: security
+  - name: CSOAI-ORG/nis2-compliance-mcp
+    github_id: CSOAI-ORG/nis2-compliance-mcp
+    description: >-
+      NIS2 Directive (2022/2555) compliance. Entity classification, Article 21
+      cybersecurity measures, Article 23 incident reporting, and supply chain
+      assessment across 18 sectors. pip install nis2-compliance-mcp.
+    category: security
+  - name: CSOAI-ORG/ai-incident-reporting-mcp
+    github_id: CSOAI-ORG/ai-incident-reporting-mcp
+    description: >-
+      Unified AI incident reporting across EU AI Act Article 73, DORA
+      Article 19, NIS2 Article 23, GDPR Article 33, and ISO 42001. One
+      incident triggers all regime clocks in parallel. pip install
+      ai-incident-reporting-mcp.
+    category: security
+  - name: CSOAI-ORG/ai-self-audit-mcp
+    github_id: CSOAI-ORG/ai-self-audit-mcp
+    description: >-
+      AI agents audit their own EU AI Act compliance in real time with signed
+      certificates. Continuous monitoring for ISO 42001 and NIST AI RMF.
+      pip install ai-self-audit-mcp.
+    category: security
+  - name: CSOAI-ORG/care-membrane-mcp
+    github_id: CSOAI-ORG/care-membrane-mcp
+    description: >-
+      AI governance with care ethics. Validate AI actions against 16-probe care
+      membrane framework based on Noddings/Tronto care ethics.
+      pip install care-membrane-mcp.
+    category: security
+  - name: CSOAI-ORG/dora-nis2-crosswalk-mcp
+    github_id: CSOAI-ORG/dora-nis2-crosswalk-mcp
+    description: >-
+      DORA x NIS2 crosswalk. Map Regulation 2022/2554 obligations to Directive
+      2022/2555 measures. Dual-compliance scoring with HMAC-signed attestations.
+      pip install dora-nis2-crosswalk-mcp.
+    category: security
+  - name: CSOAI-ORG/meok-cra-annex-iv-classifier-mcp
+    github_id: CSOAI-ORG/meok-cra-annex-iv-classifier-mcp
+    description: >-
+      EU Cyber Resilience Act Annex IV classifier. 9-category essential security
+      requirements with HMAC-signed compliance attestations.
+      pip install meok-cra-annex-iv-classifier-mcp.
+    category: security
+  - name: CSOAI-ORG/meok-watermark-attest-mcp
+    github_id: CSOAI-ORG/meok-watermark-attest-mcp
+    description: >-
+      EU AI Act Article 50 watermarking compliance. C2PA content provenance,
+      deepfake disclosure, and AI-content labelling attestations.
+      pip install meok-watermark-attest-mcp.
+    category: security
+  - name: CSOAI-ORG/uk-ai-bill-compliance-mcp
+    github_id: CSOAI-ORG/uk-ai-bill-compliance-mcp
+    description: >-
+      UK AI Regulation and AI Bill compliance checking for AI agents.
+      pip install uk-ai-bill-compliance-mcp.
+    category: security
   - name: HagaiHen/facebook-mcp-server
     github_id: HagaiHen/facebook-mcp-server
     description: >-
