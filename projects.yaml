@@ -1840,6 +1840,14 @@ projects:
       Cognitive memory for AI agents with Hebbian learning, 3-tier architecture,
       and knowledge graphs. Single ~15MB binary, runs offline on edge devices.
     category: knowledge-and-memory
+  - name: samvallad33/vestige
+    github_id: samvallad33/vestige
+    npm_id: vestige-mcp-server
+    description: >-
+      Local-first cognitive memory MCP server for coding agents with SQLite
+      storage, FSRS-style retention, hybrid retrieval, provenance/correction
+      tools, and a dashboard.
+    category: knowledge-and-memory
   - name: omega-memory/omega-memory
     github_id: omega-memory/omega-memory
     description: >-
