@@ -2582,3 +2582,14 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: drumbeats-io/mcp
+    github_id: drumbeats-io/mcp
+    npm_id: "@drumbeats/mcp"
+    homepage: https://drumbeats.io
+    description: >-
+      Operate Drumbeats monitoring from any AI client: create cron/heartbeat and
+      HTTP uptime monitors, check status pages, triage incidents, and run
+      HTTP/SSL/DNS diagnostics (no account required) in natural language. Ships an
+      npm/stdio package and a hosted remote at api.drumbeats.io/mcp.
+    category: monitoring
+    labels: ["monitoring", "uptime", "cron", "observability"]
