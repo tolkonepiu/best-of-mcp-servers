@@ -2589,7 +2589,7 @@ projects:
     description: >-
       Operate Drumbeats monitoring from any AI client: create cron/heartbeat and
       HTTP uptime monitors, check status pages, triage incidents, and run
-      HTTP/SSL/DNS diagnostics (no account required) in natural language. Ships an
-      npm/stdio package and a hosted remote at api.drumbeats.io/mcp.
+      HTTP/SSL/DNS diagnostics (no account required) in natural language.
+      Ships an npm/stdio package and a hosted remote at api.drumbeats.io/mcp.
     category: monitoring
     labels: ["monitoring", "uptime", "cron", "observability"]
