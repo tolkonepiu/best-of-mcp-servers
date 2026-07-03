@@ -1563,6 +1563,14 @@ projects:
       MCP tool access to MarkItDown -- a library that converts many file formats
       (local or remote) to Markdown for LLM consumption.
     category: file-systems
+  - name: hushvert/mcp
+    github_id: hushvert/mcp
+    npm_id: "@hushvert/mcp"
+    description: >-
+      MCP server that gives AI agents file-conversion tools over the
+      hushvert hosted API: office docs to PDF, PDF to Word, video, and
+      LLM-ready Markdown.
+    category: file-systems
   - name: aaronjmars/web3-research-mcp
     github_id: aaronjmars/web3-research-mcp
     description: Deep Research for crypto - free & fully local
