@@ -2582,3 +2582,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: hushvert/mcp
+    github_id: hushvert/mcp
+    description: >-
+      File-conversion tools for AI agents: convert documents, images, audio,
+      video, archives and PDFs across formats via convert_file, convert_poll,
+      list_formats and check_usage.
+    category: other-tools-and-integrations
