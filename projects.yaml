@@ -1828,6 +1828,15 @@ projects:
       vector storage and local embeddings - no API keys or cloud services
       required.
     category: knowledge-and-memory
+  - name: catfish-1234/sessionmem
+    github_id: catfish-1234/sessionmem
+    npm_id: sessionmem
+    description: >-
+      Local-first MCP server that auto-injects compact session summaries into
+      AI coding assistants. Persistent memory across sessions with 85.6% token
+      reduction vs pasting full history. Zero config, no cloud, no API keys.
+      SQLite storage at ~/.sessionmem/memories.db.
+    category: knowledge-and-memory
   - name: topoteretes/cognee
     github_id: topoteretes/cognee
     description: >-
