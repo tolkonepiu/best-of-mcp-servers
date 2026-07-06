@@ -2206,6 +2206,14 @@ projects:
       binaries, renaming methods and data, and listing methods, classes,
       imports, and exports.
     category: security
+  - name: mastyf-ai/mastyf.ai
+    github_id: mastyf-ai/mastyf.ai
+    description: >-
+      Open-source AI security platform providing perimeter defense for LLMs and
+      AI agents through swarm analysis, policy enforcement, adversarial testing,
+      and real-time threat detection.
+    category: security
+    npm_id: "@mastyf_ai/server"
   - name: mrexodia/ida-pro-mcp
     github_id: mrexodia/ida-pro-mcp
     description: >-
