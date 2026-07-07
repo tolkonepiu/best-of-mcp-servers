@@ -1679,6 +1679,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: causa-prima-ai/scribo-mcp
+    github_id: causa-prima-ai/scribo-mcp
+    description: >-
+      Generate free, EN 16931-compliant e-invoices (German ZUGFeRD & XRechnung,
+      plus Factur-X, Peppol BIS and Spanish Facturae) or a plain US PDF straight
+      from your AI assistant. Hosted MCP server; the sender's email is the login.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
