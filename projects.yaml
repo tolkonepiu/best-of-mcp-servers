@@ -118,6 +118,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: erinheit451/supplement-advisor-mcp
+    github_id: erinheit451/supplement-advisor-mcp
+    npm_id: supplement-advisor-mcp
+    description: >-
+      Evidence-graded dietary-supplement guidance: dosing ranges, best-absorbed
+      forms, drug-nutrient interactions, and cost-per-effective-dose. Every
+      recommendation traces to a PubMed source.
+    labels: ["nutrition", "health"]
+    category: bio
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
