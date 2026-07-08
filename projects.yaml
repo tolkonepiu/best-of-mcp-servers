@@ -1694,6 +1694,12 @@ projects:
     github_id: IvanMurzak/Unity-MCP
     description: MCP Server for Unity Editor and for a game made with Unity
     category: gaming
+  - name: taygunsavas/patina-unity-mcp
+    github_id: taygunsavas/patina-unity-mcp
+    description: >-
+      Control the Unity Editor from MCP hosts through a local Rust server and C#
+      bridge with one-click host setup.
+    category: gaming
   - name: opgginc/opgg-mcp
     github_id: opgginc/opgg-mcp
     description: >-
