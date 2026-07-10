@@ -808,6 +808,7 @@ _MCP servers for data science tools_
 <details><summary><b><a href="https://github.com/kdqed/zaturn">kdqed/zaturn</a></b> (🥉6 ·  ⭐ 74 · 💤) - Link multiple data sources (SQL, CSV, Parquet, etc.) and ask AI to analyze the data for insights and visualizations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/kdqed/zaturn) (👨‍💻 2 · 🔀 10 · ⏱️ 12.11.2025)
+- [JMT x402 Agent Tools](https://jmt-x402-proxy.jmthomasofficial.workers.dev) — 25 paid x402 endpoints on Base mainnet: web search, AI analysis, crypto/stock data, SEC filings, company intel, news, sentiment, macro dashboard. $0.001-$0.15/call USDC. Local LLM-powered.
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
