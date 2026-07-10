@@ -2582,3 +2582,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: nikhonit/zillow-skills
+    github_id: nikhonit/zillow-skills
+    description: >-
+      Real-time Zillow property data API and MCP server - Zestimates, rent
+      estimates, tax history, price history, schools, photos, and listing
+      search, with 300+ fields per property. A modern replacement for the
+      deprecated Zillow API.
+    category: location-services
