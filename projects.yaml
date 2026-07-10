@@ -118,6 +118,12 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: cocoindex-io/cocoindex-code
+    github_id: cocoindex-io/cocoindex-code
+    description: >-
+      AST/tree-sitter code search MCP server that indexes a codebase and
+      returns compact, relevant snippets to reduce coding-agent context usage.
+    category: coding-agents
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
