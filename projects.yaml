@@ -369,6 +369,15 @@ projects:
       navigate pages, fill forms, extract data, handle authentication, and
       automate any website via natural language
     category: browser-automation
+  - name: Tap
+    github_id: LeonTing1010/tap
+    description: >-
+      An authenticated browser MCP that drives your OWN logged-in Chrome so
+      credentials stay local; compiles a task into a deterministic .plan.json
+      program (closed 18-op instruction set) replayed at zero LLM tokens.
+    npm_id: "@taprun/cli"
+    pypi_id: taprun
+    category: browser-automation
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
     description: >-
