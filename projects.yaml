@@ -1679,6 +1679,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: hbhqq9/bde-score
+    github_id: hbhqq9/bde-score
+    description: >-
+      Score stocks across US, HK, CN markets with one query. 6 MCP tools for
+      BDE scoring, stock analysis, multi-market comparison, screening, sector
+      analysis, and ESG scoring.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
