@@ -642,6 +642,15 @@ projects:
       Command line interface with secure execution and customizable security
       policies
     category: command-line
+  - name: PsYcGoD/sage
+    github_id: PsYcGoD/sage
+    npm_id: psycgod-sage
+    pypi_id: psycgod-sage
+    description: >-
+      Local-first CLI and MCP wrapper for AI coding agents. It records command
+      history locally and returns compressed terminal output to reduce context
+      noise.
+    category: command-line
   - name: tufantunc/ssh-mcp
     github_id: tufantunc/ssh-mcp
     description: >-
