@@ -1679,6 +1679,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: mirabello-consultancy/mcp-server
+    github_id: mirabello-consultancy/mcp-server
+    description: >-
+      Investment migration, tax residency & wealth-protection data — CBI/RBI
+      programmes, HNWI tax profiles, trusts/succession, and qualifying real
+      estate, with an origin-aware migration path planner.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
