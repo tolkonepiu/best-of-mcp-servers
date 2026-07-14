@@ -1963,6 +1963,13 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: runcomfy-com/runcomfy-mcp
+    github_id: runcomfy-com/runcomfy-mcp
+    description: >-
+      Official remote MCP server for the RunComfy Serverless API (ComfyUI):
+      create and manage GPU deployments, run async inference, and retrieve
+      image/video results.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
