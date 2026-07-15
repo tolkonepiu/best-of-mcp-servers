@@ -1965,6 +1965,7 @@ projects:
     category: multimedia-process
   - name: runcomfy-com/runcomfy-mcp
     github_id: runcomfy-com/runcomfy-mcp
+    homepage: "https://www.runcomfy.com"
     description: >-
       Official remote MCP server for the RunComfy Serverless API (ComfyUI):
       create and manage GPU deployments, run async inference, and retrieve
@@ -2589,3 +2590,4 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+
