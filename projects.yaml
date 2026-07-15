@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: Newscatcher/catchall-mcp
+    github_id: Newscatcher/catchall-mcp
+    description: >-
+      Recall-first web search API for comprehensive real-world event retrieval,
+      finding every relevant event across the open web (not just the top results),
+      returned as structured, deduplicated data.
+    category: search-data-extraction
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
