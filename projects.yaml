@@ -1660,6 +1660,13 @@ projects:
       backtest strategies, manage collaborators, and deploy live-trading
       workflows directly via natural-language prompts.
     category: finance-and-fintech
+  - name: sher1096/klinepic-agent-api-examples
+    github_id: sher1096/klinepic-agent-api-examples
+    description: >-
+      Generate annotated candlestick charts from broker or exchange fills for
+      post-trade review. Includes capability discovery, no-charge preflight,
+      and rendering tools; no signals or order execution.
+    category: finance-and-fintech
   - name: XeroAPI/xero-mcp-server
     github_id: XeroAPI/xero-mcp-server
     description: >-
