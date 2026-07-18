@@ -219,6 +219,13 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
+  - name: agentage/find-mcp
+    github_id: agentage/find-mcp
+    description: >-
+      Search 17,000+ MCP servers synced from the official MCP registry, over
+      remote Streamable HTTP or stdio via npm.
+    npm_id: "@agentage/find-mcp"
+    category: aggregators
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
