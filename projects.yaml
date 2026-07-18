@@ -2302,6 +2302,14 @@ projects:
       comprehensive tools for searching, reading, creating, and managing content
       across Atlassian workspaces.
     category: support-and-service-management
+  - name: syntheticinc/syntheticbrew
+    github_id: syntheticinc/syntheticbrew
+    description: >-
+      Provision grounded, embeddable AI chat agents for websites from your
+      coding agent. Remote MCP server with OAuth 2.1 (34 tools) on top of a
+      self-hostable engine (Go + Postgres) with RAG, knowledge graphs and
+      memory.
+    category: support-and-service-management
   - name: translated/lara-mcp
     github_id: translated/lara-mcp
     description: >-
