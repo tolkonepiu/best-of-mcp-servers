@@ -239,6 +239,13 @@ projects:
       Provides comprehensive and accurate Bazi (Chinese Astrology) charting and
       analysis
     category: art-and-culture
+  - name: edestory/mcp-starmeet
+    github_id: edestory/mcp-starmeet
+    npm_id: "@edestory/mcp-starmeet"
+    description: >-
+      Vedic astrology (Jyotish) tools for AI assistants — Kundali birth-chart
+      preview, daily Panchang, and Nakshatra profiles via the star-meet.com API.
+    category: art-and-culture
   - name: cswkim/discogs-mcp-server
     github_id: cswkim/discogs-mcp-server
     description: MCP server to interact with the Discogs API
