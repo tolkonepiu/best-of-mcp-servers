@@ -1729,6 +1729,16 @@ projects:
       full-text search. Best choice for building your own Knowledge Graph and
       for Context Engineering
     category: knowledge-and-memory
+  - name: phenx-inc/ctlsurf
+    github_id: phenx-inc/ctlsurf-claude-plugin
+    homepage: https://ctlsurf.com
+    description: >-
+      Hosted system of record for AI coding agents. Shared notebook with pages,
+      agent tasks with enforced completion records (assumptions, failed
+      attempts, skipped items), typed datastores, and exportable provenance
+      reports (JSON/PDF) of what agents did and why. Hosted HTTP MCP with a
+      Claude Code plugin.
+    category: knowledge-and-memory
   - name: bitbonsai/mcpvault
     github_id: bitbonsai/mcpvault
     description: >-
