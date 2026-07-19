@@ -2582,3 +2582,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: perwinroth/cosyhotels
+    github_id: perwinroth/cosyhotels
+    description: >-
+      Got Cosy hosted MCP server (https://gotcosy.com/api/mcp): about 6,300
+      independent hotels scored 0-10 for cosiness and warmth from guest reviews
+      and photos, with evidence signals and verified booking links. Streamable
+      HTTP, no API key required, read-only.
+    category: travel-and-transportation
