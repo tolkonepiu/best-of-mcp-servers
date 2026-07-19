@@ -689,6 +689,12 @@ projects:
       channels, groups), retrieving messages, sending messages and handling read
       status.
     category: communication
+  - name: FlowCastle/telegram-bot-templates
+    github_id: FlowCastle/telegram-bot-templates
+    description: >-
+      Build, edit, and deploy Telegram bots on FlowCastle's hosted visual flow
+      platform. Remote Streamable HTTP MCP server with ready-made bot templates.
+    category: communication
   - name: hannesrudolph/imessage-query-fastmcp-mcp-server
     github_id: hannesrudolph/imessage-query-fastmcp-mcp-server
     description: >-
