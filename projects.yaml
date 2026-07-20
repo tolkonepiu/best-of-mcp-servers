@@ -2334,6 +2334,13 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: gondola-ai/gondola-mcp
+    github_id: gondola-ai/gondola-mcp
+    description: >-
+      Travel MCP that compares cash and award (points) rates for hotels,
+      flights, and rental cars across every major loyalty program, with
+      cents-per-point valuations, loyalty tracking, and direct booking.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
