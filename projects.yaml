@@ -313,6 +313,13 @@ projects:
     github_id: BrowserMCP/mcp
     description: Automate your local Chrome browser
     category: browser-automation
+  - name: Agent360dk/browser-mcp
+    github_id: Agent360dk/browser-mcp
+    description: >-
+      Control your real, already-logged-in Chrome from any AI agent. Works on
+      2FA- and login-gated sites where headless browsers get blocked. 34 tools,
+      MIT, 100% local.
+    category: browser-automation
   - name: kontext-dev/browser-use-mcp-server
     github_id: kontext-dev/browser-use-mcp-server
     description: >-
