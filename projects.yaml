@@ -1480,6 +1480,14 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: ForeverTools/kiprio-mcp
+    github_id: ForeverTools/kiprio-mcp
+    description: >-
+      MCP server exposing kiprio.com developer APIs (email validation, DNS lookup,
+      SSL certificate inspection, IP geolocation, WHOIS, and text utilities) as
+      tools for Claude, Cursor, and any MCP client. Install via pip and configure
+      with a free kiprio.com API key.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
