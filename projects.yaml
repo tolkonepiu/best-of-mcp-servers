@@ -1647,6 +1647,13 @@ projects:
     github_id: OctagonAI/octagon-mcp-server
     description: Octagon AI Agents to integrate private and public market data
     category: finance-and-fintech
+  - name: ProtoJay4789/genTech-agent-kit
+    github_id: ProtoJay4789/genTech-agent-kit
+    description: >-
+      MCP server with 50+ tools for blockchain data, DeFi yields, token prices,
+      DEX market data, and on-chain intelligence — pay-per-call via x402 micropayments.
+      Supports Ethereum, Solana, Base, and 30+ other chains.
+    category: finance-and-fintech
   - name: massive-com/mcp_massive
     github_id: massive-com/mcp_massive
     description: >-
