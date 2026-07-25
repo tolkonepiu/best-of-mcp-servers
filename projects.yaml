@@ -75,6 +75,9 @@ categories:
   - category: marketing
     title: Marketing
     subtitle: MCP servers for marketing
+  - category: industrial-and-iot
+    title: Industrial & IoT
+    subtitle: MCP servers for industrial equipment, IoT platforms and operational technology
   - category: monitoring
     title: Monitoring
     subtitle: MCP servers for monitoring
@@ -313,6 +316,14 @@ projects:
     github_id: BrowserMCP/mcp
     description: Automate your local Chrome browser
     category: browser-automation
+  - name: Kiloiot/kilo-mcp
+    github_id: Kiloiot/kilo-mcp
+    description: >-
+      Remote MCP server for the Kilo IoT platform. Read devices and telemetry, provision
+      hardware, deploy and simulate automation rules, work alarms and dashboards, and send
+      commands to real equipment, authorized by the user's own sign-in.
+    category: industrial-and-iot
+    homepage: https://kiloiot.io
   - name: kontext-dev/browser-use-mcp-server
     github_id: kontext-dev/browser-use-mcp-server
     description: >-
