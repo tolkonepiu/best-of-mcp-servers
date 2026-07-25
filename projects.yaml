@@ -2582,3 +2582,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: lacs-project/sysknife
+    github_id: lacs-project/sysknife
+    description: >-
+      Security-hardened MCP server for Linux system administration. The agent
+      emits 189 typed actions instead of shell strings, with an Ed25519-signed
+      hash-chain audit log, one-time TTL approval receipts, and automatic
+      rollback. Works with Claude Code, Cursor, and Codex.
+    category: security
