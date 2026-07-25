@@ -69,6 +69,9 @@ categories:
   - category: location-services
     title: Location Services
     subtitle: MCP servers for location services and geospatial data
+  - category: home-automation
+    title: Home Automation
+    subtitle: MCP servers for smart home devices and home automation platforms
   - category: knowledge-and-memory
     title: Knowledge & Memory
     subtitle: MCP servers for knowledge graphs and memory management
@@ -816,6 +819,14 @@ projects:
       DICOM integration to query, read, and move medical images and reports from
       PACS and other DICOM compliant systems.
     category: databases
+  - name: chirpwireless/chirp-mcp
+    github_id: chirpwireless/chirp-mcp
+    description: >-
+      Remote MCP server for the Chirp home automation platform. Ask an AI app which sensors
+      have gone quiet, what set off an alert or how cold the garage got, add sensors, review
+      automations, and send commands to devices in your own home.
+    category: home-automation
+    homepage: https://chirpwireless.io
   - name: chroma-core/chroma-mcp
     github_id: chroma-core/chroma-mcp
     description: >-
