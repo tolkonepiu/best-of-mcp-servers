@@ -713,6 +713,14 @@ projects:
     github_id: korotovsky/slack-mcp-server
     description: The most powerful MCP server for Slack Workspaces.
     category: communication
+  - name: kudosity/mcp
+    github_id: kudosity/mcp
+    description: >-
+      Official Kudosity server for SMS, MMS and WhatsApp messaging. Send
+      messages, pull delivery reports and replies, manage contacts and contact
+      lists, configure webhooks, check account balance, and discover the live
+      API at runtime.
+    category: communication
   - name: lharries/whatsapp-mcp
     github_id: lharries/whatsapp-mcp
     description: >-
