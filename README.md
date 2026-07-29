@@ -1931,3 +1931,7 @@ For more information on how to add or update projects, please read the [contribu
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Live Demo Animation" width="100%" />
+</p>
