@@ -1077,6 +1077,11 @@ projects:
     description:
       Create crafted UI components inspired by the best 21st.dev design
       engineers.
+  - name: IamOumarIbrahim/MCPntt
+    github_id: IamOumarIbrahim/MCPntt
+    description: >-
+      Consolidated Model Context Protocol (MCP) server connecting AI agents to
+      MATLAB, AutoCAD, FreeCAD, Fusion 360, KiCad, and LTspice.
     category: developer-tools
   - name: aashari/mcp-server-atlassian-bitbucket
     github_id: aashari/mcp-server-atlassian-bitbucket
