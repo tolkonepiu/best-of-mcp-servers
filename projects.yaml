@@ -2582,3 +2582,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: adlicio
+    github_id: daniel-ddtech/commentscraper-cli
+    homepage: https://tryadlicio.com/mcp
+    description: >-
+      Customer-voice research MCP. Scrape comments and reviews from Reddit,
+      YouTube, Amazon, TikTok, and 25+ platforms, then rank them into ad
+      angles and hooks for marketers.
+    category: marketing
