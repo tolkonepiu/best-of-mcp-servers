@@ -798,6 +798,12 @@ projects:
       Baserow database integration with table search, list, and row create,
       read, update, and delete capabilities.
     category: databases
+  - name: bytebase/dbhub
+    github_id: bytebase/dbhub
+    description: >-
+      Token efficient, zero-dependency database MCP server for Postgres, MySQL,
+      SQL Server, MariaDB, SQLite.
+    category: databases
   - name: Canner/wren-engine
     github_id: Canner/wren-engine
     description:
