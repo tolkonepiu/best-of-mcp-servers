@@ -1969,6 +1969,13 @@ projects:
       Web search using free multi-engine search (NO API KEYS REQUIRED) —
       Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
     category: search-data-extraction
+  - name: amzscout-corp/amzscout-skill-mcp
+    github_id: amzscout-corp/amzscout-skill-mcp
+    description: >-
+    Official AMZScout Skill + MCP for AI agents. Provides real Amazon marketplace
+    data for product research, niche validation, competitor analysis, keyword
+    research, and Amazon PPC strategy generation.
+  category: search-data-extraction
   - name: andybrandt/mcp-simple-arxiv
     github_id: andybrandt/mcp-simple-arxiv
     description: MCP for LLM to search and read papers from arXiv
