@@ -2280,6 +2280,15 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: liftli-ai/liftli-mcp
+    github_id: liftli-ai/liftli-mcp
+    description: >-
+      AI head of content for LinkedIn, X and Substack. Extracts your writing
+      voice from your own posts, turns voice notes, meeting transcripts and
+      GitHub activity into post ideas, drafts and critiques them, then schedules
+      or publishes through the official platform APIs. 54 tools, one-tap
+      approval, no scraping.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
