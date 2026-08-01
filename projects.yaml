@@ -1729,13 +1729,13 @@ projects:
       full-text search. Best choice for building your own Knowledge Graph and
       for Context Engineering
     category: knowledge-and-memory
-  - name: 7xuanlu/origin
-    github_id: 7xuanlu/origin
-    npm_id: origin-mcp
+  - name: 7xuanlu/wenlan
+    github_id: 7xuanlu/wenlan
+    npm_id: wenlan-mcp
     description: >-
-      Local-first AI work memory. Agents capture decisions, lessons,
-      handoffs, and project context through MCP, then retrieve source-backed
-      wiki pages, graph context, and hybrid search
+      Local-first AI knowledge base and LLM wiki. Agents capture decisions,
+      lessons, handoffs, and project context through MCP, then retrieve
+      source-cited wiki pages, graph context, and hybrid search
       across Claude Code, Codex, Cursor, Claude Desktop, and other MCP clients.
     category: knowledge-and-memory
   - name: bitbonsai/mcpvault
