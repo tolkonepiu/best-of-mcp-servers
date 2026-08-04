@@ -1738,6 +1738,15 @@ projects:
       frontmatter handling. Works with Claude, ChatGPT, and any MCP-compatible
       AI assistant.
     category: knowledge-and-memory
+  - name: sovseal/mcp-server
+    github_id: sovseal/mcp-server
+    npm_id: "@sovseal/mcp-server"
+    description: >-
+      Local-first, zero-knowledge memory layer across Claude, ChatGPT, Cursor,
+      and custom MCP clients. On-device LanceDB vector store, AES-256-GCM
+      client-side encryption, 384-dim ONNX embeddings, 0 RTT reads.
+      npx -y @sovseal/mcp-server
+    category: knowledge-and-memory
   - name: CheMiguel23/MemoryMesh
     github_id: CheMiguel23/MemoryMesh
     description:
