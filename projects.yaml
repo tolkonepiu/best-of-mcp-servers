@@ -1272,11 +1272,13 @@ projects:
     category: developer-tools
   - name: LambdaTest/mcp-server-guide
     github_id: LambdaTest/mcp-server-guide
+    homepage: https://www.testmuai.com/mcp/
+    docs_url: https://www.testmuai.com/support/docs/testmu-mcp-server/
     description: >-
       Run, debug, and triage tests from your IDE using natural language.
-      Connects MCP clients to TestMu AI (formerly LambdaTest) for test
-      orchestration, failure triage, visual regression analysis, and
-      accessibility audits.
+      Connects MCP clients to the hosted TestMu AI (formerly LambdaTest) server
+      at https://mcp.lambdatest.com/mcp for test orchestration, failure triage,
+      visual regression analysis, and accessibility audits.
     category: developer-tools
   - name: lamemind/mcp-server-multiverse
     github_id: lamemind/mcp-server-multiverse
