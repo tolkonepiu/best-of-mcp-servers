@@ -2334,6 +2334,13 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: gyatesofficial/seatswiper-mcp
+    github_id: gyatesofficial/seatswiper-mcp
+    description: >-
+      Books hard-to-get restaurant reservations on your own Resy, SevenRooms,
+      or OpenTable account the moment a table opens or someone cancels. Remote
+      MCP connector (com.seatswiper/booking).
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
