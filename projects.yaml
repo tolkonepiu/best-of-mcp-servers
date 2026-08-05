@@ -1270,6 +1270,14 @@ projects:
     description:
       Token-efficient access to OpenAPI/Swagger specs via MCP Resources.
     category: developer-tools
+  - name: LambdaTest/mcp-server-guide
+    github_id: LambdaTest/mcp-server-guide
+    description: >-
+      Run, debug, and triage tests from your IDE using natural language.
+      Connects MCP clients to TestMu AI (formerly LambdaTest) for test
+      orchestration, failure triage, visual regression analysis, and
+      accessibility audits.
+    category: developer-tools
   - name: lamemind/mcp-server-multiverse
     github_id: lamemind/mcp-server-multiverse
     description: >-
