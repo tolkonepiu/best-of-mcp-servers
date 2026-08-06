@@ -2582,3 +2582,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: opcastil11/prowl-bench
+    github_id: opcastil11/prowl-bench
+    npm_id: mcp-prowl
+    description: >-
+      Agent Discovery Network. Benchmark runner that scores any API on
+      agent-readiness across 8 dimensions with multi-LLM evaluation, plus an
+      MCP server and a public scored directory at prowl.world.
+    category: aggregators
