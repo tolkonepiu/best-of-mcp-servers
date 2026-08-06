@@ -1868,6 +1868,14 @@ projects:
       enables prompt-assisted project creation, layer loading, code execution,
       and more.
     category: location-services
+  - name: awesomemotive/pushengage-mcp
+    github_id: awesomemotive/pushengage-mcp
+    npm_id: "@pushengage/mcp"
+    description: >-
+      Official PushEngage MCP server. Lets AI assistants like Claude Desktop
+      and Cursor manage web push notification campaigns, subscribers, and
+      analytics through the PushEngage platform.
+    category: marketing
   - name: gomarble-ai/facebook-ads-mcp-server
     github_id: gomarble-ai/facebook-ads-mcp-server
     description: >-
