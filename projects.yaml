@@ -754,6 +754,14 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
+  - name: datPascal/frankki-mcp
+    github_id: datPascal/frankki-mcp
+    description: >-
+      Send a real, printed letter or registered mail to a physical address
+      anywhere in the world in one tool call. Compose, price, send, track, with
+      an explicit approval step before anything is posted. Hosted remote server
+      with OAuth 2.1 and DCR, German compliance built in.
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
