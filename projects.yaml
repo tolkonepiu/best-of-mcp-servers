@@ -2280,6 +2280,12 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: Autoposting-ai/autoposting-mcp
+    github_id: Autoposting-ai/autoposting-mcp
+    description: >-
+      Remote MCP server for Autoposting - schedule, generate and publish social
+      posts to X, LinkedIn, Instagram, Threads and YouTube from any MCP client.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
