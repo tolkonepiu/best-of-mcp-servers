@@ -2268,7 +2268,7 @@ projects:
       vetting.
     category: security
   - name: WP HealthKit
-    github_id: BuiltByGo/wp-healthkit
+    github_id: BuiltByGo/wphealthkit-mcp
     description: >-
       AI-powered security audits for WordPress plugins and themes via 58
       deterministic scanners plus AI engines. 13 tools: audit wp.org plugins or
