@@ -1848,6 +1848,14 @@ projects:
       (95.4%).
     pypi_id: omega-memory
     category: knowledge-and-memory
+  - name: yantrikos/yantrikdb-mcp
+    github_id: yantrikos/yantrikdb-mcp
+    pypi_id: yantrikdb-mcp
+    description: >-
+      Persistent cognitive memory for AI agents with semantic recall,
+      consolidation, contradiction detection, and temporal decay that survive
+      across sessions.
+    category: knowledge-and-memory
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
     description:
