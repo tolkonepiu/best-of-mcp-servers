@@ -1480,6 +1480,13 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: spranab/saga-mcp
+    github_id: spranab/saga-mcp
+    description: >-
+      Jira-like project tracking (epics, stories, tasks) for AI agents that
+      lives inside the agent loop. SQLite-backed with 22 tools and a local
+      dashboard.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
