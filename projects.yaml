@@ -2577,6 +2577,14 @@ projects:
     github_id: Klavis-AI/klavis
     description: Extract and convert YouTube video information.
     category: other-tools-and-integrations
+  - name: muskanbandta23/zopnight-mcp
+    github_id: muskanbandta23/zopnight-mcp
+    homepage: https://zop.dev/learn/mcp-server?utm_source=tolkonepiu-best-of-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory
+    description: >-
+      Read-only cloud cost and infrastructure governance across AWS, Azure and
+      GCP. 85 tools covering cost, resources, schedules, recommendations,
+      budgets, governance and diagnostics over a hosted remote MCP endpoint.
+    category: cloud-platforms
   - name: modelcontextprotocol/servers
     github_id: modelcontextprotocol/servers
     description: >-
