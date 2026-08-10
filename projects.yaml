@@ -2128,6 +2128,13 @@ projects:
       Vectorize MCP server for advanced retrieval, Private Deep Research,
       Anything-to-Markdown file extraction and text chunking.
     category: search-data-extraction
+  - name: ZeroPointRepo/youtube-mcp
+    github_id: ZeroPointRepo/youtube-mcp
+    description: >-
+      Remote MCP server for YouTube with six tools: transcripts, video and
+      channel search, channel browsing, in-channel search, playlist extraction,
+      and free RSS-based new-upload tracking.
+    category: search-data-extraction
   - name: zhsama/duckduckgo-mcp-server
     github_id: zhsama/duckduckgo-mcp-server
     description: >-
