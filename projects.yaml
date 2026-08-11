@@ -792,6 +792,14 @@ projects:
       MySQL database integration in NodeJS with configurable access controls and
       schema inspection
     category: databases
+  - name: bytebase/dbhub
+    github_id: bytebase/dbhub
+    npm_id: "@bytebase/dbhub"
+    description: >-
+      Zero-dependency, token-efficient universal database MCP server for
+      PostgreSQL, MySQL, SQL Server, MariaDB, and SQLite — one connection
+      string, stdio and HTTP transports.
+    category: databases
   - name: baserow/baserow
     github_id: baserow/baserow
     description: >-
