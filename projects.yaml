@@ -800,11 +800,11 @@ projects:
     category: databases
   - name: bytebase/bytebase
     github_id: bytebase/bytebase
-    homepage: https://docs.bytebase.com/integrations/mcp
     description: >-
-      MCP server built into the Bytebase database governance platform — AI
-      assistants connect to a running Bytebase instance over HTTP with OAuth,
-      and queries inherit its access control, data masking, and audit logging.
+      Governed multi-database MCP server backed by the Bytebase platform —
+      query, schema change, and permission management across 30+ database
+      engines, with access control, data masking, SQL review, and audit
+      logging enforced at the MCP boundary.
     category: databases
   - name: Canner/wren-engine
     github_id: Canner/wren-engine
