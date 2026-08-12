@@ -1679,6 +1679,15 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: stipend-sh/stipend
+    github_id: stipend-sh/stipend
+    npm_id: stipend
+    description: >-
+      Non-custodial USDC wallet on Base for AI agents. Per-transaction, per-day
+      and per-counterparty spending limits plus a destination allowlist are
+      enforced in code between the decision and the signature, not in a prompt.
+      Local stdio MCP server with seven tools.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
