@@ -118,6 +118,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: blackwell-systems/agent-lsp
+    github_id: blackwell-systems/agent-lsp
+    description: >-
+      Orchestrates language servers (gopls, rust-analyzer, pyright, jdtls, etc.)
+      into agent-native workflows. 65 code intelligence tools across 30
+      CI-verified languages: blast-radius analysis, find references/callers,
+      rename, speculative editing, and token-optimized GCF output. Single Go
+      binary.
+    category: developer-tools
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
