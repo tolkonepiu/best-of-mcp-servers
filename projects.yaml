@@ -1679,6 +1679,16 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: Th3Slack3r/slacking-mcp
+    github_id: Th3Slack3r/slacking-mcp
+    description: >-
+      67 MCP tools for US financial and economic data: SEC EDGAR company
+      financials (10-K/10-Q/8-K, insider trades, sentiment), FRED macro
+      economics, Census demographics, IRS 990 nonprofit filings, FDA health
+      data, and official US Debt & Treasury. Remote Streamable HTTP server with
+      public discovery; per-request API key for data calls.
+    category: finance-and-fintech
+
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
