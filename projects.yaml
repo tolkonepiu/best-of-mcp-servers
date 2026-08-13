@@ -1686,7 +1686,8 @@ projects:
       financials (10-K/10-Q/8-K, insider trades, sentiment), FRED macro
       economics, Census demographics, IRS 990 nonprofit filings, FDA health
       data, official US Debt & Treasury, and UK Companies House KYB. Remote
-      Streamable HTTP server with public discovery; per-request API key for data calls.
+      Streamable HTTP server with public discovery; per-request API key for
+      data calls.
     category: finance-and-fintech
 
   - name: CoderGamester/mcp-unity
