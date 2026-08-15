@@ -1480,6 +1480,14 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: AIStoryHub/etincel
+    github_id: AIStoryHub/etincel
+    description: >-
+      Deterministic, local audit for AI writing tells, paired with a trainable
+      voice layer so Claude, Cursor, or any MCP client drafts closer to a real
+      voice. No model call in the audit path. Also ships as a CLI and GitHub
+      Action.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
