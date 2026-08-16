@@ -1480,6 +1480,15 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: plumbkit/plumb
+    github_id: plumbkit/plumb
+    description: >-
+      IDE intelligence for coding agents, with guardrails for unattended work.
+      LSP-backed navigation and refactoring, a tree-sitter topology index for
+      structure and blast radius, and per-project memory — plus atomic
+      crash-durable writes, a workspace path boundary and tiered git gating.
+      One shared daemon behind a reconnecting proxy. Single Go binary.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
