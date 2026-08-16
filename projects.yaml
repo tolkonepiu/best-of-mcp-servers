@@ -369,6 +369,14 @@ projects:
       navigate pages, fill forms, extract data, handle authentication, and
       automate any website via natural language
     category: browser-automation
+  - name: vostride/agent-qa
+    github_id: vostride/agent-qa
+    npm_id: agent-qa
+    description: >-
+      A source-available, self-improving QA agent for natural-language web and
+      mobile tests. Its MCP server lets coding agents author tests and enqueue
+      runs, inspect evidence, and triage failures with persistent test memory.
+    category: browser-automation
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
     description: >-
