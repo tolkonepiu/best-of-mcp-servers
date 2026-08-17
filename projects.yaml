@@ -2352,6 +2352,15 @@ projects:
       Azure DevOps integration for repository management, work items, and
       pipelines.
     category: version-control
+  - name: hanicker/proofite-mcp
+    github_id: hanicker/proofite-mcp
+    npm_id: proofite-mcp
+    homepage: https://proofite.com/mcp
+    description: >-
+      Read your AI-written daily news briefing and retune the filter behind it:
+      RSS feeds, newsletters, monitored web searches, topic preferences,
+      read-later queue and podcast. Remote Streamable HTTP server, also on npm.
+    category: workplace-and-productivity
   - name: MarkusPfundstein/mcp-gsuite
     github_id: MarkusPfundstein/mcp-gsuite
     description: Integration with gmail and Google Calendar.
