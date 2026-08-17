@@ -2859,8 +2859,8 @@ projects:
   - name: coinpaprika/dexpaprika-mcp
     github_id: coinpaprika/dexpaprika-mcp
     description: >-
-      DEX data across 36 blockchains. 36M+ pools, 33M+ tokens, 230+ DEXes, OHLCV,
-      trades and SSE streaming. Free tier, no API key required.
+      DEX data across 36 blockchains. 36M+ pools, 33M+ tokens, 230+ DEXes,
+      OHLCV, trades and SSE streaming. Free tier, no API key required.
     labels:
       - cloud
     category: finance-and-fintech
