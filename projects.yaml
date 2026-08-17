@@ -736,6 +736,15 @@ projects:
       seamlessly interact with Discord. Enhance your Discord experience with
       powerful automation capabilities.
     category: communication
+  - name: YS-projectcalc/agent-cold-email
+    github_id: YS-projectcalc/agent-cold-email
+    homepage: https://coldrig.dev
+    description: >-
+      Coldrig: cold-email infrastructure your agent operates end to end — buy
+      domains, provision mailboxes, warm up, run sequences, and handle replies
+      (28 tools, remote streamable-HTTP or stdio via `npx agent-cold-email`).
+    npm_id: agent-cold-email
+    category: communication
   - name: zcaceres/gtasks-mcp
     github_id: zcaceres/gtasks-mcp
     description: An MCP server to Manage Google Tasks
