@@ -2588,3 +2588,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: cmhenry79/merlonix-mcp
+    github_id: cmhenry79/merlonix-mcp
+    description: >-
+      Live website and infrastructure monitoring MCP server (16 tools):
+      SSL/TLS, DNS and domain-registration health for any hostname, MCP-server
+      health plus an A-F security grade, AI agent-readiness scoring, email
+      blacklist and broken-link checks, and live status for 11 major cloud
+      vendors. Hosted over Streamable HTTP; public tools need no auth.
+    category: monitoring
