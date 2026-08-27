@@ -2526,6 +2526,12 @@ projects:
       talk to Asana API from MCP Client such as Anthropic's Claude Desktop
       Application, and many more.
     category: other-tools-and-integrations
+  - name: runapi-ai/mcp
+    github_id: runapi-ai/mcp
+    description: >-
+      MCP server for RunAPI model catalog and pricing lookup, prompt search, and
+      authenticated image, video, music, and text-to-speech task creation.
+    category: other-tools-and-integrations
   - name: SecretiveShell/MCP-wolfram-alpha
     github_id: SecretiveShell/MCP-wolfram-alpha
     description: An MCP server for querying wolfram alpha API.
