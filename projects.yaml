@@ -804,6 +804,14 @@ projects:
       Baserow database integration with table search, list, and row create,
       read, update, and delete capabilities.
     category: databases
+  - name: bytebase/bytebase
+    github_id: bytebase/bytebase
+    description: >-
+      Governed multi-database MCP server backed by the Bytebase platform —
+      query, schema change, and permission management across 30+ database
+      engines, with access control, data masking, SQL review, and audit
+      logging enforced at the MCP boundary.
+    category: databases
   - name: Canner/wren-engine
     github_id: Canner/wren-engine
     description:
