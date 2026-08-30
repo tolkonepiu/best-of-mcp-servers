@@ -2362,6 +2362,12 @@ projects:
     github_id: MarkusPfundstein/mcp-gsuite
     description: Integration with gmail and Google Calendar.
     category: workplace-and-productivity
+  - name: process-street/process-street-mcp
+    github_id: process-street/process-street-mcp
+    description: >-
+      Official hosted MCP server for Process Street workflows, workflow runs,
+      tasks, users, data sets, and operational records.
+    category: workplace-and-productivity
   - name: takumi0706/google-calendar-mcp
     github_id: takumi0706/google-calendar-mcp
     description:
