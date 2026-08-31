@@ -2148,6 +2148,17 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: Sketchjar/stipple-mcp
+    github_id: Sketchjar/stipple-mcp
+    description: >-
+      Hosted MCP server for document verification and AU/NZ due diligence:
+      forensic document authenticity (risk bands with per-signal evidence),
+      structured field extraction with per-value grounding, AFP 100-point and
+      AUSTRAC safe-harbour identity checks, adverse-media/PEP/sanctions
+      screening, AI-written-text detection, citation verification, and free
+      AU/NZ government tender search. 13 tools, free anonymous tier, no
+      signup. Remote endpoint: https://www.stipple.sh/mcp
+    category: security
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
