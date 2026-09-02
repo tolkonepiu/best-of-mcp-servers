@@ -1685,6 +1685,10 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: paperandbeyond23-gif/edgrapi-skills
+    github_id: paperandbeyond23-gif/edgrapi-skills
+    description: SEC EDGAR filings as clean JSON - Form 4 insider trades with cluster-buy detection, 8-K events, 13F holdings diffed quarter-over-quarter, 13D/13G >5% stakes, XBRL fundamentals and full-text search.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
