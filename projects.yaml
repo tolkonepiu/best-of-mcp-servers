@@ -2284,7 +2284,8 @@ projects:
     github_id: azeemkafridi/bulkpublish-api
     description: >-
       MCP server and API for AI agents to plan, review, schedule, publish, and
-      analyze social media content across connected channels through BulkPublish.
+      analyze social media content across connected channels through
+      BulkPublish.
     category: social-media
   - name: karanb192/reddit-mcp-buddy
     github_id: karanb192/reddit-mcp-buddy
