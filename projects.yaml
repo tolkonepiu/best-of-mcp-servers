@@ -2588,3 +2588,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: nikolai-vysotskyi/trace-mcp
+    github_id: nikolai-vysotskyi/trace-mcp
+    description: >-
+      Precomputed code-intelligence graph for AI agents — symbol search, call
+      graphs, change impact, and test mapping as structured MCP tools instead
+      of whole-file reads.
+    category: developer-tools
