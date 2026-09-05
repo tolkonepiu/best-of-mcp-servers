@@ -2290,9 +2290,10 @@ projects:
     github_id: JacobiusMakes/parlay-api-mcp
     pypi_id: parlayapi-mcp
     description: >-
-      Sports odds tools for personal and internal research, with keyless discovery
-      and authenticated access using your own account. Also exposes account
-      signup, login-email, checkout-link and saved-book-preference tools.
+      Sports odds tools for personal and internal research, with keyless
+      discovery and authenticated access using your own account. Also exposes
+      account signup, login-email, checkout-link and saved-book-preference
+      tools.
     category: sports
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
