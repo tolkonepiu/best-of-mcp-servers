@@ -2588,3 +2588,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: TheBurdz/amz-vault-mcp
+    github_id: TheBurdz/amz-vault-mcp
+    description: >-
+      Remote MCP server for Amazon sellers: Seller Central + Amazon Ads with
+      settlement-basis P&L, PPC management at every grain, SQP and Brand
+      Analytics, inventory and forecasting. OAuth 2.1; every write is staged
+      for human approval.
+    category: marketing
