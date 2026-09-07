@@ -1418,6 +1418,14 @@ projects:
     github_id: ShenghaiWang/xcodebuild
     description: Build iOS Xcode workspace/project and feed back errors to llm.
     category: developer-tools
+  - name: SnipperApp/snipper-mcp
+    github_id: SnipperApp/snipper-mcp
+    description: >-
+      Search, read, create and organise the code snippets in a SnipperApp 3
+      library on macOS. 25 tools covering snippets, folders, tags, attachments,
+      workspaces and storages, plus the public SnipperApp Hub. Bundled inside
+      the app as a stdio binary, so nothing leaves the machine.
+    category: developer-tools
   - name: xzq-xu/jvm-mcp-server
     github_id: xzq-xu/jvm-mcp-server
     description:
