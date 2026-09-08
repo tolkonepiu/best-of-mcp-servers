@@ -804,6 +804,15 @@ projects:
       Baserow database integration with table search, list, and row create,
       read, update, and delete capabilities.
     category: databases
+  - name: busabase/busabase
+    github_id: busabase/busabase
+    npm_id: busabase
+    dockerhub_id: busabase/busabase
+    description: >-
+      Open-source database and workspace for AI agents to manage typed tables,
+      records, docs, files, and search, with ChangeRequests for human review
+      before important writes.
+    category: databases
   - name: Canner/wren-engine
     github_id: Canner/wren-engine
     description:
