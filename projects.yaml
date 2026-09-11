@@ -2368,6 +2368,13 @@ projects:
       An MCP server to interface with the Google Calendar API. Based on
       TypeScript.
     category: workplace-and-productivity
+  - name: taskade/mcp
+    github_id: taskade/mcp
+    description: >-
+      Connect AI clients to Taskade workspaces, projects, and tasks via hosted
+      Streamable HTTP (OAuth 2.0 PKCE) or local stdio with npx -y
+      @taskade/mcp-server.
+    category: workplace-and-productivity
   - name: taylorwilsdon/google_workspace_mcp
     github_id: taylorwilsdon/google_workspace_mcp
     description: >-
