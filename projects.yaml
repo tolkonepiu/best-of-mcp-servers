@@ -1956,6 +1956,14 @@ projects:
       observability data, including metrics, logs, systems, containers,
       processes, and network connections.
     category: monitoring
+  - name: magna-nz/tallybook
+    github_id: magna-nz/tallybook
+    description: >-
+      Prices every Claude Code and Codex session on your disk, shows what each
+      agent cost over any period, and says in plain English what would have
+      been cheaper. Local-only: no proxy, no API key, nothing leaves the
+      machine.
+    category: monitoring
   - name: sunriseapps/imagesorcery-mcp
     github_id: sunriseapps/imagesorcery-mcp
     description: >-
