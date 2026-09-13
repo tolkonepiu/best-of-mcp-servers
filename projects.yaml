@@ -118,6 +118,14 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: key-arg/statable-mcp
+    github_id: key-arg/statable-mcp
+    description: >-
+      Web analytics MCP server for Statable. Query visitors, pages, traffic
+      sources, countries, goals and funnels for your sites, and create sites,
+      goals and funnels. Cookieless and EU-hosted; works over stdio via npx or
+      as a remote server with OAuth.
+    category: marketing
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
