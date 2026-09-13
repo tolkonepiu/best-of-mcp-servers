@@ -325,6 +325,12 @@ projects:
       browser-use packaged as an MCP server with SSE transport. includes a
       dockerfile to run chromium in docker + a vnc server.
     category: browser-automation
+  - name: feder-cr/AIHawk
+    github_id: feder-cr/AIHawk
+    description: >-
+      AI browser agent that browses, clicks, types and reads real web pages
+      from plain-English instructions; MCP server over stdio via uvx aihawk
+    category: browser-automation
   - name: eat-pray-ai/yutu
     github_id: eat-pray-ai/yutu
     description:
