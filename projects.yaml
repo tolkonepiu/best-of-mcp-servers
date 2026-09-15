@@ -518,7 +518,8 @@ projects:
     category: cloud-platforms
   - name: zopdev/mcp
     github_id: zopdev/mcp
-    homepage: https://zop.dev/learn/mcp-server?utm_source=tolkonepiu-best-of-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory
+    homepage: "https://zop.dev/learn/mcp-server?utm_source=tolkonepiu-best-\
+      of-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory"
     description: >-
       Cloud cost and infrastructure governance across AWS, Azure, GCP,
       Databricks and Snowflake. 263 tools (155 read, 108 write) covering cost,
