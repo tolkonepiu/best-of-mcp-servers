@@ -1688,10 +1688,10 @@ projects:
   - name: paperandbeyond23-gif/edgrapi-skills
     github_id: paperandbeyond23-gif/edgrapi-skills
     description: >-
-      SEC EDGAR filings as clean JSON - Form 4 insider trades with cluster-buy
-      detection, 8-K events, 13F holdings diffed quarter-over-quarter, 13D/13G
-      stakes above 5 percent, XBRL fundamentals and full-text search.
-    category: finance-and-fintech
+      Remote MCP server for US government data as clean JSON - SAM.gov contract
+      opportunities, USAspending awards, Grants.gov grants, House STOCK Act
+      trades and SEC EDGAR filings. 19 read-only tools, OAuth sign-in.
+    category: data-platforms
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
