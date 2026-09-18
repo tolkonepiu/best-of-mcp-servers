@@ -2588,3 +2588,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: menaker/adtest-mcp
+    github_id: menaker/adtest-mcp
+    npm_id: adtest-mcp
+    description: >-
+      AdTest.AI ad pre-testing: score an image, video or text ad on 13
+      effectiveness dimensions and get a section-by-section report with
+      concrete fixes before you spend on media.
+    category: marketing
