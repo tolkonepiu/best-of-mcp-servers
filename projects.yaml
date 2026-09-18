@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: DerrickAppOrg/derrick-mcp
+    github_id: DerrickAppOrg/derrick-mcp
+    description: >-
+      B2B data enrichment MCP server. Returns verified work emails, phone
+      numbers, company firmographics, tech stack and hiring signals to any
+      MCP-compatible client.
+    category: search-data-extraction
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
