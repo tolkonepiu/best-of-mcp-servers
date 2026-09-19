@@ -11,7 +11,7 @@ jobs:
       - name: ⤵️ Check out code
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: 🚀 Run yamllint
-        uses: reviewdog/action-yamllint@6803b0dc8f295034a6156b924814053acb2e6f5a # v1.24.0
+        uses: reviewdog/action-yamllint@290d92c84b22627946efc7fd6f038ade2d2beede # v1.25.0
         with:
           yamllint_flags: "projects.yaml"
           reporter: github-pr-review
