@@ -1685,6 +1685,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: jonwillington/ddbx-plugin
+    github_id: jonwillington/ddbx-plugin
+    description: >-
+      Read-only remote MCP server (no auth) for insider share dealings: UK
+      director/PDMR dealings, SEC Form 4 filers, Swedish and Dutch PDMRs, and US
+      Congress STOCK Act trades, ingested within minutes and rated.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
