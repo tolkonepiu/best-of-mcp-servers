@@ -2590,6 +2590,8 @@ projects:
     category: other-tools-and-integrations
   - name: ZennoLab/zennoposter-mcp
     github_id: ZennoLab/zennoposter-mcp
-    description: Official MCP servers for the ZennoPoster automation platform - edit automation projects, run and monitor tasks, drive browser instances and Android devices. Windows only.
+    description: >-
+      Official MCP servers for the ZennoPoster automation platform: edit
+      automation projects, run and monitor tasks, drive browser instances
+      and Android devices. Windows only, requires ZennoPoster 7.9.2+.
     category: browser-automation
-  
