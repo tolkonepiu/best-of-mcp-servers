@@ -319,6 +319,18 @@ projects:
     github_id: BrowserMCP/mcp
     description: Automate your local Chrome browser
     category: browser-automation
+  - name: Agent360dk/browser-mcp
+    github_id: Agent360dk/browser-mcp
+    description: >-
+      Drives your real, logged-in Chrome rather than a headless one, and stops
+      to ask you on screen for a 2FA code or a CAPTCHA it cannot click itself.
+    category: browser-automation
+  - name: Agent360dk/computerMCP
+    github_id: Agent360dk/computerMCP
+    description: >-
+      macOS computer use with the guardrails on: password fields blacked out
+      before the screenshot is written, consent on every write, append-only log.
+    category: developer-tools
   - name: kontext-dev/browser-use-mcp-server
     github_id: kontext-dev/browser-use-mcp-server
     description: >-
