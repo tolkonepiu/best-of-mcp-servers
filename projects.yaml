@@ -2588,3 +2588,8 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: ZennoLab/zennoposter-mcp
+    github_id: ZennoLab/zennoposter-mcp
+    description: Official MCP servers for the ZennoPoster automation platform - edit automation projects, run and monitor tasks, drive browser instances and Android devices. Windows only.
+    category: browser-automation
+  
