@@ -516,6 +516,17 @@ projects:
       Kubernetes bulk port forwarding with service discovery, /etc/hosts
       management, traffic monitoring, and pod log streaming.
     category: cloud-platforms
+  - name: zopdev/mcp
+    github_id: zopdev/mcp
+    homepage: "https://zop.dev/learn/mcp-server?utm_source=tolkonepiu-best-\
+      of-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory"
+    description: >-
+      Cloud cost and infrastructure governance across AWS, Azure, GCP,
+      Databricks and Snowflake. 263 tools (155 read, 108 write) covering cost,
+      resources, schedules, recommendations, budgets, governance and
+      diagnostics. Read-only by default, with optional scoped writes. Hosted
+      remote streamable-HTTP endpoint at https://api.zop.dev/mcp-server.
+    category: cloud-platforms
   - name: alfonsograziano/node-code-sandbox-mcp
     github_id: alfonsograziano/node-code-sandbox-mcp
     description: >-
