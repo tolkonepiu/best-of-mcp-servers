@@ -2148,6 +2148,13 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: usenetstate/mcp
+    github_id: usenetstate/mcp
+    homepage: https://netstate.co
+    description: >-
+      Search 128 million official company registrations across every US state,
+      DC, Puerto Rico and Canada.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
