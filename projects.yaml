@@ -2588,3 +2588,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: AetherAI3/agent-browser
+    github_id: AetherAI3/agent-browser
+    description: >-
+      Self-hosted Chrome for AI agents. One browser session driven over MCP,
+      with a live noVNC view where a human can watch and take over at logins
+      or 2FA
+    npm_id: aether-browser
+    pypi_id: aether-browser
+    category: browser-automation
