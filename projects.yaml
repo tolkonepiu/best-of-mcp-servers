@@ -2588,3 +2588,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: menaker/mobopinions-survey-mcp
+    github_id: menaker/mobopinions-survey-mcp
+    description: >-
+      MobOpinions Survey Light: build, target, launch and analyse consumer
+      surveys with real panel respondents from an AI assistant (71 tools,
+      remote Streamable HTTP server, OAuth 2.1).
+    category: marketing
