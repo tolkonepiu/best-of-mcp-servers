@@ -2148,6 +2148,13 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: tubeagentkit/youtube-mcp
+    github_id: tubeagentkit/youtube-mcp
+    description: >-
+      YouTube transcripts, video/channel search, channel browsing, and
+      playlist extraction for AI agents, via a hosted MCP server with a free
+      tier and no card required.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
