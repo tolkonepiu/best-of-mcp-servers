@@ -2322,6 +2322,13 @@ projects:
       text-to-speech, and real-time voice conversations through local
       microphone, OpenAI-compatible APIs, and LiveKit integration
     category: text-to-speech
+  - name: Engr-FaizanAli/text-to-speech-mcp
+    github_id: Engr-FaizanAli/text-to-speech-mcp
+    description: >-
+      Local text-to-speech using the operating system's built-in speech engine
+      on Windows, macOS, and Linux. No API key, no account, no special hardware
+      required, or cloud service, so text never leaves the machine.
+    category: text-to-speech
   - name: mberg/kokoro-tts-mcp
     github_id: mberg/kokoro-tts-mcp
     description: >-
