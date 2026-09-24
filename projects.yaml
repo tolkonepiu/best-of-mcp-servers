@@ -1685,6 +1685,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: quidli/connect-mcp
+    github_id: Quidli/connect-mcp
+    description: >-
+      Resolve any social handle (Farcaster, X, Telegram, Discord, GitHub,
+      email, phone) to a wallet, check reputation from public history, and
+      send tokens — from any MCP client. Supports x402 pay-per-call.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
