@@ -130,6 +130,12 @@ projects:
       A unified Model Context Protocol server implementation that aggregates
       multiple MCP servers into one.
     category: aggregators
+  - name: groundtruth-now/groundtruth-mcp
+    github_id: groundtruth-now/groundtruth-mcp
+    description: >-
+      Recorded outcomes of Solana (pump.fun) and Robinhood Chain memecoin launches and the track
+      record of their creators, over remote MCP and x402.
+    category: finance-and-fintech
   - name: mcpjungle/MCPJungle
     github_id: mcpjungle/MCPJungle
     description: Self-hosted MCP Server registry for enterprise AI Agents
