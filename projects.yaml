@@ -1757,6 +1757,14 @@ projects:
       RAG chunks, files, and conversation history before they reach the LLM,
       with reversible retrieval through MCP tools.
     category: knowledge-and-memory
+  - name: ContextStream
+    github_id: contextstream/mcp-server
+    npm_id: "@contextstream/mcp-server"
+    homepage: https://contextstream.io
+    description: >-
+      Shared project memory and semantic code search for AI coding agents
+      (Cursor, Claude Code, Codex, Grok). Hosted MCP with OAuth or local stdio.
+    category: knowledge-and-memory
   - name: entanglr/zettelkasten-mcp
     github_id: entanglr/zettelkasten-mcp
     description: >-
