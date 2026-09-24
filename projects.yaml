@@ -118,6 +118,12 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: archcore-ai/archcore
+    github_id: archcore-ai/archcore
+    description: >-
+      Git-native context engineering CLI and MCP server for AI coding agents.
+      Keep specs, ADRs, rules, plans, and project knowledge in Git.
+    category: coding-agents
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
