@@ -2588,3 +2588,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: The-40-Thieves/alexandria-mcp
+    github_id: The-40-Thieves/alexandria-mcp
+    npm_id: "@the-40-thieves/alexandria-mcp"
+    description: >-
+      Natural-language search, full-text reading, and cited answers across 152
+      public research libraries: papers, books, law, government records,
+      security advisories, news, and developer docs.
+    category: search-data-extraction
