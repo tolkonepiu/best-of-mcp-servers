@@ -2588,3 +2588,8 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: nhconganhmedia/myspec-mcp
+    github_id: nhconganhmedia/myspec-mcp
+    description: >-
+      Spec-Driven Development MCP server for MySpec (https://myspec.dev) generating structured 4-file spec context bundles (constitution, requirements, solution, tasks) for Cursor and Claude Code.
+    category: coding-agents
