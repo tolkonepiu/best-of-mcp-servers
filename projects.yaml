@@ -118,6 +118,14 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: spranab/brainstorm-mcp
+    github_id: spranab/brainstorm-mcp
+    npm_id: brainstorm-mcp
+    description: >-
+      Runs multi-round debates between several models (GPT, Gemini, DeepSeek,
+      Claude, local Ollama), then returns a structured synthesis with the
+      recommendation, tradeoffs and the strongest disagreement.
+    category: developer-tools
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
