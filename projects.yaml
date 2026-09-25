@@ -2358,6 +2358,14 @@ projects:
       Azure DevOps integration for repository management, work items, and
       pipelines.
     category: version-control
+  - name: fluxgit-hq/fluxgit-mcp-server
+    github_id: fluxgit-hq/fluxgit-mcp-server
+    description: >-
+      Git MCP server with 23 bounded read-only tools and 11 write proposal or
+      cancellation contracts. Write proposals run only after a person reviews
+      the operation-specific impact, risk, and recovery context and approves
+      them in the FluxGit desktop app.
+    category: version-control
   - name: MarkusPfundstein/mcp-gsuite
     github_id: MarkusPfundstein/mcp-gsuite
     description: Integration with gmail and Google Calendar.
