@@ -2286,6 +2286,13 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: amflimited/threadfox-lite
+    github_id: amflimited/threadfox-lite
+    description: >-
+      Free, read-only Reddit tools: reads a subreddit's rules with the
+      self-promotion rules flagged before an agent posts, and checks whether a
+      post is still live, removed by moderators or deleted. No Reddit API keys.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
