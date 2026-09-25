@@ -2286,6 +2286,14 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: amflimited/threadfox
+    github_id: amflimited/threadfox
+    description: >-
+      Paid Reddit MCP server and skill for Claude Code and Codex: reads
+      community rules, searches, posts and replies through your own logged-in
+      Chrome, with a local ledger that blocks double posts and rechecks posts
+      for removal.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
