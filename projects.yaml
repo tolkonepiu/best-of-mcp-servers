@@ -1792,6 +1792,12 @@ projects:
       maps. Supports multi-format exports (PNG/JPG/SVG), live browser preview,
       one-click Markdown copy, and dynamic visualization features.
     category: knowledge-and-memory
+  - name: louis030195/hyperconsciousness
+    github_id: louis030195/hyperconsciousness
+    description: >-
+      Developer-alpha Rust MCP server for encrypted, append-only knowledge
+      with scoped, expiring grants for search and capture; install from source.
+    category: knowledge-and-memory
   - name: mem0ai/mem0-mcp
     github_id: mem0ai/mem0-mcp
     description: >-
