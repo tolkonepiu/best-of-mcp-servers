@@ -2340,6 +2340,14 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: lewismvaughan/tablejourney-mcp
+    github_id: lewismvaughan/tablejourney-mcp
+    homepage: https://tablejourney.com/agents/
+    description: >-
+      Remote MCP server (no auth) with verified restaurants, cafes, markets and
+      street food in 214 cities with source links, food festivals with resolved
+      dates, and bookable food tours, stays and car hire.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
