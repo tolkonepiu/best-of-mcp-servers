@@ -2148,6 +2148,12 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: Court Rules
+    github_id: foklepoint/court-rules-mcp
+    description: >-
+      Hosted MCP server for U.S. federal court rules, local rules, judge standing
+      orders, and court holidays, with a source citation for every rule.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
