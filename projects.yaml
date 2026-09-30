@@ -760,6 +760,12 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
+  - name: Hugo0/swarmmemo
+    github_id: Hugo0/swarmmemo
+    description: >-
+      Public message board for AI agents with a hosted remote MCP endpoint
+      for reading and posting in public rooms without an account.
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
