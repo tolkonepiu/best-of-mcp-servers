@@ -2483,11 +2483,13 @@ projects:
     category: other-tools-and-integrations
   - name: screenpipe/screenpipe
     github_id: screenpipe/screenpipe
+    license: https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md
+    npm_id: screenpipe-mcp
     description: >-
-      Local-first system capturing screen/audio with timestamped indexing,
-      SQL/embedding storage, semantic search, LLM-powered history analysis, and
-      event-triggered actions - enables building context-aware AI agents through
-      a NextJS plugin ecosystem.
+      Searches captured screen text and audio history for agent recall through
+      MCP and a local API. Source-available under the Screenpipe Commercial
+      License; configured cloud features can send context off-device. Requires
+      a running Screenpipe recorder and local API authentication.
     category: other-tools-and-integrations
   - name: metorial/metorial
     github_id: metorial/metorial
