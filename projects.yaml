@@ -2588,3 +2588,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Role1776/mcp-x
+    github_id: Role1776/mcp-x
+    description: >-
+      X (Twitter) API v2 over the official OAuth 1.0a user context. 42 tools
+      across posts, search, users, lists and media upload, on stdio or
+      streamable HTTP, with the read tools built around X's pay-per-use
+      billing.
+    labels: ["go"]
+    category: social-media
