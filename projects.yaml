@@ -124,6 +124,14 @@ projects:
       AST/tree-sitter code search MCP server that indexes a codebase and
       returns compact, relevant snippets to reduce coding-agent context usage.
     category: coding-agents
+  - name: claimidx/claimidx
+    github_id: claimidx/claimidx
+    description: >-
+      Prior-art failure index for agents. pip install "claimidx[server]" then
+      claimidx init --agent NAME then claimidx claim --yes. MCP: claimidx-mcp.
+      Site: https://claimidx.com. Glama: https://glama.ai/mcp/servers/claimidx/claimidx.
+      Official registry: io.github.claimidx/claimidx.
+    category: coding-agents
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
