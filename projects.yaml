@@ -118,6 +118,14 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: 23shim/bidskim-mcp
+    github_id: 23shim/bidskim-mcp
+    homepage: https://bidskim.com/mcp
+    description: >-
+      UK public procurement intelligence: live UK government tender search,
+      contract renewals with expiry dates and incumbent suppliers, and
+      buyer/supplier profiles. Hosted remote MCP at mcp.bidskim.com/mcp.
+    category: search-data-extraction
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
