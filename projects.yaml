@@ -1969,6 +1969,12 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: auroracapital/upres-cli
+    github_id: auroracapital/upres-cli
+    description: >-
+      MCP server and CLI for upres.ai, an AI image/video upscaler with 14
+      specialized neural models (faces, text, print, art, video) up to 8K.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
