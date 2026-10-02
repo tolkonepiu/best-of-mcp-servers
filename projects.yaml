@@ -1569,6 +1569,13 @@ projects:
       MCP tool access to MarkItDown -- a library that converts many file formats
       (local or remote) to Markdown for LLM consumption.
     category: file-systems
+  - name: SylphxAI/anymd
+    github_id: SylphxAI/anymd
+    description: >-
+      Any file to clean Markdown for AI agents: PDF, DOCX, PPTX, XLSX/CSV, EPUB,
+      HTML/URLs, images (OCR) and audio/video metadata, with read, search and
+      inspect tools. Local Rust binary, no API key. Formerly pdf-reader-mcp.
+    category: file-systems
   - name: aaronjmars/web3-research-mcp
     github_id: aaronjmars/web3-research-mcp
     description: Deep Research for crypto - free & fully local
