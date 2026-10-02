@@ -2588,3 +2588,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: getclera/mcp
+    github_id: getclera/mcp
+    description:
+      Hire from any MCP client. Search 210,000+ vetted startup candidates,
+      review Clera's picks for your open roles and request intros over a
+      hosted OAuth endpoint.
+    category: workplace-and-productivity
