@@ -1606,6 +1606,13 @@ projects:
       20+ exchanges using the CCXT library. Supports spot, futures, OHLCV,
       balances, orders, and more.
     category: finance-and-fintech
+  - name: eulerpool/eulerpool-mcp
+    github_id: eulerpool/eulerpool-mcp
+    description: >-
+      Financial data for AI agents: 250+ tools covering stocks, fundamentals,
+      ETFs, macro (FRED/ECB/IMF/World Bank), crypto, FX, insider trades,
+      congress trading and options flow. Hosted server, OAuth or API key.
+    category: finance-and-fintech
   - name: ferdousbhai/investor-agent
     github_id: ferdousbhai/investor-agent
     description: >-
