@@ -2588,3 +2588,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: VideoGen MCP
+    github_id: video-gen/videogen-mcp
+    npm_id: "@videogen/mcp"
+    homepage: https://videogen.io/videogen-mcp
+    description: >-
+      Official VideoGen MCP server for creating and editing videos, images,
+      voiceovers, music, and avatars, then remixing and exporting projects.
+    category: multimedia-process
