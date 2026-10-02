@@ -1145,6 +1145,12 @@ projects:
       Use natural language to explore LLM observability, traces, and monitoring
       data captured by Opik.
     category: developer-tools
+  - name: dayyad/manycp-mcp
+    github_id: dayyad/manycp-mcp
+    description: >-
+      Submit an MCP server to many MCP directories and track each listing from
+      an AI assistant
+    category: developer-tools
   - name: delano/postman-mcp-server
     github_id: delano/postman-mcp-server
     description: Interact with Postman API
