@@ -552,6 +552,13 @@ projects:
       An MCP server that indexes local code into a graph database to provide
       context to AI assistants with a graphical code visualizations for humans.
     category: coding-agents
+  - name: Continuum-AI-Corp/OrcaReplay
+    github_id: Continuum-AI-Corp/OrcaReplay
+    description: >-
+      Exposes recorded coding-agent runs so an agent can answer why an earlier
+      run did something, replay it offline, or fork it from a checkpoint onto a
+      different model.
+    category: coding-agents
   - name: ezyang/codemcp
     github_id: ezyang/codemcp
     description: Coding agent with basic read, write and command line tools.
