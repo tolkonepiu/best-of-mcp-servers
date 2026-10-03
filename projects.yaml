@@ -673,6 +673,13 @@ projects:
       TSgram: Telegram + Claude with local workspace access on your phone in
       typescript. Read, write, and vibe code on the go!
     category: communication
+  - name: callforme-tel/callforme
+    github_id: callforme-tel/callforme
+    description: >-
+      Remote MCP server that lets AI agents phone businesses. It works the phone
+      menu, waits on hold, asks the agent mid-call when the business needs
+      something, and returns a transcript plus structured answers.
+    category: communication
   - name: carterlasalle/mac_messages_mcp
     github_id: carterlasalle/mac_messages_mcp
     description: >-
