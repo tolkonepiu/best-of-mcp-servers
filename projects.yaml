@@ -130,6 +130,14 @@ projects:
       A unified Model Context Protocol server implementation that aggregates
       multiple MCP servers into one.
     category: aggregators
+  - name: Aident Loadout
+    github_id: Aident-AI/aident-skill
+    homepage: https://aident.ai
+    description: >-
+      Remote MCP capability layer connecting Codex, Claude Code, Cursor, ChatGPT
+      and other MCP clients to 1,000+ apps and 400+ Skills through one reusable
+      setup (https://loadout.aident.ai/mcp).
+    category: aggregators
   - name: mcpjungle/MCPJungle
     github_id: mcpjungle/MCPJungle
     description: Self-hosted MCP Server registry for enterprise AI Agents
