@@ -1685,6 +1685,12 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: chico10117/basepay-readiness-service
+    github_id: chico10117/basepay-readiness-service
+    description: >-
+      MCP service for inspecting x402 endpoint challenges before USDC payment
+      on Base; it never connects a buyer wallet, signs, or spends.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
