@@ -2588,3 +2588,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: reflectme-source/acqpath-distribution
+    github_id: reflectme-source/acqpath-distribution
+    description: >-
+      Remote MCP server providing signed, timestamped observations of machine-readable
+      source-rights declarations for RAG, indexing, training, search, and AI input.
+    category: security
