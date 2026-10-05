@@ -2591,6 +2591,6 @@ projects:
   - name: reflectme-source/acqpath-distribution
     github_id: reflectme-source/acqpath-distribution
     description: >-
-      Remote MCP server providing signed, timestamped observations of machine-readable
-      source-rights declarations for RAG, indexing, training, search, and AI input.
-    category: security
+      Signed source-rights evidence for AI and RAG workflows, checking observed
+      machine-readable usage declarations before indexing, training or search.
+    category: developer-tools
