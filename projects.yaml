@@ -1685,6 +1685,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: voidly-ai/pay-mcp
+    github_id: voidly-ai/pay-mcp
+    description: >-
+      MCP server for Voidpay, an agent services marketplace. Agents find
+      services and storefronts and prepare owner-approved checkout links; it
+      never signs or pays.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
