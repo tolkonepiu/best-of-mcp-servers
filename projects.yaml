@@ -253,6 +253,14 @@ projects:
     github_id: diivi/aseprite-mcp
     description: MCP server using the Aseprite API to create pixel art
     category: art-and-culture
+  - name: makeaivideo-ai/mcp
+    github_id: makeaivideo-ai/mcp
+    npm_id: "@makeaivideo/mcp"
+    description: >-
+      MCP server for MakeAIVideo (makeaivideo.ai) that creates finished
+      short-form AI videos with voiceover, AI or stock scenes, captions and
+      music, and posts them to TikTok, Instagram and YouTube.
+    category: art-and-culture
   - name: omni-mcp/isaac-sim-mcp
     github_id: omni-mcp/isaac-sim-mcp
     description: >-
