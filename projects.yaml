@@ -2588,3 +2588,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+
+- name: usenetstate/statsnet-mcp
+  github_id: usenetstate/statsnet-mcp
+  description: >-
+    Background check any company in the world: registration, executives, courts and finances. Remote MCP endpoint https://statsnet.co/mcp. Official registry id io.github.usenetstate/statsnet.
+  category: search-data-extraction
