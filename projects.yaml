@@ -2329,6 +2329,12 @@ projects:
       text-to-speech. Can convert text to MP3 on a local driver or auto-upload
       to an S3 bucket.
     category: text-to-speech
+  - name: Aisle
+    github_id: Nunya-design/aisle-mcp
+    description: >-
+      Hosted MCP server for wedding venues, budgets, timelines,
+      guests and events.
+    category: travel-and-transportation
   - name: cobanov/teslamate-mcp
     github_id: cobanov/teslamate-mcp
     description: >-
