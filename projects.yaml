@@ -2588,3 +2588,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: mhimed-crustdata/crustdata-mcp
+    github_id: mhimed-crustdata/crustdata-mcp
+    description: >-
+      Hosted MCP server for real-time B2B data: search and enrich 1B+ people and
+      200M+ company profiles for recruiting, sales and investment research.
+    category: data-platforms
