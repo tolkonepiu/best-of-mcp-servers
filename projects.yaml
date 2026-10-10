@@ -1672,6 +1672,13 @@ projects:
       An MCP server that integrates with Xero's API, allowing for standardized
       access to Xero's accounting and business features.
     category: finance-and-fintech
+  - name: D-Asce/pandastocksdk
+    github_id: D-Asce/pandastocksdk
+    description: >-
+      Real-time A-share market data MCP server delivering realtime quotes,
+      Level-2 order flow, fund flow and Dragon-Tiger data over NATS push,
+      with 22 tools.
+    category: finance-and-fintech
   - name: longbridge/openapi
     github_id: longbridge/openapi
     description: >-
