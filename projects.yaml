@@ -1486,6 +1486,14 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: dontpayfull/AInotate
+    github_id: dontpayfull/AInotate
+    pypi_id: ainotate
+    description: >-
+      Annotated screenshots for AI agents: capture a web page or desktop
+      window, then draw numbered steps, arrows, boxes and labels placed off the
+      content, with emails and tokens redacted automatically.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
