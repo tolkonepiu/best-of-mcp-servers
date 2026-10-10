@@ -410,7 +410,7 @@ projects:
     github_id: bosmdavid-gif/dropthehassle-mcp
     npm_id: dropthehassle-mcp
     description: >-
-      Puts a site online on a free HTTPS link, or on a .com that goes live
+      Publishes a site on a free HTTPS link, or on a .com that goes live
       with no DNS after the human pays a link
     category: cloud-platforms
   - name: Flux159/mcp-server-kubernetes
