@@ -118,6 +118,12 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: Serpel
+    github_id: Serpelapp/serpel-plugin
+    description: >-
+      Remote MCP server for Google rankings, site audits, keyword research, and
+      AI visibility monitoring across ChatGPT, Claude, Cursor, Codex, and Gemini.
+    category: marketing
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
