@@ -118,6 +118,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: wangjingjing1026uwh-hub/zaoqiniaoer-mcp
+    github_id: wangjingjing1026uwh-hub/zaoqiniaoer-mcp
+    homepage: https://zaoqiniaoerhannile.com/developers
+    description: >-
+      Pay a real person in China to walk to a physical address and write down
+      what they saw. One person for a quick on-the-spot question, or three
+      strangers who have never met for an unannounced supplier check.
+      Returns each person's own account, never a verdict.
+    category: location-services
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
