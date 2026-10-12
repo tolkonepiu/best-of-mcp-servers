@@ -1505,10 +1505,12 @@ projects:
   - name: Invokely MCP connector
     github_id: estevecastells/invokely-mcp-connector
     description: >-
-      MIT-licensed local stdio connector for Invokely's hosted official-statistics
-      MCP service. Exposes indicator search, place lookup, values, series,
-      comparisons and rankings, plus four workspace tools including save and
-      delete. The hosted backend is separate and is not open source.
+      MIT-licensed local stdio connector to Invokely's hosted MCP for official
+      statistics. It forwards indicator search, place lookup, values, series,
+      comparisons and rankings. The upstream tool list can also include
+      workspace operations such as save and delete; their production
+      availability is conditional. The hosted backend is separate and is not
+      open source.
     category: data-science-tools
   - name: kdqed/zaturn
     github_id: kdqed/zaturn
