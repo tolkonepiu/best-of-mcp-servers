@@ -1502,6 +1502,14 @@ projects:
     github_id: datalayer/jupyter-mcp-server
     description: Model Context Protocol (MCP) Server for Jupyter.
     category: data-science-tools
+  - name: Invokely MCP connector
+    github_id: estevecastells/invokely-mcp-connector
+    description: >-
+      MIT-licensed local stdio connector for Invokely's hosted official-statistics
+      MCP service. Exposes indicator search, place lookup, values, series,
+      comparisons and rankings, plus four workspace tools including save and
+      delete. The hosted backend is separate and is not open source.
+    category: data-science-tools
   - name: kdqed/zaturn
     github_id: kdqed/zaturn
     description: >-
