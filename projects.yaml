@@ -2588,3 +2588,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: CSOAI-ORG/councilof-ai
+    github_id: CSOAI-ORG/councilof-ai
+    description: >-
+      Council of AI GSPC measurement MCP (https://councilof.ai/mcp).
+      Living board via GET https://councilof.ai/api/gspc.
+      Measurement only, never certification.
+      Official Registry: io.github.CSOAI-ORG/gspc.
+    category: security
