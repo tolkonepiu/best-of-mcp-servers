@@ -673,6 +673,14 @@ projects:
       TSgram: Telegram + Claude with local workspace access on your phone in
       typescript. Read, write, and vibe code on the go!
     category: communication
+  - name: breakcold/inboxmcp
+    github_id: breakcold/inboxmcp
+    description: >-
+      Hosted MCP for LinkedIn, WhatsApp, Telegram and Instagram inboxes with
+      OAuth 2.1. Read conversations, research profiles and send user-approved
+      messages. Requires an account and active trial or subscription. Public
+      repository contains metadata and docs; hosted backend is proprietary.
+    category: communication
   - name: carterlasalle/mac_messages_mcp
     github_id: carterlasalle/mac_messages_mcp
     description: >-
