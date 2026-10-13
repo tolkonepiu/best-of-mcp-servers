@@ -667,6 +667,13 @@ projects:
       A swiss-army-knife that can manage/execute programs and
       read/write/search/edit code and text files.
     category: command-line
+  - name: answerLoops/answerLoops
+    github_id: answerLoops/answerLoops
+    description: >-
+      Open-source AI support agent for communities. Its MCP server lets agents
+      search a self-hosted support knowledge base, read FAQs and tickets, create
+      tickets, and generate answers grounded in your own docs.
+    category: communication
   - name: areweai/tsgram-mcp
     github_id: areweai/tsgram-mcp
     description: >-
