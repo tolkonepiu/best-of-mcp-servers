@@ -141,6 +141,14 @@ projects:
       your PostgreSQL, MySQL, or SQLite compatible database. Local-first and
       private by design.
     category: aggregators
+  - name: zencodeinc/hydracept-public
+    github_id: zencodeinc/hydracept-public
+    pypi_id: hydracept
+    description: >-
+      Hosted remote MCP server (https://api.hydracept.com/mcp, Bearer API key)
+      for capability discovery, quotes, durable jobs, receipts, and artifacts
+      across multiple AI providers.
+    category: aggregators
   - name: juspay/neurolink
     github_id: juspay/neurolink
     description: >-
