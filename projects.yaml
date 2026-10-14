@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: offendersearch/mcp
+    github_id: offendersearch/mcp
+    description: >-
+      Searches all 58 US sex-offender registries — every US state, DC and the
+      territories — in one query by name, DOB, city/ZIP, address or GIS radius.
+      Backed by offendersearch.app.
+    category: search-data-extraction
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
