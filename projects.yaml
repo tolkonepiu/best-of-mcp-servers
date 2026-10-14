@@ -1666,6 +1666,13 @@ projects:
       backtest strategies, manage collaborators, and deploy live-trading
       workflows directly via natural-language prompts.
     category: finance-and-fintech
+  - name: roicai/agents-plugin
+    github_id: roicai/agents-plugin
+    homepage: https://www.roic.ai/
+    description: >-
+      Company fundamentals, financial ratios and earnings call transcripts for
+      68k+ public companies from roic.ai
+    category: finance-and-fintech
   - name: XeroAPI/xero-mcp-server
     github_id: XeroAPI/xero-mcp-server
     description: >-
