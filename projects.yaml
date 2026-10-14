@@ -2588,3 +2588,7 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: WarmerlyApp/mcp
+    github_id: WarmerlyApp/mcp
+    description: Connect ChatGPT, Claude, Cursor, VS Code, Codex and any MCP client to Warmerly for cold email, deliverability and reply triage.
+    category: marketing
