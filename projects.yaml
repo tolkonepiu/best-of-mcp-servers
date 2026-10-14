@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: loootai/looot-mcp
+    github_id: loootai/looot-mcp
+    description: >-
+      Remote MCP server for work email and phone lookup, email verification,
+      company and people search, Google results and web page reads, paid per
+      call from one prepaid balance.
+    category: search-data-extraction
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
