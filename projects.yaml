@@ -2340,6 +2340,12 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: RevList/pocket-drives-mcp
+    github_id: RevList/pocket-drives-mcp
+    description: >-
+      Peer-to-peer luxury, exotic, and EV rental search from independent hosts.
+      Read-only search, quotes, and availability. Booking finishes in the iOS app.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
