@@ -2588,3 +2588,23 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: The-40-Thieves/obsidian-tc
+    github_id: The-40-Thieves/obsidian-tc
+    npm_id: obsidian-tc
+    description: >-
+      Governed, agent-ready MCP server for Obsidian vaults. Three
+      meta-tools expose roughly 163 governed capabilities across 31
+      domains (notes, links, search, metadata, git, knowledge graph)
+      behind folder ACLs and human-in-the-loop confirmation, with
+      fused BM25, vector, and graph retrieval. Multi-vault native,
+      pluggable embeddings.
+    category: knowledge-and-memory
+  - name: The-40-Thieves/codecalc
+    github_id: The-40-Thieves/codecalc
+    pypi_id: codecalc
+    description: >-
+      Universal code and logic calculator for AI models: 52 MCP tools
+      across 31 languages. Rust-sandboxed execution with verdicts,
+      sessions, artifacts, exact arithmetic, and verified
+      translation/optimization.
+    category: code-execution
