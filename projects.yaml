@@ -1569,6 +1569,13 @@ projects:
       MCP tool access to MarkItDown -- a library that converts many file formats
       (local or remote) to Markdown for LLM consumption.
     category: file-systems
+  - name: happywpco/pdftomarkdown-mcp
+    github_id: happywpco/pdftomarkdown-mcp
+    description: >-
+      Converts local PDF, DOCX, PPTX, XLSX, image, HTML and EPUB files into
+      structured Markdown with headings, tables and optional OCR via the
+      PDFtoMarkdown.ai API.
+    category: file-systems
   - name: aaronjmars/web3-research-mcp
     github_id: aaronjmars/web3-research-mcp
     description: Deep Research for crypto - free & fully local
