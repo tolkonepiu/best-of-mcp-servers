@@ -1941,6 +1941,12 @@ projects:
     description:
       Provides access to OpenTelemetry traces and metrics through Logfire
     category: monitoring
+  - name: fclairamb/solidping
+    github_id: fclairamb/solidping
+    description: >-
+      Uptime and synthetic monitoring with a built-in MCP server to create, run
+      and diagnose checks, read results and incidents, and manage status pages
+    category: monitoring
   - name: seekrays/mcp-monitor
     github_id: seekrays/mcp-monitor
     description: >-
