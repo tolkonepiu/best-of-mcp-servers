@@ -382,6 +382,13 @@ projects:
       navigate pages, fill forms, extract data, handle authentication, and
       automate any website via natural language
     category: browser-automation
+  - name: SergiuPogor/curlshot-mcp
+    github_id: SergiuPogor/curlshot-mcp
+    description: >-
+      Hosted MCP server for the CurlShot screenshot API. Lets AI agents capture
+      any URL, HTML or Markdown as PNG, JPEG, WebP, PDF or scrolling video,
+      with device emulation and cookie-banner hiding
+    category: browser-automation
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
     description: >-
