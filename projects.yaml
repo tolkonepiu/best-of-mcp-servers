@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: firecrawl/firecrawl-mcp-server
+    github_id: firecrawl/firecrawl-mcp-server
+    description: >-
+      Official Firecrawl MCP server for web search, scraping, crawling and
+      structured data extraction, with page interaction and an autonomous
+      research agent.
+    category: search-data-extraction
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
