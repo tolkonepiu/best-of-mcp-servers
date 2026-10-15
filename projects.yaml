@@ -1975,6 +1975,14 @@ projects:
       Web search using free multi-engine search (NO API KEYS REQUIRED) —
       Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
     category: search-data-extraction
+  - name: Baizhi Cloud Agent Toolkit
+    github_id: chaitin/baizhi-agent-toolkit
+    description: >-
+      Hosted web search, page reading and structured extraction over
+      Streamable HTTP. The hosted backend source is closed; this
+      repository contains configs, docs, and tests under MIT. Access
+      requires your own Bearer API key and may consume credits.
+    category: search-data-extraction
   - name: andybrandt/mcp-simple-arxiv
     github_id: andybrandt/mcp-simple-arxiv
     description: MCP for LLM to search and read papers from arXiv
