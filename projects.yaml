@@ -2341,8 +2341,8 @@ projects:
     description: >-
       MCP server for Google Hotels, Google Vacation Rentals, and the Google
       Hotels daily price calendar — live rates from Booking.com, Expedia, Agoda,
-      Vrbo, Airbnb and 50+ OTAs. Three tools: search_hotels, hotel_price_calendar,
-      search_vacation_rentals.
+      Vrbo, Airbnb and 50+ OTAs. Three tools: search_hotels,
+      hotel_price_calendar, search_vacation_rentals.
     category: travel-and-transportation
     pypi_id: google-hotels-mcp
   - name: cobanov/teslamate-mcp
