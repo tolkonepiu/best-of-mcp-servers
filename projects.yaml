@@ -1956,6 +1956,12 @@ projects:
       observability data, including metrics, logs, systems, containers,
       processes, and network connections.
     category: monitoring
+  - name: djedi/slimlytics
+    github_id: djedi/slimlytics
+    description: >-
+      Privacy-first, cookieless web analytics with a remote MCP server (OAuth)
+      so AI agents can set up sites, install tracking, and query stats.
+    category: monitoring
   - name: sunriseapps/imagesorcery-mcp
     github_id: sunriseapps/imagesorcery-mcp
     description: >-
