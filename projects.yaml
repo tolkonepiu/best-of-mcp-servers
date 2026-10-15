@@ -2480,6 +2480,13 @@ projects:
       for converting between LaTeX and Typst, validating Typst syntax, and
       generating images from Typst code.
     category: other-tools-and-integrations
+  - name: justlinuxnoob/ginta-mcp
+    github_id: justlinuxnoob/ginta-mcp
+    description: >-
+      Hosted MCP server (OAuth) to build, publish and edit websites for small
+      businesses from Claude, ChatGPT or Claude Code: pages, contact forms,
+      menus, bookings, visitor stats and custom domains.
+    category: other-tools-and-integrations
   - name: marcelmarais/spotify-mcp-server
     github_id: marcelmarais/spotify-mcp-server
     description: Control Spotify playback and manage playlists.
