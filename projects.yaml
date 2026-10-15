@@ -375,6 +375,13 @@ projects:
       navigate pages, fill forms, extract data, handle authentication, and
       automate any website via natural language
     category: browser-automation
+  - name: vibe-testing
+    github_id: AishwaryShrivastav/vibe-testing
+    npm_id: vibe-testing
+    description: >-
+      Code-aware Playwright browser testing for AI coding agents, with regression
+      diffs and HTML reports. Runs as a local stdio MCP server or CLI.
+    category: browser-automation
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
     description: >-
