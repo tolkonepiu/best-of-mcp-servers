@@ -2595,3 +2595,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: itmplatform/mcp-server
+    github_id: itmplatform/mcp-server
+    description: >-
+      Connect AI assistants to ITM Platform projects, tasks, budgets, risks,
+      and team workload.
+    category: workplace-and-productivity
