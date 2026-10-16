@@ -232,6 +232,12 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
+  - name: briantheautomator/mspstuff-mcp
+    github_id: briantheautomator/mspstuff-mcp
+    description: >-
+      Hosted MCP servers for MSP tools: ConnectWise, NinjaOne, Microsoft 365,
+      SentinelOne, Pax8 and more. Read-only today.
+    category: aggregators
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
