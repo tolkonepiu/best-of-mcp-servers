@@ -118,6 +118,14 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: DV1-321/scalpstream-mcp
+    github_id: DV1-321/scalpstream-mcp
+    description: >-
+      MCP server that buys data per call over x402 from the user's own wallet:
+      ranked options candidates, municipal bond income, crypto research and
+      yields, fuel prices, US border waits, air quality and US product recalls.
+      About $0.01 per call with a spending cap; preview-only without a key.
+    category: finance-and-fintech
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
