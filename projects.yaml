@@ -2293,6 +2293,13 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: Himanshu-Sangshetti/posy
+    github_id: Himanshu-Sangshetti/posy
+    description: >-
+      Build and edit a hand-made link-in-bio page: add links, pick a look,
+      publish. Hosted remote server (Streamable HTTP, OAuth) at
+      https://posy.page/api/mcp, or self-host with Docker.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
