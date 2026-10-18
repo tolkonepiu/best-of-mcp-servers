@@ -2598,7 +2598,7 @@ projects:
   - name: elfovo/agent-chain-doctor
     github_id: elfovo/agent-chain-doctor
     description: >-
-      Read-only diagnostic for AI agents scheduled with launchd, cron or systemd:
-      30 checks for the ways an unattended agent stops silently, each answered
-      exposed, guarded or undecidable with its evidence
+      Read-only diagnostic for AI agents scheduled with launchd, cron or
+      systemd: 30 checks for the ways an unattended agent stops silently, each
+      answered exposed, guarded or undecidable with its evidence
     category: monitoring
