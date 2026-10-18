@@ -382,6 +382,15 @@ projects:
       navigate pages, fill forms, extract data, handle authentication, and
       automate any website via natural language
     category: browser-automation
+  - name: aldohushi1-stack/shipback-sftp
+    github_id: aldohushi1-stack/shipback-sftp
+    npm_id: shipback-sftp
+    description: >-
+      Undoable SFTP deploys to shared hosting (cPanel, Plesk, any SFTP host):
+      backs up every file it replaces on the server, restores with one call
+      and refuses if a live file was edited since. Deploy and restore only
+      run a previewed plan, with no delete or skip-backup tools.
+    category: cloud-platforms
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
     description: >-
