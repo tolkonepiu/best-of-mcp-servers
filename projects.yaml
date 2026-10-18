@@ -1867,6 +1867,12 @@ projects:
       An OpenStreetMap MCP server with location-based services and geospatial
       data.
     category: location-services
+  - name: Muslim Prayer Reminder MCP
+    github_id: tareq7/muslim-prayer-mcp
+    description: >-
+      Open-source MCP server that calculates regional Muslim prayer times by
+      location, returning daily timetables and next-prayer countdowns.
+    category: location-services
   - name: mahdin75/gis-mcp
     github_id: mahdin75/gis-mcp
     description: >-
