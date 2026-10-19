@@ -767,6 +767,14 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
+  - name: Scriptify-Inc/linkedin-mcp
+    github_id: Scriptify-Inc/linkedin-mcp
+    description: >-
+      Quibbly, a hosted LinkedIn inbox MCP server for AI assistants: read
+      conversations and connections, see who watched your videos, set
+      follow-ups and notes, and draft replies you send with one click. Never
+      sends on its own; works alongside any CRM.
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
