@@ -2365,6 +2365,12 @@ projects:
       Azure DevOps integration for repository management, work items, and
       pipelines.
     category: version-control
+  - name: kasovy/neverapply-mcp
+    github_id: kasovy/neverapply-mcp
+    description: >-
+      AI job-search agent: search and match jobs, tailor resumes, answer
+      screening questions, and apply with your approval.
+    category: workplace-and-productivity
   - name: MarkusPfundstein/mcp-gsuite
     github_id: MarkusPfundstein/mcp-gsuite
     description: Integration with gmail and Google Calendar.
