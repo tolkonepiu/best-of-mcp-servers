@@ -2595,3 +2595,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+
+  - name: Apex AI Academy
+    github_id: ApexAI-Academy/apex-mcp
+    homepage: https://apexai.academy
+    description: >-
+      Hosted MCP for AI lessons, quizzes and human-agent learning progress.
+      Public documentation and client configurations; server source is not
+      published. Free to start, with optional Premium.
