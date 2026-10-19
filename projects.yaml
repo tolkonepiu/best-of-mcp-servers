@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: evergreen-it-dev/folio
+    github_id: evergreen-it-dev/folio
+    description: >-
+      Self-hosted, Git-backed team wiki with a built-in MCP server (Streamable
+      HTTP, OAuth 2.1 or personal access token) whose 40 tools search, read and
+      edit pages, data tables and whiteboards.
+    category: knowledge-and-memory
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
