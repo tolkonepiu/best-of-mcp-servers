@@ -2599,4 +2599,7 @@ projects:
   - name: Apex AI Academy
     github_id: ApexAI-Academy/apex-mcp
     homepage: https://apexai.academy
-    description: Hosted MCP for AI lessons, quizzes and human-agent learning progress. Public documentation and client configurations; server source is not published. Free to start, with optional Premium.
+    description: >-
+      Hosted MCP for AI lessons, quizzes and human-agent learning progress.
+      Public documentation and client configurations; server source is not
+      published. Free to start, with optional Premium.
