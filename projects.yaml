@@ -2591,7 +2591,8 @@ projects:
   - name: Albretsen/MCPEmails
     github_id: Albretsen/MCPEmails
     description: >-
-      Hosted email MCP server for Gmail, Fastmail, iCloud, Yahoo, Zoho, Yandex
-      and any IMAP/SMTP mailbox. Read, search, send, organize, draft and
-      schedule mail from any MCP client over Streamable HTTP.
+      Hosted email MCP server for Gmail, Outlook / Microsoft 365 and any
+      IMAP/SMTP mailbox. Read, search, send, organize, draft, schedule and
+      auto-triage mail from any MCP client. Email is fetched live and never
+      stored.
     category: communication
