@@ -811,6 +811,13 @@ projects:
       Baserow database integration with table search, list, and row create,
       read, update, and delete capabilities.
     category: databases
+  - name: ExpeditedProjects/hutchdb
+    github_id: ExpeditedProjects/hutchdb
+    description: >-
+      Shared database for teams and AI agents: store, query, and update
+      structured records over MCP. Self-hostable, or remote at
+      https://app.hutchdb.com/api/mcp (OAuth).
+    category: databases
   - name: Canner/wren-engine
     github_id: Canner/wren-engine
     description:
