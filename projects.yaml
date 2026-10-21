@@ -2595,3 +2595,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: gpunz/gpunz-mcp
+    github_id: gpunz/gpunz-mcp
+    description: >-
+      Find GPU offers, estimate VRAM for popular models, and rent, monitor and
+      stop GPU servers on the gpu.nz GPU cloud.
+    category: cloud-platforms
