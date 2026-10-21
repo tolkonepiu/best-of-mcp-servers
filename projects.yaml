@@ -2595,3 +2595,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+
+  - name: Leash
+    github_id: open-leash/leash-plugin
+    homepage: https://openleash.com
+    category: security
+    description: "Free hosted MCP gateway for protected personal account access, configurable checks, activity history and supported undo. Public integration package; proprietary backend."
