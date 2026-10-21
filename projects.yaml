@@ -2600,4 +2600,7 @@ projects:
     github_id: open-leash/leash-plugin
     homepage: https://openleash.com
     category: security
-    description: "Free hosted MCP gateway for protected personal account access, configurable checks, activity history and supported undo. Public integration package; proprietary backend."
+    description: >-
+      Free hosted MCP gateway for protected personal account access,
+      configurable checks, activity history and supported undo. Public
+      integration package; proprietary backend.
