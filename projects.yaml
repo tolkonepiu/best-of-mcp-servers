@@ -2595,3 +2595,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: neuralverge/neuralverge-mcp-server
+    github_id: neuralverge/neuralverge-mcp-server
+    npm_id: neuralverge-mcp-server
+    description: >-
+      Data layer for AI agents: web search, URL-to-JSON extraction and
+      structured data from 300+ sources (company registries, marketplaces,
+      product reviews, funding data, contact enrichment) as 342 tools. Hosted
+      Streamable HTTP with OAuth 2.1, or local stdio.
+    category: search-data-extraction
