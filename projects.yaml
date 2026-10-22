@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: everest-an/Awareness-Market
+    github_id: everest-an/Awareness-Market
+    description: >-
+      Local-first persistent memory for AI coding agents: Markdown + SQLite
+      hybrid retrieval (FTS5 + embeddings RRF), works offline, no account;
+      96% R@5 on LongMemEval with zero LLM calls at retrieval.
+    category: knowledge-and-memory
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
