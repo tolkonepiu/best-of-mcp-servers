@@ -2595,3 +2595,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Albretsen/MCPEmails
+    github_id: Albretsen/MCPEmails
+    description: >-
+      Hosted email MCP server for Gmail, Outlook / Microsoft 365 and any
+      IMAP/SMTP mailbox. Read, search, send, organize, draft, schedule and
+      auto-triage mail from any MCP client. Email is fetched live and never
+      stored.
+    category: communication
