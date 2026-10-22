@@ -2595,3 +2595,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Scento-com/perfume-mcp-server
+    github_id: Scento-com/perfume-mcp-server
+    npm_id: scento-perfume-api
+    pypi_id: scento-perfume-api
+    description: >-
+      Perfume portraits, raw materials, scent pairings and occasion edits from
+      Scento's verified perfume database, with twelve read-only tools. Remote
+      streamable HTTP, no key needed.
+    category: knowledge-and-memory
