@@ -1764,6 +1764,13 @@ projects:
       RAG chunks, files, and conversation history before they reach the LLM,
       with reversible retrieval through MCP tools.
     category: knowledge-and-memory
+  - name: dialectforge/FlowState
+    github_id: dialectforge/FlowState
+    description: >-
+      Local-first shared project memory in SQLite that several AI apps can use
+      at once (todos, decisions, changes, handoffs), with each change recording
+      which app, model and machine made it.
+    category: knowledge-and-memory
   - name: entanglr/zettelkasten-mcp
     github_id: entanglr/zettelkasten-mcp
     description: >-
