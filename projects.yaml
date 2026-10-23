@@ -2163,6 +2163,15 @@ projects:
       behavior. The underlying idea is to provide the agent with tools it would
       never use in its normal work.
     category: security
+  - name: usezn/zn
+    github_id: usezn/zn
+    pypi_id: zn-gate
+    description: >-
+      Local security layer for Claude Code, Codex CLI, Cursor and OpenCode that
+      keeps secret values out of what the agent sends to its model, checks tool
+      output for prompt injection, and audits agent configs and MCP servers.
+      MIT, runs on your machine, no account.
+    category: security
   - name: 13bm/GhidraMCP
     github_id: 13bm/GhidraMCP
     description: >-
