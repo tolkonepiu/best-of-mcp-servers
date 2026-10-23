@@ -1861,6 +1861,16 @@ projects:
       (95.4%).
     pypi_id: omega-memory
     category: knowledge-and-memory
+  - name: IPGeolocation/ipgeolocation-io-mcp
+    github_id: IPGeolocation/ipgeolocation-io-mcp
+    npm_id: ipgeolocation-io-mcp
+    description: >-
+      Official IPGeolocation.io MCP server with 17 tools for IP
+      geolocation, company information, ASN and network data, IP
+      security (VPN, proxy, Tor, bot, hosting and spam detection), abuse
+      contacts, time zones, astronomy, currency data and user-agent
+      parsing.
+    category: location-services
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
     description:
