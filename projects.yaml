@@ -1601,6 +1601,13 @@ projects:
       Network and Coinbase API for wallet management, fund transfers, smart
       contracts, and DeFi operations
     category: finance-and-fintech
+  - name: BlockVectra
+    github_id: blockvectra/mcp
+    npm_id: "@blockvectra/mcp"
+    description: >-
+      Stdio bridge to BlockVectra's hosted MCP for multichain EVM JSON-RPC,
+      indexed data and developer documentation.
+    category: finance-and-fintech
   - name: berlinbra/alpha-vantage-mcp
     github_id: berlinbra/alpha-vantage-mcp
     description:
