@@ -925,6 +925,12 @@ projects:
       Model Context Protocol (MCP) server that provides comprehensive SQLite
       database interaction capabilities.
     category: databases
+  - name: xakpc/sqlite-mcp-sidecar
+    github_id: xakpc/sqlite-mcp-sidecar
+    description: >-
+      Agent-safe MCP sidecar for a live SQLite database: read-only by default,
+      bounded structured writes, online backups.
+    category: databases
   - name: kiliczsh/mcp-mongo-server
     github_id: kiliczsh/mcp-mongo-server
     description: A Model Context Protocol Server for MongoDB
