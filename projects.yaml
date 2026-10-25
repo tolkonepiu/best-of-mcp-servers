@@ -1735,6 +1735,14 @@ projects:
       Project Index, and Engine Source via MCP. 119 actions across 9 domains.
       Pure C++, embedded Streamable HTTP server, no Python bridges.
     category: gaming
+  - name: cardzgame/cardz-mcp
+    github_id: cardzgame/cardz-mcp
+    description: >-
+      Free, read-only remote MCP server for graded trading card data: PSA 10
+      reference prices, population, market cap and daily history for Pokémon and
+      One Piece cards, from CardZ Marketcap (cardzmarketcap.com), a related site
+      to Cardz.Game (cardz.game) under the CARDZ brand.
+    category: gaming
   - name: apecloud/ApeRAG
     github_id: apecloud/ApeRAG
     description: >-
