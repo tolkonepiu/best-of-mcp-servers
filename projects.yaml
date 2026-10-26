@@ -2315,6 +2315,15 @@ projects:
       comprehensive tools for searching, reading, creating, and managing content
       across Atlassian workspaces.
     category: support-and-service-management
+  - name: ZelekTech/caisey-mcp
+    github_id: ZelekTech/caisey-mcp
+    homepage: https://helpforsupport.com/docs/remote-mcp
+    description: >-
+      Hosted remote MCP server for Caisey, a troubleshooting console for MSPs.
+      List enrolled PCs, read troubleshooting chats, send a prompt to a PC, and
+      answer pending command approvals, with human approval and an audit trail.
+      OAuth 2.1 sign-in, no API key.
+    category: support-and-service-management
   - name: translated/lara-mcp
     github_id: translated/lara-mcp
     description: >-
