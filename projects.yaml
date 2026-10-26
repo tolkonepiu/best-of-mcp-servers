@@ -1673,6 +1673,12 @@ projects:
       backtest strategies, manage collaborators, and deploy live-trading
       workflows directly via natural-language prompts.
     category: finance-and-fintech
+  - name: truthifi/truthifi-mcp
+    github_id: truthifi/truthifi-mcp
+    description: >-
+      One verified household record for your AI: accounts, activity, holdings,
+      fees, performance, cash flow and your Truthifi Score. Can't move money.
+    category: finance-and-fintech
   - name: XeroAPI/xero-mcp-server
     github_id: XeroAPI/xero-mcp-server
     description: >-
