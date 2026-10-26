@@ -2113,6 +2113,14 @@ projects:
       primitive" RAG-like web search model context protocol (MCP) server that
       runs locally. No APIs needed.
     category: search-data-extraction
+  - name: nyyhao/aiagentslisting-mcp
+    github_id: nyyhao/aiagentslisting-mcp
+    homepage: https://aiagentslisting.com/mcp
+    description: >-
+      Search, browse and compare a directory of AI agents, MCP servers and agent
+      skills; find alternatives and see what is trending. Hosted endpoint, read
+      tools need no API key.
+    category: search-data-extraction
   - name: OctagonAI/octagon-deep-research-mcp
     github_id: OctagonAI/octagon-deep-research-mcp
     description: Lightning-Fast, High-Accuracy Deep Research Agent
