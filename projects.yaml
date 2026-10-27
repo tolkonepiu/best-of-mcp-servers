@@ -260,6 +260,13 @@ projects:
     github_id: diivi/aseprite-mcp
     description: MCP server using the Aseprite API to create pixel art
     category: art-and-culture
+  - name: nternet-company/fotofoto-mcp
+    github_id: nternet-company/fotofoto-mcp
+    description: >-
+      Hosted MCP server for foto foto. Turn your photos or a public iCloud
+      Shared Album into a printed hardcover photo book, and compare photo book
+      prices across services.
+    category: art-and-culture
   - name: omni-mcp/isaac-sim-mcp
     github_id: omni-mcp/isaac-sim-mcp
     description: >-
