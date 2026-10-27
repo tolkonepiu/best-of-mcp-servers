@@ -260,6 +260,13 @@ projects:
     github_id: diivi/aseprite-mcp
     description: MCP server using the Aseprite API to create pixel art
     category: art-and-culture
+  - name: incendies/imageat-mcp
+    github_id: incendies/imageat-mcp
+    npm_id: "@imageat/mcp"
+    description: >-
+      MCP server for AI image generation and editing, video, and 20+ image-edit
+      tools
+    category: art-and-culture
   - name: omni-mcp/isaac-sim-mcp
     github_id: omni-mcp/isaac-sim-mcp
     description: >-
