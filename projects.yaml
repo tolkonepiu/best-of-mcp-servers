@@ -1085,6 +1085,13 @@ projects:
       interact with Keboola Connection Data Platform. This server provides tools
       for listing and accessing data from Keboola Storage API.
     category: data-platforms
+  - name: presentofai/present-of-ai-mcp
+    github_id: presentofai/present-of-ai-mcp
+    description: >-
+      Free MCP server and REST API for sourced data on AI companies, jobs and
+      news, backed by a continuously updated dataset of thousands of AI
+      companies and open roles.
+    category: data-platforms
   - name: 21st-dev/magic-mcp
     github_id: 21st-dev/magic-mcp
     description:
