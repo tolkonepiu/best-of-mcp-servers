@@ -1714,6 +1714,10 @@ projects:
       TFT, and Valorant, offering champion analytics, esports schedules, meta
       compositions, and character statistics.
     category: gaming
+  - name: PennyOCR
+    github_id: imiraoui/pennyocr-mcp
+    description: PDF and image OCR to Markdown or text, free cost estimates, credit balances and per-request spend caps. MIT server; requires a PennyOCR API key and document-processing credits.
+    category: search-data-extraction
   - name: pab1it0/chess-mcp
     github_id: pab1it0/chess-mcp
     description: >-
