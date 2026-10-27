@@ -118,6 +118,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: getremcp/remcp
+    github_id: getremcp/remcp
+    description: >-
+      ReMCP gives AI agents OAuth-protected remote MCP access to computers
+      explicitly paired by the account owner. It provides file and terminal
+      tools, browser and desktop automation, screenshots, and diagnostics.
+      Operations can change device state. The hosted endpoint is
+      https://remcp.site/mcp.
+    category: developer-tools
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
