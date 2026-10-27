@@ -929,6 +929,13 @@ projects:
     github_id: kiliczsh/mcp-mongo-server
     description: A Model Context Protocol Server for MongoDB
     category: databases
+  - name: Wine Labs
+    github_id: imiraoui/winelabs-mcp
+    description: >-
+      Fine-wine matching, prices, auctions, merchant offers and portfolios via
+      hosted MCP. OAuth and account plans or credits apply; proprietary
+      service with MIT connection documentation.
+    category: finance-and-fintech
   - name: ktanaka101/mcp-server-duckdb
     github_id: ktanaka101/mcp-server-duckdb
     description:
