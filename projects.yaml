@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: LifeVerse Product Discovery
+    github_id: lifeversegu/lifeverse-mcp
+    description: >-
+      Public read-only remote MCP server for discovering, searching,
+      inspecting, and recommending ready-to-use LifeVerse AI products and
+      interactive experiences.
+    category: search-data-extraction
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
