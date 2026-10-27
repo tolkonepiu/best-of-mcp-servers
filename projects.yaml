@@ -2602,3 +2602,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Data Oil
+    github_id: Data-Oil/sandbox
+    npm_id: "@dataoil/mcp"
+    description: >-
+      SQL database with vector, full-text and graph search plus cited answers
+      in one engine. Tools: query, schema, ask, ingest.
+    category: databases
