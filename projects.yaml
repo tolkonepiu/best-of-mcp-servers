@@ -1868,6 +1868,13 @@ projects:
       representation of each user and agent, with a hosted MCP server at
       mcp.honcho.dev and plugins for Claude Code, Codex, Cursor and OpenCode.
     category: knowledge-and-memory
+  - name: GhostPawJS/codex
+    github_id: GhostPawJS/codex
+    description: >-
+      Local memory for agents in one SQLite file. Beliefs keep their source,
+      certainty and revision history. Runs from npx or as a standalone binary
+      for Linux, macOS and Windows (ghostpaw-codex mcp).
+    category: knowledge-and-memory
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
     description:
