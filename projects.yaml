@@ -523,6 +523,13 @@ projects:
       Kubernetes bulk port forwarding with service discovery, /etc/hosts
       management, traffic monitoring, and pod log streaming.
     category: cloud-platforms
+  - name: light-cloud-com/mcp-server
+    github_id: light-cloud-com/mcp-server
+    description: >-
+      Light Cloud hosting platform MCP server: sign up by device code, deploy
+      from GitHub or a local folder, and manage environments, logs, metrics,
+      rollbacks, databases, custom domains and billing.
+    category: cloud-platforms
   - name: alfonsograziano/node-code-sandbox-mcp
     github_id: alfonsograziano/node-code-sandbox-mcp
     description: >-
