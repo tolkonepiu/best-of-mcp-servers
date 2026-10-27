@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: MaxiBestOf
+    github_id: luminous8/maxibestof-mcp
+    homepage: https://maxibestof.one/mcp
+    description: >-
+      Search website designs, UI sections, fonts, palettes, and design
+      profiles. Requires MaxiBestOf Pro. Hosted MCP with OAuth.
+    category: search-data-extraction
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
