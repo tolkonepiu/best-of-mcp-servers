@@ -131,6 +131,13 @@ projects:
       AST/tree-sitter code search MCP server that indexes a codebase and
       returns compact, relevant snippets to reduce coding-agent context usage.
     category: coding-agents
+  - name: theopenco/llmgateway
+    github_id: theopenco/llmgateway
+    description: >-
+      Open-source LLM gateway with a hosted Streamable HTTP MCP server for
+      chatting with any supported model, generating images, listing models
+      with pricing and checking usage and costs.
+    category: aggregators
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
