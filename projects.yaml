@@ -2605,5 +2605,7 @@ projects:
 
   - name: FarmDash Agent OS
     github_id: Parmasanandgarlic/farmdash-openclaw-skills
-    description: "Zero-custody DeFi intelligence, simulation and execution controls; 94 MCP tools, customer-held signing keys, source-installed local stdio."
+    description: >-
+      Zero-custody DeFi intelligence, simulation and execution controls; 94 MCP
+      tools, customer-held signing keys, source-installed local stdio.
     category: finance-and-fintech
