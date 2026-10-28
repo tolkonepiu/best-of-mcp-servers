@@ -1679,6 +1679,13 @@ projects:
       An MCP server that integrates with Xero's API, allowing for standardized
       access to Xero's accounting and business features.
     category: finance-and-fintech
+  - name: thriveventurelabs/accountsos-mcp-server
+    github_id: thriveventurelabs/accountsos-mcp-server
+    npm_id: "@thriveventurelabs/accountsos-mcp"
+    description: >-
+      AI accounting MCP server: query your live AccountsOS books (balances,
+      transactions, VAT, deadlines, invoices, documents) from any MCP client.
+    category: finance-and-fintech
   - name: longbridge/openapi
     github_id: longbridge/openapi
     description: >-
