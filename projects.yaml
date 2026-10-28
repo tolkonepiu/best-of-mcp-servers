@@ -1692,6 +1692,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: warden-protocol/warden-mcp
+    github_id: warden-protocol/warden-mcp
+    description: >-
+      Remote MCP server for AI agents to find tokens, quote swaps and trade
+      onchain on Base, BNB Chain, Robinhood Chain and Arc via Warden Token
+      Terminal.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
