@@ -2352,7 +2352,9 @@ projects:
     category: travel-and-transportation
   - name: Ignav Flights
     github_id: gusgordon/ignav-skill
-    description: Search live flight prices, compare departure dates, resolve airports, and get booking links.
+    description: >-
+      Search live flight prices, compare departure dates, resolve airports,
+      and get booking links.
     category: travel-and-transportation
   - name: openbnb-org/mcp-server-airbnb
     github_id: openbnb-org/mcp-server-airbnb
