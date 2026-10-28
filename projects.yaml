@@ -994,6 +994,13 @@ projects:
       Natural language PostgreSQL queries with automatic streaming, read-only
       safety, and universal database compatibility.
     category: databases
+  - name: nhost/nhost
+    github_id: nhost/nhost
+    description: >-
+      Official Nhost MCP server, bundled with the Nhost CLI. Lets AI agents
+      read your GraphQL schema, run the queries you allow, and manage
+      permissions and migrations.
+    category: databases
   - name: supabase-community/supabase-mcp
     github_id: supabase-community/supabase-mcp
     description: >-
