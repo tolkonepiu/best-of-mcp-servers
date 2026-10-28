@@ -1861,6 +1861,13 @@ projects:
       (95.4%).
     pypi_id: omega-memory
     category: knowledge-and-memory
+  - name: plastic-labs/honcho
+    github_id: plastic-labs/honcho
+    description: >-
+      Memory server for agents that reasons over conversations to build a
+      representation of each user and agent, with a hosted MCP server at
+      mcp.honcho.dev and plugins for Claude Code, Codex, Cursor and OpenCode.
+    category: knowledge-and-memory
   - name: IPGeolocation/ipgeolocation-io-mcp
     github_id: IPGeolocation/ipgeolocation-io-mcp
     npm_id: ipgeolocation-io-mcp

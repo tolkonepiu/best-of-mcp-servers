@@ -2,19 +2,25 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/bytedance/UI-TARS-desktop">bytedance/UI-TARS-desktop</a></b> (🥇32 ·  ⭐ 39K · 📈) - Browser automation capabilities using Puppeteer, both support local and remote browser connection. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/getsentry/toolkit">getsentry/sentry-mcp</a></b> (🥈29 ·  ⭐ 930 · 📈) - Sentry.io integration for error tracking and performance monitoring. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/safedep/vet">safedep/vet</a></b> (🥇27 ·  ⭐ 1.1K · 📈) - vet-mcp checks open source packageslike those suggested by AI coding toolsfor vulnerabilities and malicious code. It.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/haris-musa/excel-mcp-server">haris-musa/excel-mcp-server</a></b> (🥇21 ·  ⭐ 4.2K · 📈) - An Excel manipulation server providing workbook creation, data operations, formatting, and advanced features (charts,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/Jpisnice/shadcn-ui-mcp-server">Jpisnice/shadcn-ui-mcp-server</a></b> (🥇21 ·  ⭐ 3K · 📈) - MCP server that gives AI assistants seamless access to shadcn/ui v4 components, blocks, demos, and metadata. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/genomoncology/biomcp">genomoncology/biomcp</a></b> (🥇25 ·  ⭐ 660 · 📈) - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/domdomegg/airtable-mcp-server">domdomegg/airtable-mcp-server</a></b> (🥇23 ·  ⭐ 460 · 📈) - Airtable database integration with schema inspection, read and write capabilities. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/marcelmarais/spotify-mcp-server">marcelmarais/spotify-mcp-server</a></b> (🥈14 ·  ⭐ 480 · 📈) - Control Spotify playback and manage playlists. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/boltmcp/boltmcp">boltmcp/boltmcp</a></b> (🥉13 ·  ⭐ 370 · 📈) - Enterprise-grade MCP orchestration platform to create, deploy, and manage custom MCP servers on-premises. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ChanMeng666/server-google-news">ChanMeng666/server-google-news</a></b> (🥉10 ·  ⭐ 130 · 📈) - Google News integration with automatic topic categorization, multi-language support, and comprehensive search.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/mindsdb/mindshub">mindsdb/mindsdb</a></b> (🥇27 ·  ⭐ 40K · 📉) - Connect and unify data across various platforms and databases with MindsDB as a single MCP server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/taylorwilsdon/google_workspace_mcp">taylorwilsdon/google_workspace_mcp</a></b> (🥇27 ·  ⭐ 3.3K · 📉) - Comprehensive Google Workspace MCP server with full support for Google Calendar, Drive, Gmail, and Docs, Forms, Chats,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/txn2/kubefwd">txn2/kubefwd</a></b> (🥈25 ·  ⭐ 4.2K · 📉) - Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/tuannvm/mcp-trino">tuannvm/mcp-trino</a></b> (🥉14 ·  ⭐ 120 · 📉) - A Go implementation of a Model Context Protocol (MCP) server for Trino. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/superagents-lab/search1api-mcp">fatwang2/search1api-mcp</a></b> (🥈12 ·  ⭐ 170 · 📉) - Search via search1api (requires paid API key). <code>❗Unlicensed</code>
+- <b><a href="https://github.com/github/github-mcp-server">github/github-mcp-server</a></b> (🥇33 ·  ⭐ 34K · 📉) - Official GitHub server for integration with repository management, PRs, issues, and more. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/sooperset/mcp-atlassian">sooperset/mcp-atlassian</a></b> (🥇26 ·  ⭐ 6K · 📉) - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mckinsey/vizro">mckinsey/vizro</a></b> (🥇26 ·  ⭐ 3.8K · 📉) - Tools and templates to create validated and maintainable data charts and dashboards. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/cocoindex-io/cocoindex-code">cocoindex-io/cocoindex-code</a></b> (🥈22 ·  ⭐ 2.9K · 📉) - AST/tree-sitter code search MCP server that indexes a codebase and returns compact, relevant snippets to reduce.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/IBM/mcp-cli">IBM/mcp-cli</a></b> (🥈19 ·  ⭐ 2K · 📉) - Yet another CLI tool for testing MCP servers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+
+## ➕ Added Projects
+
+_Projects that were recently added to this best-of list._
+
+- <b><a href="https://github.com/firecrawl/firecrawl-mcp-server">firecrawl/firecrawl-mcp-server</a></b> (🥇22 ·  ⭐ 7.6K · ➕) - Official Firecrawl MCP server for web search, scraping, crawling and structured data extraction, with page interaction.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
