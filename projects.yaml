@@ -1692,6 +1692,14 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: julianfaalk/nebenkostenpro-mcp
+    github_id: julianfaalk/nebenkostenpro-mcp
+    description: >-
+      Free remote MCP server for German utility costs (Nebenkosten): property
+      tax rates for 10,304 municipalities, costs of 400 cities, housing
+      benefit levels and deadlines, and links to check or create a utility
+      bill. Hosted at https://nebenkostenpro.de/mcp, no auth.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
