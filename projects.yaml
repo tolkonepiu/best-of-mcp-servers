@@ -786,6 +786,13 @@ projects:
     description:
       An MCP server to interact with a Tinybird Workspace from any MCP client.
     category: customer-data-platforms
+  - name: relaticle/relaticle
+    github_id: relaticle/relaticle
+    description: >-
+      Open-source CRM your AI agents can read and update: companies, people,
+      opportunities, tasks, notes and custom fields. Hosted MCP server at
+      mcp.relaticle.com with OAuth, or self-host with Docker.
+    category: customer-data-platforms
   - name: alexander-zuev/supabase-mcp-server
     github_id: alexander-zuev/supabase-mcp-server
     description: >-
