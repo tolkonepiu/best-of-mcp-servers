@@ -121,7 +121,10 @@ projects:
   - name: Equivista
     github_id: peterloomans/equivista-mcp
     homepage: https://equivista.be/api/docs
-    description: Read-only hosted Belgian company search, KBO profiles, financials, employees and company relationships. Repository contains public integration files; application source is private.
+    description: >-
+      Read-only hosted Belgian company search, KBO profiles, financials,
+      employees and company relationships. Public integration files;
+      application source is private.
     category: finance-and-fintech
 
   - name: firecrawl/firecrawl-mcp-server
