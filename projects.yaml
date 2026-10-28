@@ -2178,6 +2178,15 @@ projects:
       memory exploration, and import/export analysis via the Model Context
       Protocol.
     category: security
+  - name: better-isms/ismscopilot-plugin
+    github_id: better-isms/ismscopilot-plugin
+    description: >-
+      ISMS Copilot, the compliance specialist your AI calls: ISO 27001, SOC 2,
+      GDPR, NIS 2, DORA and more. Hosted remote MCP server
+      (https://account.ismscopilot.com/v1/account/mcp, OAuth 2.1 with dynamic
+      client registration) for framework interpretation, policy drafting,
+      control mapping, gap analysis, risk registers and audit prep.
+    category: security
   - name: BurtTheCoder/mcp-maigret
     github_id: BurtTheCoder/mcp-maigret
     description: >-
