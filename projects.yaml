@@ -2605,4 +2605,6 @@ projects:
   - name: Fin Codes API
     github_id: swiftcodesapi/fincodesapi-mcp
     category: finance-and-fintech
-    description: Hosted MCP for IBAN and bank-code validation, payee-name verification, and sanctions screening.
+    description: >-
+      Hosted MCP for IBAN and bank-code validation, payee-name verification,
+      and sanctions screening.
