@@ -2300,6 +2300,13 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: WriteStack/mcp
+    github_id: WriteStack/mcp
+    homepage: https://www.writestack.io/mcp
+    description: >-
+      Official hosted MCP server for WriteStack (Streamable HTTP + OAuth).
+      Draft and schedule Substack Notes, manage articles, and read statistics.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
