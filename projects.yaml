@@ -304,6 +304,13 @@ projects:
       An MCP server that provides access to exported data from Apple Health.
       Data analytics included.
     category: bio
+  - name: OMOPHub/omophub-mcp
+    github_id: OMOPHub/omophub-mcp
+    description: >-
+      MCP server for the OHDSI OMOP standardized vocabularies. Search, map and
+      navigate 11M+ concepts (SNOMED CT, ICD-10, RxNorm, LOINC) from any AI
+      agent, hosted at mcp.omophub.com or run locally via npx.
+    category: bio
   - name: 34892002/bilibili-mcp-js
     github_id: 34892002/bilibili-mcp-js
     description: >-
