@@ -1868,6 +1868,12 @@ projects:
       representation of each user and agent, with a hosted MCP server at
       mcp.honcho.dev and plugins for Claude Code, Codex, Cursor and OpenCode.
     category: knowledge-and-memory
+  - name: OktoLabsAI/okto-neuron
+    github_id: OktoLabsAI/okto-neuron
+    description: >-
+      Local-first knowledge graph memory for agents, with cited sources and an
+      MCP server. Source-available (Elastic License 2.0).
+    category: knowledge-and-memory
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
     description:
