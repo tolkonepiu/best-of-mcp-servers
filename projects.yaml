@@ -2602,3 +2602,7 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Fin Codes API
+    github_id: swiftcodesapi/fincodesapi-mcp
+    category: finance-and-fintech
+    description: Hosted MCP for IBAN and bank-code validation, payee-name verification, and sanctions screening.
