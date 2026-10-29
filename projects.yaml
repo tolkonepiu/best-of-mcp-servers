@@ -408,6 +408,12 @@ projects:
     description:
       AWS MCP servers for seamless integration with AWS services and resources.
     category: cloud-platforms
+  - name: nops-io/clara-mcp
+    github_id: nops-io/clara-mcp
+    description: >-
+      Official nOps FinOps assistant (remote, OAuth) for querying AWS, GCP and
+      Azure cost, commitments, budgets, reports and anomalies.
+    category: cloud-platforms
   - name: cloudflare/mcp-server-cloudflare
     github_id: cloudflare/mcp-server-cloudflare
     description:
