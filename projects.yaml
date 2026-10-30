@@ -2354,6 +2354,12 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: equinoxaifinance-rgb/carrier-ledger-docs
+    github_id: equinoxaifinance-rgb/carrier-ledger-docs
+    description: >-
+      Authority, insurance and notices for any USDOT or MC number, each with
+      its FMCSA source. Lookups are free with no account.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
