@@ -284,6 +284,14 @@ projects:
       library, smart prompt enhancement, and multi-provider routing (local
       ComfyUI, MeiGen Cloud, OpenAI-compatible APIs).
     category: art-and-culture
+  - name: Apex-Byte-Technologies/house-ai-mcp
+    github_id: Apex-Byte-Technologies/house-ai-mcp
+    description: >-
+      Hosted MCP server for House AI: redesign rooms, house exteriors and yards
+      from a photo in 100+ styles, preview wall paint and flooring, and find
+      furniture and decor from partner stores. Streamable HTTP at
+      mcp.houseaiapp.com/mcp with OAuth 2.1 sign-in.
+    category: art-and-culture
   - name: genomoncology/biomcp
     github_id: genomoncology/biomcp
     description: >-
