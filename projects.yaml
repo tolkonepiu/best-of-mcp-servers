@@ -2322,6 +2322,15 @@ projects:
       comprehensive tools for searching, reading, creating, and managing content
       across Atlassian workspaces.
     category: support-and-service-management
+  - name: MindCraftersGroup/claude-plugin
+    github_id: MindCraftersGroup/claude-plugin
+    homepage: https://insertchat.com
+    description: >-
+      Official InsertChat remote MCP server (Streamable HTTP at
+      api.insertchat.com/v2/mcp, OAuth 2.1): AI receptionist and AI chatbot to
+      triage calls and chats that need you, draft replies, look up leads,
+      review reports, and train your assistant on web pages.
+    category: support-and-service-management
   - name: translated/lara-mcp
     github_id: translated/lara-mcp
     description: >-
