@@ -1085,6 +1085,13 @@ projects:
       interact with Keboola Connection Data Platform. This server provides tools
       for listing and accessing data from Keboola Storage API.
     category: data-platforms
+  - name: itulo/eu-nordic-open-data-mcp
+    github_id: itulo/eu-nordic-open-data-mcp
+    description: >-
+      Official EU and Finnish open data for agents: TED tenders by CPV code,
+      EU sanctions screening, VIES VAT validation, ECB FX, PRH company events,
+      Fingrid, FMI and Digitraffic, with source attribution on every record.
+    category: data-platforms
   - name: 21st-dev/magic-mcp
     github_id: 21st-dev/magic-mcp
     description:
