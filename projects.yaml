@@ -2162,6 +2162,13 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: equinoxaifinance-rgb/proof-fetch-docs
+    github_id: equinoxaifinance-rgb/proof-fetch-docs
+    description: >-
+      Web pages your agent can quote: numbered paragraphs to cite, two
+      fingerprints to check, and a hidden-instruction scan on every fetch of a
+      public URL. 1,000 full fetches a month free.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
