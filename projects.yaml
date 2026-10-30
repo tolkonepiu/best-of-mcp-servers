@@ -2287,6 +2287,13 @@ projects:
       and runs locally via Docker or as a standalone binary for fast, automated
       vetting.
     category: security
+  - name: equinoxaifinance-rgb/living-stack-community
+    github_id: equinoxaifinance-rgb/living-stack-community
+    description: >-
+      Free seven-tool proof loop for MCP agents: open a scoped session,
+      authorize a bounded action, record typed evidence, check a claim against
+      the exact outcome, and close with a tamper-evident local ledger.
+    category: security
   - name: HagaiHen/facebook-mcp-server
     github_id: HagaiHen/facebook-mcp-server
     description: >-
