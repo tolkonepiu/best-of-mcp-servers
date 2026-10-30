@@ -1459,6 +1459,14 @@ projects:
       Tool suite built around an MCP server for Android automation for developer
       workflow and testing
     category: developer-tools
+  - name: ateymoori/oh-my-android
+    github_id: ateymoori/oh-my-android
+    description: >-
+      Native macOS control panel for the Android Emulator and real phones (dark
+      mode, font scale, RTL, TalkBack, GPS, Layout Inspector in dp) with a
+      built-in stdio MCP server (18 tools) so AI agents can see and drive the
+      emulator.
+    category: developer-tools
   - name: flytohub/flyto-core
     github_id: flytohub/flyto-core
     description: >-
