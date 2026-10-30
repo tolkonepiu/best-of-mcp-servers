@@ -2021,6 +2021,14 @@ projects:
       This is a Python-based MCP server that provides OpenAI web_search build-in
       tool.
     category: search-data-extraction
+  - name: datawebot/datawebot-mcp
+    github_id: datawebot/datawebot-mcp
+    description: >-
+      Hosted remote MCP server for ecommerce product data: searches products
+      across online shops worldwide, lists every seller's price for one product
+      with direct shop links, and runs extraction Jobs on Amazon and Shopify
+      stores.
+    category: search-data-extraction
   - name: deadletterq/mcp-opennutrition
     github_id: deadletterq/mcp-opennutrition
     description: >-
