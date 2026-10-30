@@ -1799,6 +1799,15 @@ projects:
       maps. Supports multi-format exports (PNG/JPG/SVG), live browser preview,
       one-click Markdown copy, and dynamic visualization features.
     category: knowledge-and-memory
+  - name: lildaddyo/braintube-mcp
+    github_id: lildaddyo/braintube-mcp
+    description: >-
+      Hosted read-write MCP server over a personal knowledge base of saved
+      YouTube transcripts, podcasts, articles, PDFs and notes. Hybrid
+      semantic and keyword search, a knowledge graph built from what you
+      save, and tools that let your AI save what it finds. Remote
+      streamable-HTTP endpoint with OAuth or API keys.
+    category: knowledge-and-memory
   - name: mem0ai/mem0-mcp
     github_id: mem0ai/mem0-mcp
     description: >-
