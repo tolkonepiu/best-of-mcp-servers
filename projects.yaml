@@ -1970,6 +1970,13 @@ projects:
       observability data, including metrics, logs, systems, containers,
       processes, and network connections.
     category: monitoring
+  - name: equinoxaifinance-rgb/fluxproof-agent-card
+    github_id: equinoxaifinance-rgb/fluxproof-agent-card
+    description: >-
+      Monitors public pricing, policy and changelog pages and returns cited
+      before-and-after evidence with source URLs, content hashes and change
+      history. Free: 1 page checked daily for 30 days.
+    category: monitoring
   - name: sunriseapps/imagesorcery-mcp
     github_id: sunriseapps/imagesorcery-mcp
     description: >-
