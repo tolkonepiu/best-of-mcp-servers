@@ -1283,6 +1283,15 @@ projects:
     description:
       Token-efficient access to OpenAPI/Swagger specs via MCP Resources.
     category: developer-tools
+  - name: kinti/a11y-toolkit
+    github_id: kinti/a11y-toolkit
+    pypi_id: a11y-toolkit
+    description: >-
+      Zero-dependency WCAG 2.2 accessibility engine: 34 MCP tools + CLI to
+      audit, fix, document and watch. Evidence packs with SHA-256 seals, SARIF
+      for code scanning, EARL/ACT for W3C interop, and an error-budget ratchet
+      so only NEW findings block CI.
+    category: developer-tools
   - name: lamemind/mcp-server-multiverse
     github_id: lamemind/mcp-server-multiverse
     description: >-
