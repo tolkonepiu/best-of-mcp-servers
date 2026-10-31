@@ -1493,6 +1493,12 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: YaakovTzedek/persqo-mcp
+    github_id: YaakovTzedek/persqo-mcp
+    description: >-
+      AI personas test your web app like real users and hand your coding agent
+      ready-to-paste fix prompts.
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
