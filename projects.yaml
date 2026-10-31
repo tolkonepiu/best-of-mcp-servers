@@ -1085,6 +1085,13 @@ projects:
       interact with Keboola Connection Data Platform. This server provides tools
       for listing and accessing data from Keboola Storage API.
     category: data-platforms
+  - name: equinoxaifinance-rgb/civicdataforge-mcp
+    github_id: equinoxaifinance-rgb/civicdataforge-mcp
+    description: >-
+      US government records (short-term rental permits, lodging licenses,
+      property violations, healthcare exclusions, EPA ECHO) and Norwegian
+      company data.
+    category: data-platforms
   - name: 21st-dev/magic-mcp
     github_id: 21st-dev/magic-mcp
     description:
