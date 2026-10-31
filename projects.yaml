@@ -1104,6 +1104,13 @@ projects:
       locally hosted web app. Just ask your agent to "show me this in a
       diagram".
     category: developer-tools
+  - name: nushey/ContextManager
+    github_id: nushey/ContextManager
+    description: >-
+      Roslyn-based structural context for C# files plus an incremental
+      knowledge graph of .NET solutions, so coding agents find the right files
+      and judge change impact before reading source.
+    category: developer-tools
   - name: admica/FileScopeMCP
     github_id: admica/FileScopeMCP
     description: >-
