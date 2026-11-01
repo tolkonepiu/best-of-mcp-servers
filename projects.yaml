@@ -2015,6 +2015,13 @@ projects:
       multi-language support, and comprehensive search capabilities including
       headlines, stories, and related topics through SerpAPI.
     category: search-data-extraction
+  - name: koala73/worldmonitor
+    github_id: koala73/worldmonitor
+    description: >-
+      Real-time global intelligence dashboard with a remote MCP server
+      (Streamable HTTP, OAuth) for conflict, markets, energy, trade, shipping
+      and cyber data.
+    category: search-data-extraction
   - name: ConechoAI/openai-websearch-mcp
     github_id: ConechoAI/openai-websearch-mcp
     description:
