@@ -702,6 +702,10 @@ projects:
       channels, groups), retrieving messages, sending messages and handling read
       status.
     category: communication
+  - name: didlogic MCP Server
+    github_id: didlogic-cy/didlogic-mcp
+    description: Manage didlogic phone numbers, SIP accounts, call routing, SMS, calls and billing via AI assistants.
+    category: communication
   - name: hannesrudolph/imessage-query-fastmcp-mcp-server
     github_id: hannesrudolph/imessage-query-fastmcp-mcp-server
     description: >-
