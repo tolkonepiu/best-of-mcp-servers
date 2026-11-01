@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: civai-technologies/research-agent-mcp-by-nova-civai
+    github_id: civai-technologies/research-agent-mcp-by-nova-civai
+    description: >-
+      Official hosted remote MCP server from CIVAI Technologies for deep research
+      and sourced report generation over live web search. Streamable HTTP; tool
+      discovery is unauthenticated, tool calls need a Nova account.
+    category: search-data-extraction
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
