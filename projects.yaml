@@ -2354,6 +2354,13 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: sliktrip/slicktrip-mcp
+    github_id: sliktrip/slicktrip-mcp
+    description: >-
+      Hosted remote MCP server (OAuth 2.1) for live flight, hotel and seat
+      prices, cheapest-day calendars, and price-drop and seat alerts by email
+      or text.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
