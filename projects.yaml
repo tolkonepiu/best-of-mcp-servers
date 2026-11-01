@@ -2602,3 +2602,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: bowmark-ai/mcp
+    github_id: bowmark-ai/mcp
+    description: >-
+      Official Bowmark MCP server: typed, tested functions for live websites
+      like LinkedIn, YouTube and Amazon.
+    category: search-data-extraction
