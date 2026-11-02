@@ -1493,6 +1493,14 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: OktoLabsAI/okto-pulse
+    github_id: OktoLabsAI/okto-pulse
+    description: >-
+      Local-first, spec-driven project management for AI coding agents, with
+      governance gates between stages and an MCP server. Source-available
+      (Elastic License 2.0).
+    pypi_id: okto-pulse
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
