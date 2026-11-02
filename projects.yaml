@@ -1645,6 +1645,13 @@ projects:
       An MCP server that integrates with the Freqtrade cryptocurrency trading
       bot.
     category: finance-and-fintech
+  - name: MangroveTechnologies/mangrove-agent
+    github_id: MangroveTechnologies/mangrove-agent
+    description: >-
+      Local MCP server and Claude Code plugin for AI trading agents: strategy
+      research, backtesting, paper trading and supported execution on Kraken,
+      Robinhood or 1inch with Mangrove-owned risk management; API key or x402.
+    category: finance-and-fintech
   - name: mcpdotdirect/evm-mcp-server
     github_id: mcpdotdirect/evm-mcp-server
     description: >-
