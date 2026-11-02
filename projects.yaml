@@ -2602,3 +2602,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: jacobduong3007/remembite-mcp
+    github_id: jacobduong3007/remembite-mcp
+    description: >-
+      Hosted remote MCP server (OAuth) for a food log: your AI assistant works
+      out grams and macros and Remembite saves the meal, asking first when an
+      item's numbers do not add up. Free, no ads.
+    category: other-tools-and-integrations
