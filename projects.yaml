@@ -1648,9 +1648,9 @@ projects:
   - name: MangroveTechnologies/mangrove-agent
     github_id: MangroveTechnologies/mangrove-agent
     description: >-
-      Local MCP server and Claude Code plugin for AI trading agents: strategy
-      research, backtesting, paper trading and supported execution on Kraken,
-      Robinhood or 1inch with Mangrove-owned risk management; API key or x402.
+      Guardrails for AI trading agents: local MCP server and plugin with 100+
+      strategy tools, circuit breakers, automatic risk-based position sizing and
+      stop-loss/take-profit orders, execution across 12+ venues; API key or x402.
     category: finance-and-fintech
   - name: mcpdotdirect/evm-mcp-server
     github_id: mcpdotdirect/evm-mcp-server
