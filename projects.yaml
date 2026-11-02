@@ -2162,6 +2162,13 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: johnsmalls22-rgb/domain-search-king-mcp
+    github_id: johnsmalls22-rgb/domain-search-king-mcp
+    description: >-
+      Remote MCP server that suggests .com domain names and returns only those
+      currently available to register, checked against the Verisign RDAP
+      registry.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
