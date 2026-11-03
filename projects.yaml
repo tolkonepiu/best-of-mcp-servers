@@ -1983,6 +1983,13 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: makernice/makernice-plugin
+    github_id: makernice/makernice-plugin
+    description: >-
+      Plugin for the official Makernice remote MCP server (Streamable HTTP,
+      OAuth 2.1): generate AI videos and images with 17 models; every job is
+      priced in USD before it runs.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
