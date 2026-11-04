@@ -2100,6 +2100,13 @@ projects:
       Discover, extract, and interact with the web - one interface powering
       automated access across the public internet.
     category: search-data-extraction
+  - name: specstream/specstream-tools
+    github_id: specstream/specstream-tools
+    description: >-
+      MCP server for live web data. Describe the data you need and get
+      structured rows, each value linked to the page it came from.
+    homepage: https://specstream.ai/?utm_source=best-of-mcp-servers
+    category: search-data-extraction
   - name: mikechao/brave-search-mcp
     github_id: mikechao/brave-search-mcp
     description: >-
