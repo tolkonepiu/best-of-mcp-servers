@@ -2350,6 +2350,12 @@ projects:
       TeslaMate database, allowing AI assistants to query Tesla vehicle data and
       analytics.
     category: travel-and-transportation
+  - name: Airport-Lounge-List/mcp-server
+    github_id: Airport-Lounge-List/mcp-server
+    description: >-
+      Hosted server for searching 8,500+ airport lounges and checking access by
+      card or membership.
+    category: travel-and-transportation
   - name: openbnb-org/mcp-server-airbnb
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
