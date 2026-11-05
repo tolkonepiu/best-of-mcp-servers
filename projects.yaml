@@ -1146,6 +1146,13 @@ projects:
     description:
       Integrate with Docker to manage containers, images, volumes, and networks.
     category: developer-tools
+  - name: Clousd-Android/clousd-sdk
+    github_id: Clousd-Android/clousd-sdk
+    pypi_id: clousd-mcp
+    description: >-
+      Cloud Android phones for AI agents: run a task in plain words on one or
+      many phones, or drive the screen with observe and act.
+    category: developer-tools
   - name: comet-ml/opik-mcp
     github_id: comet-ml/opik-mcp
     description: >-
