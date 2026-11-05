@@ -1085,6 +1085,12 @@ projects:
       interact with Keboola Connection Data Platform. This server provides tools
       for listing and accessing data from Keboola Storage API.
     category: data-platforms
+  - name: Daiveedjay/iris-code-mcp
+    github_id: Daiveedjay/iris-code-mcp
+    description: >-
+      Local launcher and setup documentation for Iris Code's code-quality MCP
+      server. Runs the published CLI; implementation source remains private.
+    category: developer-tools
   - name: 21st-dev/magic-mcp
     github_id: 21st-dev/magic-mcp
     description:
