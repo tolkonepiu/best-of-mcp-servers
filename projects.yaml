@@ -2602,3 +2602,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: lava-mcp / 熔岩 Lava · 消息面热度
+    github_id: dustinliang666-blip/lava-mcp
+    description: >-
+      Read-only A-share stock & concept-board news-flow heat via remote
+      Streamable HTTP MCP / REST, for quant tools and AI Agent market research.
+    homepage: https://lava.ai-dolphin.com/subscribe
+    category: finance-and-fintech
+    
