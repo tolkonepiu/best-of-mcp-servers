@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: Nicelydone
+    github_id: nicelydoneapp/mcp
+    homepage: https://nicelydone.club/mcp
+    description: >-
+      Search web app screens, UI elements, and user flows for design research.
+      Requires Nicelydone Premium. Hosted MCP with OAuth.
+    category: search-data-extraction
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
