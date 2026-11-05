@@ -2354,6 +2354,13 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: Flight-Queue/mcp
+    github_id: Flight-Queue/mcp
+    description: >-
+      Hosted MCP server with 22 tools for airport security wait times,
+      forecasts, FAA delays, EES border queues and baggage stats at 8,000+
+      airports. Endpoint: https://mcp.flightqueue.com/mcp
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
