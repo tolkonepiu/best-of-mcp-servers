@@ -1111,6 +1111,12 @@ projects:
       relationships. Generates diagrams and importance scores, helping AI
       assistants understand the codebase.
     category: developer-tools
+  - name: allxsmith/bestax
+    github_id: allxsmith/bestax
+    description: >-
+      Props, examples, CSS variables and Agent Skills for Bestax, React
+      components for Bulma v1. Offline, no API key.
+    category: developer-tools
   - name: augmnt/augments-mcp-server
     github_id: augmnt/augments-mcp-server
     description: >-
