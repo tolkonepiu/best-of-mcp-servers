@@ -382,6 +382,13 @@ projects:
       navigate pages, fill forms, extract data, handle authentication, and
       automate any website via natural language
     category: browser-automation
+  - name: dejohq/dejo-mcp
+    github_id: dejohq/dejo-mcp
+    pypi_id: dejo-mcp
+    description: >-
+      A browser your AI agent remembers: learns a website task once, then
+      replays it in one tool call with zero model calls
+    category: browser-automation
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
     description: >-
