@@ -1983,6 +1983,13 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: Vectosolve/vectosolve-mcp
+    github_id: Vectosolve/vectosolve-mcp
+    npm_id: "@vectosolve/mcp"
+    description: >-
+      Image to vector MCP server: converts PNG, JPG or WebP images into SVG,
+      DXF or EPS files, as a hosted remote endpoint or a local stdio package.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
