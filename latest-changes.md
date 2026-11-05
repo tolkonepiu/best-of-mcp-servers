@@ -2,25 +2,19 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/bitbonsai/mcpvault">bitbonsai/mcpvault</a></b> (🥈20 ·  ⭐ 1.7K · 📈) - Universal AI bridge for Obsidian vaults using MCP. Provides safe read/write access to notes with 11 comprehensive.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/BrowserMCP/mcp">BrowserMCP/mcp</a></b> (🥈17 ·  ⭐ 7.3K · 📈) - Automate your local Chrome browser. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/nkapila6/mcpsurfr">nkapila6/mcp-local-rag</a></b> (🥈16 ·  ⭐ 150 · 📈) - primitive RAG-like web search model context protocol (MCP) server that runs locally. No APIs needed. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/34892002/bilibili-mcp-js">34892002/bilibili-mcp-js</a></b> (🥉13 ·  ⭐ 200 · 📈) - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/wenb1n-dev/SmartDB_MCP">wenb1n-dev/SmartDB_MCP</a></b> (🥉11 ·  ⭐ 77 · 📈) - A universal database MCP server supporting simultaneous connections to multiple databases. It provides tools for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/modelcontextprotocol/servers">modelcontextprotocol/servers</a></b> (🥇31 ·  ⭐ 92K · 📈) - MCP server that exercises all the features of the MCP protocol. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/IvanMurzak/Unity-MCP">IvanMurzak/Unity-MCP</a></b> (🥇29 ·  ⭐ 4.6K · 📈) - MCP Server for Unity Editor and for a game made with Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP">wonderwhy-er/DesktopCommanderMCP</a></b> (🥇28 ·  ⭐ 10K · 📈) - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/firecrawl/firecrawl-mcp-server">firecrawl/firecrawl-mcp-server</a></b> (🥇23 ·  ⭐ 7.8K · 📈) - Official Firecrawl MCP server for web search, scraping, crawling and structured data extraction, with page interaction.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jae-jae/fetcher-mcp">jae-jae/fetcher-mcp</a></b> (🥉12 ·  ⭐ 1.1K · 📈) - MCP server for fetching web page content using Playwright headless browser, supporting Javascript rendering and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/pydantic/pydantic-ai">pydantic/pydantic-ai</a></b> (🥇35 ·  ⭐ 21K · 📉) - Run Python code in a secure sandbox via MCP tool calls. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/txn2/kubefwd">txn2/kubefwd</a></b> (🥈25 ·  ⭐ 4.2K · 📉) - Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/ihor-sokoliuk/mcp-searxng">ihor-sokoliuk/mcp-searxng</a></b> (🥇22 ·  ⭐ 1.3K · 📉) - A Model Context Protocol Server for SearXNG. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/xpaysh/awesome-x402">xpaysh/awesome-x402</a></b> (🥇17 ·  ⭐ 300 · 📉) - Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base,.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
-- <b><a href="https://github.com/QuantConnect/mcp-server">QuantConnect/mcp-server</a></b> (🥉8 ·  ⭐ 79 · 📉) - A Dockerized Python MCP server that bridges your local AI (e.g., Claude Desktop, etc) with the QuantConnect.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://github.com/plastic-labs/honcho">plastic-labs/honcho</a></b> (🥈25 ·  ⭐ 7.8K · ➕) - Memory server for agents that reasons over conversations to build a representation of each user and agent, with a.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/korotovsky/slack-mcp-server">korotovsky/slack-mcp-server</a></b> (🥇22 ·  ⭐ 1.9K · 📉) - The most powerful MCP server for Slack Workspaces. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/CoderGamester/mcp-unity">CoderGamester/mcp-unity</a></b> (🥈20 ·  ⭐ 2K · 📉) - MCP Server for Unity3d Game Engine integration for game development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/IBM/mcp-cli">IBM/mcp-cli</a></b> (🥈19 ·  ⭐ 2K · 📉) - Yet another CLI tool for testing MCP servers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/antvis/mcp-server-chart">antvis/mcp-server-chart</a></b> (🥇18 ·  ⭐ 4.4K · 📉) - A Model Context Protocol server for generating visual charts using AntV. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/sitbon/magg">sitbon/magg</a></b> (🥉9 ·  ⭐ 140 · 📉) - Magg: A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and orchestrate.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
 
