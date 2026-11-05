@@ -767,6 +767,12 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
+  - name: radres/call-me
+    github_id: radres/call-me
+    description: >-
+      Remote MCP server that lets an agent ring your real phone, read a message
+      aloud and get your spoken answer back as text, or text you instead.
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
