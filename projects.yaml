@@ -2350,6 +2350,12 @@ projects:
       TeslaMate database, allowing AI assistants to query Tesla vehicle data and
       analytics.
     category: travel-and-transportation
+  - name: Ignav Flights
+    github_id: gusgordon/ignav-skill
+    description: >-
+      Search live flight prices, compare departure dates, resolve airports,
+      and get booking links.
+    category: travel-and-transportation
   - name: openbnb-org/mcp-server-airbnb
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
