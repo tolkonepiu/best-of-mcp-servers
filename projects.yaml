@@ -1316,6 +1316,13 @@ projects:
       and app scraping. Simulator/Emulator/Physical devices like iPhone, Google
       Pixel, Samsung supported.
     category: developer-tools
+  - name: RentReboot
+    github_id: imiraoui/rentreboot-mcp
+    description: >-
+      NYC apartment search, renter guides and rent data via hosted MCP. Public
+      tools work without an account; personal tools use scoped OAuth.
+      Proprietary service with MIT connection documentation.
+    category: location-services
   - name: bgauryy/octocode-mcp
     github_id: bgauryy/octocode-mcp
     description: >-
