@@ -1919,6 +1919,13 @@ projects:
       This server supports remote MCP connections, includes built-in Google
       OAuth, and provide an interface to the Google Tag Manager API.
     category: marketing
+  - name: mukund1158/noonlaunch-mcp
+    github_id: mukund1158/noonlaunch-mcp
+    description: >-
+      Hosted MCP server for Noonlaunch: launch a product, search the product
+      directory and weekly winners, and find 333 startup launch directories.
+      Streamable HTTP at noonlaunch.com/mcp, no API key or account needed.
+    category: marketing
   - name: grafana/mcp-grafana
     github_id: grafana/mcp-grafana
     description: >-
