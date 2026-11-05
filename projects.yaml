@@ -2602,3 +2602,7 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: "mcpserverlist-mcp"
+    github_id: "sudomichael/mcpserverlist-mcp"
+    description: "Check if your MCP server is ready for MCP directories, then get it submitted."
+    category: developer-tools
