@@ -413,6 +413,13 @@ projects:
     description:
       Integration with Cloudflare services including Workers, KV, R2, and D1
     category: cloud-platforms
+  - name: bosmdavid-gif/dropthehassle-mcp
+    github_id: bosmdavid-gif/dropthehassle-mcp
+    npm_id: dropthehassle-mcp
+    description: >-
+      Publishes a site on a free HTTPS link, or on a .com that goes live
+      with no DNS after the human pays a link
+    category: cloud-platforms
   - name: Flux159/mcp-server-kubernetes
     github_id: Flux159/mcp-server-kubernetes
     description: >-
