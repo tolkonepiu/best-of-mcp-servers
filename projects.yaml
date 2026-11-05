@@ -1888,6 +1888,11 @@ projects:
       enables prompt-assisted project creation, layer loading, code execution,
       and more.
     category: location-services
+  - name: OpenMapp
+    github_id: burmanharry/openmapp
+    homepage: https://www.openmapp.com
+    description: Hosted MCP server for searching US BJJ gyms, open mats and drop-in classes.
+    category: location-services
   - name: gomarble-ai/facebook-ads-mcp-server
     github_id: gomarble-ai/facebook-ads-mcp-server
     description: >-
