@@ -2226,6 +2226,14 @@ projects:
       binaries, renaming methods and data, and listing methods, classes,
       imports, and exports.
     category: security
+  - name: REA (Reverse Engineer Anything)
+    github_id: morluto/rea
+    npm_id: rea-agents
+    description: >-
+      Local CLI and MCP server for evidence-backed analysis of shipped native,
+      managed, and JavaScript/Electron applications. Deep native analysis
+      requires separately installed Hopper, Ghidra, or IDA.
+    category: security
   - name: mrexodia/ida-pro-mcp
     github_id: mrexodia/ida-pro-mcp
     description: >-
