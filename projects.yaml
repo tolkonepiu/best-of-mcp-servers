@@ -2389,6 +2389,15 @@ projects:
       Calendar, Drive, Gmail, and Docs, Forms, Chats, Slides and Sheets over
       stdio, Streamable HTTP and SSE transports.
     category: workplace-and-productivity
+  - name: timesheetIO/timesheet-mcp
+    github_id: timesheetIO/timesheet-mcp
+    npm_id: "@timesheet/mcp"
+    description: >-
+      Official Timesheet time tracking server: start, pause and stop timers,
+      log work, manage projects, todos, expenses and absences, and pull
+      reports and exports. Hosted at https://mcp.timesheet.io with OAuth, or
+      local over stdio.
+    category: workplace-and-productivity
   - name: vasylenko/bear-notes-mcp
     github_id: vasylenko/bear-notes-mcp
     description: >-
