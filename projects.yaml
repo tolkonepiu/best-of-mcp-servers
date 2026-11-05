@@ -1692,6 +1692,13 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: groundtruth-now/groundtruth-mcp
+    github_id: groundtruth-now/groundtruth-mcp
+    description: >-
+      Recorded outcomes of Solana (pump.fun) and Robinhood Chain memecoin
+      launches and the launch history of their creator wallets, over remote
+      MCP and x402.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
