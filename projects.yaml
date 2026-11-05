@@ -2354,6 +2354,10 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: FlightSeatmap/mcp
+    github_id: FlightSeatmap/mcp
+    description: Seat maps, seat ratings, traveller reviews and seat alerts for 100+ airlines.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
