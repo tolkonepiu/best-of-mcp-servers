@@ -2602,3 +2602,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: brainbook0/robopartpicker-mcp
+    github_id: brainbook0/robopartpicker-mcp
+    description: >-
+      Read-only remote MCP server over a source-linked catalogue of open-source
+      robotics projects and their bills of materials, with per-line evidence
+      states (verified / probable / unresolved) for agent hardware planning.
+    category: embedded-system
