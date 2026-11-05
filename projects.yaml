@@ -304,6 +304,13 @@ projects:
       An MCP server that provides access to exported data from Apple Health.
       Data analytics included.
     category: bio
+  - name: ryandelauz/peptide-library-mcp
+    github_id: ryandelauz/peptide-library-mcp
+    description: >-
+      Read-only MCP server for Peptide Library — educational peptide research
+      profiles, evidence tiers, studies, categories, and lab-math tools. Hosted
+      at https://peptidelibrary.app/mcp. Not medical advice.
+    category: bio
   - name: 34892002/bilibili-mcp-js
     github_id: 34892002/bilibili-mcp-js
     description: >-
