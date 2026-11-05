@@ -1815,6 +1815,13 @@ projects:
       TypeScript/Rust implementation with local-first storage using SQLite +
       SurrealDB for semantic analysis and incremental codebase understanding.
     category: knowledge-and-memory
+  - name: lbailey94/whitemagic
+    github_id: lbailey94/whitemagic
+    description: >-
+      Local-first memory and session continuity for AI agents: hybrid recall,
+      session handoffs, signed continuity receipts, and a hash-chained audit
+      ledger; a Rust MCP server with a hosted read-only evaluation lane.
+    category: knowledge-and-memory
   - name: ragieai/ragie-mcp-server
     github_id: ragieai/ragie-mcp-server
     description: >-
