@@ -2326,7 +2326,7 @@ projects:
     github_id: rinhelp/plugin
     description: >-
       Plugin for Rinhelp's official hosted MCP server, a help desk for small
-      teams and AI agents. Over OAuth, an agent acts as the teammate who
+      teams and AI agents. An agent acts as the teammate who
       connected it: read, reply to, note, assign, triage and close
       conversations, search knowledge, publish help center articles and find
       Shopify orders and Stripe customers. Refunds and cancellations wait for a
