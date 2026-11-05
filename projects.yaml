@@ -680,6 +680,11 @@ projects:
       TSgram: Telegram + Claude with local workspace access on your phone in
       typescript. Read, write, and vibe code on the go!
     category: communication
+  - name: Paper Plane Post
+    github_id: paperplanepost/agents
+    description: >-
+      Create and send an AI-illustrated postcard anywhere in the world
+    category: communication
   - name: carterlasalle/mac_messages_mcp
     github_id: carterlasalle/mac_messages_mcp
     description: >-
