@@ -1735,6 +1735,13 @@ projects:
       Project Index, and Engine Source via MCP. 119 actions across 9 domains.
       Pure C++, embedded Streamable HTTP server, no Python bridges.
     category: gaming
+  - name: colinize/kineticist-mcp
+    github_id: colinize/kineticist-mcp
+    npm_id: "@kineticist/mcp-server"
+    description: >-
+      Pinball news, games and editions, designers, places to play and the Hype
+      Index from Kineticist. Hosted Streamable HTTP endpoint needs no key.
+    category: gaming
   - name: apecloud/ApeRAG
     github_id: apecloud/ApeRAG
     description: >-
