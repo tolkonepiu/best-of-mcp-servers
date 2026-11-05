@@ -633,6 +633,13 @@ projects:
       workflow recording, structured data extraction, and browser DOM
       inspection.
     category: coding-agents
+  - name: abhiramshaji-cyber/Architect
+    github_id: abhiramshaji-cyber/Architect
+    description: >-
+      macOS app that ranks every function in a JS/TS codebase by importance,
+      draws the call tree, and serves an architecture contract to coding
+      agents over MCP (get_architecture, check_change, propose_change).
+    category: coding-agents
   - name: aymericzip/intlayer
     github_id: aymericzip/intlayer
     description: >-
