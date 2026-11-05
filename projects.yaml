@@ -2354,6 +2354,12 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: Award Travel Finder
+    github_id: AwardTravelFinder/mcp
+    description: >-
+      Search award flight availability and points pricing across 27 airlines
+      and 23 loyalty programs from any MCP client.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
