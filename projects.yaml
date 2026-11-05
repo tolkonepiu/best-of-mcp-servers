@@ -118,6 +118,14 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: getremcp/docsy-plugin
+    github_id: getremcp/docsy-plugin
+    description: >-
+      Docsy is a hosted OAuth 2.1 MCP service offering five read-only tools
+      to find current and version-specific developer documentation for
+      libraries, frameworks and SDKs with original source citations.
+      Connect with Streamable HTTP: https://docsy.remcp.site/mcp/registry.
+    category: developer-tools
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
