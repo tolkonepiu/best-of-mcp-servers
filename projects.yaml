@@ -131,6 +131,14 @@ projects:
       AST/tree-sitter code search MCP server that indexes a codebase and
       returns compact, relevant snippets to reduce coding-agent context usage.
     category: coding-agents
+  - name: AlertForge
+    github_id: lasan713/alertforge-agent-plugin
+    description: >-
+      Hosted MCP for stream overlays, AI alerts, and transparent videos.
+      OAuth account tools require a paid subscription and generation credits.
+      Public repository contains MIT-licensed integration metadata;
+      the hosted implementation is proprietary.
+    category: multimedia-process
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
