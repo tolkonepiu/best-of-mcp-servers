@@ -767,6 +767,14 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
+  - name: mailows/mailows-grok-plugin
+    github_id: mailows/mailows-grok-plugin
+    homepage: https://www.mailows.com/mcp-manual
+    description: >-
+      Hosted remote MCP server (OAuth 2.1 + PKCE) that gives AI agents their
+      own email inboxes: list, read and send mail with revocable per-mailbox
+      grants.
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
