@@ -1891,8 +1891,9 @@ projects:
   - name: ahmlvs/ailiste-mcp
     github_id: ahmlvs/ailiste-mcp
     description: >-
-      Hosted, read-only MCP server for new-build homes in Cyprus: buildings with
-      the stage seen on site and the day, developers, and district asking prices.
+      Hosted, read-only MCP server for new-build homes in Cyprus: buildings
+      with the stage seen on site and the day, developers, and district
+      asking prices.
     category: location-services
   - name: gomarble-ai/facebook-ads-mcp-server
     github_id: gomarble-ai/facebook-ads-mcp-server
