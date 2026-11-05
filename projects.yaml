@@ -1815,6 +1815,13 @@ projects:
       TypeScript/Rust implementation with local-first storage using SQLite +
       SurrealDB for semantic analysis and incremental codebase understanding.
     category: knowledge-and-memory
+  - name: pinto-notes/pinto-notes
+    github_id: pinto-notes/pinto-notes
+    description: >-
+      Hosted MCP server for Pinto Notes, a free, open-source notes app for
+      Mac. ChatGPT, Claude, Claude Code and Codex can search, read and edit
+      your notes over OAuth, and every change keeps the previous version.
+    category: knowledge-and-memory
   - name: ragieai/ragie-mcp-server
     github_id: ragieai/ragie-mcp-server
     description: >-
