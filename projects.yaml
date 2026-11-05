@@ -553,6 +553,12 @@ projects:
     github_id: pydantic/pydantic-ai
     description: Run Python code in a secure sandbox via MCP tool calls.
     category: code-execution
+  - name: claimidx/claimidx
+    github_id: claimidx/claimidx
+    description: >-
+      MCP server and CLI that indexes recurring software failures and tested
+      fixes so coding agents can check prior art before retrying.
+    category: coding-agents
   - name: CodeGraphContext/CodeGraphContext
     github_id: CodeGraphContext/CodeGraphContext
     description: >-
