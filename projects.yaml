@@ -2602,3 +2602,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: FlashData MCP
+    github_id: rocosen/flashdata-mcp
+    description: >-
+      Google Search, News, Images, Shopping, Videos and Places, plus YouTube
+      search, metadata, transcripts and captions through a local stdio MCP
+      server. Requires a FlashData API key; data calls use paid Credits.
+    category: search-data-extraction
