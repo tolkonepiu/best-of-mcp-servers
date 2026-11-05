@@ -118,6 +118,12 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: openhook-dev/openhook-inbox
+    github_id: openhook-dev/openhook-inbox
+    description: >-
+      Self-hostable webhook, email, and DNS inboxes for inspecting callbacks
+      and waiting for events through MCP. Also available as a hosted service.
+    category: developer-tools
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
