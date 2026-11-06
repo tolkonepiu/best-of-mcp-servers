@@ -2419,6 +2419,14 @@ projects:
     github_id: awkoy/replicate-flux-mcp
     description: Provides the ability to generate images via Replicate's API.
     category: other-tools-and-integrations
+  - name: AtlasCloudAI/mcp-server
+    github_id: AtlasCloudAI/mcp-server
+    npm_id: atlascloud-mcp
+    description: >-
+      Official Atlas Cloud MCP server for image, video, 3D and audio generation
+      and LLM chat across the Atlas Cloud model catalog, available as an npm
+      package and as a hosted endpoint at mcp.atlascloud.ai.
+    category: other-tools-and-integrations
   - name: Azure/azure-mcp
     github_id: Azure/azure-mcp
     description: >-
