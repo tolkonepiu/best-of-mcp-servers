@@ -2562,6 +2562,13 @@ projects:
       Access Home Assistant data and control devices (lights, switches,
       thermostats, etc).
     category: other-tools-and-integrations
+  - name: TheBestCo/bestprice-mcp
+    github_id: TheBestCo/bestprice-mcp
+    description: >-
+      Official read-only BestPrice.gr MCP server for shopping in Greece: product
+      search, store offers with delivered totals, and price history. Hosted
+      Streamable HTTP endpoint, no API key.
+    category: other-tools-and-integrations
   - name: thingsboard/thingsboard-mcp
     github_id: thingsboard/thingsboard-mcp
     description: >-
