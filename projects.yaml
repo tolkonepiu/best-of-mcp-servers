@@ -2608,9 +2608,3 @@ projects:
       Verify single emails and bulk lists via the MailVeri API (SMTP, catch-all,
       disposable and role detection) for AI agents over stdio MCP.
     category: communication
-
-
-
-
-
-
