@@ -2602,3 +2602,15 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: mailveri/mailveri-mcp
+    github_id: mailveri/mailveri-mcp
+    description: >-
+      Verify single emails and bulk lists via the MailVeri API (SMTP, catch-all,
+      disposable and role detection) for AI agents over stdio MCP.
+    category: communication
+
+
+
+
+
+
