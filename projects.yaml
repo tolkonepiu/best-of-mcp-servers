@@ -1692,6 +1692,12 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: BananaCrystal/mcp-server-bananacrystal
+    github_id: BananaCrystal/mcp-server-bananacrystal
+    description: >-
+      Hosted agent payment MCP server for live FX rates, currency swaps and
+      stablecoin payments in 140+ local currencies, settled on Hedera.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
