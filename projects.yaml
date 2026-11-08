@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: skatkov/posh-mcp
+    github_id: skatkov/posh-mcp
+    description: >-
+      Local Ruby and gem documentation matched to project versions via six stdio
+      tools. Proprietary POSH binaries; agent-tools license required. Public
+      repository contains installation metadata, not application source.
+    category: developer-tools
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
