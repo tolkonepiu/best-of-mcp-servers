@@ -2605,6 +2605,7 @@ projects:
   - name: RyanShook/tap-giving-mcp
     github_id: RyanShook/tap-giving-mcp
     description: >-
-      Hosted MCP server for designing and ordering custom NFC tap discs for
-      organizations, with keyless pricing and quotes and API-key order placement.
+      A tool first: create print-ready NFC artwork proofs with correct vector
+      art, free to take to any vendor, with no lock-in; ordering custom discs
+      through Tap.Giving is an optional next step.
     category: finance-and-fintech
