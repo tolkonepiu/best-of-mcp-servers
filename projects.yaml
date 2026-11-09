@@ -1724,9 +1724,9 @@ projects:
   - name: photo2skin/photo2skin-mcp
     github_id: photo2skin/photo2skin-mcp
     description: >-
-      AI Minecraft tools: AI skins from a photo or prompt, AI builds, real-world
-      maps, textures and more. Hosted remote server (Streamable HTTP) with OAuth
-      sign-in, no API key.
+      AI tools for Minecraft: skins from a photo or prompt, AI builds,
+      real-world maps, textures and more. Hosted remote server (Streamable HTTP)
+      with OAuth sign-in, no API key.
     category: gaming
   - name: rishijatia/fantasy-pl-mcp
     github_id: rishijatia/fantasy-pl-mcp
