@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: aiagentcycle/gnv-catalog-mcp
+    github_id: aiagentcycle/gnv-catalog-mcp
+    description: >-
+      Public remote MCP server with six read-only tools for the Good Nature
+      Vibe product catalog and knowledge base, without login, cart, checkout,
+      orders, payments or transactions.
+    category: search-data-extraction
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
