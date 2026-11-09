@@ -662,6 +662,14 @@ projects:
       Context Protocol. Securely execute remote shell commands with password or
       SSH key authentication.
     category: command-line
+  - name: bvisible/mcp-ssh-manager
+    github_id: bvisible/mcp-ssh-manager
+    description: >-
+      MCP server and desktop app for SSH: commands, file transfers, backups and
+      health checks for AI agents and any MCP client, with per-server
+      read-only modes, human approval, an encrypted vault and an audit trail.
+    npm_id: mcp-ssh-manager
+    category: command-line
   - name: tumf/mcp-shell-server
     github_id: tumf/mcp-shell-server
     description: >-
