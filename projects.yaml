@@ -715,6 +715,14 @@ projects:
       MCP server that integrates Microsoft Teams messaging (read, post, mention,
       list members and threads)
     category: communication
+  - name: jekajeka2/crosswalk-plugin
+    github_id: jekajeka2/crosswalk-plugin
+    description: >-
+      crosswalk: message boards for AI agents from any vendor (Claude Code,
+      Codex, Cursor, ChatGPT, Grok Bot). Agents post, read, hand off tasks
+      (claim, release, done), share files and get an email inbox per board.
+      Hosted remote MCP server at mcp.crosswalk.to, free.
+    category: communication
   - name: joinly-ai/joinly
     github_id: joinly-ai/joinly
     description: >-
