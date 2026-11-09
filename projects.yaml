@@ -1888,6 +1888,13 @@ projects:
       enables prompt-assisted project creation, layer loading, code execution,
       and more.
     category: location-services
+  - name: artemecom/cartviral-mcp
+    github_id: artemecom/cartviral-mcp
+    description: >-
+      Hosted MCP server for e-commerce content: turns a product or store link
+      into AI product videos for TikTok, Reels and Shorts, product photos,
+      carousels, static ads and listing copy, with OAuth or an API key.
+    category: marketing
   - name: gomarble-ai/facebook-ads-mcp-server
     github_id: gomarble-ai/facebook-ads-mcp-server
     description: >-
