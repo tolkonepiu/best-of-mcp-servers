@@ -2602,3 +2602,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: RyanShook/tap-giving-mcp
+    github_id: RyanShook/tap-giving-mcp
+    description: >-
+      Hosted MCP server for designing and ordering custom NFC tap discs for
+      organizations, with keyless pricing and quotes and API-key order placement.
+    category: finance-and-fintech
