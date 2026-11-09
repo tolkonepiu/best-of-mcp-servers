@@ -1983,6 +1983,14 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: PSA-Team-source/uberllm
+    github_id: PSA-Team-source/uberllm
+    homepage: https://uberllm.dev/docs/mcp
+    description: >-
+      Hosted remote MCP server for UberLLM (paid API, prepaid): generate and
+      edit images, start and poll video jobs, price a request before running it,
+      list models with live prices and read the account balance.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
