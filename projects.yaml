@@ -1673,6 +1673,15 @@ projects:
       backtest strategies, manage collaborators, and deploy live-trading
       workflows directly via natural-language prompts.
     category: finance-and-fintech
+  - name: walidelhelw/el7-mcp
+    github_id: walidelhelw/el7-mcp
+    homepage: https://el7.ai/en/mcp
+    description: >-
+      Financial market intelligence for your AI - markets news, economic
+      calendar, 8 central banks, COT positioning, stocks, earnings, gold and
+      oil, with sources and dates. Hosted remote server (Streamable HTTP,
+      OAuth 2.1 or API key) with 85 read-only tools.
+    category: finance-and-fintech
   - name: XeroAPI/xero-mcp-server
     github_id: XeroAPI/xero-mcp-server
     description: >-
