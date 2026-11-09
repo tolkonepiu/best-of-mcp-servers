@@ -2162,6 +2162,13 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: ScrapingBee/mcp-server
+    github_id: ScrapingBee/mcp-server
+    description: >-
+      Hosted ScrapingBee MCP server for fetching JavaScript-rendered pages as
+      text, HTML or screenshots, web and Google search, Amazon, Walmart and
+      YouTube data, and ChatGPT and Gemini prompts.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
