@@ -2602,3 +2602,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: modelsalt/model-salt
+    github_id: modelsalt/model-salt
+    description: >-
+      Adds outside randomness to creative requests, so one prompt gives a
+      different answer each time it runs. Hosted at https://modelsalt.com/mcp
+      with no sign-in, or run locally from npm.
+    category: other-tools-and-integrations
