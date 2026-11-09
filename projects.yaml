@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: aiagentcycle/holos33-mcp
+    github_id: aiagentcycle/holos33-mcp
+    description: >-
+      Public remote MCP server with eleven read-only tools for sourced facts
+      about Holos33, an EU privacy-first wellbeing platform, including modules,
+      Early Access, privacy and public contact information.
+    category: knowledge-and-memory
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
