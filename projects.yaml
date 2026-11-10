@@ -2602,3 +2602,12 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+
+  - name: PlushSource
+    github_id: quickman924/plushsource-mcp
+    npm_id: plushsource-mcp
+    description: >-
+      Search, filter and compare custom plush manufacturers listed in the
+      PlushSource directory. Local stdio server, bundled data, no API key.
+      Unpublished fields are shown as Not stated.
+    category: search-data-extraction
