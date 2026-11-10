@@ -232,6 +232,13 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
+  - name: agent-tool-router/agentik
+    github_id: agent-tool-router/agentik
+    description: >-
+      Claude Code plugin, CLI and SDK for Agentik, a hosted MCP gateway that
+      connects agents to 3,500+ tools from 165 providers through one connection,
+      each call at the provider's price from one prepaid balance.
+    category: aggregators
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
