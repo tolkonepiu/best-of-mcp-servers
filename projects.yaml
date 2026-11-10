@@ -242,7 +242,9 @@ projects:
     category: art-and-culture
   - name: jangtrinh/design-os-3d-blender
     github_id: jangtrinh/design-os-3d-blender
-    description: FREE MCP server to model, render and verify parametric parts in Blender 5.2
+    description:
+      FREE MCP server to model, render and verify parametric parts
+      in Blender 5.2
     category: art-and-culture
   - name: burningion/video-editing-mcp
     github_id: burningion/video-editing-mcp
