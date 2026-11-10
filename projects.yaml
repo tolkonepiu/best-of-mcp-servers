@@ -1072,6 +1072,13 @@ projects:
     github_id: planetscale/cli
     description: The CLI for PlanetScale Database.
     category: databases
+  - name: batchdataco/batchdata-mcp-server
+    github_id: batchdataco/batchdata-mcp-server
+    description: >-
+      Official hosted MCP server for BatchData, an API-first U.S. real estate
+      data platform: property lookup, comps, search, skip tracing, and phone
+      and address checks for AI agents.
+    category: data-platforms
   - name: dbt-labs/dbt-mcp
     github_id: dbt-labs/dbt-mcp
     description: >-
