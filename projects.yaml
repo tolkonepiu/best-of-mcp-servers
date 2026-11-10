@@ -1124,6 +1124,16 @@ projects:
     description:
       Seamlessly Integrate Any API with AI Agents (with OpenAPI Schema)
     category: developer-tools
+  - name: bryntay/a1-mcp
+    github_id: bryntay/a1-mcp
+    homepage: https://www.a1.gallery/mcp
+    description: >-
+      Remote MCP server for A1 Gallery, a hand-curated gallery of real live
+      websites. Search sites, sections and full pages by style, font, colour
+      and technology, find real font pairings, and get design tokens measured
+      from live pages (palette, type scale, spacing, radius). OAuth, free
+      account.
+    category: developer-tools
   - name: CircleCI-Public/mcp-server-circleci
     github_id: CircleCI-Public/mcp-server-circleci
     description: Enable AI Agents to fix build failures from CircleCI.
