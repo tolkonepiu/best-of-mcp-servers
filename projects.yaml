@@ -2162,6 +2162,15 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: UniqueDomains/mcp-server
+    github_id: UniqueDomains/mcp-server
+    npm_id: "@uniquedomains/mcp-server"
+    description: >-
+      51 read-only tools over a daily record of 37 million domain names:
+      status, WHOIS record, nine registrars' prices, renewal traps, auctions
+      and sales totals. No key. Runs with npx or hosted at
+      https://mcp.unique.domains/mcp.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
