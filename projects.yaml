@@ -232,6 +232,14 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
+  - name: OpenAny
+    github_id: openanysi/openany-mcp
+    homepage: https://openany.si
+    category: aggregators
+
+
+
+
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
