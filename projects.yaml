@@ -236,10 +236,6 @@ projects:
     github_id: openanysi/openany-mcp
     homepage: https://openany.si
     category: aggregators
-
-
-
-
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
