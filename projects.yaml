@@ -1613,6 +1613,13 @@ projects:
       20+ exchanges using the CCXT library. Supports spot, futures, OHLCV,
       balances, orders, and more.
     category: finance-and-fintech
+  - name: Trading Signals MCP
+    github_id: gdietsch/trading-signals-examples
+    npm_id: x402-trading-signals-mcp
+    description: >-
+      Event-risk flags for ES futures, SEC Form 4 insider-buy alerts and short AI
+      trade briefs, with a free tier and pay-per-call USDC via x402.
+    category: finance-and-fintech
   - name: ferdousbhai/investor-agent
     github_id: ferdousbhai/investor-agent
     description: >-
