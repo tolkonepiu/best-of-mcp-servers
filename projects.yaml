@@ -2602,3 +2602,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Telemio Observability MCP
+    github_id: wundercorp/telemio-mcp
+    description: >-
+      Hosted, authenticated MCP for querying OpenTelemetry-backed logs, traces,
+      metrics and application runtime sessions in Telemio workspaces.
+    category: monitoring
