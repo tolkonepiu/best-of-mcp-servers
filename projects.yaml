@@ -1614,11 +1614,11 @@ projects:
       balances, orders, and more.
     category: finance-and-fintech
   - name: Trading Signals MCP
-    github_id: gdietsch/trading-signals-examples
+    github_id: gdietsch/trading-signals-mcp
     npm_id: x402-trading-signals-mcp
     description: >-
-      Event-risk flags for ES futures, SEC Form 4 insider-buy alerts and short AI
-      trade briefs, with a free tier and pay-per-call USDC via x402.
+      Event-risk flags for ES futures, SEC Form 4 insider-buy alerts and
+      short AI trade briefs, with a free tier and pay-per-call USDC via x402.
     category: finance-and-fintech
   - name: ferdousbhai/investor-agent
     github_id: ferdousbhai/investor-agent
