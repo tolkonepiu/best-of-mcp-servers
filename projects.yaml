@@ -1989,6 +1989,13 @@ projects:
       Web search using free multi-engine search (NO API KEYS REQUIRED) —
       Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
     category: search-data-extraction
+  - name: agentsearchhq-coder/agentsearch-mcp
+    github_id: agentsearchhq-coder/agentsearch-mcp
+    description: >-
+      Web search, URL-to-markdown extract, JS page render and search_and_read
+      for AI agents. Paid use is the direct x402 API on Base; free keyless
+      search (up to 25/day per IP) via npx @agentsearchhq/agentsearch-mcp.
+    category: search-data-extraction
   - name: andybrandt/mcp-simple-arxiv
     github_id: andybrandt/mcp-simple-arxiv
     description: MCP for LLM to search and read papers from arXiv
