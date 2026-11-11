@@ -1983,6 +1983,16 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: HoneyVid/cli
+    github_id: HoneyVid/cli
+    npm_id: honeyvid
+    homepage: https://honeyvid.ai/mcp
+    description: >-
+      Official HoneyVid CLI and skills for the hosted HoneyVid MCP server
+      (https://honeyvid.ai/mcp, OAuth): put a person, pet or character into a
+      trending AI video, or generate videos and images with Kling, Veo and
+      Seedance.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
