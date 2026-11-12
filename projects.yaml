@@ -2602,3 +2602,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: GridZen Developer Kit
+    github_id: immurray/gridzen-developer-kit
+    pypi_id: gridzen-developer-kit
+    description: >-
+      Provider-neutral identity-verification research toolkit with five
+      read-only MCP tools for coverage planning and synthetic sandbox results.
+    category: security
