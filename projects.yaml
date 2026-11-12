@@ -118,6 +118,14 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: Excession Labs CVE intelligence
+    github_id: Excession-Labs/mcp-servers
+    description: >-
+      Hosted CVE intelligence with six free, read-only tools for searching
+      CVEs and source software/version evidence, with available KEV and dated
+      EPSS. The linked repository contains documentation and schemas; the
+      hosted implementation is maintained separately.
+    category: security
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
