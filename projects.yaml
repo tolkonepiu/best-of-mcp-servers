@@ -2568,6 +2568,13 @@ projects:
       The ThingsBoard MCP Server provides a natural language interface for LLMs
       and AI agents to interact with your ThingsBoard IoT platform.
     category: other-tools-and-integrations
+  - name: TommyTap11/zaptu
+    github_id: TommyTap11/zaptu
+    description: >-
+      Remote MCP server (https://api.zaptu.ai/mcp) that lets AI assistants
+      submit US home-service contact requests (house cleaning, pest control,
+      plumbing) by ZIP. Contact request only, no booking.
+    category: other-tools-and-integrations
   - name: ttommyth/interactive-mcp
     github_id: ttommyth/interactive-mcp
     description: >-
