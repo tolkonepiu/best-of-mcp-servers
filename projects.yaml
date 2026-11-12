@@ -1970,6 +1970,12 @@ projects:
       observability data, including metrics, logs, systems, containers,
       processes, and network connections.
     category: monitoring
+  - name: PerfDelta/perfdelta-mcp
+    github_id: PerfDelta/perfdelta-mcp
+    description: >-
+      Run PageSpeed scans and read Core Web Vitals, scores and history for any
+      public website
+    category: monitoring
   - name: sunriseapps/imagesorcery-mcp
     github_id: sunriseapps/imagesorcery-mcp
     description: >-
