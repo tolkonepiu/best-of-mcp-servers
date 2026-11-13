@@ -1721,6 +1721,13 @@ projects:
       through standardized MCP interfaces, allowing AI assistants to search and
       analyze chess information.
     category: gaming
+  - name: photo2skin/photo2skin-mcp
+    github_id: photo2skin/photo2skin-mcp
+    description: >-
+      AI tools for Minecraft: skins from a photo or prompt, AI builds,
+      real-world maps, textures and more. Hosted remote server (Streamable HTTP)
+      with OAuth sign-in, no API key.
+    category: gaming
   - name: rishijatia/fantasy-pl-mcp
     github_id: rishijatia/fantasy-pl-mcp
     description:
