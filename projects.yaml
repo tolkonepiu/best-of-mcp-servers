@@ -125,6 +125,13 @@ projects:
       structured data extraction, with page interaction and an autonomous
       research agent.
     category: search-data-extraction
+  - name: srclogcom/srclog-mcp
+    github_id: srclogcom/srclog-mcp
+    description: >-
+      Remote MCP server for SrcLog.com: search open-source GitHub repositories,
+      find alternatives to any project, browse curated topics, and rank top
+      developers and organizations by language and country. No auth.
+    category: developer-tools
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
