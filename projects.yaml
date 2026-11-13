@@ -1821,6 +1821,14 @@ projects:
       Retrieve context from your Ragie (RAG) knowledge base connected to
       integrations like Google Drive, Notion, JIRA and more.
     category: knowledge-and-memory
+  - name: enhanciar/enhanciar-mcp
+    github_id: enhanciar/enhanciar-mcp
+    homepage: https://enhanciar.in
+    description: >-
+      Hosted company brain. Answers questions from your team's Slack, Gmail,
+      Notion, Drive, Jira and GitHub with a link to every source, and drafts
+      the follow-up for a person to approve. Remote server, needs an API key.
+    category: knowledge-and-memory
   - name: redleaves/context-keeper
     github_id: redleaves/context-keeper
     description: >-
