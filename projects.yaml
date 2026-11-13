@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: systra-tools/systra-tools-plugin
+    github_id: systra-tools/systra-tools-plugin
+    description: >-
+      Official Systra Tools remote MCP connector for coding agents. Search and
+      add production-ready React and Tailwind UI sections, elements, styles,
+      and page recipes. Free components work without an API key.
+    category: developer-tools
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
