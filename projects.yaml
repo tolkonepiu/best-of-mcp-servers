@@ -2124,6 +2124,13 @@ projects:
     github_id: OctagonAI/octagon-deep-research-mcp
     description: Lightning-Fast, High-Accuracy Deep Research Agent
     category: search-data-extraction
+  - name: BEBOTECH-OU/scrapewise-mcp
+    github_id: BEBOTECH-OU/scrapewise-mcp
+    description: >-
+      Hosted Scrapewise MCP server for clean, matched, AI-ready product and
+      price data from any shop or Amazon, with Google search, page fetch and
+      scraper building.
+    category: search-data-extraction
   - name: scrapeless-ai/scrapeless-mcp-server
     github_id: scrapeless-ai/scrapeless-mcp-server
     description: >-
