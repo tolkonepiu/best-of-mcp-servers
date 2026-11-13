@@ -1983,6 +1983,14 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: wiroai/Wiro-MCP
+    github_id: wiroai/Wiro-MCP
+    description: >-
+      Official MCP server for Wiro AI. Search 3,500+ AI models for images,
+      video, audio, speech, music and text, check each model's parameters and
+      price, run it and get the results back in your assistant.
+    npm_id: "@wiro-ai/wiro-mcp"
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
