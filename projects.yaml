@@ -2602,3 +2602,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: Tap-Giving/tap-giving-mcp
+    github_id: Tap-Giving/tap-giving-mcp
+    description: >-
+      A tool first: create print-ready NFC artwork proofs with correct vector
+      art, free to take to any vendor, with no lock-in; ordering custom discs
+      through Tap.Giving is an optional next step.
+    category: finance-and-fintech
