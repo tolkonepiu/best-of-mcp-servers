@@ -1493,6 +1493,13 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
+  - name: MobileJoeDev/mobilejoe-plugin
+    github_id: MobileJoeDev/mobilejoe-plugin
+    description: >-
+      Hosted remote MCP server (OAuth) to manage a mobile app's FAQs,
+      translations, feature plans and in-app alerts. The repo holds the MIT
+      plugin manifests; the server needs a Mobile Joe account (free trial).
+    category: developer-tools
   - name: ChronulusAI/chronulus-mcp
     github_id: ChronulusAI/chronulus-mcp
     description:
