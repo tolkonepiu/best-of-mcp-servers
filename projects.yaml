@@ -767,6 +767,12 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
+  - name: yehudashtein/wa-bridge-mcp
+    github_id: yehudashtein/wa-bridge-mcp
+    description: >-
+      Local MCP client for API-Supp WhatsApp: files, voice notes and media for
+      one existing number connected via an unofficial QR bridge. MIT.
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
