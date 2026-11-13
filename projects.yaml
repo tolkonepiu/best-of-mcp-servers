@@ -2287,6 +2287,15 @@ projects:
       and runs locally via Docker or as a standalone binary for fast, automated
       vetting.
     category: security
+  - name: layervai/qurl-mcp
+    github_id: layervai/qurl-mcp
+    npm_id: "@layervai/qurl-mcp"
+    description: >-
+      Mint, resolve, audit, and rotate scope-limited expiring access links
+      (qURLs) for AI agents. Lets an agent share localhost web apps, private
+      APIs, and selected files through expiring qURL access links;
+      no-account local mode drives the qURL CLI.
+    category: security
   - name: HagaiHen/facebook-mcp-server
     github_id: HagaiHen/facebook-mcp-server
     description: >-
