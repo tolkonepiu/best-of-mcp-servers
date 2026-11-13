@@ -2162,6 +2162,14 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: Desearch-ai/mcp-desearch
+    github_id: Desearch-ai/mcp-desearch
+    npm_id: desearch-mcp-server
+    description: >-
+      Desearch MCP server for AI search across the web, X (Twitter), Reddit,
+      Hacker News, arXiv and Wikipedia, plus web search, page extraction and X
+      data tools.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
