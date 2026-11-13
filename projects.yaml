@@ -1900,6 +1900,13 @@ projects:
       MCP server acting as an interface to the Google Ads, enabling programmatic
       access to Google Ads data and management features.
     category: marketing
+  - name: marifeting/agenticwebscore-mcp
+    github_id: marifeting/agenticwebscore-mcp
+    description: >-
+      Scan a public website for AI agent readiness: 60 checks, a score, and
+      the evidence for each. Hosted remote MCP server (Streamable HTTP), no
+      sign-up and no API key.
+    category: marketing
   - name: open-strategy-partners/osp_marketing_tools
     github_id: open-strategy-partners/osp_marketing_tools
     description: >-
