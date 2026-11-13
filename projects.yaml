@@ -1976,6 +1976,12 @@ projects:
       ComputerVision-based sorcery of image recognition and editing tools for AI
       assistants.
     category: multimedia-process
+  - name: Video Background Remover (.ai)
+    github_id: biggersun/videobackgroundremover-ai-mcp
+    description: >-
+      Official remote MCP and API for videobackgroundremover.ai, a paid video
+      background removal service with a free website preview.
+    category: multimedia-process
   - name: video-creator/ffmpeg-mcp
     github_id: video-creator/ffmpeg-mcp
     description: >-
