@@ -232,6 +232,14 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
+  - name: OpenAny
+    github_id: openanysi/openany-mcp
+    homepage: https://openany.si
+    description: >-
+      The B2A (business to agent) marketplace. One MCP endpoint
+      (https://mcp.openany.si) for 3,200+ APIs and 168+ AI models.
+      Browse free; pay per call.
+    category: aggregators
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
