@@ -1673,6 +1673,13 @@ projects:
       backtest strategies, manage collaborators, and deploy live-trading
       workflows directly via natural-language prompts.
     category: finance-and-fintech
+  - name: tuantqse90/moltnode-mcp
+    github_id: tuantqse90/moltnode-mcp
+    description: >-
+      MoltNode by Chord: hosted no-key MCP server to read 31 blockchains
+      over JSON-RPC and get DEX swap quotes and unsigned transactions via
+      Chord.
+    category: finance-and-fintech
   - name: XeroAPI/xero-mcp-server
     github_id: XeroAPI/xero-mcp-server
     description: >-
