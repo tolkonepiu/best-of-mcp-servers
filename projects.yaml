@@ -272,6 +272,13 @@ projects:
       MCP server integration for DaVinci Resolve providing powerful tools for
       video editing, color grading, media management, and project control
     category: art-and-culture
+  - name: W System EU Business Data
+    github_id: wsystemdev/eu-business-data-mcp
+    homepage: https://wsystem.dev
+    description: >-
+      Remote MCP server for EU VAT (VIES) validation, free official
+      company-registry lookup, EORI, sanctions screening, KYB and e-invoice validation
+    category: finance-and-fintech
   - name: yuna0x0/anilist-mcp
     github_id: yuna0x0/anilist-mcp
     description:
