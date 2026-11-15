@@ -232,6 +232,13 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
+  - name: Zambo
+    github_id: zambodotdev/zambo-mcp
+    description: >-
+      The verifiable work layer for AI: 153 tools behind one remote MCP
+      endpoint, a verifiable AER-1 receipt for every job, and handover of
+      work between AIs as one link with the full record attached.
+    category: aggregators
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
