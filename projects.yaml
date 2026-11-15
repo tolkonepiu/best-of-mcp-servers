@@ -277,7 +277,8 @@ projects:
     homepage: https://wsystem.dev
     description: >-
       Remote MCP server for EU VAT (VIES) validation, free official
-      company-registry lookup, EORI, sanctions screening, KYB and e-invoice validation
+      company-registry lookup, EORI, sanctions screening, KYB and
+      e-invoice validation
     category: finance-and-fintech
   - name: yuna0x0/anilist-mcp
     github_id: yuna0x0/anilist-mcp
