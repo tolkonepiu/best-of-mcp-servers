@@ -1983,6 +1983,14 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: popnow-ai/popnow-api-mcp
+    github_id: popnow-ai/popnow-api-mcp
+    npm_id: "@popnow/mcp"
+    description: >-
+      Official PopNow MCP server for generating images, video, music and
+      speech through the PopNow API, with a price quote before each paid call
+      and per-run billing.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
