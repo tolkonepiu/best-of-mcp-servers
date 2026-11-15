@@ -1195,6 +1195,11 @@ _MCP servers for gaming_
 
 _MCP servers for location services and geospatial data_
 
+<details><summary><b><a href="https://nostairsplease.com/mcp">No Stairs Please MCP</a></b> - Independent US & BC live-music venue directory MCP server for tour routing, capacity, and accessibility data.</summary>
+
+- [No Stairs Please](https://nostairsplease.com/) ([MCP Endpoint](https://nostairsplease.com/mcp))
+</details>
+
 <details><summary><b><a href="https://github.com/mahdin75/gis-mcp">mahdin75/gis-mcp</a></b> (🥇14 ·  ⭐ 200) - A Model Context Protocol (MCP) server implementation that connects Large Language Models (LLMs) to GIS operations.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/mahdin75/gis-mcp) (👨‍💻 12 · 🔀 54 · 📋 17 - 23% open · ⏱️ 21.08.2026)
