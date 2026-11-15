@@ -1651,6 +1651,15 @@ projects:
       Comprehensive blockchain services for 30+ EVM networks, supporting native
       tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
     category: finance-and-fintech
+  - name: MindCraftersGroup/sprout-claude-plugin
+    github_id: MindCraftersGroup/sprout-claude-plugin
+    description: >-
+      Sprout: AI Finance & Cash Flow. Hosted remote MCP server
+      (api-sprout.mindcrafters.group/mcp, OAuth) with read-only cash flow,
+      spending, recurring charges and transaction search over your connected
+      US and Canadian bank and card accounts. Repo holds the plugin manifests
+      and skills; the hosted server is proprietary.
+    category: finance-and-fintech
   - name: narumiruna/yfinance-mcp
     github_id: narumiruna/yfinance-mcp
     description:
