@@ -2395,6 +2395,13 @@ projects:
       Search, read, create, and update Bear Notes directly from Claude.
       Local-only with complete privacy.
     category: workplace-and-productivity
+  - name: worktable/worktable-dev
+    github_id: worktable/worktable-dev
+    description: >-
+      Shared workspace for agents and people, with a remote MCP server for
+      Docs, interactive HTML Docs, Records, annotations and threads.
+      Self-hostable, with a hosted version.
+    category: workplace-and-productivity
   - name: AbdelStark/bitcoin-mcp
     github_id: AbdelStark/bitcoin-mcp
     description: >-
