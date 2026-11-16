@@ -1634,6 +1634,14 @@ projects:
       An MCP server providing a range of cryptocurrency technical analysis
       indicators and strategie.
     category: finance-and-fintech
+  - name: luca-network/spr
+    github_id: luca-network/spr
+    npm_id: "@luca-network/spr-mcp"
+    pypi_id: spr-sdk
+    description:
+      Seal each payment an AI agent makes as a signed record with your
+      company's own key, verifiable by anyone.
+    category: finance-and-fintech
   - name: kukapay/cryptopanic-mcp-server
     github_id: kukapay/cryptopanic-mcp-server
     description:
