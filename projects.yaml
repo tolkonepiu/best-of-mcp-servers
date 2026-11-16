@@ -2162,6 +2162,12 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: waynehamadi/datacircle
+    github_id: waynehamadi/datacircle
+    description: >-
+      Find the best GTM APIs. Our MCP server is open to anyone, with no key:
+      add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. https://datacircle.dev
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
