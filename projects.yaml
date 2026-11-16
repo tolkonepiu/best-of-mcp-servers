@@ -1764,6 +1764,14 @@ projects:
       RAG chunks, files, and conversation history before they reach the LLM,
       with reversible retrieval through MCP tools.
     category: knowledge-and-memory
+  - name: ClickHouse/loom
+    github_id: ClickHouse/loom
+    description: >-
+      Self-hosted MCP server that gives AI agents shared long-term memory,
+      document search with citations and a code index, stored in ClickHouse.
+    pypi_id: clickhouse-loom
+    npm_id: "@clickhouse/loom"
+    category: knowledge-and-memory
   - name: entanglr/zettelkasten-mcp
     github_id: entanglr/zettelkasten-mcp
     description: >-
