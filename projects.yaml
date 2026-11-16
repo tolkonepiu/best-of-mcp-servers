@@ -2354,6 +2354,14 @@ projects:
     github_id: openbnb-org/mcp-server-airbnb
     description: Provides tools to search Airbnb and get listing details.
     category: travel-and-transportation
+  - name: lomiafrica/agent-flights-mcp
+    github_id: lomiafrica/agent-flights-mcp
+    homepage: https://lowest.flights
+    description: >-
+      Cheapest flights worldwide, strong on Africa. Compares Kiwi.com, Duffel
+      and Aviasales fares; price calendars, cheap destinations and booking
+      links via a free remote MCP at https://lowest.flights/mcp.
+    category: travel-and-transportation
   - name: github/github-mcp-server
     github_id: github/github-mcp-server
     description: >-
