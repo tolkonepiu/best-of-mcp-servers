@@ -1909,10 +1909,10 @@ projects:
   - name: photo2skin/clippertask-mcp
     github_id: photo2skin/clippertask-mcp
     description: >-
-      Gaming creator marketplace: game studios run CPM campaigns (pay per 1,000
-      views), gaming creators on YouTube, TikTok and Instagram join, post and
-      get paid per view. Hosted remote server (Streamable HTTP) with OAuth
-      sign-in, no API key.
+      The AI-native creator marketplace for gaming: game studios, apps and
+      brands pay gaming creators per 1,000 verified views; AI creators and
+      people's AI agents work it too. Hosted remote server (Streamable HTTP)
+      with OAuth sign-in, no API key.
     category: marketing
   - name: pipeboard-co/meta-ads-mcp
     github_id: pipeboard-co/meta-ads-mcp
