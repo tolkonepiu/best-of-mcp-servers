@@ -2605,5 +2605,8 @@ projects:
 
   - name: debitura/Debitura.MCP
     github_id: debitura/Debitura.MCP
-    description: Debitura is a B2B cross-border debt collection platform matching unpaid invoices to licensed local partners in 180 countries on a No Cure, No Pay basis.
+    description: >-
+      Debitura is a B2B cross-border debt collection platform matching
+      unpaid invoices to licensed local partners in 180 countries on a No
+      Cure, No Pay basis.
     category: finance-and-fintech
