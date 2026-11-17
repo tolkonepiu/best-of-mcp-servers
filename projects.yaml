@@ -1532,6 +1532,14 @@ projects:
       Tools and templates to create validated and maintainable data charts and
       dashboards.
     category: data-science-tools
+  - name: argonrobotics-ai/alloy
+    github_id: argonrobotics-ai/alloy
+    description: >-
+      Open-source physics engine for robot learning with an MCP server
+      (`alloy mcp`) that lets AI coding agents build and run simulations of
+      robots, cloth, soft bodies, sand and liquids.
+    pypi_id: alloy-engine
+    category: data-science-tools
   - name: horw/esp-mcp
     github_id: horw/esp-mcp
     description:
