@@ -1665,6 +1665,15 @@ projects:
     description: >-
       An MCP server for Massive.com Financial Market Data
     category: finance-and-fintech
+  - name: Tapetide-hq/nse-bse-indian-stock-market-data-mcp
+    github_id: Tapetide-hq/nse-bse-indian-stock-market-data-mcp
+    npm_id: tapetide-mcp
+    pypi_id: tapetide-mcp
+    description: >-
+      Indian stock market data for about 8,200 NSE and BSE stocks: quotes,
+      financials, shareholding, a 326-ratio screener, FII/DII flows, option
+      chains and company filings.
+    category: finance-and-fintech
   - name: QuantConnect/mcp-server
     github_id: QuantConnect/mcp-server
     description: >-
