@@ -225,6 +225,13 @@ projects:
       Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for
       your users, in your own app.
     category: aggregators
+  - name: scalekit-inc/scalekit-mcp-server
+    github_id: scalekit-inc/scalekit-mcp-server
+    homepage: https://scalekit.com
+    description: >-
+      Hosted MCP server for Scalekit, an AI agent integration platform with 600+
+      connectors and 35,000+ tools, per-user OAuth and scoped tool access.
+    category: aggregators
   - name: TheLunarCompany/lunar
     github_id: TheLunarCompany/lunar
     description: >-
