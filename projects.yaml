@@ -2616,3 +2616,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: CorpusIQ/mcp-manifest
+    github_id: CorpusIQ/mcp-manifest
+    description: >-
+      One governed remote MCP endpoint for 40+ business systems: Google
+      Analytics, Search Console, Google Ads, Stripe, QuickBooks, Shopify,
+      HubSpot and Klaviyo. Read-only OAuth, and every answer cites the source
+      it came from.
+    category: aggregators
