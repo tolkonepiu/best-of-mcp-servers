@@ -529,6 +529,17 @@ projects:
       Kubernetes bulk port forwarding with service discovery, /etc/hosts
       management, traffic monitoring, and pod log streaming.
     category: cloud-platforms
+  - name: connormatthewdouglas/agent-work-stack-deals
+    github_id: connormatthewdouglas/agent-work-stack-deals
+    description: >-
+      Lantern Works GPU Prices: free, read-only MCP server for cloud GPU rental
+      prices, price changes and deals across tracked providers (H100, H200,
+      A100, L40S, RTX 4090/5090 and more), cheapest first with vendor source and
+      check time, plus price history and GPU job cost estimates. Hosted
+      Streamable HTTP endpoint (no API key) or stdio via uvx.
+    homepage: https://thelanternworks.com/?ref=best-of-mcp
+    pypi_id: lantern-works-deals-mcp
+    category: cloud-platforms
   - name: alfonsograziano/node-code-sandbox-mcp
     github_id: alfonsograziano/node-code-sandbox-mcp
     description: >-
