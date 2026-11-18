@@ -2616,3 +2616,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: northlarkhq/kitbay-mcp
+    github_id: northlarkhq/kitbay-mcp
+    homepage: https://kitbay.app/
+    description: >-
+      Remote, read-only MCP server (https://kitbay.app/mcp, no sign-in) for
+      searching 48,000+ MCP servers and agent skills by tool, with sourced
+      facts and install configs.
+    category: search-data-extraction
