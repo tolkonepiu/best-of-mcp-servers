@@ -2294,6 +2294,14 @@ projects:
       comments, and engagement metrics through the Graph API for streamlined
       social media management.
     category: social-media
+  - name: socialityio/sociality-mcp
+    github_id: socialityio/sociality-mcp
+    description: >-
+      Official hosted MCP server from Sociality.io for social media analytics,
+      post insights and competitor benchmarking across Facebook, X, Instagram,
+      YouTube, LinkedIn and TikTok, over Streamable HTTP with OAuth at
+      api.sociality.io/mcp.
+    category: social-media
   - name: karanb192/reddit-mcp-buddy
     github_id: karanb192/reddit-mcp-buddy
     description: >-
