@@ -2604,9 +2604,9 @@ projects:
     category: other-tools-and-integrations
 
   - name: CloudGPU MCP
-    github_id: mrhy7176/cloudgpu-mcp
+    github_id: cloudgpu-app/cloudgpu-mcp
     npm_id: cloudgpu-mcp
     description: >-
-      MCP server for quoting, renting and shutting down per-minute cloud GPUs,
-      running bounded jobs, and listing models on an OpenAI-compatible API.
+      MCP server for live GPU quotes, approved jobs with budget limits,
+      and saving selected results.
     category: cloud-platforms
