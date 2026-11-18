@@ -2124,6 +2124,13 @@ projects:
     github_id: brave/brave-search-mcp-server
     description: Web search capabilities using Brave's Search API
     category: search-data-extraction
+  - name: MindCraftersGroup/cheaterbusting-plugin
+    github_id: MindCraftersGroup/cheaterbusting-plugin
+    description: >-
+      Checks Tinder, Bumble, Hinge and 9 more dating apps for a public profile
+      matching a photo, name, age and city: plans, apps covered, how it works,
+      and the start link. Read-only, no sign-in.
+    category: search-data-extraction
   - name: nickclyde/duckduckgo-mcp-server
     github_id: nickclyde/duckduckgo-mcp-server
     description: Web search using DuckDuckGo
