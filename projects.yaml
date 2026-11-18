@@ -1328,6 +1328,14 @@ projects:
       An MCP server for interacting with PostHog analytics, feature flags, error
       tracking and more.
     category: developer-tools
+  - name: Apex-Byte-Technologies/fictura-mcp
+    github_id: Apex-Byte-Technologies/fictura-mcp
+    description: >-
+      Fictura is an AI-native growth data layer for mobile coding agents.
+      Its hosted MCP exposes real app SDK setup, conversion and revenue
+      funnels, experiments, attribution and crash traces. Authorized
+      paywall and onboarding edits are drafts only; never live.
+    category: developer-tools
   - name: public-ui/kolibri
     github_id: public-ui/kolibri
     description: >-
