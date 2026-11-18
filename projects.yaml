@@ -2602,3 +2602,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+
+  - name: CloudGPU MCP
+    github_id: cloudgpu-app/cloudgpu-mcp
+    npm_id: cloudgpu-mcp
+    description: >-
+      MCP server for live GPU quotes, approved jobs with budget limits,
+      and saving selected results.
+    category: cloud-platforms
