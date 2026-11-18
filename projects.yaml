@@ -1673,6 +1673,12 @@ projects:
       backtest strategies, manage collaborators, and deploy live-trading
       workflows directly via natural-language prompts.
     category: finance-and-fintech
+  - name: StalkChain Data
+    github_id: StalkChain/fomo-mcp-api
+    description: >-
+      Hosted MCP for public crypto trader wallets, token holdings, wallet PnL,
+      and on-chain flow. Connect over Streamable HTTP with OAuth.
+    category: finance-and-fintech
   - name: XeroAPI/xero-mcp-server
     github_id: XeroAPI/xero-mcp-server
     description: >-
