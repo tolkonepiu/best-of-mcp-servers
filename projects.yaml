@@ -1983,6 +1983,13 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: 854Labs/toads
+    github_id: 854Labs/toads
+    description: >-
+      Edit screen recordings in Toads on your Mac: tidy up filler words, cut by
+      transcript, add captions, titles and zooms, and export. Local stdio
+      server; needs the Toads website edition (7-day trial, then paid license).
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
