@@ -1997,6 +1997,13 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: Importly
+    github_id: yyildiz/importly-mcp
+    npm_id: importly-mcp
+    description: >-
+      Turn any video or audio link into files, transcripts and metadata, right
+      from your AI agent.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
