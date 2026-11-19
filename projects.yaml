@@ -2616,3 +2616,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: northlarkhq/tresca-mcp
+    github_id: northlarkhq/tresca-mcp
+    homepage: https://tresca.app/
+    description: >-
+      Remote, read-only MCP server (https://tresca.app/mcp, no sign-in) for
+      searching MCP servers and agent skills for engineering software (CAD,
+      BIM, FEA, CFD, EDA, PLC), with sourced facts and install steps.
+    category: search-data-extraction
