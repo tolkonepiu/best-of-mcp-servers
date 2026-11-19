@@ -1914,6 +1914,13 @@ projects:
       MCP server acting as an interface to the Google Ads, enabling programmatic
       access to Google Ads data and management features.
     category: marketing
+  - name: l3mpire/lemlist-plugin
+    github_id: l3mpire/lemlist-plugin
+    description: >-
+      Official lemlist MCP server (hosted, OAuth 2.1 or API key): run
+      multichannel outreach campaigns, sequences, leads, stats and
+      deliverability from your AI assistant.
+    category: marketing
   - name: open-strategy-partners/osp_marketing_tools
     github_id: open-strategy-partners/osp_marketing_tools
     description: >-
