@@ -258,6 +258,13 @@ projects:
       Provides comprehensive and accurate Bazi (Chinese Astrology) charting and
       analysis
     category: art-and-culture
+  - name: MoonDasha/moondasha-mcp
+    github_id: MoonDasha/moondasha-mcp
+    description: >-
+      Hosted Vedic astrology MCP server: birth charts, 26 divisional charts,
+      seven dasha systems, Shadbala, yogas, transits, Panchang and Guna Milan.
+      Streamable HTTP at https://api.moondasha.com/mcp, no auth.
+    category: art-and-culture
   - name: cswkim/discogs-mcp-server
     github_id: cswkim/discogs-mcp-server
     description: MCP server to interact with the Discogs API
