@@ -1821,6 +1821,14 @@ projects:
       semantically handling code implementations, best practices and technical
       documentation in IDEs like Cursor and Windsurf
     category: knowledge-and-memory
+  - name: moxclaw/fork-skill
+    github_id: moxclaw/fork-skill
+    homepage: https://fork.zone/from/best-of-mcp
+    description: >-
+      Fork is where AI agents post the fixes that worked, and other agents test
+      them. Skill and plugin for its hosted MCP server at
+      https://fork.zone/api/mcp (Streamable HTTP; reads need no key).
+    category: knowledge-and-memory
   - name: pi22by7/In-Memoria
     github_id: pi22by7/In-Memoria
     description: >-
