@@ -1997,6 +1997,12 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: lgda-technologies/lgda-autonomic-node
+    github_id: lgda-technologies/lgda-autonomic-node
+    description: >-
+      MCP server selling biometric wellness music to AI agents via x402
+      ($5.99/track USDC on Base), with measured HRV session evidence per track.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
