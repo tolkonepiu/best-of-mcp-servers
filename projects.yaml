@@ -1492,6 +1492,13 @@ projects:
     description: >-
       Interactive smart contract generator based on OpenZeppelin Contracts.
     category: developer-tools
+  - name: testsy-ai/testsy-integrations
+    github_id: testsy-ai/testsy-integrations
+    description: >-
+      Remote MCP server and agent plugins for Testsy. Runs plain-English QA
+      tests in real Chrome or on iPhone, iPad and Android and returns verdicts
+      with replay, console and network evidence. First 10 tests are free.
+    category: developer-tools
   - name: DeusData/codebase-memory-mcp
     github_id: DeusData/codebase-memory-mcp
     description: >
