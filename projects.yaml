@@ -1997,6 +1997,13 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: TRW123123/bewerbungsfoto-check-mcp
+    github_id: TRW123123/bewerbungsfoto-check-mcp
+    description: >-
+      Remote MCP server that technically checks profile and job-application
+      photos (resolution, brightness, contrast, sharpness, crop recommendations)
+      and returns a score with prioritized tips.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
