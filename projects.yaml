@@ -290,6 +290,13 @@ projects:
       library, smart prompt enhancement, and multi-provider routing (local
       ComfyUI, MeiGen Cloud, OpenAI-compatible APIs).
     category: art-and-culture
+  - name: christianpure/connector
+    github_id: christianpure/connector
+    description: >-
+      Hosted, read-only MCP server for written prayers for a need, Bible verses
+      by subject, and Christian articles on faith and church history. Free, no
+      key.
+    category: art-and-culture
   - name: genomoncology/biomcp
     github_id: genomoncology/biomcp
     description: >-
