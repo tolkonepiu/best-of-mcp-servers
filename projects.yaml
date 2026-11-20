@@ -2616,3 +2616,9 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: TRW123123/car-listing-check-mcp
+    github_id: TRW123123/car-listing-check-mcp
+    description: >-
+      Remote MCP server that checks supplied vehicle listings for completeness
+      and presentation and returns a score with concrete fixes.
+    category: other-tools-and-integrations
