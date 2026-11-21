@@ -1322,6 +1322,14 @@ projects:
       and app scraping. Simulator/Emulator/Physical devices like iPhone, Google
       Pixel, Samsung supported.
     category: developer-tools
+  - name: benchfleet/benchfleet-mcp
+    github_id: benchfleet/benchfleet-mcp
+    description: >-
+      MCP server that lets AI agents use real Android phones connected to the
+      BenchFleet desktop app: read the screen, tap, type and run workflows, only
+      on the phones and actions the user allows, with approvals and an audit log.
+    npm_id: benchfleet-mcp
+    category: developer-tools
   - name: bgauryy/octocode-mcp
     github_id: bgauryy/octocode-mcp
     description: >-
