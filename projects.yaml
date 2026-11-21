@@ -2616,3 +2616,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+
+  - name: debitura/Debitura.MCP
+    github_id: debitura/Debitura.MCP
+    description: >-
+      Debitura is a B2B cross-border debt collection platform matching
+      unpaid invoices to licensed local partners in 180 countries on a No
+      Cure, No Pay basis.
+    category: finance-and-fintech
