@@ -2320,6 +2320,13 @@ projects:
       A Model Context Protocol (MCP) server that connects to Strava API,
       providing tools to access Strava data through LLMs
     category: sports
+  - name: lewis-v/footalytics-skill
+    github_id: lewis-v/footalytics-skill
+    description: >-
+      Football match prediction MCP server: win/draw/loss probabilities,
+      over/under 2.5 goals, BTTS, fixtures, team ratings and a publicly
+      graded accuracy ledger for the top leagues.
+    category: sports
   - name: nguyenvanduocit/jira-mcp
     github_id: nguyenvanduocit/jira-mcp
     description: >-
