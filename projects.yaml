@@ -266,6 +266,13 @@ projects:
     github_id: diivi/aseprite-mcp
     description: MCP server using the Aseprite API to create pixel art
     category: art-and-culture
+  - name: i2v-ai/i2v-mcp
+    github_id: i2v-ai/i2v-mcp
+    description: >-
+      Official I2v.ai MCP server that generates images and videos across 12
+      image and 16 video models, with model discovery, per-job USD cost quoting,
+      capped idempotent job submission, polling, and usage reporting.
+    category: art-and-culture
   - name: omni-mcp/isaac-sim-mcp
     github_id: omni-mcp/isaac-sim-mcp
     description: >-
