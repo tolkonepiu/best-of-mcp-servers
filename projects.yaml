@@ -238,6 +238,14 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
+  - name: riceharvest/ctxprune
+    github_id: riceharvest/ctxprune
+    description: >-
+      Local MCP tools and an optional gateway that put three meta-tools in
+      front of your MCP servers to shrink their tool list; also trims tool
+      output without dropping values. No API key.
+    pypi_id: ctxprune
+    category: aggregators
   - name: abhiemj/manim-mcp-server
     github_id: abhiemj/manim-mcp-server
     description: A local MCP server that generates animations using Manim.
