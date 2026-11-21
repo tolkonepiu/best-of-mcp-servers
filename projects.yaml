@@ -1594,6 +1594,11 @@ projects:
     github_id: ariadng/metatrader-mcp-server
     description: Enable AI LLMs to execute trades using MetaTrader 5 platform
     category: finance-and-fintech
+  - name: oppi-digital-products-mcp
+    github_id: Reggiebro/oppi-digital-products
+    npm_id: oppi-digital-products-mcp
+    description: Browse digital products, crypto payment instructions, and read-only on-chain verification
+    category: finance-and-fintech
   - name: armorwallet/armor-crypto-mcp
     github_id: armorwallet/armor-crypto-mcp
     description: >-
