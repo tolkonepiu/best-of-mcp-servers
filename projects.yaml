@@ -2616,3 +2616,11 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: brainfish-ai/webcrawl-anything
+    github_id: brainfish-ai/webcrawl-anything
+    npm_id: "@webcrawl/mcp"
+    description: >-
+      Scrape, map and crawl websites into clean Markdown, plus PDFs, YouTube
+      transcripts, GitHub repos, arXiv papers and CVE records. Ships a CLI and
+      agent skills too.
+    category: search-data-extraction
