@@ -2616,3 +2616,10 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: localseodata/mcp-server
+    github_id: localseodata/mcp-server
+    description: >-
+      Local SEO data for AI agents: local pack and Google Maps rankings,
+      Business Profile and reviews, citation audits, geogrid rank scans and AI
+      visibility, as a remote MCP server with OAuth.
+    category: search-data-extraction
