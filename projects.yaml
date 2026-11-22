@@ -2602,3 +2602,7 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
+  - name: "search-console-mcp"
+    github_id: "sudomichael/search-console-mcp"
+    description: "Google Search Console for any MCP client - 30-second login, no Google Cloud project. Read-only."
+    category: search-data-extraction
