@@ -2314,6 +2314,13 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: social-freak-ltd/socialfetch-mcp
+    github_id: social-freak-ltd/socialfetch-mcp
+    description: >-
+      Official Social Fetch MCP server for public social media posts, profiles,
+      comments, transcripts and search results as JSON, with a hosted remote
+      endpoint and a local stdio server.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
