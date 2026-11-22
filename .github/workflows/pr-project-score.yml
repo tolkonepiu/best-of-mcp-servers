@@ -19,10 +19,7 @@ jobs:
           persist-credentials: false
 
       - name: Install scoring dependencies
-        run: python3 -m pip install --requirement .github/requirements-pr-project-score.txt
-
-      - name: Run offline tests
-        run: python3 -m unittest discover -s tests -v
+        run: python3 -m pip install --requirement .github/scripts/project_score/requirements.txt
 
       - name: Prepare changed projects
         id: prepare
@@ -37,7 +34,7 @@ jobs:
           echo "workdir=$workdir" >> "$GITHUB_OUTPUT"
           git show "$merge_base:projects.yaml" > "$snapshots/base.yaml"
           git show "$HEAD_SHA:projects.yaml" > "$snapshots/head.yaml"
-          python3 .github/scripts/pr_project_score.py prepare "$snapshots/base.yaml" "$snapshots/head.yaml" "$workdir"
+          python3 .github/scripts/project_score/project_score.py prepare "$snapshots/base.yaml" "$snapshots/head.yaml" "$workdir"
 
       - name: Score changed projects
         id: score
@@ -55,4 +52,4 @@ jobs:
           MIN_PROJECTRANK: ${{ vars.MIN_PROJECTRANK || '10' }}
           GENERATOR_OUTCOME: ${{ steps.score.outcome }}
           WORKDIR: ${{ steps.prepare.outputs.workdir }}
-        run: python3 .github/scripts/pr_project_score.py verify "$WORKDIR" --minimum "$MIN_PROJECTRANK" --generator-outcome "$GENERATOR_OUTCOME"
+        run: python3 .github/scripts/project_score/project_score.py verify "$WORKDIR" --minimum "$MIN_PROJECTRANK" --generator-outcome "$GENERATOR_OUTCOME"

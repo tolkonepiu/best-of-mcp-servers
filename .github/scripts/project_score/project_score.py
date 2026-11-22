@@ -13,10 +13,7 @@ from pathlib import Path
 import yaml
 
 
-PROJECT_FIELDS = (
-    "name", "github_id", "description", "category",
-    "npm_id", "pypi_id", "conda_id", "dockerhub_id", "maven_id", "cargo_id", "go_id",
-)
+PROJECT_FIELDS = ("name", "github_id", "description", "category")
 GITHUB_ID = re.compile(
     r"[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?/"
     r"[A-Za-z0-9_.-]{1,100}\Z"
