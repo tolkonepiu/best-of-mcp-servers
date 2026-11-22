@@ -2678,3 +2678,10 @@ projects:
       MCP server for AI agents to manage products, orders, stock, sellers and
       reports.
     category: other-tools-and-integrations
+  - name: daoudandiaye98-alt/mare-liberum
+    github_id: daoudandiaye98-alt/mare-liberum
+    description: >-
+      Reads public web pages as Markdown, checks how AI agents see a website
+      and searches an open index of MCP servers, A2A agents and x402 services.
+      Hosted without account or key, or self-hosted.
+    category: search-data-extraction
