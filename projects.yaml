@@ -2678,3 +2678,10 @@ projects:
       MCP server for AI agents to manage products, orders, stock, sellers and
       reports.
     category: other-tools-and-integrations
+  - name: claimidx/claimidx
+    github_id: claimidx/claimidx
+    pypi_id: claimidx
+    description: >-
+      MCP server and CLI that indexes recurring software failures and
+      replay-tested fixes, so coding agents can check prior art before retrying.
+    category: coding-agents
