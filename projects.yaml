@@ -686,6 +686,14 @@ projects:
       TSgram: Telegram + Claude with local workspace access on your phone in
       typescript. Read, write, and vibe code on the go!
     category: communication
+  - name: mdsolutionsdk/easymailpro-mcp
+    github_id: mdsolutionsdk/easymailpro-mcp
+    homepage: https://easymailpro.tech/mcp
+    description: >-
+      Local-first MCP server for EasyMail Pro: search, read, extract PDF/Word/Excel
+      attachments, draft, snooze, organize, and send email across Gmail, Outlook, and
+      IMAP with zero cloud relay.
+    category: communication
   - name: carterlasalle/mac_messages_mcp
     github_id: carterlasalle/mac_messages_mcp
     description: >-
