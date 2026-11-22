@@ -1322,6 +1322,14 @@ projects:
       and app scraping. Simulator/Emulator/Physical devices like iPhone, Google
       Pixel, Samsung supported.
     category: developer-tools
+  - name: hridaya423/phonedriver
+    github_id: hridaya423/phonedriver
+    npm_id: phonedriver
+    description: >-
+      MCP server and CLI that lets AI agents see and operate Android and iOS
+      devices. The screen is a numbered text list, each reply holds only the
+      lines that changed, and payment taps wait for approval.
+    category: developer-tools
   - name: bgauryy/octocode-mcp
     github_id: bgauryy/octocode-mcp
     description: >-
