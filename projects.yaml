@@ -2699,3 +2699,10 @@ projects:
       MCP server for AI agents to manage products, orders, stock, sellers and
       reports.
     category: other-tools-and-integrations
+  - name: jonradoff/lastsaas
+    github_id: jonradoff/lastsaas
+    description: >-
+      MCP server for SaaS administration. Manage users, subscriptions, billing
+      (Stripe), system logs, and multi-tenant operations through natural
+      language. Built with Go and React.
+    category: developer-tools
