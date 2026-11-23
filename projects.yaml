@@ -2228,6 +2228,13 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: mvanhorn/last30days-skill
+    github_id: mvanhorn/last30days-skill
+    description: >-
+      Local MCP server and agent skill that researches a topic across Reddit,
+      X, YouTube, TikTok, Hacker News, Polymarket, and the web from the last
+      30 days and ranks results by real engagement.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
