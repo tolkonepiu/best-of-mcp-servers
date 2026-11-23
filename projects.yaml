@@ -1748,6 +1748,13 @@ projects:
       An MCP server that integrates with the Freqtrade cryptocurrency trading
       bot.
     category: finance-and-fintech
+  - name: loyt1/flowfeed-mcp
+    github_id: loyt1/flowfeed-mcp
+    description: >-
+      Hosted MCP server with real-time macro, forex and crypto news: central bank
+      releases, economic data with actual vs forecast, economic calendar and
+      deduplicated headlines, each with source, time and link (OAuth 2.1).
+    category: finance-and-fintech
   - name: mcpdotdirect/evm-mcp-server
     github_id: mcpdotdirect/evm-mcp-server
     description: >-
