@@ -310,6 +310,12 @@ projects:
       An MCP server that provides access to exported data from Apple Health.
       Data analytics included.
     category: bio
+  - name: achiya-automation/safari-mcp
+    github_id: achiya-automation/safari-mcp
+    description: >-
+      Native Safari browser automation for AI agents via AppleScript — 80 tools,
+      zero overhead, keeps logins, runs silently in background. macOS only.
+    category: browser-automation
   - name: 34892002/bilibili-mcp-js
     github_id: 34892002/bilibili-mcp-js
     description: >-
@@ -1144,6 +1150,22 @@ projects:
       interact with Keboola Connection Data Platform. This server provides tools
       for listing and accessing data from Keboola Storage API.
     category: data-platforms
+  - name: blackwell-systems/agent-lsp
+    github_id: blackwell-systems/agent-lsp
+    description: >-
+      Orchestrates language servers (gopls, rust-analyzer, pyright, jdtls, etc.)
+      into agent-native workflows. 65 code intelligence tools across 30
+      CI-verified languages: blast-radius analysis, find references/callers,
+      rename, speculative editing, and token-optimized GCF output. Single Go
+      binary.
+    category: developer-tools
+  - name: nikolai-vysotskyi/trace-mcp
+    github_id: nikolai-vysotskyi/trace-mcp
+    description: >-
+      Precomputed code-intelligence graph for AI agents — symbol search, call
+      graphs, change impact, and test mapping as structured MCP tools instead
+      of whole-file reads.
+    category: developer-tools
   - name: 21st-dev/magic-mcp
     github_id: 21st-dev/magic-mcp
     description:
