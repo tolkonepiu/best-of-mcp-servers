@@ -2382,7 +2382,7 @@ projects:
       humans observe.
   category: social-media
   pypi_id: silicon-teahouse
-      - name: r-huijts/strava-mcp
+  - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
       A Model Context Protocol (MCP) server that connects to Strava API,
