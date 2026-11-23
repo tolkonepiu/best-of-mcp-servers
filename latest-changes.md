@@ -2,19 +2,19 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/redis/mcp-redis">redis/mcp-redis</a></b> (🥈18 ·  ⭐ 610 · 📈) - The Redis official MCP Server offers an interface to manage and search data in Redis. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/pab1it0/prometheus-mcp-server">pab1it0/prometheus-mcp-server</a></b> (🥈18 ·  ⭐ 510 · 📈) - Query and analyze Prometheus, open-source monitoring system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/neo4j-contrib/mcp-neo4j">neo4j-contrib/mcp-neo4j</a></b> (🥈17 ·  ⭐ 980 · 📈) - Model Context Protocol with Neo4j (Run queries, Knowledge Graph Memory, Manaage Neo4j Aura Instances). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/qdrant/mcp-server-qdrant">qdrant/mcp-server-qdrant</a></b> (🥈16 ·  ⭐ 1.5K · 📈) - A Qdrant MCP server. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/runekaagaard/mcp-alchemy">runekaagaard/mcp-alchemy</a></b> (🥉11 ·  ⭐ 420 · 📈) - Universal SQLAlchemy-based database integration supporting PostgreSQL, MySQL, MariaDB, SQLite, Oracle, MS SQL Server.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+- <b><a href="https://github.com/googleapis/mcp-toolbox">googleapis/genai-toolbox</a></b> (🥇29 ·  ⭐ 17K · 📈) - Open source MCP server specializing in easy, fast, and secure tools for Databases. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/symgraph/GhidrAssistMCP">symgraph/GhidrAssistMCP</a></b> (🥈18 ·  ⭐ 810 · 📈) - A native Model Context Protocol server for Ghidra. Includes GUI configuration and logging, 31 powerful tools and no.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/janreges/ai-distiller">janreges/ai-distiller</a></b> (🥈18 ·  ⭐ 180 · 📈) - Extracts essential code structure from large codebases into AI-digestible format, helping AI agents write code that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/microsoft/mcp-gateway">microsoft/mcp-gateway</a></b> (🥉15 ·  ⭐ 920 · 📈) - A reverse proxy and management layer for MCP servers, enabling scalable, session-aware routing and lifecycle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/CheMiguel23/MemoryMesh">CheMiguel23/MemoryMesh</a></b> (🥉14 ·  ⭐ 360 · 📈) - Enhanced graph-based memory with a focus on AI role-play and story generation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/public-ui/kolibri">public-ui/kolibri</a></b> (🥇25 ·  ⭐ 280 · 📉) - Streaming KoliBri MCP server (NPM: @public-ui/mcp) delivering 200+ guaranteed accessible web component samples, specs,.. <code><a href="https://tldrlegal.com/search?q=EUPL-1.2">❗️EUPL-1.2</a></code>
-- <b><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP">wonderwhy-er/DesktopCommanderMCP</a></b> (🥈23 ·  ⭐ 9.5K · 📉) - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/eyaltoledano/claude-task-master">eyaltoledano/claude-task-master</a></b> (🥇22 ·  ⭐ 28K · 📉) - AI-powered task management system for AI-driven development. Features PRD parsing, task expansion, multi-provider.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/OpenZeppelin/contracts-wizard">OpenZeppelin/contracts-wizard</a></b> (🥈17 ·  ⭐ 290 · 📉) - Interactive smart contract generator based on OpenZeppelin Contracts. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
-- <b><a href="https://github.com/pab1it0/chess-mcp">pab1it0/chess-mcp</a></b> (🥉6 ·  ⭐ 87 · 📉) - Access Chess.com player data, game records, and other public information through standardized MCP interfaces, allowing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/IvanMurzak/Unity-MCP">IvanMurzak/Unity-MCP</a></b> (🥇28 ·  ⭐ 4.7K · 📉) - MCP Server for Unity Editor and for a game made with Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/weibaohui/kom">weibaohui/kom</a></b> (🥉16 ·  ⭐ 150 · 📉) - Provides MCP multi-cluster Kubernetes management and operations. It can be integrated as an SDK into your own project.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bgauryy/octocode">bgauryy/octocode-mcp</a></b> (🥈13 ·  ⭐ 970 · 📉) - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub and NPM realms in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/vivekVells/mcp-pandoc">vivekVells/mcp-pandoc</a></b> (🥈13 ·  ⭐ 590 · 📉) - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, PDF, DOCX (.docx), csv and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mahdin75/gis-mcp">mahdin75/gis-mcp</a></b> (🥇13 ·  ⭐ 210 · 📉) - A Model Context Protocol (MCP) server implementation that connects Large Language Models (LLMs) to GIS operations.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
