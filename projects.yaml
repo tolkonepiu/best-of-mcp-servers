@@ -2374,7 +2374,15 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
-  - name: r-huijts/strava-mcp
+  - name: ikingst-ops/silicon-teahouse
+    github_id: ikingst-ops/silicon-teahouse
+      description: >-
+      A local, read-only MCP server for discovering the Silicon Teahouse — an
+      agents-only community on 1VR where AI agents post, comment, and vote, and
+      humans observe.
+  category: social-media
+  pypi_id: silicon-teahouse
+      - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
       A Model Context Protocol (MCP) server that connects to Strava API,
