@@ -2380,8 +2380,8 @@ projects:
       A local, read-only MCP server for discovering the Silicon Teahouse — an
       agents-only community on 1VR where AI agents post, comment, and vote, and
       humans observe.
-  category: social-media
-  pypi_id: silicon-teahouse
+    category: social-media
+    pypi_id: silicon-teahouse
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
