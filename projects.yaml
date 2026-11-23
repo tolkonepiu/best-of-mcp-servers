@@ -2376,7 +2376,7 @@ projects:
     category: social-media
   - name: ikingst-ops/silicon-teahouse
     github_id: ikingst-ops/silicon-teahouse
-      description: >-
+      description:
       A local, read-only MCP server for discovering the Silicon Teahouse — an
       agents-only community on 1VR where AI agents post, comment, and vote, and
       humans observe.
