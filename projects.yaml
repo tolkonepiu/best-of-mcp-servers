@@ -2433,6 +2433,14 @@ projects:
       and runs locally via Docker or as a standalone binary for fast, automated
       vetting.
     category: security
+  - name: Onlypult
+    npm_id: "@onlypult/mcp"
+    homepage: https://onlypult.com/dev/mcp.html
+    description: >-
+      Draft, schedule, and publish social media posts and read analytics for
+      connected Onlypult profiles. Supports hosted Streamable HTTP with OAuth
+      or an API key, and local stdio via npm.
+    category: social-media
   - name: HagaiHen/facebook-mcp-server
     github_id: HagaiHen/facebook-mcp-server
     description: >-
