@@ -1,7 +1,7 @@
 name: PR project score
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, reopened, synchronize, edited]
 
 permissions:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ github.event.pull_request.base.sha }}
           fetch-depth: 0
           persist-credentials: false
 
@@ -42,7 +42,7 @@ jobs:
         continue-on-error: true
         uses: best-of-lists/best-of-update-action@ee4e7b88df0e3538d496eab82fe5b4e613c999ef # v0.8.5
         with:
-          github_key: ${{ secrets.GITHUB_TOKEN }}
+          github_key: ${{ secrets.GH_API_TOKEN }}
           libraries_key: ''
           projects_file: ${{ steps.prepare.outputs.workdir }}/projects.yaml
 
