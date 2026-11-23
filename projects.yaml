@@ -787,7 +787,7 @@ projects:
   - name: tsahospital-beep/wa-mcp
     github_id: tsahospital-beep/wa-mcp
     pypi_id: wa-mcp-server
-    description: Search linked WhatsApp chats and voice transcripts through a local bridge.
+    description: Search linked WhatsApp chats and voice transcripts locally.
     category: communication
   - name: zcaceres/gtasks-mcp
     github_id: zcaceres/gtasks-mcp
