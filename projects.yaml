@@ -771,6 +771,14 @@ projects:
     github_id: line/line-bot-mcp-server
     description: MCP Server for Integrating LINE Official Account
     category: communication
+  - name: mailtrap/mailtrap-mcp
+    github_id: mailtrap/mailtrap-mcp
+    description: >-
+      Official Mailtrap MCP server. Send transactional and bulk email, manage
+      templates, contacts, domains, webhooks and suppressions, and search
+      email logs and sending stats from AI assistants.
+    npm_id: mcp-mailtrap
+    category: communication
   - name: Softeria/ms-365-mcp-server
     github_id: Softeria/ms-365-mcp-server
     description: >-
