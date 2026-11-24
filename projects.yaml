@@ -2780,3 +2780,11 @@ projects:
       (Stripe), system logs, and multi-tenant operations through natural
       language. Built with Go and React.
     category: developer-tools
+  - name: CSOAI-ORG/councilof-ai
+    github_id: CSOAI-ORG/councilof-ai
+    description: >-
+      Council of AI GSPC measurement MCP (https://councilof.ai/mcp).
+      Living board via GET https://councilof.ai/api/gspc.
+      Measurement only, never certification.
+      Official Registry: io.github.CSOAI-ORG/gspc.
+    category: security
