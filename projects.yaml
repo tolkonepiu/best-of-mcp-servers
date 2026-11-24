@@ -1354,6 +1354,16 @@ projects:
       An MCP service for deploying HTML content to EdgeOne Pages and obtaining a
       publicly accessible URL.
     category: developer-tools
+  - name: tidybytetools/json-shaper-lite
+    github_id: tidybytetools/json-shaper-lite
+    description: Turn key:value notes, CSV/TSV and Markdown tables into typed JSON.
+    pypi_id: json-shaper-lite
+    category: developer-tools
+  - name: tidybytetools/link-check-lite
+    github_id: tidybytetools/link-check-lite
+    description: Check a list of links for HTTP status codes, redirects and broken URLs.
+    pypi_id: link-check-lite
+    category: developer-tools
   - name: tumf/mcp-text-editor
     github_id: tumf/mcp-text-editor
     description: >-
