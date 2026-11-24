@@ -2805,6 +2805,14 @@ projects:
       Open-source accounting skills reviewed by licensed accountants, covering
       income tax, VAT and payroll by country, US state and Canadian province.
     category: finance-and-fintech
+  - name: thefinancial-ai/financial-ai
+    github_id: thefinancial-ai/financial-ai
+    homepage: https://thefinancial.ai
+    description: >-
+      Plugin and docs for Financial AI's official hosted remote MCP server
+      (OAuth): company research, proprietary forecasts, stock screens and
+      strategy backtests across stocks, ETFs, options, futures and crypto.
+    category: finance-and-fintech
   - name: google/three-live
     github_id: google/three-live
     description: >-
