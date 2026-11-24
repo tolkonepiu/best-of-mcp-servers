@@ -164,17 +164,26 @@ def verify(workdir, minimum, generator_outcome):
         except (OSError, UnicodeError, csv.Error, ValueError) as exc:
             errors.append(f"Scoring output error: {exc}")
     table = ["## PR project score", "",
-             "| Project | Rank | Minimum | Result |",
-             "| --- | ---: | ---: | --- |"]
+             "| Project | Rank | Minimum | Stars | Forks | Contributors | Commits | Recent commits (90d) | Releases | Result |",
+             "| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |"]
     for github_id in ids:
         matches = rows.get(github_id.lower(), [])
         rank = "—"
+        stats = ["—"] * 6
         if not matches:
             result = "ERROR: missing scoring row"
         elif len(matches) != 1:
             result = "ERROR: duplicate scoring rows"
         else:
             row = matches[0]
+            for index, field in enumerate(("star_count", "fork_count", "contributor_count",
+                                           "commit_count", "recent_commit_count", "release_count")):
+                try:
+                    stats[index] = format(numeric_rank(row.get(field), field), "f")
+                    if "." in stats[index]:
+                        stats[index] = stats[index].rstrip("0").rstrip(".")
+                except ValueError:
+                    pass
             try:
                 rank = numeric_rank(row["projectrank"], f"{github_id} projectrank")
                 # GitHub default-branch metadata proves a fetch; zero-star repos omit star_count.
@@ -188,14 +197,17 @@ def verify(workdir, minimum, generator_outcome):
                     result = "PASS"
             except ValueError as exc:
                 result = f"ERROR: {exc}"
-        table.append(f"| {github_id} | {rank} | {minimum} | {result} |")
+        project = f"[{github_id}](https://github.com/{github_id})"
+        table.append(f"| {project} | {rank} | {minimum} | {' | '.join(stats)} | {result} |")
         if result != "PASS":
             errors.append(f"{github_id}: {result}")
     if not ids:
         table.append("\nNo added or modified projects to score.")
     if errors:
         table.extend(["", "### Errors", "", *[f"- {error}" for error in errors]])
-    write_summary("\n".join(table))
+    report = "\n".join(table)
+    (workdir / "report.md").write_text(report, encoding="utf-8")
+    write_summary(report)
     return 1 if errors else 0
 
 
