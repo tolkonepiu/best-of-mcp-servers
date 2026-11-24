@@ -2506,3 +2506,11 @@ projects:
       where every event links to its cause. Log events, ask why an action
       happened, search memory, time-travel to past state and verify the chain.
     category: knowledge-and-memory
+  - name: Sortance
+    github_id: wilsonbright/sortance-mcp
+    description: >-
+      Hosted MCP server that checks email addresses at signup: disposable
+      domains, no mail server, typo domains and made-up addresses, plus your
+      own block and allow rules. Returns send, challenge, hold or drop with a
+      score. Remote, OAuth 2.1.
+    category: security
