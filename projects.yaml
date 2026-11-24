@@ -2491,3 +2491,13 @@ projects:
       where every event links to its cause. Log events, ask why an action
       happened, search memory, time-travel to past state and verify the chain.
     category: knowledge-and-memory
+
+  - name: Kling AI Global Plugin
+    github_id: klingai-tech/claude-plugin
+    description: >-
+      Official Global-region Claude Code plugin for Kling AI, connecting over
+      OAuth to Kling's hosted MCP service for image and video generation,
+      reusable Elements, and task status. Uses the Global Kling account and
+      credits. Setup guide: https://kling.ai/app/mcp/guide. This repository
+      contains the client plugin and skills, not the hosted server.
+    category: multimedia-process
