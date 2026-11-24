@@ -2860,3 +2860,10 @@ projects:
       Measurement only, never certification.
       Official Registry: io.github.CSOAI-ORG/gspc.
     category: security
+  - name: DanceNitra/inspeximus
+    github_id: DanceNitra/inspeximus
+    pypi_id: inspeximus
+    category: knowledge-and-memory
+    description: >-
+      Agent memory that retires a corrected fact by key. Calling revert(key)
+      brings the old value back later, from the key alone.
