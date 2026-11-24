@@ -11,6 +11,9 @@ jobs:
   pr-project-score:
     name: PR project score
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -47,9 +50,22 @@ jobs:
           projects_file: ${{ steps.prepare.outputs.workdir }}/projects.yaml
 
       - name: Verify project scores
+        id: verify
         if: always() && steps.prepare.outcome == 'success' && steps.prepare.outputs.count != '0' && steps.prepare.outputs.count != ''
         env:
-          MIN_PROJECTRANK: ${{ vars.MIN_PROJECTRANK || '10' }}
+          MIN_PROJECTRANK: ${{ vars.MIN_PROJECTRANK || '15' }}
           GENERATOR_OUTCOME: ${{ steps.score.outcome }}
           WORKDIR: ${{ steps.prepare.outputs.workdir }}
         run: python3 .github/scripts/project_score/project_score.py verify "$WORKDIR" --minimum "$MIN_PROJECTRANK" --generator-outcome "$GENERATOR_OUTCOME"
+
+      - name: Publish project score report
+        if: always() && steps.prepare.outcome == 'success' && (steps.verify.outcome == 'success' || steps.verify.outcome == 'failure')
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          GH_REPO: ${{ github.repository }}
+          WORKDIR: ${{ steps.prepare.outputs.workdir }}
+        run: |
+          if [ -f "$WORKDIR/report.md" ]; then
+            gh pr comment "$PR_NUMBER" --repo "$GH_REPO" --body-file "$WORKDIR/report.md"
+          fi
