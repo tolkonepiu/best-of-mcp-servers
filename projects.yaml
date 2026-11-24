@@ -118,12 +118,32 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: archcore-ai/archcore
+    github_id: archcore-ai/archcore
+    description: >-
+      Git-native context engineering CLI and MCP server for AI coding agents.
+      Keep specs, ADRs, rules, plans, and project knowledge in Git.
+    category: coding-agents
+  - name: firecrawl/firecrawl-mcp-server
+    github_id: firecrawl/firecrawl-mcp-server
+    description: >-
+      Official Firecrawl MCP server for web search, scraping, crawling and
+      structured data extraction, with page interaction and an autonomous
+      research agent.
+    category: search-data-extraction
   - name: cocoindex-io/cocoindex-code
     github_id: cocoindex-io/cocoindex-code
     description: >-
       AST/tree-sitter code search MCP server that indexes a codebase and
       returns compact, relevant snippets to reduce coding-agent context usage.
     category: coding-agents
+  - name: theopenco/llmgateway
+    github_id: theopenco/llmgateway
+    description: >-
+      Open-source LLM gateway with a hosted Streamable HTTP MCP server for
+      chatting with any supported model, generating images, listing models
+      with pricing and checking usage and costs.
+    category: aggregators
   - name: 1mcp-app/agent
     github_id: 1mcp-app/agent
     description: >-
@@ -297,6 +317,12 @@ projects:
       An MCP server that provides access to exported data from Apple Health.
       Data analytics included.
     category: bio
+  - name: achiya-automation/safari-mcp
+    github_id: achiya-automation/safari-mcp
+    description: >-
+      Native Safari browser automation for AI agents via AppleScript — 80 tools,
+      zero overhead, keeps logins, runs silently in background. macOS only.
+    category: browser-automation
   - name: 34892002/bilibili-mcp-js
     github_id: 34892002/bilibili-mcp-js
     description: >-
@@ -374,6 +400,14 @@ projects:
       Automates browser-based workflows using LLMs and computer vision —
       navigate pages, fill forms, extract data, handle authentication, and
       automate any website via natural language
+    category: browser-automation
+  - name: vostride/agent-qa
+    github_id: vostride/agent-qa
+    npm_id: agent-qa
+    description: >-
+      A source-available, self-improving QA agent for natural-language web and
+      mobile tests. Its MCP server lets coding agents author tests and enqueue
+      runs, inspect evidence, and triage failures with persistent test memory.
     category: browser-automation
   - name: alexei-led/aws-mcp-server
     github_id: alexei-led/aws-mcp-server
@@ -655,6 +689,14 @@ projects:
       Context Protocol. Securely execute remote shell commands with password or
       SSH key authentication.
     category: command-line
+  - name: bvisible/mcp-ssh-manager
+    github_id: bvisible/mcp-ssh-manager
+    description: >-
+      MCP server and desktop app for SSH: commands, file transfers, backups and
+      health checks for AI agents and any MCP client, with per-server
+      read-only modes, human approval, an encrypted vault and an audit trail.
+    npm_id: mcp-ssh-manager
+    category: command-line
   - name: tumf/mcp-shell-server
     github_id: tumf/mcp-shell-server
     description: >-
@@ -779,6 +821,13 @@ projects:
     description:
       An MCP server to interact with a Tinybird Workspace from any MCP client.
     category: customer-data-platforms
+  - name: relaticle/relaticle
+    github_id: relaticle/relaticle
+    description: >-
+      Open-source CRM your AI agents can read and update: companies, people,
+      opportunities, tasks, notes and custom fields. Hosted MCP server at
+      mcp.relaticle.com with OAuth, or self-host with Docker.
+    category: customer-data-platforms
   - name: alexander-zuev/supabase-mcp-server
     github_id: alexander-zuev/supabase-mcp-server
     description: >-
@@ -798,11 +847,34 @@ projects:
       MySQL database integration in NodeJS with configurable access controls and
       schema inspection
     category: databases
+  - name: bytebase/dbhub
+    github_id: bytebase/dbhub
+    npm_id: "@bytebase/dbhub"
+    description: >-
+      Zero-dependency, token-efficient universal database MCP server for
+      PostgreSQL, MySQL, SQL Server, MariaDB, and SQLite — one connection
+      string, stdio and HTTP transports.
+    category: databases
   - name: baserow/baserow
     github_id: baserow/baserow
     description: >-
       Baserow database integration with table search, list, and row create,
       read, update, and delete capabilities.
+    category: databases
+  - name: busabase/busabase
+    github_id: busabase/busabase
+    description: >-
+      Open-source database and workspace for AI agents to manage typed tables,
+      records, docs, files, and search, with ChangeRequests for human review
+      before important writes.
+    category: databases
+  - name: bytebase/bytebase
+    github_id: bytebase/bytebase
+    description: >-
+      Governed multi-database MCP server backed by the Bytebase platform —
+      query, schema change, and permission management across 30+ database
+      engines, with access control, data masking, SQL review, and audit
+      logging enforced at the MCP boundary.
     category: databases
   - name: Canner/wren-engine
     github_id: Canner/wren-engine
@@ -987,6 +1059,13 @@ projects:
       Natural language PostgreSQL queries with automatic streaming, read-only
       safety, and universal database compatibility.
     category: databases
+  - name: nhost/nhost
+    github_id: nhost/nhost
+    description: >-
+      Official Nhost MCP server, bundled with the Nhost CLI. Lets AI agents
+      read your GraphQL schema, run the queries you allow, and manage
+      permissions and migrations.
+    category: databases
   - name: supabase-community/supabase-mcp
     github_id: supabase-community/supabase-mcp
     description: >-
@@ -1078,6 +1157,22 @@ projects:
       interact with Keboola Connection Data Platform. This server provides tools
       for listing and accessing data from Keboola Storage API.
     category: data-platforms
+  - name: blackwell-systems/agent-lsp
+    github_id: blackwell-systems/agent-lsp
+    description: >-
+      Orchestrates language servers (gopls, rust-analyzer, pyright, jdtls, etc.)
+      into agent-native workflows. 65 code intelligence tools across 30
+      CI-verified languages: blast-radius analysis, find references/callers,
+      rename, speculative editing, and token-optimized GCF output. Single Go
+      binary.
+    category: developer-tools
+  - name: nikolai-vysotskyi/trace-mcp
+    github_id: nikolai-vysotskyi/trace-mcp
+    description: >-
+      Precomputed code-intelligence graph for AI agents — symbol search, call
+      graphs, change impact, and test mapping as structured MCP tools instead
+      of whole-file reads.
+    category: developer-tools
   - name: 21st-dev/magic-mcp
     github_id: 21st-dev/magic-mcp
     description:
@@ -1308,6 +1403,14 @@ projects:
       MCP Server for Android/iOS application and device automation, development
       and app scraping. Simulator/Emulator/Physical devices like iPhone, Google
       Pixel, Samsung supported.
+    category: developer-tools
+  - name: hridaya423/phonedriver
+    github_id: hridaya423/phonedriver
+    npm_id: phonedriver
+    description: >-
+      MCP server and CLI that lets AI agents see and operate Android and iOS
+      devices. The screen is a numbered text list, each reply holds only the
+      lines that changed, and payment taps wait for approval.
     category: developer-tools
   - name: bgauryy/octocode-mcp
     github_id: bgauryy/octocode-mcp
@@ -1569,6 +1672,13 @@ projects:
       MCP tool access to MarkItDown -- a library that converts many file formats
       (local or remote) to Markdown for LLM consumption.
     category: file-systems
+  - name: SylphxAI/anymd
+    github_id: SylphxAI/anymd
+    description: >-
+      Any file to clean Markdown for AI agents: PDF, DOCX, PPTX, XLSX/CSV, EPUB,
+      HTML/URLs, images (OCR) and audio/video metadata, with read, search and
+      inspect tools. Local Rust binary, no API key. Formerly pdf-reader-mcp.
+    category: file-systems
   - name: aaronjmars/web3-research-mcp
     github_id: aaronjmars/web3-research-mcp
     description: Deep Research for crypto - free & fully local
@@ -1757,6 +1867,14 @@ projects:
       RAG chunks, files, and conversation history before they reach the LLM,
       with reversible retrieval through MCP tools.
     category: knowledge-and-memory
+  - name: ClickHouse/loom
+    github_id: ClickHouse/loom
+    description: >-
+      Self-hosted MCP server that gives AI agents shared long-term memory,
+      document search with citations and a code index, stored in ClickHouse.
+    pypi_id: clickhouse-loom
+    npm_id: "@clickhouse/loom"
+    category: knowledge-and-memory
   - name: entanglr/zettelkasten-mcp
     github_id: entanglr/zettelkasten-mcp
     description: >-
@@ -1791,6 +1909,13 @@ projects:
       An MCP server built on markmap that converts Markdown to interactive mind
       maps. Supports multi-format exports (PNG/JPG/SVG), live browser preview,
       one-click Markdown copy, and dynamic visualization features.
+    category: knowledge-and-memory
+  - name: kitfunso/hippo-memory
+    github_id: kitfunso/hippo-memory
+    npm_id: hippo-memory
+    description: >-
+      Local memory for coding agents. What you teach one agent goes into a
+      store in your repo, and your other agents read the same store.
     category: knowledge-and-memory
   - name: mem0ai/mem0-mcp
     github_id: mem0ai/mem0-mcp
@@ -1853,6 +1978,13 @@ projects:
       cross-session learning, and intelligent forgetting. #1 on LongMemEval
       (95.4%).
     pypi_id: omega-memory
+    category: knowledge-and-memory
+  - name: plastic-labs/honcho
+    github_id: plastic-labs/honcho
+    description: >-
+      Memory server for agents that reasons over conversations to build a
+      representation of each user and agent, with a hosted MCP server at
+      mcp.honcho.dev and plugins for Claude Code, Codex, Cursor and OpenCode.
     category: knowledge-and-memory
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
@@ -1934,6 +2066,12 @@ projects:
     description:
       Provides access to OpenTelemetry traces and metrics through Logfire
     category: monitoring
+  - name: fclairamb/solidping
+    github_id: fclairamb/solidping
+    description: >-
+      Uptime and synthetic monitoring with a built-in MCP server to create, run
+      and diagnose checks, read results and incidents, and manage status pages
+    category: monitoring
   - name: seekrays/mcp-monitor
     github_id: seekrays/mcp-monitor
     description: >-
@@ -2000,6 +2138,13 @@ projects:
       Google News integration with automatic topic categorization,
       multi-language support, and comprehensive search capabilities including
       headlines, stories, and related topics through SerpAPI.
+    category: search-data-extraction
+  - name: koala73/worldmonitor
+    github_id: koala73/worldmonitor
+    description: >-
+      Real-time global intelligence dashboard with a remote MCP server
+      (Streamable HTTP, OAuth) for conflict, markets, energy, trade, shipping
+      and cyber data.
     category: search-data-extraction
   - name: ConechoAI/openai-websearch-mcp
     github_id: ConechoAI/openai-websearch-mcp
@@ -2148,6 +2293,13 @@ projects:
       and more with real-time weather data, stock market information, and
       flexible JSON response modes.
     category: search-data-extraction
+  - name: mvanhorn/last30days-skill
+    github_id: mvanhorn/last30days-skill
+    description: >-
+      Local MCP server and agent skill that researches a topic across Reddit,
+      X, YouTube, TikTok, Hacker News, Polymarket, and the web from the last
+      30 days and ranks results by real engagement.
+    category: search-data-extraction
   - name: beelzebub-labs/beelzebub
     github_id: beelzebub-labs/beelzebub
     description: >-
@@ -2211,6 +2363,14 @@ projects:
       autonomously reverse engineer applications. Provides tools for decompiling
       binaries, renaming methods and data, and listing methods, classes,
       imports, and exports.
+    category: security
+  - name: REA (Reverse Engineer Anything)
+    github_id: morluto/rea
+    npm_id: rea-agents
+    description: >-
+      Local CLI and MCP server for evidence-backed analysis of shipped native,
+      managed, and JavaScript/Electron applications. Deep native analysis
+      requires separately installed Hopper, Ghidra, or IDA.
     category: security
   - name: mrexodia/ida-pro-mcp
     github_id: mrexodia/ida-pro-mcp
@@ -2483,11 +2643,13 @@ projects:
     category: other-tools-and-integrations
   - name: screenpipe/screenpipe
     github_id: screenpipe/screenpipe
+    license: https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md
+    npm_id: screenpipe-mcp
     description: >-
-      Local-first system capturing screen/audio with timestamped indexing,
-      SQL/embedding storage, semantic search, LLM-powered history analysis, and
-      event-triggered actions - enables building context-aware AI agents through
-      a NextJS plugin ecosystem.
+      Searches captured screen text and audio history for agent recall through
+      MCP and a local API. Source-available under the Screenpipe Commercial
+      License; configured cloud features can send context off-device. Requires
+      a running Screenpipe recorder and local API authentication.
     category: other-tools-and-integrations
   - name: metorial/metorial
     github_id: metorial/metorial
@@ -2588,7 +2750,20 @@ projects:
     description: >-
       MCP server that exercises all the features of the MCP protocol.
     category: other-tools-and-integrations
-
+  - name: spree/spree
+    github_id: spree/spree
+    description: >-
+      Open-source B2B and marketplace ecommerce platform. New stores include an
+      MCP server for AI agents to manage products, orders, stock, sellers and
+      reports.
+    category: other-tools-and-integrations
+  - name: jonradoff/lastsaas
+    github_id: jonradoff/lastsaas
+    description: >-
+      MCP server for SaaS administration. Manage users, subscriptions, billing
+      (Stripe), system logs, and multi-tenant operations through natural
+      language. Built with Go and React.
+    category: developer-tools
   - name: DanceNitra/inspeximus
     github_id: DanceNitra/inspeximus
     pypi_id: inspeximus
