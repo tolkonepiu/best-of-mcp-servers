@@ -1692,6 +1692,14 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: gdietsch/trading-signals-mcp
+    github_id: gdietsch/trading-signals-mcp
+    npm_id: x402-trading-signals-mcp
+    description: >-
+      Stdio MCP server for pre-trade checks, futures event-risk flags, SEC
+      Form 4 insider filings, Base token verdicts, and quant tools, with
+      pay-per-call USDC via x402.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
