@@ -118,6 +118,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: kburrus64-max/anansi-haven
+    github_id: kburrus64-max/anansi-haven
+    description: >-
+      Hosted MCP and A2A home base for AI agents: free no-key utilities (time,
+      units, calculator, text, JSON Schema validation, URL metadata), a
+      find_tools catalog of indexed MCP servers and APIs, plus optional agent
+      memory, a job board and Commons rooms. The hosted endpoint is
+      https://anansi-haven.anansidata.workers.dev/mcp.
+    category: other-tools-and-integrations
   - name: salitronic/eda-agent
     github_id: salitronic/eda-agent
     description: >-
