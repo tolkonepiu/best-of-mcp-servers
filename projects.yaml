@@ -2093,6 +2093,13 @@ projects:
       output for prompt injection, and audits agent configs and MCP servers.
       MIT, runs on your machine, no account.
     category: security
+  - name: akshay-bhanderi/trustedmcp.io-mcp
+    github_id: akshay-bhanderi/trustedmcp.io-mcp
+    npm_id: trustedmcp
+    description: >-
+      Look up an A-D grade from public signals for any MCP server, check every
+      server in your MCP config, and find better-graded alternatives.
+    category: security
   - name: 13bm/GhidraMCP
     github_id: 13bm/GhidraMCP
     description: >-
