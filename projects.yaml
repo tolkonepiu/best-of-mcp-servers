@@ -2874,3 +2874,11 @@ projects:
     description: >-
       Agent memory that retires a corrected fact by key. Calling revert(key)
       brings the old value back later, from the key alone.
+  - name: ZIZKA-AI-SL/ZizkaDB
+    github_id: ZIZKA-AI-SL/ZizkaDB
+    pypi_id: zizkadb-mcp
+    description: >-
+      Auditable memory for AI agents: a tamper-evident, hash-chained event log
+      where every event links to its cause. Log events, ask why an action
+      happened, search memory, time-travel to past state and verify the chain.
+    category: knowledge-and-memory
