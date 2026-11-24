@@ -2024,6 +2024,14 @@ projects:
       A suite of marketing tools from Open Strategy Partners including writing
       style, editing codes, and product marketing value map creation.
     category: marketing
+  - name: andreycretsu/cueston-mcp
+    github_id: andreycretsu/cueston-mcp
+    npm_id: cueston
+    description: >-
+      MCP server for Cueston in-app guidance: build, preview, publish and
+      measure product tours, tooltips, banners, checklists and surveys in SaaS
+      web apps, hosted with OAuth or as a local stdio bridge.
+    category: marketing
   - name: pipeboard-co/meta-ads-mcp
     github_id: pipeboard-co/meta-ads-mcp
     description: >-
