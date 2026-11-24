@@ -210,22 +210,11 @@ projects:
       essentially giving AI assistants the power to extend their own
       capabilities on-demand.
     category: aggregators
-  - name: SureScaleAI/openai-gpt-image-mcp
-    github_id: SureScaleAI/openai-gpt-image-mcp
-    description: OpenAI GPT image generation/editing MCP server.
-    category: aggregators
   - name: sxhxliang/mcp-access-point
     github_id: sxhxliang/mcp-access-point
     description: >-
       Turn a web service into an MCP server in one click without making any code
       changes.
-    category: aggregators
-  - name: tigranbs/mcgravity
-    github_id: tigranbs/mcgravity
-    description: >-
-      A proxy tool for composing multiple MCP servers into one unified endpoint.
-      Scale your AI tools by load balancing requests across multiple MCP
-      servers, similar to how Nginx works for web servers.
     category: aggregators
   - name: VeriTeknik/pluggedin-mcp-proxy
     github_id: VeriTeknik/pluggedin-mcp-proxy
@@ -254,25 +243,9 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
-  - name: abhiemj/manim-mcp-server
-    github_id: abhiemj/manim-mcp-server
-    description: A local MCP server that generates animations using Manim.
-    category: art-and-culture
   - name: ahujasid/blender-mcp
     github_id: ahujasid/blender-mcp
     description: MCP server for working with Blender
-    category: art-and-culture
-  - name: burningion/video-editing-mcp
-    github_id: burningion/video-editing-mcp
-    description:
-      Add, Analyze, Search, and Generate Video Edits from your Video Jungle
-      Collection
-    category: art-and-culture
-  - name: cantian-ai/bazi-mcp
-    github_id: cantian-ai/bazi-mcp
-    description: >-
-      Provides comprehensive and accurate Bazi (Chinese Astrology) charting and
-      analysis
     category: art-and-culture
   - name: cswkim/discogs-mcp-server
     github_id: cswkim/discogs-mcp-server
@@ -338,12 +311,6 @@ projects:
       A MCP server that supports searching for Bilibili content. Provides
       LangChain integration examples and test scripts.
     category: browser-automation
-  - name: VikashLoomba/MCP-Server-Playwright
-    github_id: VikashLoomba/MCP-Server-Playwright
-    description:
-      A Model Context Protocol server that provides browser automation
-      capabilities using Playwright
-    category: browser-automation
   - name: browserbase/mcp-server-browserbase
     github_id: browserbase/mcp-server-browserbase
     description: >-
@@ -353,12 +320,6 @@ projects:
   - name: BrowserMCP/mcp
     github_id: BrowserMCP/mcp
     description: Automate your local Chrome browser
-    category: browser-automation
-  - name: kontext-dev/browser-use-mcp-server
-    github_id: kontext-dev/browser-use-mcp-server
-    description: >-
-      browser-use packaged as an MCP server with SSE transport. includes a
-      dockerfile to run chromium in docker + a vnc server.
     category: browser-automation
   - name: eat-pray-ai/yutu
     github_id: eat-pray-ai/yutu
@@ -649,13 +610,6 @@ projects:
       related files in order of relevance. Based on the "Repo Map" functionality
       in Aider.chat
     category: coding-agents
-  - name: rinadelph/Agent-MCP
-    github_id: rinadelph/Agent-MCP
-    description: >-
-      A framework for creating multi-agent systems using MCP for coordinated AI
-      collaboration, featuring task management, shared context, and RAG
-      capabilities.
-    category: coding-agents
   - name: stippi/code-assistant
     github_id: stippi/code-assistant
     description: >-
@@ -690,21 +644,9 @@ projects:
       A MCP Server that enhance your IDE with AI-powered assistance for Intlayer
       i18n / CMS tool: smart CLI access, access to the docs.
     category: command-line
-  - name: ferrislucas/iterm-mcp
-    github_id: ferrislucas/iterm-mcp
-    description: >-
-      A Model Context Protocol server that provides access to iTerm. You can run
-      commands and ask questions about what you see in the iTerm terminal.
-    category: command-line
   - name: g0t4/mcp-server-commands
     github_id: g0t4/mcp-server-commands
     description: Run any command with run_command and run_script tools.
-    category: command-line
-  - name: MladenSU/cli-mcp-server
-    github_id: MladenSU/cli-mcp-server
-    description:
-      Command line interface with secure execution and customizable security
-      policies
     category: command-line
   - name: tufantunc/ssh-mcp
     github_id: tufantunc/ssh-mcp
@@ -739,12 +681,6 @@ projects:
       Open-source AI support agent for communities. Its MCP server lets agents
       search a self-hosted support knowledge base, read FAQs and tickets, create
       tickets, and generate answers grounded in your own docs.
-    category: communication
-  - name: areweai/tsgram-mcp
-    github_id: areweai/tsgram-mcp
-    description: >-
-      TSgram: Telegram + Claude with local workspace access on your phone in
-      typescript. Read, write, and vibe code on the go!
     category: communication
   - name: carterlasalle/mac_messages_mcp
     github_id: carterlasalle/mac_messages_mcp
@@ -791,12 +727,6 @@ projects:
   - name: korotovsky/slack-mcp-server
     github_id: korotovsky/slack-mcp-server
     description: The most powerful MCP server for Slack Workspaces.
-    category: communication
-  - name: lharries/whatsapp-mcp
-    github_id: lharries/whatsapp-mcp
-    description: >-
-      An MCP server for searching your personal WhatsApp messages, contacts and
-      sending messages to individuals or groups
     category: communication
   - name: line/line-bot-mcp-server
     github_id: line/line-bot-mcp-server
@@ -855,11 +785,6 @@ projects:
     github_id: hustcc/mcp-mermaid
     description: Generate mermaid diagram and chart with AI MCP dynamically.
     category: customer-data-platforms
-  - name: tinybirdco/mcp-tinybird
-    github_id: tinybirdco/mcp-tinybird
-    description:
-      An MCP server to interact with a Tinybird Workspace from any MCP client.
-    category: customer-data-platforms
   - name: relaticle/relaticle
     github_id: relaticle/relaticle
     description: >-
@@ -867,12 +792,6 @@ projects:
       opportunities, tasks, notes and custom fields. Hosted MCP server at
       mcp.relaticle.com with OAuth, or self-host with Docker.
     category: customer-data-platforms
-  - name: alexander-zuev/supabase-mcp-server
-    github_id: alexander-zuev/supabase-mcp-server
-    description: >-
-      Supabase MCP Server with support for SQL query execution and database
-      exploration tools
-    category: databases
   - name: aliyun/alibabacloud-tablestore-mcp-server
     github_id: aliyun/alibabacloud-tablestore-mcp-server
     description: >-
@@ -920,24 +839,11 @@ projects:
     description:
       The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents
     category: databases
-  - name: centralmind/gateway
-    github_id: centralmind/gateway
-    description: >-
-      MCP and MCP SSE Server that automatically generate API based on database
-      schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake,
-      BigQuery, Supabase
-    category: databases
   - name: ChristianHinge/dicom-mcp
     github_id: ChristianHinge/dicom-mcp
     description: >-
       DICOM integration to query, read, and move medical images and reports from
       PACS and other DICOM compliant systems.
-    category: databases
-  - name: chroma-core/chroma-mcp
-    github_id: chroma-core/chroma-mcp
-    description: >-
-      Chroma MCP server to access local and cloud Chroma instances for retrieval
-      capabilities
     category: databases
   - name: ClickHouse/mcp-clickhouse
     github_id: ClickHouse/mcp-clickhouse
@@ -999,29 +905,11 @@ projects:
     github_id: furey/mongodb-lens
     description: "MongoDB Lens: Full Featured MCP Server for MongoDB Databases"
     category: databases
-  - name: gannonh/firebase-mcp
-    github_id: gannonh/firebase-mcp
-    description: Firebase services including Auth, Firestore and Storage.
-    category: databases
   - name: googleapis/genai-toolbox
     github_id: googleapis/genai-toolbox
     description: >-
       Open source MCP server specializing in easy, fast, and secure tools for
       Databases.
-    category: databases
-  - name: hannesrudolph/sqlite-explorer-fastmcp-mcp-server
-    github_id: hannesrudolph/sqlite-explorer-fastmcp-mcp-server
-    description: >-
-      An MCP server that provides safe, read-only access to SQLite databases
-      through Model Context Protocol (MCP). This server is built with the
-      FastMCP framework, which enables LLMs to explore and query SQLite
-      databases with built-in safety features and query validation.
-    category: databases
-  - name: isaacwasserman/mcp-snowflake-server
-    github_id: isaacwasserman/mcp-snowflake-server
-    description: >-
-      Snowflake integration implementing read and (optional) write operations as
-      well as insight tracking
     category: databases
   - name: jparkerweb/mcp-sqlite
     github_id: jparkerweb/mcp-sqlite
@@ -1032,11 +920,6 @@ projects:
   - name: kiliczsh/mcp-mongo-server
     github_id: kiliczsh/mcp-mongo-server
     description: A Model Context Protocol Server for MongoDB
-    category: databases
-  - name: ktanaka101/mcp-server-duckdb
-    github_id: ktanaka101/mcp-server-duckdb
-    description:
-      DuckDB database integration with schema inspection and query capabilities
     category: databases
   - name: LucasHild/mcp-server-bigquery
     github_id: LucasHild/mcp-server-bigquery
@@ -1112,13 +995,6 @@ projects:
       Supabase project and allows them to perform tasks like managing tables,
       fetching config, and querying data.
     category: databases
-  - name: TheRaLabs/legion-mcp
-    github_id: TheRaLabs/legion-mcp
-    description: >-
-      Universal database MCP server supporting multiple database types including
-      PostgreSQL, Redshift, CockroachDB, MySQL, RDS MySQL, Microsoft SQL Server,
-      BigQuery, Oracle DB, and SQLite.
-    category: databases
   - name: tuannvm/mcp-trino
     github_id: tuannvm/mcp-trino
     description:
@@ -1129,14 +1005,6 @@ projects:
     description: >-
       An MCP Server to connect to your Weaviate collections as a knowledge base
       as well as using Weaviate as a chat memory store.
-    category: databases
-  - name: wenb1n-dev/mysql_mcp_server_pro
-    github_id: wenb1n-dev/mysql_mcp_server_pro
-    description: >-
-      Supports SSE, STDIO; not only limited to MySQL's CRUD functionality; also
-      includes database exception analysis capabilities; controls database
-      permissions based on roles; and makes it easy for developers to extend
-      tools with customization
     category: databases
   - name: wenb1n-dev/SmartDB_MCP
     github_id: wenb1n-dev/SmartDB_MCP
@@ -1178,10 +1046,6 @@ projects:
     github_id: neondatabase/mcp-server-neon
     description: >-
       MCP server for interacting with Neon Management API and databases.
-    category: databases
-  - name: planetscale/cli
-    github_id: planetscale/cli
-    description: The CLI for PlanetScale Database.
     category: databases
   - name: dbt-labs/dbt-mcp
     github_id: dbt-labs/dbt-mcp
@@ -1252,21 +1116,9 @@ projects:
       follows current best practices for React, Next.js, Laravel, FastAPI,
       Tailwind CSS, and more.
     category: developer-tools
-  - name: automation-ai-labs/mcp-link
-    github_id: automation-ai-labs/mcp-link
-    description:
-      Seamlessly Integrate Any API with AI Agents (with OpenAPI Schema)
-    category: developer-tools
   - name: CircleCI-Public/mcp-server-circleci
     github_id: CircleCI-Public/mcp-server-circleci
     description: Enable AI Agents to fix build failures from CircleCI.
-    category: developer-tools
-  - name: cjo4m06/mcp-shrimp-task-manager
-    github_id: cjo4m06/mcp-shrimp-task-manager
-    description: >-
-      A programming-focused task management system that boosts coding agents
-      like Cursor AI with advanced task memory, self-reflection, and dependency
-      management. ShrimpTaskManager
     category: developer-tools
   - name: ckanthony/gin-mcp
     github_id: ckanthony/gin-mcp
@@ -1284,10 +1136,6 @@ projects:
     description: >-
       Use natural language to explore LLM observability, traces, and monitoring
       data captured by Opik.
-    category: developer-tools
-  - name: delano/postman-mcp-server
-    github_id: delano/postman-mcp-server
-    description: Interact with Postman API
     category: developer-tools
   - name: docker/hub-mcp
     github_id: docker/hub-mcp
@@ -1308,13 +1156,6 @@ projects:
       Visual DOM element selector for agentic coding tools. Chrome extension +
       MCP server bridge for Claude Code, Cursor, Windsurf etc. Option+Click to
       capture elements.
-    category: developer-tools
-  - name: gitkraken/gk-cli
-    github_id: gitkraken/gk-cli
-    description: >-
-      A CLI for interacting with GitKraken APIs. Includes an MCP server via gk
-      mcp that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and
-      more. Works with local tools and remote services.
     category: developer-tools
   - name: GLips/Figma-Context-MCP
     github_id: GLips/Figma-Context-MCP
@@ -1375,13 +1216,6 @@ projects:
       information about them, controlling UI interactions, and inspecting UI
       elements.
     category: developer-tools
-  - name: isaacphi/mcp-language-server
-    github_id: isaacphi/mcp-language-server
-    description: >-
-      MCP Language Server helps MCP enabled clients navigate codebases more
-      easily by giving them access to semantic tools like get definition,
-      references, rename, and diagnostics.
-    category: developer-tools
   - name: janreges/ai-distiller
     github_id: janreges/ai-distiller
     description: >-
@@ -1394,16 +1228,6 @@ projects:
     description: >-
       An MCP Server and VS Code Extension which enables (language agnostic)
       automatic debugging via breakpoints and expression evaluation.
-    category: developer-tools
-  - name: JetBrains/mcp-jetbrains
-    github_id: JetBrains/mcp-jetbrains
-    description: Connect to JetBrains IDE
-    category: developer-tools
-  - name: JoshuaRileyDev/app-store-connect-mcp-server
-    github_id: JoshuaRileyDev/app-store-connect-mcp-server
-    description:
-      An MCP server to communicate with the App Store Connect API for iOS
-      Developers
     category: developer-tools
   - name: Jpisnice/shadcn-ui-mcp-server
     github_id: Jpisnice/shadcn-ui-mcp-server
@@ -1422,12 +1246,6 @@ projects:
       A middleware server that enables multiple isolated instances of the same
       MCP servers to coexist independently with unique namespaces and
       configurations.
-    category: developer-tools
-  - name: langfuse/mcp-server-langfuse
-    github_id: langfuse/mcp-server-langfuse
-    description: >-
-      MCP server to access and manage LLM application prompts created with
-      Langfuse) Prompt Management.
     category: developer-tools
   - name: robotmcp/ros-mcp-server
     github_id: robotmcp/ros-mcp-server
@@ -1488,25 +1306,12 @@ projects:
       Xcode integration for project management, file operations, and build
       automation
     category: developer-tools
-  - name: sammcj/mcp-package-version
-    github_id: sammcj/mcp-package-version
-    description: >-
-      An MCP Server to help LLMs suggest the latest stable package versions when
-      writing code.
-    category: developer-tools
   - name: sapientpants/sonarqube-mcp-server
     github_id: sapientpants/sonarqube-mcp-server
     description: >-
       A Model Context Protocol (MCP) server that integrates with SonarQube to
       provide AI assistants with access to code quality metrics, issues, and
       quality gate statuses
-    category: developer-tools
-  - name: SDGLBL/mcp-claude-code
-    github_id: SDGLBL/mcp-claude-code
-    description: >-
-      An implementation of Claude Code capabilities using MCP, enabling AI code
-      understanding, modification, and project analysis with comprehensive tool
-      support.
     category: developer-tools
   - name: janwilmake/openapi-mcp-server
     github_id: janwilmake/openapi-mcp-server
@@ -1562,10 +1367,6 @@ projects:
     description:
       MCP server for ROS2 enabling AI-driven robotics applications and services.
     category: developer-tools
-  - name: ShenghaiWang/xcodebuild
-    github_id: ShenghaiWang/xcodebuild
-    description: Build iOS Xcode workspace/project and feed back errors to llm.
-    category: developer-tools
   - name: xzq-xu/jvm-mcp-server
     github_id: xzq-xu/jvm-mcp-server
     description:
@@ -1576,19 +1377,6 @@ projects:
     github_id: yangkyeongmo/mcp-server-apache-airflow
     description:
       MCP server that connects to Apache Airflow using official client.
-    category: developer-tools
-  - name: YuChenSSR/mindmap-mcp-server
-    github_id: YuChenSSR/mindmap-mcp-server
-    description: >-
-      A Model Context Protocol (MCP) server for generating a beautiful
-      interactive mindmap.
-    category: developer-tools
-  - name: YuChenSSR/multi-ai-advisor-mcp
-    github_id: YuChenSSR/multi-ai-advisor-mcp
-    description: >-
-      A Model Context Protocol (MCP) server that queries multiple Ollama models
-      and combines their responses, providing diverse AI perspectives on a
-      single question.
     category: developer-tools
   - name: zcaceres/fetch-mcp
     github_id: zcaceres/fetch-mcp
@@ -1616,12 +1404,6 @@ projects:
       (rename, safe delete, find references, call hierarchy, type hierarchy,
       diagnostics and more).
     category: developer-tools
-  - name: mihaelamj/cupertino
-    github_id: mihaelamj/cupertino
-    description: >-
-      Apple Documentation MCP Server. Search Apple developer docs, Swift
-      Evolution proposals, and 600+ sample code projects with full-text search.
-    category: developer-tools
   - name: OpenZeppelin/contracts-wizard
     github_id: OpenZeppelin/contracts-wizard
     description: >-
@@ -1634,11 +1416,6 @@ projects:
       persistent knowledge graph — average repo in milliseconds. 66 languages,
       sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     category: developer-tools
-  - name: ChronulusAI/chronulus-mcp
-    github_id: ChronulusAI/chronulus-mcp
-    description:
-      Predict anything with Chronulus AI forecasting and prediction agents.
-    category: data-science-tools
   - name: MigoXLab/dingo
     github_id: MigoXLab/dingo
     description: >-
@@ -1695,12 +1472,6 @@ projects:
     github_id: cyberchitta/llm-context.py
     description: Share code context with LLMs via MCP or clipboard
     category: file-systems
-  - name: isaacphi/mcp-gdrive
-    github_id: isaacphi/mcp-gdrive
-    description: >-
-      Model Context Protocol (MCP) Server for reading from Google Drive and
-      editing Google Sheets.
-    category: file-systems
   - name: mark3labs/mcp-filesystem-server
     github_id: mark3labs/mcp-filesystem-server
     description: Golang implementation for local file system access.
@@ -1736,30 +1507,12 @@ projects:
     github_id: ariadng/metatrader-mcp-server
     description: Enable AI LLMs to execute trades using MetaTrader 5 platform
     category: finance-and-fintech
-  - name: armorwallet/armor-crypto-mcp
-    github_id: armorwallet/armor-crypto-mcp
-    description: >-
-      MCP to interface with multiple blockchains, staking, DeFi, swap, bridging,
-      wallet management, DCA, Limit Orders, Coin Lookup, Tracking and more.
-    category: finance-and-fintech
   - name: base/base-mcp
     github_id: base/base-mcp
     description: >-
       Base Network integration for onchain tools, allowing interaction with Base
       Network and Coinbase API for wallet management, fund transfers, smart
       contracts, and DeFi operations
-    category: finance-and-fintech
-  - name: berlinbra/alpha-vantage-mcp
-    github_id: berlinbra/alpha-vantage-mcp
-    description:
-      Alpha Vantage API integration to fetch both stock and crypto information
-    category: finance-and-fintech
-  - name: doggybee/mcp-server-ccxt
-    github_id: doggybee/mcp-server-ccxt
-    description: >-
-      An MCP server for accessing real-time crypto market data and trading via
-      20+ exchanges using the CCXT library. Supports spot, futures, OHLCV,
-      balances, orders, and more.
     category: finance-and-fintech
   - name: ferdousbhai/investor-agent
     github_id: ferdousbhai/investor-agent
@@ -1937,20 +1690,6 @@ projects:
       application. Dynamic permissioning for safe AI operations, a
       robust validation architecture, versioning, and a public
       collection of shareable content.
-    labels:
-      - typescript
-      - local
-      - npm
-      - macos
-      - windows
-      - linux
-    category: knowledge-and-memory
-  - name: entanglr/zettelkasten-mcp
-    github_id: entanglr/zettelkasten-mcp
-    description: >-
-      A Model Context Protocol (MCP) server that implements the Zettelkasten
-      knowledge management methodology, allowing you to create, link, and search
-      atomic notes through Claude and other MCP-compatible clients.
     category: knowledge-and-memory
   - name: lostintangent/gistpad-mcp
     github_id: lostintangent/gistpad-mcp
@@ -1965,13 +1704,6 @@ projects:
       Ingest anything from Slack, Discord, websites, Google Drive, Linear or
       GitHub into a Graphlit project - and then search and retrieve relevant
       knowledge within an MCP client like Cursor, Windsurf or Cline.
-    category: knowledge-and-memory
-  - name: hannesrudolph/mcp-ragdocs
-    github_id: hannesrudolph/mcp-ragdocs
-    description: >-
-      An MCP server implementation that provides tools for retrieving and
-      processing documentation through vector search, enabling AI assistants to
-      augment their responses with relevant documentation context
     category: knowledge-and-memory
   - name: jinzcdev/markmap-mcp-server
     github_id: jinzcdev/markmap-mcp-server
@@ -2080,25 +1812,12 @@ projects:
       contacts, time zones, astronomy, currency data and user-agent
       parsing.
     category: location-services
-  - name: jagan-shanmugam/open-streetmap-mcp
-    github_id: jagan-shanmugam/open-streetmap-mcp
-    description:
-      An OpenStreetMap MCP server with location-based services and geospatial
-      data.
-    category: location-services
   - name: mahdin75/gis-mcp
     github_id: mahdin75/gis-mcp
     description: >-
       A Model Context Protocol (MCP) server implementation that connects Large
       Language Models (LLMs) to GIS operations using GIS libraries, enabling AI
       assistants to perform accurate geospatial operations and transformations.
-    category: location-services
-  - name: jjsantos01/qgis_mcp
-    github_id: jjsantos01/qgis_mcp
-    description: >-
-      connects QGIS Desktop to Claude AI through the MCP. This integration
-      enables prompt-assisted project creation, layer loading, code execution,
-      and more.
     category: location-services
   - name: gomarble-ai/facebook-ads-mcp-server
     github_id: gomarble-ai/facebook-ads-mcp-server
@@ -2111,12 +1830,6 @@ projects:
     description: >-
       MCP server acting as an interface to the Google Ads, enabling programmatic
       access to Google Ads data and management features.
-    category: marketing
-  - name: open-strategy-partners/osp_marketing_tools
-    github_id: open-strategy-partners/osp_marketing_tools
-    description: >-
-      A suite of marketing tools from Open Strategy Partners including writing
-      style, editing codes, and product marketing value map creation.
     category: marketing
   - name: pipeboard-co/meta-ads-mcp
     github_id: pipeboard-co/meta-ads-mcp
@@ -2147,13 +1860,6 @@ projects:
       Search dashboards, investigate incidents and query datasources in your
       Grafana instance
     category: monitoring
-  - name: hyperb1iss/lucidity-mcp
-    github_id: hyperb1iss/lucidity-mcp
-    description: >-
-      Enhance AI-generated code quality through intelligent, prompt-based
-      analysis across 10 critical dimensions from complexity to security
-      vulnerabilities
-    category: monitoring
   - name: getsentry/sentry-mcp
     github_id: getsentry/sentry-mcp
     description:
@@ -2175,14 +1881,6 @@ projects:
     description: >-
       Uptime and synthetic monitoring with a built-in MCP server to create, run
       and diagnose checks, read results and incidents, and manage status pages
-    category: monitoring
-  - name: seekrays/mcp-monitor
-    github_id: seekrays/mcp-monitor
-    description: >-
-      A system monitoring tool that exposes system metrics via the Model Context
-      Protocol (MCP). This tool allows LLMs to retrieve real-time system
-      information through an MCP-compatible interface.（support
-      CPU、Memory、Disk、Network、Host、Process）
     category: monitoring
   - name: VictoriaMetrics/mcp-victoriametrics
     github_id: VictoriaMetrics/mcp-victoriametrics
@@ -2250,21 +1948,11 @@ projects:
       (Streamable HTTP, OAuth) for conflict, markets, energy, trade, shipping
       and cyber data.
     category: search-data-extraction
-  - name: ConechoAI/openai-websearch-mcp
-    github_id: ConechoAI/openai-websearch-mcp
-    description:
-      This is a Python-based MCP server that provides OpenAI web_search build-in
-      tool.
-    category: search-data-extraction
   - name: deadletterq/mcp-opennutrition
     github_id: deadletterq/mcp-opennutrition
     description: >-
       Local MCP server for searching 300,000+ foods, nutrition facts, and
       barcodes from the OpenNutrition database.
-    category: search-data-extraction
-  - name: erithwik/mcp-hn
-    github_id: erithwik/mcp-hn
-    description: An MCP server to search Hacker News, get top stories, and more.
     category: search-data-extraction
   - name: exa-labs/exa-mcp-server
     github_id: exa-labs/exa-mcp-server
@@ -2292,12 +1980,6 @@ projects:
       browser, supporting Javascript rendering and intelligent content
       extraction, and outputting Markdown or HTML format.
     category: search-data-extraction
-  - name: jae-jae/g-search-mcp
-    github_id: jae-jae/g-search-mcp
-    description: >-
-      A powerful MCP server for Google search that enables parallel searching
-      with multiple keywords simultaneously.
-    category: search-data-extraction
   - name: just-every/mcp-read-website-fast
     github_id: just-every/mcp-read-website-fast
     description: >-
@@ -2317,10 +1999,6 @@ projects:
   - name: kagisearch/kagimcp
     github_id: kagisearch/kagimcp
     description: Official Kagi Search MCP Server
-    category: search-data-extraction
-  - name: leehanchung/bing-search-mcp
-    github_id: leehanchung/bing-search-mcp
-    description: Web search capabilities using Microsoft Bing Search API
     category: search-data-extraction
   - name: lfnovo/content-core
     github_id: lfnovo/content-core
@@ -2382,12 +2060,6 @@ projects:
     description: >-
       Vectorize MCP server for advanced retrieval, Private Deep Research,
       Anything-to-Markdown file extraction and text chunking.
-    category: search-data-extraction
-  - name: zhsama/duckduckgo-mcp-server
-    github_id: zhsama/duckduckgo-mcp-server
-    description: >-
-      This is a TypeScript-based MCP server that provides DuckDuckGo search
-      functionality.
     category: search-data-extraction
   - name: serpapi/serpapi-mcp
     github_id: serpapi/serpapi-mcp
@@ -2498,26 +2170,6 @@ projects:
       MCP server for Radare2 disassembler. Provides AI with capability to
       disassemble and look into binaries for reverse engineering.
     category: security
-  - name: roadwy/cve-search_mcp
-    github_id: roadwy/cve-search_mcp
-    description: >-
-      A Model Context Protocol (MCP) server for querying the CVE-Search API.
-      This server provides comprehensive access to CVE-Search, browse vendor and
-      product、get CVE per CVE-ID、get the last updated CVEs.
-    category: security
-  - name: securityfortech/secops-mcp
-    github_id: securityfortech/secops-mcp
-    description: >-
-      All-in-one security testing toolbox that brings together popular open
-      source tools through a single MCP interface. Connected to an AI agent, it
-      enables tasks like pentesting, bug bounty hunting, threat hunting, and
-      more.
-    category: security
-  - name: semgrep/mcp
-    github_id: semgrep/mcp
-    description:
-      Allow AI agents to scan code for security vulnerabilites using Semgrep.
-    category: security
   - name: zinja-coder/apktool-mcp-server
     github_id: zinja-coder/apktool-mcp-server
     description: >-
@@ -2595,13 +2247,6 @@ projects:
       text-to-speech, and real-time voice conversations through local
       microphone, OpenAI-compatible APIs, and LiveKit integration
     category: text-to-speech
-  - name: mberg/kokoro-tts-mcp
-    github_id: mberg/kokoro-tts-mcp
-    description: >-
-      MCP Server that uses the open weight Kokoro TTS models to convert
-      text-to-speech. Can convert text to MP3 on a local driver or auto-upload
-      to an S3 bucket.
-    category: text-to-speech
   - name: cobanov/teslamate-mcp
     github_id: cobanov/teslamate-mcp
     description: >-
@@ -2631,10 +2276,6 @@ projects:
       Azure DevOps integration for repository management, work items, and
       pipelines.
     category: version-control
-  - name: MarkusPfundstein/mcp-gsuite
-    github_id: MarkusPfundstein/mcp-gsuite
-    description: Integration with gmail and Google Calendar.
-    category: workplace-and-productivity
   - name: takumi0706/google-calendar-mcp
     github_id: takumi0706/google-calendar-mcp
     description:
@@ -2654,13 +2295,6 @@ projects:
       Search, read, create, and update Bear Notes directly from Claude.
       Local-only with complete privacy.
     category: workplace-and-productivity
-  - name: AbdelStark/bitcoin-mcp
-    github_id: AbdelStark/bitcoin-mcp
-    description: >-
-      A Model Context Protocol (MCP) server that enables AI models to interact
-      with Bitcoin, allowing them to generate keys, validate addresses, decode
-      transactions, query the blockchain, and more.
-    category: other-tools-and-integrations
   - name: apify/apify-mcp-server
     github_id: apify/apify-mcp-server
     description: >-
@@ -2684,26 +2318,11 @@ projects:
       Official Microsoft MCP server for Azure services including Storage, Cosmos
       DB, and Azure Monitor.
     category: other-tools-and-integrations
-  - name: blurrah/mcp-graphql
-    github_id: blurrah/mcp-graphql
-    description: Allows the AI to query GraphQL servers
-    category: other-tools-and-integrations
   - name: caol64/wenyan-mcp
     github_id: caol64/wenyan-mcp
     description: >-
       Wenyan MCP Server, which lets AI automatically format Markdown articles
       and publish them to WeChat GZH.
-    category: other-tools-and-integrations
-  - name: IBM/mcp-cli
-    github_id: IBM/mcp-cli
-    description: Yet another CLI tool for testing MCP servers
-    category: other-tools-and-integrations
-  - name: evalstate/mcp-hfspace
-    github_id: evalstate/mcp-hfspace
-    description: >-
-      Use HuggingFace Spaces directly from Claude. Use Open Source Image
-      Generation, Chat, Vision tasks and more. Supports Image, Audio and text
-      uploads/downloads.
     category: other-tools-and-integrations
   - name: githejie/mcp-server-calculator
     github_id: githejie/mcp-server-calculator
@@ -2711,21 +2330,9 @@ projects:
       This server enables LLMs to use calculator for precise numerical
       calculations
     category: other-tools-and-integrations
-  - name: hiromitsusasaki/raindrop-io-mcp-server
-    github_id: hiromitsusasaki/raindrop-io-mcp-server
-    description: >-
-      An integration that allows LLMs to interact with Raindrop.io bookmarks
-      using the Model Context Protocol (MCP).
-    category: other-tools-and-integrations
   - name: integromat/make-mcp-server
     github_id: integromat/make-mcp-server
     description: Turn your Make scenarios into callable tools for AI assistants.
-    category: other-tools-and-integrations
-  - name: isaacwasserman/mcp-vegalite-server
-    github_id: isaacwasserman/mcp-vegalite-server
-    description: >-
-      Generate visualizations from fetched data using the VegaLite format and
-      renderer.
     category: other-tools-and-integrations
   - name: ivnvxd/mcp-server-odoo
     github_id: ivnvxd/mcp-server-odoo
@@ -2782,12 +2389,6 @@ projects:
       An MCP server that prevents cascading errors and scope creep by calling a
       "Vibe-check" agent to ensure user alignment.
     category: other-tools-and-integrations
-  - name: pyroprompts/any-chat-completions-mcp
-    github_id: pyroprompts/any-chat-completions-mcp
-    description: >-
-      Chat with any other OpenAI SDK Compatible Chat Completions API, like
-      Perplexity, Groq, xAI and more
-    category: other-tools-and-integrations
   - name: Rai220/think-mcp
     github_id: Rai220/think-mcp
     description: >-
@@ -2800,10 +2401,6 @@ projects:
       This Model Context Protocol server implementation of Asana allows you to
       talk to Asana API from MCP Client such as Anthropic's Claude Desktop
       Application, and many more.
-    category: other-tools-and-integrations
-  - name: SecretiveShell/MCP-wolfram-alpha
-    github_id: SecretiveShell/MCP-wolfram-alpha
-    description: An MCP server for querying wolfram alpha API.
     category: other-tools-and-integrations
   - name: Seym0n/tiktok-mcp
     github_id: Seym0n/tiktok-mcp
@@ -2828,12 +2425,6 @@ projects:
     description: >-
       The ThingsBoard MCP Server provides a natural language interface for LLMs
       and AI agents to interact with your ThingsBoard IoT platform.
-    category: other-tools-and-integrations
-  - name: ttommyth/interactive-mcp
-    github_id: ttommyth/interactive-mcp
-    description: >-
-      Enables interactive LLM workflows by adding local user prompts and chat
-      capabilities directly into the MCP loop.
     category: other-tools-and-integrations
   - name: wanaku-ai/wanaku
     github_id: wanaku-ai/wanaku
