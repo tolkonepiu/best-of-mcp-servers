@@ -2764,8 +2764,8 @@ projects:
       (Stripe), system logs, and multi-tenant operations through natural
       language. Built with Go and React.
     category: developer-tools
-  - name: AbdiAreys/Distribewt
-    github_id: AbdiAreys/Distribewt
+  - name: AbdiAreys/distribewt-mcp
+    github_id: AbdiAreys/distribewt-mcp
     description: >-
       Hosted remote MCP server for creating, reviewing, approving and
       scheduling TikTok and Instagram slideshows for iOS apps from an App Store
