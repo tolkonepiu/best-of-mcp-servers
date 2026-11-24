@@ -1918,6 +1918,12 @@ projects:
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
     category: multimedia-process
+  - name: frankShan001/CutVoke
+    github_id: frankShan001/CutVoke
+    description: >-
+      Local-first open-source video editor with an MCP server, so AI agents
+      can cut, caption and render on a real timeline you keep editing.
+    category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
     description: >-
