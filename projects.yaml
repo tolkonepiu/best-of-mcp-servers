@@ -2491,3 +2491,13 @@ projects:
       where every event links to its cause. Log events, ask why an action
       happened, search memory, time-travel to past state and verify the chain.
     category: knowledge-and-memory
+  - name: remotify-mcp
+    github_id: onlsol/relay.remotify.run
+    npm_id: remotify-mcp
+    homepage: https://relay.remotify.run
+    description: >-
+      Local stdio MCP server for remote shell commands through an HTTP relay.
+      Supervised mode requires approval on the receiving computer; automatic
+      mode runs without per-command approval. The remote needs curl and bash,
+      with no SSH access or installed agent.
+    category: command-line
