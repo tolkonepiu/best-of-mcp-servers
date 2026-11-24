@@ -2764,3 +2764,10 @@ projects:
       (Stripe), system logs, and multi-tenant operations through natural
       language. Built with Go and React.
     category: developer-tools
+  - name: crawde/mcp-vadyu
+    github_id: crawde/mcp-vadyu
+    description: >-
+      Official Vadyu 2.0 MCP server to preview Shopify/DTC storefronts with zero
+      auth and render multi-cut 9:16, 4:5, 1:1, and 16:9 commercial AI video ads
+      with 3D studio lighting and voiceover.
+    category: other-tools-and-integrations
