@@ -2238,6 +2238,18 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: Xquik
+    github_id: Xquik-dev/x-twitter-scraper
+    npm_id: x-developer
+    description: >-
+      Xquik is the world's fastest and cheapest X (Twitter) data API with the
+      most complete X data. Its hosted MCP server at https://xquik.com/mcp
+      searches tweets and reads profiles, followers, replies and threads. It
+      also posts, likes, follows and sends direct messages through a connected
+      X account. Xquik charges only for delivered, unique, filter-matching
+      results and never pads rows. It needs an Xquik account with credits.
+      Xquik is not affiliated with X Corp.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
