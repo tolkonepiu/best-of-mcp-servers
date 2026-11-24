@@ -749,6 +749,15 @@ projects:
       email logs and sending stats from AI assistants.
     npm_id: mcp-mailtrap
     category: communication
+  - name: shipmail-to/shipmail-mcp
+    github_id: shipmail-to/shipmail-mcp
+    npm_id: shipmail-mcp
+    description: >-
+      Official MCP server for Shipmail, business email on your own domain. Read,
+      search, send and reply in mailboxes, and manage domains, mailboxes, inbox
+      rules, calendars, newsletters and webhooks. Runs locally or at a hosted
+      Streamable HTTP endpoint.
+    category: communication
   - name: Softeria/ms-365-mcp-server
     github_id: Softeria/ms-365-mcp-server
     description: >-
