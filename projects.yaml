@@ -462,6 +462,14 @@ projects:
       AI-assisted operations, real-time observability, and integrations with 20+
       CNCF projects across edge and cloud clusters.
     category: cloud-platforms
+  - name: reliant-labs/forge
+    github_id: reliant-labs/forge
+    npm_id: "@reliantlabs/forge"
+    description: >-
+      Deploys a Vite or Next.js static app to a live HTTPS URL with no account
+      and returns a claim link (unclaimed deploys stay live for 72 hours). The
+      same stdio server lints, generates and introspects forge projects.
+    category: cloud-platforms
   - name: nwiizo/tfmcp
     github_id: nwiizo/tfmcp
     description: >-
@@ -595,6 +603,13 @@ projects:
       An MCP server that indexes local code into a graph database to provide
       context to AI assistants with a graphical code visualizations for humans.
     category: coding-agents
+  - name: Continuum-AI-Corp/OrcaReplay
+    github_id: Continuum-AI-Corp/OrcaReplay
+    description: >-
+      Exposes recorded coding-agent runs so an agent can answer why an earlier
+      run did something, replay it offline, or fork it from a checkpoint onto a
+      different model.
+    category: coding-agents
   - name: ezyang/codemcp
     github_id: ezyang/codemcp
     description: Coding agent with basic read, write and command line tools.
@@ -718,6 +733,13 @@ projects:
       A swiss-army-knife that can manage/execute programs and
       read/write/search/edit code and text files.
     category: command-line
+  - name: answerLoops/answerLoops
+    github_id: answerLoops/answerLoops
+    description: >-
+      Open-source AI support agent for communities. Its MCP server lets agents
+      search a self-hosted support knowledge base, read FAQs and tickets, create
+      tickets, and generate answers grounded in your own docs.
+    category: communication
   - name: areweai/tsgram-mcp
     github_id: areweai/tsgram-mcp
     description: >-
@@ -779,6 +801,14 @@ projects:
   - name: line/line-bot-mcp-server
     github_id: line/line-bot-mcp-server
     description: MCP Server for Integrating LINE Official Account
+    category: communication
+  - name: mailtrap/mailtrap-mcp
+    github_id: mailtrap/mailtrap-mcp
+    description: >-
+      Official Mailtrap MCP server. Send transactional and bulk email, manage
+      templates, contacts, domains, webhooks and suppressions, and search
+      email logs and sending stats from AI assistants.
+    npm_id: mcp-mailtrap
     category: communication
   - name: Softeria/ms-365-mcp-server
     github_id: Softeria/ms-365-mcp-server
@@ -1207,6 +1237,12 @@ projects:
       Analyzes your codebase identifying important files based on dependency
       relationships. Generates diagrams and importance scores, helping AI
       assistants understand the codebase.
+    category: developer-tools
+  - name: allxsmith/bestax
+    github_id: allxsmith/bestax
+    description: >-
+      Props, examples, CSS variables and Agent Skills for Bestax, React
+      components for Bulma v1. Offline, no API key.
     category: developer-tools
   - name: augmnt/augments-mcp-server
     github_id: augmnt/augments-mcp-server
@@ -1949,6 +1985,13 @@ projects:
       TypeScript/Rust implementation with local-first storage using SQLite +
       SurrealDB for semantic analysis and incremental codebase understanding.
     category: knowledge-and-memory
+  - name: pinto-notes/pinto-notes
+    github_id: pinto-notes/pinto-notes
+    description: >-
+      Hosted MCP server for Pinto Notes, a free, open-source notes app for
+      Mac. ChatGPT, Claude, Claude Code and Codex can search, read and edit
+      your notes over OAuth, and every change keeps the previous version.
+    category: knowledge-and-memory
   - name: ragieai/ragie-mcp-server
     github_id: ragieai/ragie-mcp-server
     description: >-
@@ -2002,6 +2045,16 @@ projects:
       representation of each user and agent, with a hosted MCP server at
       mcp.honcho.dev and plugins for Claude Code, Codex, Cursor and OpenCode.
     category: knowledge-and-memory
+  - name: IPGeolocation/ipgeolocation-io-mcp
+    github_id: IPGeolocation/ipgeolocation-io-mcp
+    npm_id: ipgeolocation-io-mcp
+    description: >-
+      Official IPGeolocation.io MCP server with 17 tools for IP
+      geolocation, company information, ASN and network data, IP
+      security (VPN, proxy, Tor, bot, hosting and spam detection), abuse
+      contacts, time zones, astronomy, currency data and user-agent
+      parsing.
+    category: location-services
   - name: jagan-shanmugam/open-streetmap-mcp
     github_id: jagan-shanmugam/open-streetmap-mcp
     description:
@@ -2052,6 +2105,16 @@ projects:
     description: >-
       This server supports remote MCP connections, includes built-in Google
       OAuth, and provide an interface to the Google Tag Manager API.
+    category: marketing
+  - name: nowork-studio/notfair
+    github_id: nowork-studio/toprank
+    homepage: https://notfair.co
+    description: >-
+      NotFair Google Ads MCP server. Connects Claude and AI agents to a Google
+      Ads account: diagnose campaign performance (CPA, ROAS, search-term waste,
+      quality scores), recommend optimizations (bids, budgets, negatives, ad
+      copy), and execute approved changes via the Google Ads API with a
+      built-in human-approval gate.
     category: marketing
   - name: grafana/mcp-grafana
     github_id: grafana/mcp-grafana
@@ -2323,6 +2386,15 @@ projects:
       MCP. Its purpose is to detect prompt injection or malicious agent
       behavior. The underlying idea is to provide the agent with tools it would
       never use in its normal work.
+    category: security
+  - name: usezn/zn
+    github_id: usezn/zn
+    pypi_id: zn-gate
+    description: >-
+      Local security layer for Claude Code, Codex CLI, Cursor and OpenCode that
+      keeps secret values out of what the agent sends to its model, checks tool
+      output for prompt injection, and audits agent configs and MCP servers.
+      MIT, runs on your machine, no account.
     category: security
   - name: 13bm/GhidraMCP
     github_id: 13bm/GhidraMCP
@@ -2788,6 +2860,13 @@ projects:
       Measurement only, never certification.
       Official Registry: io.github.CSOAI-ORG/gspc.
     category: security
+  - name: DanceNitra/inspeximus
+    github_id: DanceNitra/inspeximus
+    pypi_id: inspeximus
+    category: knowledge-and-memory
+    description: >-
+      Agent memory that retires a corrected fact by key. Calling revert(key)
+      brings the old value back later, from the key alone.
   - name: ZIZKA-AI-SL/ZizkaDB
     github_id: ZIZKA-AI-SL/ZizkaDB
     pypi_id: zizkadb-mcp
