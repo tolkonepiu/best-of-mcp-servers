@@ -118,6 +118,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: salitronic/eda-agent
+    github_id: salitronic/eda-agent
+    description: >-
+      MCP server for Altium Designer. Works inside the live session with
+      around 600 tools for schematics, PCB layout and routing, libraries,
+      projects, design review and audits, changing the open design while the
+      engineer watches.
+    pypi_id: eda-agent
+    category: embedded-system
   - name: getremcp/remcp
     github_id: getremcp/remcp
     description: >-
