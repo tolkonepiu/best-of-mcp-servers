@@ -2279,6 +2279,15 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: pendpost
+    github_id: pendpost/pendpost
+    npm_id: pendpost
+    description: >-
+      Local-first social media planner for AI agents. The agent drafts and
+      schedules posts for Instagram, Facebook, LinkedIn, YouTube, X, Telegram,
+      Discord, Mastodon, Nostr, WordPress and Ghost, and nothing publishes
+      until a person approves it. Runs over stdio with npx.
+    category: social-media
   - name: Xquik
     github_id: Xquik-dev/x-twitter-scraper
     npm_id: x-developer
