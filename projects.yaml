@@ -3265,3 +3265,11 @@ projects:
       https://app.recallkitchen.com/mcp, no OAuth; free API key or
       pay-per-call x402.
     category: search-data-extraction
+  - name: ZhuLinsen/alphasift
+    github_id: ZhuLinsen/alphasift
+    homepage: https://alphasift.zhulinsen.tech/
+    description: >-
+      Read-only 14-tool stdio MCP server and CLI for multi-market quantitative
+      stock screening across CN, HK, US, JP, KR, TW, and ETFs, with
+      no-lookahead walk-forward / T+N pattern verification.
+    category: finance-and-fintech
