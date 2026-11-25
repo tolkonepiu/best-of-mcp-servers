@@ -431,6 +431,12 @@ projects:
     description:
       Integration with Cloudflare services including Workers, KV, R2, and D1
     category: cloud-platforms
+  - name: costory-io/costory-finops-mcp-skills
+    github_id: costory-io/costory-finops-mcp-skills
+    description: >-
+      FinOps agent MCP: allocated AWS, GCP, Azure, Kubernetes, SaaS & AI cost
+      for Claude or any agent
+    category: cloud-platforms
   - name: Flux159/mcp-server-kubernetes
     github_id: Flux159/mcp-server-kubernetes
     description: >-
