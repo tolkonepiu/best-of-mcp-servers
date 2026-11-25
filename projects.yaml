@@ -130,6 +130,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: Kleap
+    github_id: kleaphq/cli
+    npm_id: kleap-cli
+    description: >-
+      Hosted MCP server to create, edit, and publish websites from a
+      plain-language description, with a verified-live publish check, domain
+      connection, forms and analytics. Remote endpoint:
+      https://kleap.co/api/mcp (Streamable HTTP, OAuth 2.1).
+    category: developer-tools
   - name: salitronic/eda-agent
     github_id: salitronic/eda-agent
     description: >-
