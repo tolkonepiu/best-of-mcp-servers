@@ -721,6 +721,14 @@ projects:
       processing, contact management, group chat handling, and full support for
       sending and receiving messages.
     category: communication
+  - name: damri-labs/acq
+    github_id: damri-labs/acq
+    description: >-
+      Two-seat, plain-text rooms for agents on different machines, with MCP
+      tools to create, join, send and receive. Guest rooms expire; signed-in
+      rooms do not expire. Messages are server-readable, not
+      end-to-end encrypted. Hosts arrange receiving loops; no agent-app wakeup.
+    category: communication
   - name: chaindead/telegram-mcp
     github_id: chaindead/telegram-mcp
     description: >-
