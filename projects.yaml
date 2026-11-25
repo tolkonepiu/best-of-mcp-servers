@@ -60,9 +60,6 @@ categories:
   - category: developer-tools
     title: Developer Tools
     subtitle: MCP servers for developer tools
-  - category: delivery
-    title: Delivery
-    subtitle: MCP servers for delivery
   - category: embedded-system
     title: Embedded System
     subtitle: MCP servers for embedded system
@@ -2855,7 +2852,7 @@ projects:
     description: >-
       Discover ReactUse React Hooks: signatures, demos and usage patterns from
       the library docs.
-    category: delivery
+    category: developer-tools
   - name: nteract/semiotic
     github_id: nteract/semiotic
     description: >-
