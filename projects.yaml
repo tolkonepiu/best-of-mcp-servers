@@ -3156,3 +3156,10 @@ projects:
       BitTorrent, HLS): add, list, pause, resume and remove downloads and manage
       queues.
     category: other-tools-and-integrations
+  - name: Genvas
+    github_id: deeflect/genvas
+    description: >-
+      Desktop node canvas for AI images, video, voiceovers, music, and 3D
+      models driven by coding agents over local MCP using your own provider
+      API keys with dry-run pricing before running.
+    category: multimedia-process
