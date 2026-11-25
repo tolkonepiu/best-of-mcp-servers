@@ -3245,3 +3245,13 @@ projects:
       mode runs without per-command approval. The remote needs curl and bash,
       with no SSH access or installed agent.
     category: command-line
+  - name: wilsonbright/clema-mcp
+    github_id: wilsonbright/clema-mcp
+    homepage: https://clema.ai/docs/mcp
+    description: >-
+      Official hosted MCP server from Clema for higher-ed institutional
+      research teams: work the IR data request queue (list, read, create and
+      update tickets) and query the public IPEDS and College Scorecard
+      datasets with read-only SQL. Remote, Streamable HTTP, OAuth 2.1 sign-in
+      in the browser. Needs a paid Clema plan (free trial available).
+    category: data-platforms
