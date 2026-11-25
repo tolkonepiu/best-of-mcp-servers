@@ -130,6 +130,9 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: open-kanvas/kanvas
+    github_id: open-kanvas/kanvas
+    category: data-visualization
   - name: salitronic/eda-agent
     github_id: salitronic/eda-agent
     description: >-
