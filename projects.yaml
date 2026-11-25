@@ -4,7 +4,7 @@ configuration:
   min_description_length: 0
   max_description_length: 1000
   min_stars: 0
-  min_projectrank: 0
+  min_projectrank: 10
   generate_install_hints: false
   require_homepage: false
   require_license: false
@@ -18,6 +18,9 @@ categories:
   - category: art-and-culture
     title: Art & Culture
     subtitle: MCP servers for art and culture
+  - category: architecture-and-design
+    title: Architecture & Design
+    subtitle: MCP servers for architecture and design
   - category: browser-automation
     title: Browser Automation
     subtitle: MCP servers for browser automation and web interaction
@@ -51,9 +54,15 @@ categories:
   - category: data-science-tools
     title: Data Science Tools
     subtitle: MCP servers for data science tools
+  - category: data-visualization
+    title: Data Visualization
+    subtitle: MCP servers for data visualization
   - category: developer-tools
     title: Developer Tools
     subtitle: MCP servers for developer tools
+  - category: delivery
+    title: Delivery
+    subtitle: MCP servers for delivery
   - category: embedded-system
     title: Embedded System
     subtitle: MCP servers for embedded system
@@ -81,6 +90,9 @@ categories:
   - category: multimedia-process
     title: Multimedia Process
     subtitle: MCP servers for multimedia process
+  - category: os-automation
+    title: OS Automation
+    subtitle: MCP servers for OS automation
   - category: search-data-extraction
     title: Search & Data Extraction
     subtitle: MCP servers for search and data extraction
@@ -118,6 +130,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: salitronic/eda-agent
+    github_id: salitronic/eda-agent
+    description: >-
+      MCP server for Altium Designer. Works inside the live session with
+      around 600 tools for schematics, PCB layout and routing, libraries,
+      projects, design review and audits, changing the open design while the
+      engineer watches.
+    pypi_id: eda-agent
+    category: embedded-system
   - name: getremcp/remcp
     github_id: getremcp/remcp
     description: >-
@@ -196,8 +217,8 @@ projects:
       MetaMCP is the one unified middleware MCP server that manages your MCP
       connections with GUI.
     category: aggregators
-  - name: mindsdb/mindsdb
-    github_id: mindsdb/mindsdb
+  - name: mindsdb/mindshub
+    github_id: mindsdb/mindshub
     description: >-
       Connect and unify data across various platforms and databases with MindsDB
       as a single MCP server.
@@ -243,8 +264,8 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
-  - name: ahujasid/blender-mcp
-    github_id: ahujasid/blender-mcp
+  - name: ahujasid/mcp-for-blender
+    github_id: ahujasid/mcp-for-blender
     description: MCP server for working with Blender
     category: art-and-culture
   - name: cswkim/discogs-mcp-server
@@ -379,8 +400,8 @@ projects:
       mobile tests. Its MCP server lets coding agents author tests and enqueue
       runs, inspect evidence, and triage failures with persistent test memory.
     category: browser-automation
-  - name: alexei-led/aws-mcp-server
-    github_id: alexei-led/aws-mcp-server
+  - name: alexei-led/cloud-mcp-server
+    github_id: alexei-led/cloud-mcp-server
     description: >-
       A lightweight but powerful server that enables AI assistants to execute
       AWS CLI commands, use Unix pipes, and apply prompt templates for common
@@ -549,8 +570,8 @@ projects:
       conflicts, many experiments. Full execution history, terminal access to
       agent environments, git workflow. Any agent/model/infra stack.
     category: code-execution
-  - name: mavdol/capsule
-    github_id: mavdol/capsule
+  - name: capsulerun/runtime
+    github_id: capsulerun/runtime
     description: >-
       Run untrusted Python/JavaScript code in WebAssembly sandboxes.
     category: code-execution
@@ -905,8 +926,8 @@ projects:
     github_id: furey/mongodb-lens
     description: "MongoDB Lens: Full Featured MCP Server for MongoDB Databases"
     category: databases
-  - name: googleapis/genai-toolbox
-    github_id: googleapis/genai-toolbox
+  - name: googleapis/mcp-toolbox
+    github_id: googleapis/mcp-toolbox
     description: >-
       Open source MCP server specializing in easy, fast, and secure tools for
       Databases.
@@ -988,8 +1009,8 @@ projects:
       read your GraphQL schema, run the queries you allow, and manage
       permissions and migrations.
     category: databases
-  - name: supabase-community/supabase-mcp
-    github_id: supabase-community/supabase-mcp
+  - name: supabase/mcp
+    github_id: supabase/mcp
     description: >-
       Official Supabase MCP server to connect AI assistants directly with your
       Supabase project and allows them to perform tasks like managing tables,
@@ -1275,8 +1296,8 @@ projects:
       devices. The screen is a numbered text list, each reply holds only the
       lines that changed, and payment taps wait for approval.
     category: developer-tools
-  - name: bgauryy/octocode-mcp
-    github_id: bgauryy/octocode-mcp
+  - name: bgauryy/octocode
+    github_id: bgauryy/octocode
     description: >-
       AI-powered developer assistant that enables advanced research, analysis
       and discovery across GitHub and NPM realms in realtime.
@@ -1327,8 +1348,8 @@ projects:
     description:
       Help agents automatically write and test stories for your UI components.
     category: developer-tools
-  - name: TencentEdgeOne/edgeone-pages-mcp
-    github_id: TencentEdgeOne/edgeone-pages-mcp
+  - name: TencentEdgeOne/edgeone-makers-mcp
+    github_id: TencentEdgeOne/edgeone-makers-mcp
     description: >-
       An MCP service for deploying HTML content to EdgeOne Pages and obtaining a
       publicly accessible URL.
@@ -1507,8 +1528,8 @@ projects:
     github_id: ariadng/metatrader-mcp-server
     description: Enable AI LLMs to execute trades using MetaTrader 5 platform
     category: finance-and-fintech
-  - name: base/base-mcp
-    github_id: base/base-mcp
+  - name: base/base-mcp-legacy
+    github_id: base/base-mcp-legacy
     description: >-
       Base Network integration for onchain tools, allowing interaction with Base
       Network and Coinbase API for wallet management, fund transfers, smart
@@ -1658,8 +1679,8 @@ projects:
       Enhanced graph-based memory with a focus on AI role-play and story
       generation
     category: knowledge-and-memory
-  - name: chopratejas/headroom
-    github_id: chopratejas/headroom
+  - name: headroomlabs-ai/headroom
+    github_id: headroomlabs-ai/headroom
     description: >-
       Context compression layer for AI agents. Compresses tool outputs, logs,
       RAG chunks, files, and conversation history before they reach the LLM,
@@ -1844,8 +1865,8 @@ projects:
       This server supports remote MCP connections, includes built-in Google
       OAuth, and provide an interface to the Google Tag Manager API.
     category: marketing
-  - name: nowork-studio/notfair
-    github_id: nowork-studio/toprank
+  - name: nowork-studio/notfair-plugin
+    github_id: nowork-studio/notfair-plugin
     homepage: https://notfair.co
     description: >-
       NotFair Google Ads MCP server. Connects Claude and AI agents to a Google
@@ -1860,8 +1881,8 @@ projects:
       Search dashboards, investigate incidents and query datasources in your
       Grafana instance
     category: monitoring
-  - name: getsentry/sentry-mcp
-    github_id: getsentry/sentry-mcp
+  - name: getsentry/toolkit
+    github_id: getsentry/toolkit
     description:
       Sentry.io integration for error tracking and performance monitoring
     category: monitoring
@@ -1908,6 +1929,12 @@ projects:
       Using ffmpeg command line to achieve an mcp server, can be very
       convenient, through the dialogue to achieve the local video search,
       tailoring, stitching, playback and other functions
+    category: multimedia-process
+  - name: frankShan001/CutVoke
+    github_id: frankShan001/CutVoke
+    description: >-
+      Local-first open-source video editor with an MCP server, so AI agents
+      can cut, caption and render on a real timeline you keep editing.
     category: multimedia-process
   - name: Aas-ee/open-webSearch
     github_id: Aas-ee/open-webSearch
@@ -1961,8 +1988,8 @@ projects:
       the Exa AI Search API for web searches. This setup allows AI models to get
       real-time web information in a safe and controlled way.
     category: search-data-extraction
-  - name: fatwang2/search1api-mcp
-    github_id: fatwang2/search1api-mcp
+  - name: superagents-lab/search1api-mcp
+    github_id: superagents-lab/search1api-mcp
     description: Search via search1api (requires paid API key)
     category: search-data-extraction
   - name: hellokaton/unsplash-mcp-server
@@ -2027,8 +2054,8 @@ projects:
     github_id: nickclyde/duckduckgo-mcp-server
     description: Web search using DuckDuckGo
     category: search-data-extraction
-  - name: nkapila6/mcp-local-rag
-    github_id: nkapila6/mcp-local-rag
+  - name: nkapila6/mcpsurfr
+    github_id: nkapila6/mcpsurfr
     description: >-
       primitive" RAG-like web search model context protocol (MCP) server that
       runs locally. No APIs needed.
@@ -2101,22 +2128,22 @@ projects:
       memory exploration, and import/export analysis via the Model Context
       Protocol.
     category: security
-  - name: BurtTheCoder/mcp-maigret
-    github_id: BurtTheCoder/mcp-maigret
+  - name: w0h1v/mcp-maigret
+    github_id: w0h1v/mcp-maigret
     description: >-
       MCP server for maigret, a powerful OSINT tool that collects user account
       information from various public sources. This server provides tools for
       searching usernames across social networks and analyzing URLs.
     category: security
-  - name: BurtTheCoder/mcp-shodan
-    github_id: BurtTheCoder/mcp-shodan
+  - name: w0h1v/mcp-shodan
+    github_id: w0h1v/mcp-shodan
     description: >-
       MCP server for querying the Shodan API and Shodan CVEDB. This server
       provides tools for IP lookups, device searches, DNS lookups, vulnerability
       queries, CPE lookups, and more.
     category: security
-  - name: BurtTheCoder/mcp-virustotal
-    github_id: BurtTheCoder/mcp-virustotal
+  - name: w0h1v/mcp-virustotal
+    github_id: w0h1v/mcp-virustotal
     description: >-
       MCP server for querying the VirusTotal API. This server provides tools for
       scanning URLs, analyzing file hashes, and retrieving IP address reports.
@@ -2211,6 +2238,18 @@ projects:
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
     category: social-media
+  - name: Xquik
+    github_id: Xquik-dev/x-twitter-scraper
+    npm_id: x-developer
+    description: >-
+      Xquik is the world's fastest and cheapest X (Twitter) data API with the
+      most complete X data. Its hosted MCP server at https://xquik.com/mcp
+      searches tweets and reads profiles, followers, replies and threads. It
+      also posts, likes, follows and sends direct messages through a connected
+      X account. Xquik charges only for delivered, unique, filter-matching
+      results and never pads rows. It needs an Xquik account with credits.
+      Xquik is not affiliated with X Corp.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
@@ -2246,6 +2285,13 @@ projects:
       Complete voice interaction server supporting speech-to-text,
       text-to-speech, and real-time voice conversations through local
       microphone, OpenAI-compatible APIs, and LiveKit integration
+    category: text-to-speech
+  - name: hehehai/AudioSmith
+    github_id: hehehai/AudioSmith
+    description: >-
+      Local voice studio for macOS on Apple silicon with an MCP server (HTTP
+      and stdio): text to speech, voice cloning and design, audiobooks,
+      dubbing and transcription with speakers, run on the Mac's GPU with MLX.
     category: text-to-speech
   - name: cobanov/teslamate-mcp
     github_id: cobanov/teslamate-mcp
@@ -2461,8 +2507,8 @@ projects:
       MCP server for AI agents to manage products, orders, stock, sellers and
       reports.
     category: other-tools-and-integrations
-  - name: jonradoff/lastsaas
-    github_id: jonradoff/lastsaas
+  - name: metavert-io/lastsaas
+    github_id: metavert-io/lastsaas
     description: >-
       MCP server for SaaS administration. Manage users, subscriptions, billing
       (Stripe), system logs, and multi-tenant operations through natural
@@ -2491,6 +2537,632 @@ projects:
       where every event links to its cause. Log events, ask why an action
       happened, search memory, time-travel to past state and verify the chain.
     category: knowledge-and-memory
+  - name: HelpCode-ai/anythingmcp
+    github_id: HelpCode-ai/anythingmcp
+    description: >-
+      Self-hosted MCP gateway turning REST, SOAP and GraphQL APIs and SQL/NoSQL
+      databases into MCP tools without code, with spec import, pre-built
+      adapters and RBAC.
+    category: aggregators
+  - name: MikeyPetrillo/Agent402
+    github_id: MikeyPetrillo/Agent402
+    description: >-
+      Pay-per-call x402 tools and skill packs (headless browser, web search,
+      OCR, wallet-keyed memory), plus a router that finds the cheapest healthy
+      tool.
+    category: aggregators
+  - name: MikkoParkkola/mcp-gateway
+    github_id: MikkoParkkola/mcp-gateway
+    description: >-
+      MCP gateway with single-port multiplexing and meta-tools that replace
+      individual tool registrations, plus hot-reloadable capabilities and
+      OpenAPI import.
+    category: aggregators
+  - name: robhunter/agentdeals
+    github_id: robhunter/agentdeals
+    description: >-
+      Search developer infrastructure deals, free tiers and startup programs,
+      compare vendors, plan stacks and track pricing changes.
+    category: aggregators
+  - name: smart-mcp-proxy/mcpproxy-go
+    github_id: smart-mcp-proxy/mcpproxy-go
+    description: >-
+      Local MCP proxy that routes multiple servers through one endpoint, with
+      BM25 tool filtering, quarantine security, activity logging and a web UI.
+    category: aggregators
+  - name: btsouth/toolport
+    github_id: btsouth/toolport
+    description: >-
+      Desktop app and local gateway that shares your MCP servers with Claude
+      Code, Codex, Cursor, VS Code and 40+ other clients: set up each server
+      once, keep secrets in the OS keychain, and get flagged when a tool
+      definition changes.
+    category: aggregators
+  - name: DeanChensj/jiangshan-map
+    github_id: DeanChensj/jiangshan-map
+    description: >-
+      Interactive historical atlas of China that resolves ancient and modern
+      places, classical poetry sites, dynastic boundaries, city administrative
+      genealogies, and historical figure trajectories.
+    category: art-and-culture
+  - name: awdr74100/figwright
+    github_id: awdr74100/figwright
+    description: >-
+      Bidirectional Figma bridge: turn selections into framework-aware code
+      reusing your components and tokens, or create frames, text, styles,
+      variables and screens.
+    category: architecture-and-design
+  - name: DayuanJiang/next-ai-draw-io
+    github_id: DayuanJiang/next-ai-draw-io
+    description: >-
+      Draw and edit draw.io diagrams from your project's files on a live browser
+      canvas you can also edit by hand, with version history, undo, AWS, Azure
+      and GCP shape libraries and PNG or SVG export.
+    category: architecture-and-design
+  - name: Kentucky-ai/opentakeoff
+    github_id: Kentucky-ai/opentakeoff
+    description: >-
+      Construction plan takeoff: load plan PDFs, read title blocks, set drawing
+      scale, trace rooms and export quantities like square footage and linear
+      feet.
+    category: architecture-and-design
+  - name: patrickchugh/terravision
+    github_id: patrickchugh/terravision
+    description: >-
+      Draw cloud architecture diagrams with the official AWS, Azure and GCP
+      icons from a plain description, a JSON graph or Terraform code, with VPC,
+      subnet and zone grouping. PNG, SVG and editable draw.io output.
+    category: architecture-and-design
+  - name: alex-on-ai/WebReaper
+    github_id: alex-on-ai/WebReaper
+    description: >-
+      Web scraper that returns clean Markdown, distributed as a single binary.
+    category: browser-automation
+  - name: lightpanda-io/browser
+    github_id: lightpanda-io/browser
+    description: >-
+      Headless browser for AI and web automation with a built-in MCP server.
+    category: browser-automation
+  - name: LvcidPsyche/auto-browser
+    github_id: LvcidPsyche/auto-browser
+    description: >-
+      Browser agent with human takeover via noVNC, reusable auth profiles,
+      approval and audit controls, and isolated Docker sessions.
+    category: browser-automation
+  - name: seleniumbase/SeleniumBase
+    github_id: seleniumbase/SeleniumBase
+    description: >-
+      Browser automation, testing and bot-detection bypass using SeleniumBase
+      CDP Mode with Chromium, including click-based CAPTCHA solving.
+    category: browser-automation
+  - name: sipyourdrink-ltd/bernstein
+    github_id: sipyourdrink-ltd/bernstein
+    description: >-
+      Deterministic orchestrator for CLI coding agents such as Claude Code,
+      Codex and Aider, with per-agent git worktrees, an audit trail and
+      cost-aware routing.
+    category: coding-agents
+  - name: Get-Concord-AI/concord-mcp
+    github_id: Get-Concord-AI/concord-mcp
+    description: >-
+      Communication and shared work state across coding agent harnesses: live
+      messages, scope claims before editing, preserved decisions and evidence
+      handoffs.
+    category: coding-agents
+  - name: Q00/ouroboros
+    github_id: Q00/ouroboros
+    description: >-
+      Local agent OS for spec-first AI coding: a replayable, ledger-recorded
+      interview, seed, execute, evaluate and evolve loop that MCP clients can
+      drive.
+    category: coding-agents
+  - name: lacs-project/sysknife
+    github_id: lacs-project/sysknife
+    description: >-
+      Linux system administration via typed actions instead of shell strings,
+      with a signed audit log, one-time approval receipts and automatic
+      rollback.
+    category: command-line
+  - name: convex/convex-backend
+    github_id: convex/convex-backend
+    description: >-
+      Convex database integration to introspect tables and functions and run
+      one-off queries.
+    category: databases
+  - name: planetscale/cli
+    github_id: planetscale/cli
+    description: >-
+      Built into the PlanetScale CLI: direct access to your PlanetScale
+      databases.
+    category: databases
+  - name: aoci-spec/aoci-code
+    github_id: aoci-spec/aoci-code
+    description: >-
+      Local-first MCP server and CLI that keeps a persistent, Git-versioned
+      index of the whole codebase and database schema, written by the coding
+      agent and flagged when the code drifts, so Claude Code, Codex, Cursor and
+      opencode start each task with the full system in view.
+    category: developer-tools
+  - name: embedded-society/altium-designer-mcp
+    github_id: embedded-society/altium-designer-mcp
+    description: >-
+      Build and maintain Altium Designer component libraries: read and write
+      .PcbLib footprints and .SchLib symbols, with IPC-7351B footprints and STEP
+      models.
+    category: developer-tools
+  - name: kucherenko/jscpd
+    github_id: kucherenko/jscpd
+    description: >-
+      Duplicate code detection with jscpd: check snippets and files for
+      copy/paste duplication against a scanned project before committing.
+    category: developer-tools
+  - name: Avazbek22/DevProjex
+    github_id: Avazbek22/DevProjex
+    description: >-
+      Build token-efficient codebase context locally, with live preview, Git
+      scopes, secret redaction and syntax-aware compression.
+    category: developer-tools
+  - name: callstack/agent-device
+    github_id: callstack/agent-device
+    description: >-
+      Discovery router for the agent-device CLI: status, install guidance,
+      version-matched help and prompts for iOS, Android, tvOS, macOS and Linux
+      automation.
+    category: developer-tools
+  - name: cq27-dev/rag-rat
+    github_id: cq27-dev/rag-rat
+    description: >-
+      Local repo intelligence: hybrid BM25/vector search, a tree-sitter code
+      graph, queryable git and GitHub history, and persistent source-anchored
+      memories.
+    category: developer-tools
+  - name: repowise-dev/repowise
+    github_id: repowise-dev/repowise
+    description: >-
+      Codebase intelligence: indexes a repo into a dependency graph, git
+      history, defect-risk code health, generated docs and architectural
+      decisions. Runs locally.
+    category: developer-tools
+  - name: BetterDB-inc/monitor
+    github_id: BetterDB-inc/monitor
+    description: >-
+      Valkey and Redis observability: query real-time metrics, analyze slow
+      commands, detect hot keys and investigate performance issues.
+    category: developer-tools
+  - name: Muvon/octocode
+    github_id: Muvon/octocode
+    description: >-
+      Semantic code indexer with a GraphRAG knowledge graph: index a codebase
+      and search it in natural language to understand its architecture.
+    category: developer-tools
+  - name: buildkite/buildkite-mcp-server
+    github_id: buildkite/buildkite-mcp-server
+    description: >-
+      Buildkite: create pipelines, diagnose and fix failures, trigger builds,
+      monitor job queues and more.
+    category: developer-tools
+  - name: patchloom/patchloom
+    github_id: patchloom/patchloom
+    description: >-
+      Structured file edits for agents: JSON, YAML and TOML by selector,
+      Markdown and AST edits, dry runs and multi-file transactional batches.
+    category: developer-tools
+  - name: EdelmarSchneider/permark
+    github_id: EdelmarSchneider/permark
+    description: >-
+      Markdown reader and editor that tells coding agents what you are reading:
+      the open document, section and selection, unread changes, your comments to
+      resolve, and section search across the project. Read-only, local and off
+      until enabled per project.
+    category: developer-tools
+  - name: ooples/token-optimizer-mcp
+    github_id: ooples/token-optimizer-mcp
+    description: >-
+      Token optimization through caching and compression, with tools for API
+      optimization, code analysis and real-time monitoring.
+    category: developer-tools
+  - name: PostHog/posthog
+    github_id: PostHog/posthog
+    description: >-
+      Interact with PostHog analytics, feature flags, error tracking and more.
+    category: developer-tools
+  - name: sbroenne/mcp-server-excel
+    github_id: sbroenne/mcp-server-excel
+    description: >-
+      Automate the Excel app on Windows: Power Query, DAX, VBA, PivotTables,
+      tables, charts, ranges and formatting.
+    category: developer-tools
+  - name: storybookjs/storybook
+    github_id: storybookjs/storybook
+    description: >-
+      Helps agents write and test Storybook stories for UI components.
+    category: developer-tools
+  - name: skyhook-io/radar
+    github_id: skyhook-io/radar
+    description: >-
+      Query Kubernetes cluster topology, resources, events, logs and Helm/GitOps
+      state across clusters via Radar, a Kubernetes visibility tool.
+    category: developer-tools
+  - name: childrentime/reactuse
+    github_id: childrentime/reactuse
+    description: >-
+      Discover ReactUse React Hooks: signatures, demos and usage patterns from
+      the library docs.
+    category: delivery
+  - name: nteract/semiotic
+    github_id: nteract/semiotic
+    description: >-
+      Semiotic React data visualization: suggest charts for a dataset, render
+      validated configs to SVG, diagnose anti-patterns and fetch component
+      schemas.
+    category: data-visualization
+  - name: codeofaxel/Kiln
+    github_id: codeofaxel/Kiln
+    description: >-
+      Run 3D printers end to end: design, slice, queue, monitor via camera and
+      recover from failures over OctoPrint, Moonraker/Klipper, PrusaLink or USB.
+    category: embedded-system
+  - name: daniel3303/Equibles
+    github_id: daniel3303/Equibles
+    description: >-
+      Self-hosted US-market data for AI agents, built from primary regulatory
+      sources: SEC filings with full-text and semantic search, XBRL
+      fundamentals, 13F institutional holdings, insider and congressional
+      trades, short interest, FRED macro, CFTC and CBOE positioning, and daily
+      prices. No account and no API key. AGPL-3.0.
+    category: finance-and-fintech
+  - name: ignaciohermosillacornejo/copilot-money-mcp
+    github_id: ignaciohermosillacornejo/copilot-money-mcp
+    description: >-
+      Read and manage Copilot Money data: transactions, budgets, accounts,
+      recurring charges, investments and goals, with local reads and opt-in
+      writes.
+    category: finance-and-fintech
+  - name: openaccountants/openaccountants
+    github_id: openaccountants/openaccountants
+    description: >-
+      Open-source accounting skills reviewed by licensed accountants, covering
+      income tax, VAT and payroll by country, US state and Canadian province.
+    category: finance-and-fintech
+  - name: google/three-live
+    github_id: google/three-live
+    description: >-
+      Compile, lint, simulate (60 Hz), and render headless 4-up 3D contact
+      sheets from Three.js to GLB, USDZ, Android (Filament / Jetpack XR),
+      iOS/visionOS (RealityKit), and WebXR.
+    category: gaming
+  - name: moorcheh-ai/memanto
+    github_id: moorcheh-ai/memanto
+    description: >-
+      Universal memory agent for AI: provides semantic search, namespace
+      management, text/vector operations and RAG for local or remote
+      environments.
+    category: knowledge-and-memory
+  - name: angelnicolasc/graymatter
+    github_id: angelnicolasc/graymatter
+    description: >-
+      Local persistent memory for AI agents with hybrid retrieval, checkpoints,
+      a knowledge graph, and Obsidian export. MCP server and Go library.
+    category: knowledge-and-memory
+  - name: juyterman1000/entroly
+    github_id: juyterman1000/entroly
+    description: >-
+      Context control layer for coding agents: compression, prompt-prefix
+      stabilization for caching, cheaper-model routing, local hallucination
+      checks and memory.
+    category: knowledge-and-memory
+  - name: basicmachines-co/basic-memory
+    github_id: basicmachines-co/basic-memory
+    description: >-
+      Local-first AI memory: a semantic knowledge graph of Markdown files that
+      humans and LLMs both read and write, with optional cloud sync and team
+      workspaces.
+    category: knowledge-and-memory
+  - name: cdeust/Cortex
+    github_id: cdeust/Cortex
+    description: >-
+      Neuroscience-inspired memory for Claude Code on PostgreSQL/pgvector:
+      decay, consolidation, a predictive-coding write gate and lifecycle hooks.
+    category: knowledge-and-memory
+  - name: vshulcz/deja-vu
+    github_id: vshulcz/deja-vu
+    description: >-
+      Local memory over session histories from Claude Code, Codex CLI and
+      opencode: lexical search, session-start auto-recall, secret redaction and
+      SSH sync.
+    category: knowledge-and-memory
+  - name: chenxiachan/thoughtdag
+    github_id: chenxiachan/thoughtdag
+    description: >-
+      Search local AI-agent conversation history by file or exact phrase and
+      recall original source turns through four read-only tools.
+    category: knowledge-and-memory
+  - name: contextstream/mcp-server
+    github_id: contextstream/mcp-server
+    description: >-
+      Persistent memory for AI coding tools with semantic code search, knowledge
+      graphs, impact analysis and decision tracking.
+    category: knowledge-and-memory
+  - name: doobidoo/mcp-memory-service
+    github_id: doobidoo/mcp-memory-service
+    description: >-
+      Memory service with semantic search, persistent storage and autonomous
+      memory consolidation.
+    category: knowledge-and-memory
+  - name: majiayu000/remem
+    github_id: majiayu000/remem
+    description: >-
+      Local-first memory for Claude Code and Codex: hooks capture sessions and
+      an LLM distills them into SQLite, with auditable full-text and embedding
+      recall.
+    category: knowledge-and-memory
+  - name: fabio-rovai/open-ontologies
+    github_id: fabio-rovai/open-ontologies
+    description: >-
+      Ontology engineering for OWL, RDF and SPARQL: validate, query, diff, lint,
+      version and govern knowledge graphs on an Oxigraph triple store.
+    category: knowledge-and-memory
+  - name: gamosoft/NoteDiscovery
+    github_id: gamosoft/NoteDiscovery
+    description: >-
+      Self-hosted Markdown knowledge base with a web UI: search, read, create,
+      edit, tag and template notes.
+    category: knowledge-and-memory
+  - name: huggingface/funes
+    github_id: huggingface/funes
+    description: >-
+      Read-only recall over your past Claude Code, Codex, pi and Hermes
+      sessions: semantic search for past decisions, rationale and findings, plus
+      tools to list sessions, get the gist of one, find exact strings in it and
+      read its turns. Works on your local memory or on any memory published as a
+      Hugging Face dataset.
+    category: knowledge-and-memory
+  - name: Ikalus1988/MisakaNet
+    github_id: Ikalus1988/MisakaNet
+    description: >-
+      Agent failure memory: search verified debugging lessons from real
+      engineering sessions.
+    category: knowledge-and-memory
+  - name: fathomise/MailFathom
+    github_id: fathomise/MailFathom
+    description: >-
+      Self-hosted email search: syncs IMAP mailboxes into PostgreSQL to list,
+      search and read mail and ask cited questions across the archive.
+    category: knowledge-and-memory
+  - name: markmhendrickson/neotoma
+    github_id: markmhendrickson/neotoma
+    description: >-
+      Deterministic state layer for agents: versioned entities like contacts,
+      tasks and decisions with immutable observations and provenance, in local
+      SQLite.
+    category: knowledge-and-memory
+  - name: yusufkaraaslan/Skill_Seekers
+    github_id: yusufkaraaslan/Skill_Seekers
+    description: >-
+      Turn docs, GitHub repos, PDFs, videos, Confluence, Notion and
+      Slack/Discord into AI skills and RAG knowledge, exportable to vector
+      databases like Qdrant.
+    category: knowledge-and-memory
+  - name: samvallad33/vestige
+    github_id: samvallad33/vestige
+    description: >-
+      Local-first cognitive agent memory with FSRS-6 scheduling, smart ingest,
+      SQLite storage, portable sync, an embedded dashboard and optional hooks.
+    category: knowledge-and-memory
+  - name: vectorize-io/hindsight
+    github_id: vectorize-io/hindsight
+    description: >-
+      Hindsight: long-term memory for AI agents modeled on human memory.
+    category: knowledge-and-memory
+  - name: wenlan-app/wenlan
+    github_id: wenlan-app/wenlan
+    description: >-
+      Local-first, source-backed AI knowledge base and LLM wiki. Distills agent
+      work into maintained, citation-gated wiki pages served over MCP to Claude
+      Code, Codex, Cursor and other clients. Apache 2.0. `npx -y wenlan setup`
+    category: knowledge-and-memory
+  - name: geolens-io/geolens
+    github_id: geolens-io/geolens
+    description: >-
+      Read-only access to a self-hosted GeoLens geospatial catalog: dataset
+      search, schemas, GeoJSON features, saved maps and sandboxed SQL over
+      PostGIS.
+    category: location-services
+  - name: last9/last9-mcp-server
+    github_id: last9/last9-mcp-server
+    description: >-
+      Bring real-time production logs, metrics and traces from Last9 into your
+      local environment to fix code.
+    category: monitoring
+  - name: Higangssh/homebutler
+    github_id: Higangssh/homebutler
+    description: >-
+      Homelab management across multiple servers via SSH: system resource
+      monitoring, Docker containers, Wake-on-LAN, network scans, open-port
+      checks and alerts.
+    category: monitoring
+  - name: getopenscreen/openscreen
+    github_id: getopenscreen/openscreen
+    description: >-
+      Free, open-source screen recorder and video editor that agents drive over
+      stdio (the desktop app's own executable started with `mcp`): record the
+      screen, trim, zoom, caption, annotate and export demo videos, and add
+      custom WGSL shader effects that export exactly as previewed.
+    category: multimedia-process
+  - name: guaardvark/guaardvark
+    github_id: guaardvark/guaardvark
+    description: >-
+      Self-hosted AI studio exposing local image, video and music-video
+      generation, upscaling, RAG and code intelligence, with renders queued on
+      your own GPU.
+    category: multimedia-process
+  - name: ffroliva/gflow-cli
+    github_id: ffroliva/gflow-cli
+    description: >-
+      Drive Google Flow with your Google account: Veo text-to-video,
+      image-to-video and clip extension, Imagen text-to-image, reusable
+      characters and scenes.
+    category: multimedia-process
+  - name: KyaniteLabs/kinocut
+    github_id: KyaniteLabs/kinocut
+    description: >-
+      Local, guardrailed video editing: FFmpeg edits, captions, audio, effects,
+      Hyperframes, repurposing, resumable workflows, quality gates and
+      provenance receipts.
+    category: multimedia-process
+  - name: mutonby/openshorts
+    github_id: mutonby/openshorts
+    description: >-
+      Turn long videos into vertical shorts: moment detection, face-tracked 9:16
+      reframing, captions, dubbing and publishing to TikTok, Instagram and
+      YouTube.
+    category: multimedia-process
+  - name: WeftCut/WeftCut
+    github_id: WeftCut/WeftCut
+    description: >-
+      Drive the WeftCut desktop video editor: trim and split clips, keyframes,
+      effects, captions, audio mixing, markers and export, with live edits and
+      dry runs.
+    category: multimedia-process
+  - name: wiltodelta/remove-ai-watermarks
+    github_id: wiltodelta/remove-ai-watermarks
+    description: >-
+      Identify and remove AI watermarks and provenance metadata (Gemini and Veo
+      marks, SynthID, C2PA, EXIF) in images and video you generated yourself,
+      plus provenance metadata in audio. Runs as `uvx remove-ai-watermarks mcp`.
+    category: multimedia-process
+  - name: Harusame64/desktop-touch-mcp
+    github_id: Harusame64/desktop-touch-mcp
+    description: >-
+      Windows desktop automation with entity-based actions instead of coordinate
+      clicks, using UIA, CDP, screenshots, keyboard, mouse, clipboard and
+      terminal control.
+    category: os-automation
+  - name: AmrDab/clawdcursor
+    github_id: AmrDab/clawdcursor
+    description: >-
+      Desktop control for any AI agent on Windows, macOS and Linux. Reads the
+      screen as text (accessibility tree, then OCR) and acts on controls by
+      name, with screenshots only as a last resort, so a task costs a fraction
+      of the tokens of a screenshot loop. 7 compound tools, one safety gate,
+      verifies its own actions, and pauses for the user at sign-ins. Local-only,
+      any tool-calling model.
+    category: os-automation
+  - name: KnockOutEZ/wigolo
+    github_id: KnockOutEZ/wigolo
+    description: >-
+      Local web search, fetching, crawling, extraction and research, with
+      multi-engine search, local ML reranking, a SQLite cache and JavaScript
+      rendering.
+    category: search-data-extraction
+  - name: konippi/servo-fetch
+    github_id: konippi/servo-fetch
+    description: >-
+      Chromium-free web content extraction in a single binary: fetch, render,
+      crawl and screenshot pages with the Servo browser engine.
+    category: search-data-extraction
+  - name: fastcrw/crw
+    github_id: fastcrw/crw
+    description: >-
+      Self-hostable web crawler and search API (fastCRW): scraping, crawling,
+      site mapping and SearXNG-backed search.
+    category: search-data-extraction
+  - name: draugr-dev/draugr
+    github_id: draugr-dev/draugr
+    description: >-
+      Run Trivy, Semgrep, Gitleaks and other scanners over the scope a committed
+      descriptor declares, with findings ranked P1–P4 by each component's
+      exposure and criticality. A scan that probes a live host or sends data to
+      a third party asks first.
+    category: security
+  - name: JeanExtreme002/PyMemoryEditor
+    github_id: JeanExtreme002/PyMemoryEditor
+    description: >-
+      Read, write and scan the memory of running processes, Cheat Engine style:
+      value scans that narrow down as the value changes, pointer chains, and
+      scan results kept server-side behind a handle.
+    category: security
+  - name: koda-ai-studio/agent-bom
+    github_id: koda-ai-studio/agent-bom
+    description: >-
+      AI supply chain security scanner: discovers MCP clients, scans
+      dependencies for CVEs, maps blast radius to credentials and tools, and
+      generates SBOMs.
+    category: security
+  - name: Rul1an/assay
+    github_id: Rul1an/assay
+    description: >-
+      Fail-closed policy-as-code proxy for MCP that denies risky tool calls,
+      produces offline-verifiable evidence bundles and enforces egress via eBPF
+      and Landlock.
+    category: security
+  - name: semgrep/semgrep
+    github_id: semgrep/semgrep
+    description: >-
+      Scan code for security vulnerabilities using Semgrep.
+    category: security
+  - name: vmoranv/jshookmcp
+    github_id: vmoranv/jshookmcp
+    description: >-
+      Search-first runtime reverse-engineering workspace for AI agents: 735
+      tools across 36 domains covering cross-domain correlation, V8/WASM
+      inspection, native memory scanning, Unicorn JNI emulation, and Frida
+      bridges with a 3K-token profile ladder.
+    category: security
+  - name: timescale/rsigma
+    github_id: timescale/rsigma
+    description: >-
+      Author, lint, validate and convert Sigma detection rules with RSigma,
+      evaluate and explain detections against log events, and inspect
+      correlation state.
+    category: security
+  - name: jmrplens/gitlab-mcp-server
+    github_id: jmrplens/gitlab-mcp-server
+    description: >-
+      GitLab REST API v4 coverage with meta-tools, resources and prompts, plus
+      read-only and safe modes.
+    category: version-control
+  - name: zereight/gitlab-mcp
+    github_id: zereight/gitlab-mcp
+    description: >-
+      GitLab REST/GraphQL API: projects, merge requests, issues, pipelines,
+      wikis, releases and more, for gitlab.com or self-hosted instances.
+    category: version-control
+  - name: CrossPaste/crosspaste-desktop
+    github_id: CrossPaste/crosspaste-desktop
+    description: >-
+      Cross-device clipboard manager: search synced clipboard history, read OCR
+      text from copied images and add new clipboard items.
+    category: workplace-and-productivity
+  - name: can4hou6joeng4/boss-agent-cli
+    github_id: can4hou6joeng4/boss-agent-cli
+    description: >-
+      BOSS Zhipin recruitment workflow: job search, benefits filtering,
+      recruiter messaging, pipeline tracking and resume optimization.
+    category: workplace-and-productivity
+  - name: ankimcp/anki-mcp-server
+    github_id: ankimcp/anki-mcp-server
+    description: >-
+      Anki integration for managing notes and decks through natural language.
+    category: other-tools-and-integrations
+  - name: microsoft/mcp
+    github_id: microsoft/mcp
+    description: >-
+      Access Azure services including Storage, Cosmos DB and Azure Monitor.
+    category: other-tools-and-integrations
+  - name: 0xMassi/webclaw
+    github_id: 0xMassi/webclaw
+    description: >-
+      Web scraping, crawling, extraction, summarization, diffing and research,
+      using TLS fingerprinting to bypass anti-bot checks without a browser.
+    category: other-tools-and-integrations
+  - name: zerx-lab/FluxDown
+    github_id: zerx-lab/FluxDown
+    description: >-
+      Control the FluxDown multi-protocol download manager (HTTP, FTP,
+      BitTorrent, HLS): add, list, pause, resume and remove downloads and manage
+      queues.
+    category: other-tools-and-integrations
 
   - name: Kling AI Global Plugin
     github_id: klingai-tech/claude-plugin

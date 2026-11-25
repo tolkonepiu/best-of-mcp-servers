@@ -1,0 +1,33 @@
+name: PR project check
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, edited, ready_for_review]
+
+permissions:
+  contents: read
+
+jobs:
+  repo-check:
+    name: GitHub repository check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Install dependencies
+        run: python3 -m pip install --requirement .github/scripts/requirements.txt
+      - name: Check added and modified repositories
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git fetch --no-tags origin "$BASE_SHA" "$HEAD_SHA"
+          merge_base=$(git merge-base "$BASE_SHA" "$HEAD_SHA")
+          snapshots=$(mktemp -d "$RUNNER_TEMP/pr-project-check.XXXXXX")
+          git show "$merge_base:projects.yaml" > "$snapshots/base.yaml"
+          git show "$HEAD_SHA:projects.yaml" > "$snapshots/head.yaml"
+          python3 .github/scripts/project_check.py "$snapshots/base.yaml" "$snapshots/head.yaml"
