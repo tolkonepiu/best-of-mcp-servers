@@ -3156,3 +3156,10 @@ projects:
       BitTorrent, HLS): add, list, pause, resume and remove downloads and manage
       queues.
     category: other-tools-and-integrations
+  - name: chort
+    github_id: deeflect/chort
+    description: >-
+      Local macOS design canvas where coding agents draw UI screens and
+      components in real HTML and CSS over MCP, run automated design checks,
+      resolve canvas comments, and export JSX/Tailwind.
+    category: architecture-and-design
