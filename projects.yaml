@@ -139,6 +139,15 @@ projects:
       an API key). A no-auth endpoint at
       https://www.robot-speed.com/api/mcp/free is rate-limited and read-only.
     category: search-data-extraction
+  - name: kburrus64-max/anansi-haven
+    github_id: kburrus64-max/anansi-haven
+    description: >-
+      Hosted MCP and A2A home base for AI agents: free no-key utilities (time,
+      units, calculator, text, JSON Schema validation, URL metadata), a
+      find_tools catalog of indexed MCP servers and APIs, plus optional agent
+      memory, a job board and Commons rooms. The hosted endpoint is
+      https://anansi-haven.anansidata.workers.dev/mcp.
+    category: other-tools-and-integrations
   - name: open-kanvas/kanvas
     github_id: open-kanvas/kanvas
     category: data-visualization
@@ -2287,6 +2296,15 @@ projects:
     description: >-
       Browse Reddit posts, search content, and analyze user activity without API
       keys. Works out-of-the-box with Claude Desktop.
+    category: social-media
+  - name: pendpost/pendpost
+    github_id: pendpost/pendpost
+    npm_id: pendpost
+    description: >-
+      Local-first social media planner for AI agents. The agent drafts and
+      schedules posts for Instagram, Facebook, LinkedIn, YouTube, X, Telegram,
+      Discord, Mastodon, Nostr, WordPress and Ghost, and nothing publishes
+      until a person approves it. Runs over stdio with npx.
     category: social-media
   - name: Xquik
     github_id: Xquik-dev/x-twitter-scraper
