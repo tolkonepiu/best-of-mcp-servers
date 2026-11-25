@@ -130,6 +130,15 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: Robot Speed
+    github_id: robot-speed/mcp
+    description: >-
+      Hosted MCP server for SEO audits, Core Web Vitals, keywords, AI
+      visibility, traffic, backlinks, and CMS publishing. The main endpoint
+      is https://www.robot-speed.com/api/mcp (Streamable HTTP, OAuth 2.1 or
+      an API key). A no-auth endpoint at
+      https://www.robot-speed.com/api/mcp/free is rate-limited and read-only.
+    category: search-data-extraction
   - name: salitronic/eda-agent
     github_id: salitronic/eda-agent
     description: >-
