@@ -3203,3 +3203,11 @@ projects:
       BitTorrent, HLS): add, list, pause, resume and remove downloads and manage
       queues.
     category: other-tools-and-integrations
+  - name: GetFootgun/footgun
+    github_id: GetFootgun/footgun
+    description: >-
+      Remote MCP server and Claude Code plugin that serves dated, verified
+      traps for APIs, platforms and AI coding tools (silent deprecations, quiet
+      limits, settings that do nothing), so the agent gets the cause and fix
+      before it writes the code. Read tools need no sign-in.
+    category: developer-tools
