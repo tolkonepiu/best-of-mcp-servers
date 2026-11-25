@@ -3156,3 +3156,11 @@ projects:
       BitTorrent, HLS): add, list, pause, resume and remove downloads and manage
       queues.
     category: other-tools-and-integrations
+  - name: shipready-mcp
+    github_id: Shipmate-agency/shipready-mcp
+    pypi_id: shipready-mcp
+    description: >-
+      Zero-dependency local MCP security scanner for Next.js, Supabase RLS,
+      and Stripe repositories in Cursor, Claude Code, and Windsurf without
+      code leaving your machine.
+    category: security
