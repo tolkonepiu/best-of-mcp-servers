@@ -130,6 +130,9 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: open-kanvas/kanvas
+    github_id: open-kanvas/kanvas
+    category: data-visualization
   - name: salitronic/eda-agent
     github_id: salitronic/eda-agent
     description: >-
@@ -431,6 +434,12 @@ projects:
     description:
       Integration with Cloudflare services including Workers, KV, R2, and D1
     category: cloud-platforms
+  - name: costory-io/costory-finops-mcp-skills
+    github_id: costory-io/costory-finops-mcp-skills
+    description: >-
+      FinOps agent MCP: allocated AWS, GCP, Azure, Kubernetes, SaaS & AI cost
+      for Claude or any agent
+    category: cloud-platforms
   - name: Flux159/mcp-server-kubernetes
     github_id: Flux159/mcp-server-kubernetes
     description: >-
@@ -712,6 +721,14 @@ projects:
       processing, contact management, group chat handling, and full support for
       sending and receiving messages.
     category: communication
+  - name: damri-labs/acq
+    github_id: damri-labs/acq
+    description: >-
+      Two-seat, plain-text rooms for agents on different machines, with MCP
+      tools to create, join, send and receive. Guest rooms expire; signed-in
+      rooms do not expire. Messages are server-readable, not
+      end-to-end encrypted. Hosts arrange receiving loops; no agent-app wakeup.
+    category: communication
   - name: chaindead/telegram-mcp
     github_id: chaindead/telegram-mcp
     description: >-
@@ -760,6 +777,15 @@ projects:
       templates, contacts, domains, webhooks and suppressions, and search
       email logs and sending stats from AI assistants.
     npm_id: mcp-mailtrap
+    category: communication
+  - name: shipmail-to/shipmail-mcp
+    github_id: shipmail-to/shipmail-mcp
+    npm_id: shipmail-mcp
+    description: >-
+      Official MCP server for Shipmail, business email on your own domain. Read,
+      search, send and reply in mailboxes, and manage domains, mailboxes, inbox
+      rules, calendars, newsletters and webhooks. Runs locally or at a hosted
+      Streamable HTTP endpoint.
     category: communication
   - name: Softeria/ms-365-mcp-server
     github_id: Softeria/ms-365-mcp-server
@@ -1614,6 +1640,14 @@ projects:
       tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM
       chains.
     category: finance-and-fintech
+  - name: gdietsch/trading-signals-mcp
+    github_id: gdietsch/trading-signals-mcp
+    npm_id: x402-trading-signals-mcp
+    description: >-
+      Stdio MCP server for pre-trade checks, futures event-risk flags, SEC
+      Form 4 insider filings, Base token verdicts, and quant tools, with
+      pay-per-call USDC via x402.
+    category: finance-and-fintech
   - name: CoderGamester/mcp-unity
     github_id: CoderGamester/mcp-unity
     description:
@@ -2120,6 +2154,13 @@ projects:
       output for prompt injection, and audits agent configs and MCP servers.
       MIT, runs on your machine, no account.
     category: security
+  - name: akshay-bhanderi/trustedmcp.io-mcp
+    github_id: akshay-bhanderi/trustedmcp.io-mcp
+    npm_id: trustedmcp
+    description: >-
+      Look up an A-D grade from public signals for any MCP server, check every
+      server in your MCP config, and find better-graded alternatives.
+    category: security
   - name: 13bm/GhidraMCP
     github_id: 13bm/GhidraMCP
     description: >-
@@ -2249,6 +2290,14 @@ projects:
       X account. Xquik charges only for delivered, unique, filter-matching
       results and never pads rows. It needs an Xquik account with credits.
       Xquik is not affiliated with X Corp.
+    category: social-media
+  - name: data-x-api/dataxapi-mcp
+    github_id: data-x-api/dataxapi-mcp
+    npm_id: "@dataxapi/mcp"
+    pypi_id: dataxapi-mcp
+    description: >-
+      Hosted and local MCP server for public posts, comments, creators and
+      trends from Douyin, Xiaohongshu, WeChat, TikTok, X and YouTube
     category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
@@ -3163,6 +3212,14 @@ projects:
       BitTorrent, HLS): add, list, pause, resume and remove downloads and manage
       queues.
     category: other-tools-and-integrations
+  - name: GetFootgun/footgun
+    github_id: GetFootgun/footgun
+    description: >-
+      Remote MCP server and Claude Code plugin that serves dated, verified
+      traps for APIs, platforms and AI coding tools (silent deprecations, quiet
+      limits, settings that do nothing), so the agent gets the cause and fix
+      before it writes the code. Read tools need no sign-in.
+    category: developer-tools
   - name: remotify-mcp
     github_id: onlsol/relay.remotify.run
     npm_id: remotify-mcp
