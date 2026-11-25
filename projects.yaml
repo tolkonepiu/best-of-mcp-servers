@@ -3238,3 +3238,11 @@ projects:
       limits, settings that do nothing), so the agent gets the cause and fix
       before it writes the code. Read tools need no sign-in.
     category: developer-tools
+  - name: shipready-mcp
+    github_id: Shipmate-agency/shipready-mcp
+    pypi_id: shipready-mcp
+    description: >-
+      Zero-dependency local MCP security scanner for Next.js, Supabase RLS,
+      and Stripe repositories in Cursor, Claude Code, and Windsurf without
+      code leaving your machine.
+    category: security
