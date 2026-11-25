@@ -4,7 +4,7 @@ configuration:
   min_description_length: 0
   max_description_length: 1000
   min_stars: 0
-  min_projectrank: 0
+  min_projectrank: 10
   generate_install_hints: false
   require_homepage: false
   require_license: false
