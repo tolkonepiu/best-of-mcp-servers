@@ -2226,7 +2226,7 @@ projects:
       binaries, renaming methods and data, and listing methods, classes,
       imports, and exports.
     category: security
-  - name: REA (Reverse Engineer Anything)
+  - name: morluto/rea
     github_id: morluto/rea
     npm_id: rea-agents
     description: >-
@@ -2297,7 +2297,7 @@ projects:
       Discord, Mastodon, Nostr, WordPress and Ghost, and nothing publishes
       until a person approves it. Runs over stdio with npx.
     category: social-media
-  - name: Xquik
+  - name: Xquik-dev/x-twitter-scraper
     github_id: Xquik-dev/x-twitter-scraper
     npm_id: x-developer
     description: >-
