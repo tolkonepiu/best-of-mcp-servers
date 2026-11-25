@@ -4,7 +4,7 @@ configuration:
   min_description_length: 0
   max_description_length: 1000
   min_stars: 0
-  min_projectrank: 0
+  min_projectrank: 10
   generate_install_hints: false
   require_homepage: false
   require_license: false
@@ -217,8 +217,8 @@ projects:
       MetaMCP is the one unified middleware MCP server that manages your MCP
       connections with GUI.
     category: aggregators
-  - name: mindsdb/mindsdb
-    github_id: mindsdb/mindsdb
+  - name: mindsdb/mindshub
+    github_id: mindsdb/mindshub
     description: >-
       Connect and unify data across various platforms and databases with MindsDB
       as a single MCP server.
@@ -264,8 +264,8 @@ projects:
       scale—centralize tool discovery, access controls, call prioritization, and
       usage tracking to simplify agent workflows.
     category: aggregators
-  - name: ahujasid/blender-mcp
-    github_id: ahujasid/blender-mcp
+  - name: ahujasid/mcp-for-blender
+    github_id: ahujasid/mcp-for-blender
     description: MCP server for working with Blender
     category: art-and-culture
   - name: cswkim/discogs-mcp-server
@@ -400,8 +400,8 @@ projects:
       mobile tests. Its MCP server lets coding agents author tests and enqueue
       runs, inspect evidence, and triage failures with persistent test memory.
     category: browser-automation
-  - name: alexei-led/aws-mcp-server
-    github_id: alexei-led/aws-mcp-server
+  - name: alexei-led/cloud-mcp-server
+    github_id: alexei-led/cloud-mcp-server
     description: >-
       A lightweight but powerful server that enables AI assistants to execute
       AWS CLI commands, use Unix pipes, and apply prompt templates for common
@@ -570,8 +570,8 @@ projects:
       conflicts, many experiments. Full execution history, terminal access to
       agent environments, git workflow. Any agent/model/infra stack.
     category: code-execution
-  - name: mavdol/capsule
-    github_id: mavdol/capsule
+  - name: capsulerun/runtime
+    github_id: capsulerun/runtime
     description: >-
       Run untrusted Python/JavaScript code in WebAssembly sandboxes.
     category: code-execution
@@ -926,8 +926,8 @@ projects:
     github_id: furey/mongodb-lens
     description: "MongoDB Lens: Full Featured MCP Server for MongoDB Databases"
     category: databases
-  - name: googleapis/genai-toolbox
-    github_id: googleapis/genai-toolbox
+  - name: googleapis/mcp-toolbox
+    github_id: googleapis/mcp-toolbox
     description: >-
       Open source MCP server specializing in easy, fast, and secure tools for
       Databases.
@@ -1009,8 +1009,8 @@ projects:
       read your GraphQL schema, run the queries you allow, and manage
       permissions and migrations.
     category: databases
-  - name: supabase-community/supabase-mcp
-    github_id: supabase-community/supabase-mcp
+  - name: supabase/mcp
+    github_id: supabase/mcp
     description: >-
       Official Supabase MCP server to connect AI assistants directly with your
       Supabase project and allows them to perform tasks like managing tables,
@@ -1296,8 +1296,8 @@ projects:
       devices. The screen is a numbered text list, each reply holds only the
       lines that changed, and payment taps wait for approval.
     category: developer-tools
-  - name: bgauryy/octocode-mcp
-    github_id: bgauryy/octocode-mcp
+  - name: bgauryy/octocode
+    github_id: bgauryy/octocode
     description: >-
       AI-powered developer assistant that enables advanced research, analysis
       and discovery across GitHub and NPM realms in realtime.
@@ -1348,8 +1348,8 @@ projects:
     description:
       Help agents automatically write and test stories for your UI components.
     category: developer-tools
-  - name: TencentEdgeOne/edgeone-pages-mcp
-    github_id: TencentEdgeOne/edgeone-pages-mcp
+  - name: TencentEdgeOne/edgeone-makers-mcp
+    github_id: TencentEdgeOne/edgeone-makers-mcp
     description: >-
       An MCP service for deploying HTML content to EdgeOne Pages and obtaining a
       publicly accessible URL.
@@ -1528,8 +1528,8 @@ projects:
     github_id: ariadng/metatrader-mcp-server
     description: Enable AI LLMs to execute trades using MetaTrader 5 platform
     category: finance-and-fintech
-  - name: base/base-mcp
-    github_id: base/base-mcp
+  - name: base/base-mcp-legacy
+    github_id: base/base-mcp-legacy
     description: >-
       Base Network integration for onchain tools, allowing interaction with Base
       Network and Coinbase API for wallet management, fund transfers, smart
@@ -1679,8 +1679,8 @@ projects:
       Enhanced graph-based memory with a focus on AI role-play and story
       generation
     category: knowledge-and-memory
-  - name: chopratejas/headroom
-    github_id: chopratejas/headroom
+  - name: headroomlabs-ai/headroom
+    github_id: headroomlabs-ai/headroom
     description: >-
       Context compression layer for AI agents. Compresses tool outputs, logs,
       RAG chunks, files, and conversation history before they reach the LLM,
@@ -1865,8 +1865,8 @@ projects:
       This server supports remote MCP connections, includes built-in Google
       OAuth, and provide an interface to the Google Tag Manager API.
     category: marketing
-  - name: nowork-studio/notfair
-    github_id: nowork-studio/toprank
+  - name: nowork-studio/notfair-plugin
+    github_id: nowork-studio/notfair-plugin
     homepage: https://notfair.co
     description: >-
       NotFair Google Ads MCP server. Connects Claude and AI agents to a Google
@@ -1881,8 +1881,8 @@ projects:
       Search dashboards, investigate incidents and query datasources in your
       Grafana instance
     category: monitoring
-  - name: getsentry/sentry-mcp
-    github_id: getsentry/sentry-mcp
+  - name: getsentry/toolkit
+    github_id: getsentry/toolkit
     description:
       Sentry.io integration for error tracking and performance monitoring
     category: monitoring
@@ -1988,8 +1988,8 @@ projects:
       the Exa AI Search API for web searches. This setup allows AI models to get
       real-time web information in a safe and controlled way.
     category: search-data-extraction
-  - name: fatwang2/search1api-mcp
-    github_id: fatwang2/search1api-mcp
+  - name: superagents-lab/search1api-mcp
+    github_id: superagents-lab/search1api-mcp
     description: Search via search1api (requires paid API key)
     category: search-data-extraction
   - name: hellokaton/unsplash-mcp-server
@@ -2054,8 +2054,8 @@ projects:
     github_id: nickclyde/duckduckgo-mcp-server
     description: Web search using DuckDuckGo
     category: search-data-extraction
-  - name: nkapila6/mcp-local-rag
-    github_id: nkapila6/mcp-local-rag
+  - name: nkapila6/mcpsurfr
+    github_id: nkapila6/mcpsurfr
     description: >-
       primitive" RAG-like web search model context protocol (MCP) server that
       runs locally. No APIs needed.
@@ -2128,22 +2128,22 @@ projects:
       memory exploration, and import/export analysis via the Model Context
       Protocol.
     category: security
-  - name: BurtTheCoder/mcp-maigret
-    github_id: BurtTheCoder/mcp-maigret
+  - name: w0h1v/mcp-maigret
+    github_id: w0h1v/mcp-maigret
     description: >-
       MCP server for maigret, a powerful OSINT tool that collects user account
       information from various public sources. This server provides tools for
       searching usernames across social networks and analyzing URLs.
     category: security
-  - name: BurtTheCoder/mcp-shodan
-    github_id: BurtTheCoder/mcp-shodan
+  - name: w0h1v/mcp-shodan
+    github_id: w0h1v/mcp-shodan
     description: >-
       MCP server for querying the Shodan API and Shodan CVEDB. This server
       provides tools for IP lookups, device searches, DNS lookups, vulnerability
       queries, CPE lookups, and more.
     category: security
-  - name: BurtTheCoder/mcp-virustotal
-    github_id: BurtTheCoder/mcp-virustotal
+  - name: w0h1v/mcp-virustotal
+    github_id: w0h1v/mcp-virustotal
     description: >-
       MCP server for querying the VirusTotal API. This server provides tools for
       scanning URLs, analyzing file hashes, and retrieving IP address reports.
@@ -2285,6 +2285,13 @@ projects:
       Complete voice interaction server supporting speech-to-text,
       text-to-speech, and real-time voice conversations through local
       microphone, OpenAI-compatible APIs, and LiveKit integration
+    category: text-to-speech
+  - name: hehehai/AudioSmith
+    github_id: hehehai/AudioSmith
+    description: >-
+      Local voice studio for macOS on Apple silicon with an MCP server (HTTP
+      and stdio): text to speech, voice cloning and design, audiobooks,
+      dubbing and transcription with speakers, run on the Mac's GPU with MLX.
     category: text-to-speech
   - name: cobanov/teslamate-mcp
     github_id: cobanov/teslamate-mcp
@@ -2500,8 +2507,8 @@ projects:
       MCP server for AI agents to manage products, orders, stock, sellers and
       reports.
     category: other-tools-and-integrations
-  - name: jonradoff/lastsaas
-    github_id: jonradoff/lastsaas
+  - name: metavert-io/lastsaas
+    github_id: metavert-io/lastsaas
     description: >-
       MCP server for SaaS administration. Manage users, subscriptions, billing
       (Stripe), system logs, and multi-tenant operations through natural
