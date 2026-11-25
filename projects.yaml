@@ -3238,3 +3238,13 @@ projects:
       limits, settings that do nothing), so the agent gets the cause and fix
       before it writes the code. Read tools need no sign-in.
     category: developer-tools
+
+  - name: Kling AI Global Plugin
+    github_id: klingai-tech/claude-plugin
+    description: >-
+      Official Global-region Claude Code plugin for Kling AI, connecting over
+      OAuth to Kling's hosted MCP service for image and video generation,
+      reusable Elements, and task status. Uses the Global Kling account and
+      credits. Setup guide: https://kling.ai/app/mcp/guide. This repository
+      contains the client plugin and skills, not the hosted server.
+    category: multimedia-process
