@@ -3238,3 +3238,27 @@ projects:
       limits, settings that do nothing), so the agent gets the cause and fix
       before it writes the code. Read tools need no sign-in.
     category: developer-tools
+  - name: io-oi-ai/web2md
+    github_id: io-oi-ai/web2md
+    npm_id: web2md-mcp-server
+    description: >-
+      Converts web pages into clean, LLM-ready Markdown for Claude Code, Cursor
+      and other MCP clients, stripping ads, menus and sidebars. Also ships a CLI
+      (web2md-cli).
+    category: search-data-extraction
+  - name: io-oi-ai/inplain
+    github_id: io-oi-ai/inplain
+    npm_id: "@inplain/cli"
+    description: >-
+      CLI and MCP server that lets Claude Code, Cursor and Codex create, edit and
+      export decks, docs and dashboards (PPTX, DOCX, XLSX, PDF) and publish a
+      local HTML file as a shareable link.
+    category: workplace-and-productivity
+  - name: io-oi-ai/hearl
+    github_id: io-oi-ai/hearl
+    npm_id: hearl
+    description: >-
+      CLI, MCP bridge and agent skill for Hearl, an inbox of public X, Reddit and
+      Hacker News posts about your product: list, assign, set due dates and add
+      notes from any MCP client. Never posts publicly.
+    category: social-media
