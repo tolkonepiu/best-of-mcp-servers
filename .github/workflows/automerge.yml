@@ -24,13 +24,15 @@ jobs:
           GH_REPO: ${{ github.repository }}
           HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
         run: |
-          numbers=$(gh api --paginate "repos/$GH_REPO/commits/$HEAD_SHA/pulls?per_page=100" \
+          numbers=$(gh api --paginate "repos/$GH_REPO/pulls?state=open&per_page=100" \
             --jq ".[] | select(.state == \"open\" and .draft == false and
               .head.sha == \"$HEAD_SHA\" and .base.repo.full_name == \"$GH_REPO\") | .number")
           for number in $numbers; do
-            files=$(gh api --paginate "repos/$GH_REPO/pulls/$number/files?per_page=100" \
-              --jq '.[] | .filename, (.previous_filename // empty)')
-            if [[ "$files" == projects.yaml ]]; then
+            eligible=$(gh api --paginate "repos/$GH_REPO/pulls/$number/files?per_page=100" \
+              --jq 'length == 1 and .[0].filename == "projects.yaml" and
+                .[0].status == "modified" and .[0].previous_filename == null and
+                .[0].additions > 0 and .[0].deletions == 0')
+            if [[ "$eligible" == true ]]; then
               gh pr merge "$number" --repo "$GH_REPO" --auto --squash --match-head-commit "$HEAD_SHA"
             fi
           done
