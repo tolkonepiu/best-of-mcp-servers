@@ -2286,6 +2286,13 @@ projects:
       text-to-speech, and real-time voice conversations through local
       microphone, OpenAI-compatible APIs, and LiveKit integration
     category: text-to-speech
+  - name: hehehai/AudioSmith
+    github_id: hehehai/AudioSmith
+    description: >-
+      Local voice studio for macOS on Apple silicon with an MCP server (HTTP
+      and stdio): text to speech, voice cloning and design, audiobooks,
+      dubbing and transcription with speakers, run on the Mac's GPU with MLX.
+    category: text-to-speech
   - name: cobanov/teslamate-mcp
     github_id: cobanov/teslamate-mcp
     description: >-
