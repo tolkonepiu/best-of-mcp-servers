@@ -1,0 +1,35 @@
+name: publish-best-of-release
+
+on:
+  pull_request:
+    types: [closed]
+
+permissions:
+  contents: write
+
+jobs:
+  publish-best-of-release:
+    if: >-
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      github.event.pull_request.head.ref == 'automation/update-best-of-list' &&
+      github.event.pull_request.base.ref == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.pull_request.merge_commit_sha }}
+          persist-credentials: false
+      - name: create-release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          MERGE_SHA: ${{ github.event.pull_request.merge_commit_sha }}
+        run: |
+          prefix='Update best-of list for version '
+          [[ "$PR_TITLE" == "$prefix"* ]]
+          VERSION="${PR_TITLE#"$prefix"}"
+          [[ -n "$VERSION" && "$VERSION" != -* ]]
+          git check-ref-format "refs/tags/$VERSION"
+          gh release create "$VERSION" --target "$MERGE_SHA" --title "Update: $VERSION" --notes-file latest-changes.md
