@@ -3255,3 +3255,13 @@ projects:
       datasets with read-only SQL. Remote, Streamable HTTP, OAuth 2.1 sign-in
       in the browser. Needs a paid Clema plan (free trial available).
     category: data-platforms
+  - name: Recall-Kitchen/rk-mcp
+    github_id: Recall-Kitchen/rk-mcp
+    homepage: https://recallkitchen.com/docs
+    description: >-
+      Go client for the hosted Recall Kitchen MCP server: search product
+      recall notices from government sources (CPSC, FDA, USDA, NHTSA, Health
+      Canada) by product name or UPC. Remote, Streamable HTTP at
+      https://app.recallkitchen.com/mcp, no OAuth; free API key or
+      pay-per-call x402.
+    category: search-data-extraction
