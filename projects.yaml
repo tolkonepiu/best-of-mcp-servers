@@ -2250,6 +2250,14 @@ projects:
       results and never pads rows. It needs an Xquik account with credits.
       Xquik is not affiliated with X Corp.
     category: social-media
+  - name: data-x-api/dataxapi-mcp
+    github_id: data-x-api/dataxapi-mcp
+    npm_id: "@dataxapi/mcp"
+    pypi_id: dataxapi-mcp
+    description: >-
+      Hosted and local MCP server for public posts, comments, creators and
+      trends from Douyin, Xiaohongshu, WeChat, TikTok, X and YouTube
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
