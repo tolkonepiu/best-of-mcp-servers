@@ -379,6 +379,13 @@ projects:
     github_id: BrowserMCP/mcp
     description: Automate your local Chrome browser
     category: browser-automation
+  - name: Agent360dk/browser-mcp
+    github_id: Agent360dk/browser-mcp
+    npm_id: "@agent360/browser-mcp"
+    description: >-
+      Drives your real, signed-in Chrome through an extension, and stops to ask
+      you on screen for a 2FA code, a CAPTCHA or a decision, then carries on.
+    category: browser-automation
   - name: eat-pray-ai/yutu
     github_id: eat-pray-ai/yutu
     description:
