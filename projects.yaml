@@ -3273,3 +3273,14 @@ projects:
       stock screening across CN, HK, US, JP, KR, TW, and ETFs, with
       no-lookahead walk-forward / T+N pattern verification.
     category: finance-and-fintech
+  - name: calypso-so/elephant-mcp
+    github_id: calypso-so/elephant-mcp
+    npm_id: "@calypsohq/elephant-mcp-server"
+    homepage: https://www.calypso.so/elephant
+    description: >-
+      Chat with your own PDFs, documents and web pages; every answer cites
+      the file and page it came from. Ten tools to ask, search passages, open
+      a cited source, and save and organise files; it never deletes. Remote,
+      Streamable HTTP at https://mcp.calypso.so/elephant/mcp with OAuth 2.1
+      sign-in, or local stdio with an API key. MIT.
+    category: knowledge-and-memory
