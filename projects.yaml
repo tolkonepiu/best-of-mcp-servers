@@ -2408,7 +2408,7 @@ projects:
   - name: meetshiro/shiro-mcp
     github_id: meetshiro/shiro-mcp
     npm_id: '@meetshiro/cli'
-    homepage: https://meetshiro.com/agents/?utm_source=best-of-mcp-servers&utm_medium=directory&utm_campaign=2026-11-distribution
+    homepage: https://meetshiro.com/agents/
     description: >-
       Work on a book in Shiro, a writing app for novels and long non-fiction:
       outline, scenes, characters and places, style sheet and notes, with every
