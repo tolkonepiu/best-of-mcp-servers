@@ -127,6 +127,14 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: flavrwebdev/viewportal-mcp
+    github_id: flavrwebdev/viewportal-mcp
+    npm_id: viewportal-mcp
+    description: >-
+      Responsive QC for coding agents on Mac: one call checks a page on phones,
+      tablets and desktop browsers and returns a verdict, numbered issues with
+      selectors and captures. Starts the server bundled in ViewPortal for Mac.
+    category: browser-automation
   - name: kburrus64-max/anansi-haven
     github_id: kburrus64-max/anansi-haven
     description: >-
