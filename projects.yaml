@@ -2405,6 +2405,16 @@ projects:
       Search, read, create, and update Bear Notes directly from Claude.
       Local-only with complete privacy.
     category: workplace-and-productivity
+  - name: meetshiro/shiro-mcp
+    github_id: meetshiro/shiro-mcp
+    npm_id: '@meetshiro/cli'
+    homepage: https://meetshiro.com/agents/
+    description: >-
+      Work on a book in Shiro, a writing app for novels and long non-fiction:
+      outline, scenes, characters and places, style sheet and notes, with every
+      change kept in History. Hosted Streamable HTTP server with OAuth, or a
+      local stdio server for a project folder through npm @meetshiro/cli.
+    category: workplace-and-productivity
   - name: apify/apify-mcp-server
     github_id: apify/apify-mcp-server
     description: >-
