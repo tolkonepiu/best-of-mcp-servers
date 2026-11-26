@@ -3347,3 +3347,12 @@ projects:
       stdio) for SEC EDGAR XBRL financials, EU TED eForms tenders,
       USAspending/SAM.gov contracts, USPTO patents, and Federal Register.
     category: finance-and-fintech
+  - name: iqfluence/iqfluence-mcp
+    github_id: iqfluence/iqfluence-mcp
+    homepage: https://iqfluence.io/docs/mcp
+    description: >-
+      Remote MCP server for influencer analytics on Instagram, TikTok and
+      YouTube: search 455M+ creators, audience reports with fake-follower
+      checks, audience overlap and media plans. The hosted endpoint is
+      https://mcp.iqfluence.io/mcp (OAuth).
+    category: marketing
