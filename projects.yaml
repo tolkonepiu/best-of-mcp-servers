@@ -3322,3 +3322,13 @@ projects:
       Streamable HTTP at https://mcp.calypso.so/elephant/mcp with OAuth 2.1
       sign-in, or local stdio with an API key. MIT.
     category: knowledge-and-memory
+  - name: ibrtokmecheng/packforai-mcp
+    github_id: ibrtokmecheng/packforai-mcp
+    npm_id: packforai-mcp
+    description: >-
+      Convert PDF, DOCX, PPTX, XLSX, CSV and JSON files into clean,
+      LLM-ready Markdown through the PackForAI API, keeping headings and
+      tables, with OCR for scanned PDFs on paid plans and a before-and-after
+      token count. Works with Claude and Cursor. Requires a PackForAI API key
+      (free plan available).
+    category: file-systems
