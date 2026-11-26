@@ -127,6 +127,16 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: motionvideohq/motionvideo-mcp
+    github_id: motionvideohq/motionvideo-mcp
+    description: >-
+      Official hosted MCP server for motionvideo.xyz. Search a catalog of
+      AI-made motion videos by keyword, category, model, colour or creator,
+      pull the original prompt behind an entry with the model and settings
+      used, and browse motion tools, agent skills and studios. Read-only
+      tools; catalog tools need no account, account tools use OAuth. Remote
+      Streamable HTTP at https://mcp.motionvideo.xyz/mcp.
+    category: art-and-culture
   - name: arthi-arumugam-git/caelo
     github_id: arthi-arumugam-git/caelo
     npm_id: caelo
