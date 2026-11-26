@@ -3339,3 +3339,11 @@ projects:
       token count. Works with Claude and Cursor. Requires a PackForAI API key
       (free plan available).
     category: file-systems
+  - name: Autotroph Data & Compliance MCP
+    github_id: char5742/autotroph-mcp-catalog
+    homepage: https://char5742.github.io/autotroph-mcp-catalog/
+    description: >-
+      Zero-proxy, schema-verified MCP server (Streamable HTTP and zero-dep Node.js
+      stdio) for SEC EDGAR XBRL financials, EU TED eForms tenders, USAspending/SAM.gov
+      federal contracts, USPTO global patents, and US Federal Register rules.
+    category: finance-and-fintech
