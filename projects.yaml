@@ -127,6 +127,16 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: arthi-arumugam-git/caelo
+    github_id: arthi-arumugam-git/caelo
+    npm_id: caelo
+    description: >-
+      Free, local security scanner for apps built with AI coding tools. Finds
+      exposed API keys, secrets leaked to the browser bundle, open Firebase or
+      Supabase rules, and committed .env files. Reads files only, uploads
+      nothing, and redacts secret values. Runs as a CLI (npx caelo .) or an MCP
+      server over stdio (npx caelo --mcp).
+    category: security
   - name: flavrwebdev/viewportal-mcp
     github_id: flavrwebdev/viewportal-mcp
     npm_id: viewportal-mcp
