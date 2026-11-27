@@ -3452,3 +3452,12 @@ projects:
       (npx -y ironheights mcp), or a GitHub Action. Apache-2.0, no
       account, API key or telemetry.
     category: security
+  - name: mcpfinder/mcpfinder
+    github_id: mcpfinder/mcpfinder
+    npm_id: "@mcpfinder/server"
+    homepage: https://mcpfinder.dev
+    description: >-
+      MCP server that finds MCP servers. Search, evaluate and install MCP
+      servers from the Official MCP Registry and Glama, with trust signals
+      and install config for Claude, Cursor, Claude Code, Cline and Windsurf.
+    category: aggregators
