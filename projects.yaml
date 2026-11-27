@@ -3366,3 +3366,14 @@ projects:
       checks, audience overlap and media plans. The hosted endpoint is
       https://mcp.iqfluence.io/mcp (OAuth).
     category: marketing
+  - name: postqued/postqued-agent
+    github_id: postqued/postqued-agent
+    homepage: https://postqued.com/mcp
+    description: >-
+      Official remote MCP server and agent plugins for Postqued, a social media
+      scheduler. Plan, upload, schedule and publish posts to TikTok, Instagram,
+      LinkedIn, YouTube, X, Facebook, Threads, Pinterest, Bluesky and Mastodon,
+      read analytics, reply to comments and run approval workflows. The hosted
+      endpoint is https://mcp.postqued.com/mcp (OAuth); publishing starts with
+      a dry run.
+    category: social-media
