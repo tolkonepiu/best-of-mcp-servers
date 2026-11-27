@@ -3419,3 +3419,15 @@ projects:
       filters, and keep append-only receipts. 36 tools, Streamable HTTP at
       https://aziel-runtime.vibelock.workers.dev/mcp, no auth. Apache-2.0.
     category: security
+  - name: FeraTerra/feraterra-sdk
+    github_id: FeraTerra/feraterra-sdk
+    pypi_id: feraterra-sdk
+    homepage: https://feraterra.app
+    description: >-
+      24-tool MCP gateway and SDK for FeraTerra sovereign CLOB spot,
+      perpetuals, stateless order preview, flash arbitrage, and L2 Merkle
+      custody on Base. Runs over stdio (uvx feraterra-sdk or npx -y
+      github:FeraTerra/feraterra-mcp) and Streamable HTTP at
+      https://mcp.feraterra.app/mcp (Registry:
+      io.github.FeraTerra/feraterra-sdk). MIT.
+    category: finance-and-fintech
