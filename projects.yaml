@@ -3430,3 +3430,17 @@ projects:
       order it, and the day a card ordered today would arrive. No sign-in or
       API key. Streamable HTTP at https://www.pandagreetings.com/mcp/designs.
     category: other-tools-and-integrations
+  - name: Frank-Masciopinto/ironheights
+    github_id: Frank-Masciopinto/ironheights
+    npm_id: ironheights
+    homepage: https://www.ironheights.dev
+    description: >-
+      Ironheights: The Immune System for AI Agents. A local-first security
+      scanner that protects AI agents in general, not a single runtime,
+      by checking agent skills (SKILL.md and bundled scripts) before
+      install. It flags prompt injection, credential reads, remote-exec
+      installs and persistence, and reports each finding with file, line
+      and a fix. Runs as a CLI (npx ironheights), a stdio MCP server
+      (npx -y ironheights mcp), or a GitHub Action. Apache-2.0, no
+      account, API key or telemetry.
+    category: security
