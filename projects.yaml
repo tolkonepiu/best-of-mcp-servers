@@ -3419,3 +3419,13 @@ projects:
       filters, and keep append-only receipts. 36 tools, Streamable HTTP at
       https://aziel-runtime.vibelock.workers.dev/mcp, no auth. Apache-2.0.
     category: security
+  - name: Transformer.gg
+    github_id: NBV-AppFactory/transformer-mcp
+    homepage: https://transformer.gg/?utm_source=best-of-mcp-servers&utm_medium=referral&utm_campaign=backlinks&utm_content=listing
+    description: >-
+      Book sponsored posts from X creators from a dashboard or your AI agent.
+      Hosted Streamable HTTP MCP server at https://transformer.gg/mcp with CLI
+      and REST API; paste a website to match X creators with suggested prices,
+      send free offers, track clicks and sales, and check the value of one
+      sponsored post on any X account.
+    category: marketing
