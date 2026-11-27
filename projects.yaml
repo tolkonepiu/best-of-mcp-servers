@@ -3396,6 +3396,15 @@ projects:
       endpoint is https://mcp.postqued.com/mcp (OAuth); publishing starts with
       a dry run.
     category: social-media
+  - name: benjaminb10/viewlify-mcp
+    github_id: benjaminb10/viewlify-mcp
+    homepage: https://viewlify.app/tiktok-data-api
+    npm_id: viewlify
+    description: >-
+      Viewlify remote MCP server (Streamable HTTP, https://viewlify.app/api/mcp)
+      for public TikTok data. Find the videos that beat their creator's usual
+      views, rising videos, hashtags and sounds by niche. Read only.
+    category: social-media
   - name: theluckystrike/egg-prices-grocery-prices-mcp
     github_id: theluckystrike/egg-prices-grocery-prices-mcp
     homepage: https://www.mcpstamp.com/free-servers/
