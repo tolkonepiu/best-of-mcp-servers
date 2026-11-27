@@ -3398,3 +3398,13 @@ projects:
       mcp) or hosted at https://mcp.checkleaked.cc/mcp. The free tools (breach
       registry, k-anonymity password and email checks) work without a key.
     category: security
+  - name: AzielEliab/aziel-runtime
+    github_id: AzielEliab/aziel-runtime
+    homepage: https://aziel-runtime.vibelock.workers.dev/
+    description: >-
+      Remote MCP server for agent audit and provenance. Agents list, describe
+      and call bundled tools through one gated door (fraggate_list,
+      fraggate_describe, fraggate_call), run deterministic decisiongate_check
+      filters, and keep append-only receipts. 36 tools, Streamable HTTP at
+      https://aziel-runtime.vibelock.workers.dev/mcp, no auth. Apache-2.0.
+    category: security
