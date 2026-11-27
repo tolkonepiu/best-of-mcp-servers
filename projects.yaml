@@ -3480,3 +3480,15 @@ projects:
       servers from the Official MCP Registry and Glama, with trust signals
       and install config for Claude, Cursor, Claude Code, Cline and Windsurf.
     category: aggregators
+  - name: GeminiGeorge22/publicrecords-mcp
+    github_id: GeminiGeorge22/publicrecords-mcp
+    homepage: https://apify.com/publicrecords
+    description: >-
+      Hosted MCP catalog for official Public Records tools on Apify. Call
+      website tech-stack detection, phone number validation (E.164, country
+      and line type; not a live carrier lookup), Wikipedia / ECB FX /
+      Treasury lookup, Crossref paper and DOI search, and bulk DNS / SPF /
+      DMARC through the hosted Apify MCP endpoint. Users connect with their
+      own Apify account (OAuth or API token) and pay per event. MCP:
+      https://mcp.apify.com?tools=publicrecords/tech-stack-detector,publicrecords/phone-number-validator,publicrecords/wikipedia-search,publicrecords/crossref-papers-doi-lookup,publicrecords/dns-lookup
+    category: search-data-extraction
