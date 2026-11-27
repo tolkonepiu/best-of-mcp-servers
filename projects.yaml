@@ -738,11 +738,12 @@ projects:
     github_id: sandeepkumar466/shellway-agent
     homepage: https://getshellway.com
     description: >-
-      Remote MCP server (streamable HTTP, OAuth) at https://mcp.getshellway.com/mcp
-      that lets ChatGPT, Claude, Claude Code and Cursor run commands and work with
-      files on your own Windows, Mac or Linux computer or server. The computer
-      connects outward only; read-only mode, allowed folders and blocked commands
-      are enforced on it, and every action is logged.
+      Remote MCP server (streamable HTTP, OAuth) at
+      https://mcp.getshellway.com/mcp that lets ChatGPT, Claude, Claude Code
+      and Cursor run commands and work with files on your own Windows, Mac or
+      Linux computer or server. The computer connects outward only; read-only
+      mode, allowed folders and blocked commands are enforced on it, and every
+      action is logged.
     category: command-line
   - name: tumf/mcp-shell-server
     github_id: tumf/mcp-shell-server
