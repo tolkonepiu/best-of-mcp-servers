@@ -3377,7 +3377,7 @@ projects:
       endpoint is https://mcp.postqued.com/mcp (OAuth); publishing starts with
       a dry run.
     category: social-media
-  - name: egg-prices-grocery-prices-mcp
+  - name: theluckystrike/egg-prices-grocery-prices-mcp
     github_id: theluckystrike/egg-prices-grocery-prices-mcp
     homepage: https://www.mcpstamp.com/free-servers/
     description: >-
