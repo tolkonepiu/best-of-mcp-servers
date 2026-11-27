@@ -2378,6 +2378,16 @@ projects:
       platforms. Read-only, paid per call with 100 free credits; the repo has
       the client configs and examples.
     category: social-media
+  - name: getwinly/winly-mcp
+    github_id: getwinly/winly-mcp
+    homepage: https://getwinly.ai/mcp/
+    description: >-
+      Run your Instagram and Facebook DMs from Claude, ChatGPT or any
+      MCP-compatible AI agent. Hosted remote MCP server at
+      https://app.sbccrm.com/bld/api/mcp (Streamable HTTP, OAuth 2.1 or API
+      key), official server maintained by Winly. The repo holds the public
+      docs.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
