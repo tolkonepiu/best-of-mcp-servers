@@ -1961,6 +1961,14 @@ projects:
       copy), and execute approved changes via the Google Ads API with a
       built-in human-approval gate.
     category: marketing
+  - name: bereach-ai/bereach-claude-plugin
+    github_id: bereach-ai/bereach-claude-plugin
+    homepage: https://bereach.ai
+    description: >-
+      BeReach remote MCP server (Streamable HTTP, OAuth). Describe your ideal
+      customer in one sentence, or paste a LinkedIn post, and BeReach finds the
+      people who match and helps you write the first message.
+    category: marketing
   - name: grafana/mcp-grafana
     github_id: grafana/mcp-grafana
     description: >-
