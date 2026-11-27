@@ -3387,3 +3387,14 @@ projects:
       https://egg-prices-grocery-prices-mcp.lipmichal.workers.dev/mcp
       (no auth, no API key).
     category: search-data-extraction
+  - name: eduair94/CheckLeakedCC
+    github_id: eduair94/CheckLeakedCC
+    npm_id: checkleakedcc
+    homepage: https://checkleaked.cc/developers
+    description: >-
+      Data-breach search, password exposure checks and OSINT lookups from
+      CheckLeaked.cc: email, username, phone, domain and hash searches, breach
+      monitoring and stealer-log lookups. Runs over stdio (npx -y checkleakedcc
+      mcp) or hosted at https://mcp.checkleaked.cc/mcp. The free tools (breach
+      registry, k-anonymity password and email checks) work without a key.
+    category: security
