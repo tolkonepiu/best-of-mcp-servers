@@ -3377,3 +3377,13 @@ projects:
       endpoint is https://mcp.postqued.com/mcp (OAuth); publishing starts with
       a dry run.
     category: social-media
+  - name: theluckystrike/egg-prices-grocery-prices-mcp
+    github_id: theluckystrike/egg-prices-grocery-prices-mcp
+    homepage: https://www.mcpstamp.com/free-servers/
+    description: >-
+      Hosted remote MCP server for live US BLS grocery and egg price tracking
+      across staples, historical trends, and inflation comparisons. Streamable
+      HTTP endpoint:
+      https://egg-prices-grocery-prices-mcp.lipmichal.workers.dev/mcp
+      (no auth, no API key).
+    category: search-data-extraction
