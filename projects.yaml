@@ -3419,3 +3419,14 @@ projects:
       filters, and keep append-only receipts. 36 tools, Streamable HTTP at
       https://aziel-runtime.vibelock.workers.dev/mcp, no auth. Apache-2.0.
     category: security
+  - name: Gerti05/panda-greetings-mcp
+    github_id: Gerti05/panda-greetings-mcp
+    homepage: https://www.pandagreetings.com/ai-assistants
+    description: >-
+      Official hosted MCP server for Panda Greetings, which prints greeting
+      cards and mails them in the US. One read-only tool, find_card_designs,
+      returns up to four ready-made card designs for an occasion with the
+      card message placed inside each, a link that opens each design to
+      order it, and the day a card ordered today would arrive. No sign-in or
+      API key. Streamable HTTP at https://www.pandagreetings.com/mcp/designs.
+    category: other-tools-and-integrations
