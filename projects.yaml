@@ -2349,6 +2349,16 @@ projects:
       Hosted and local MCP server for public posts, comments, creators and
       trends from Douyin, Xiaohongshu, WeChat, TikTok, X and YouTube
     category: social-media
+  - name: shivanshmehendiratta/groundsocial-mcp
+    github_id: shivanshmehendiratta/groundsocial-mcp
+    homepage: https://groundsocial.dev/docs/mcp
+    description: >-
+      Hosted MCP server at https://api.groundsocial.dev/mcp (Streamable HTTP,
+      OAuth or API key) for public posts, comments, profiles, transcripts and
+      search from Reddit, X, TikTok, Instagram, YouTube and 70+ more
+      platforms. Read-only, paid per call with 100 free credits; the repo has
+      the client configs and examples.
+    category: social-media
   - name: r-huijts/strava-mcp
     github_id: r-huijts/strava-mcp
     description: >-
