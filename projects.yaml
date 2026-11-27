@@ -3492,3 +3492,15 @@ projects:
       own Apify account (OAuth or API token) and pay per event. MCP:
       https://mcp.apify.com?tools=publicrecords/tech-stack-detector,publicrecords/phone-number-validator,publicrecords/wikipedia-search,publicrecords/crossref-papers-doi-lookup,publicrecords/dns-lookup
     category: search-data-extraction
+  - name: truonggiang0111/b2b-market-intel-mcp
+    github_id: truonggiang0111/b2b-market-intel-mcp
+    homepage: https://truonggiang0111.github.io/mcp/
+    description: >-
+      Zero-dependency Node.js stdio MCP server (npx) with a hosted Apify PPE
+      catalog for B2B market intelligence. Three zero-key local tools decode
+      Google News CBMi/AU_yqL URLs and preview UK Gov Contracts Finder
+      tenders and ClinicalTrials.gov biotech leads; optional APIFY_TOKEN
+      batch tools and hosted Apify PPE Actors (mcp.apify.com) add RAG
+      article extraction, iOS/Play 1-star churn, UK/AU direct jobs, and
+      Google Ads Transparency data.
+    category: search-data-extraction
