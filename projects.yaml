@@ -3504,3 +3504,14 @@ projects:
       article extraction, iOS/Play 1-star churn, UK/AU direct jobs, and
       Google Ads Transparency data.
     category: search-data-extraction
+  - name: evergreen-it-dev/folio
+    github_id: evergreen-it-dev/folio
+    homepage: https://foliowiki.online
+    description: >-
+      Open-source (MIT) self-hosted workspace: Markdown docs, data tables and
+      whiteboards stored as plain files in Git. The MCP server is built into
+      every instance (Streamable HTTP at /mcp, OAuth 2.1 or personal access
+      tokens) with 52 tools to search, read and write pages, tables, forms and
+      whiteboards with the connecting user's rights. Listed in the official MCP
+      Registry as io.github.evergreen-it-dev/folio.
+    category: knowledge-and-memory
