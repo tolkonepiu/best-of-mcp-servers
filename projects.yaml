@@ -3541,3 +3541,12 @@ projects:
       server at https://yellowstake.com/mcp (Streamable HTTP, no account),
       plus a Node.js library.
     category: other-tools-and-integrations
+  - name: pinnfeed/pinnfeed-mcp
+    github_id: pinnfeed/pinnfeed-mcp
+    homepage: https://pinnfeed.io/docs/mcp
+    description: >-
+      Remote MCP server for real-time Pinnacle odds (REST + WebSocket + MCP,
+      13 sports, no-vig fair odds, closing lines). Streamable HTTP at
+      https://pinnfeed.io/mcp. A free plan is available (REST, 30 s delay);
+      paid real-time plans start at $49/mo (USD).
+    category: sports
