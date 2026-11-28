@@ -3515,3 +3515,13 @@ projects:
       whiteboards with the connecting user's rights. Listed in the official MCP
       Registry as io.github.evergreen-it-dev/folio.
     category: knowledge-and-memory
+  - name: aleksandrjefimov4-crypto/cheapcarent-mcp
+    github_id: aleksandrjefimov4-crypto/cheapcarent-mcp
+    homepage: https://cheapcarent.com/developers
+    description: >-
+      Read-only remote MCP server for car rental search (Streamable HTTP, no
+      authentication) at https://cheapcarent.com/mcp. Tools: list_locations and
+      search_cars. CheapCarRent is an online car rental marketplace with cars
+      from local rental companies: 15 000 pickup points, 46 countries, 19
+      languages.
+    category: travel-and-transportation
