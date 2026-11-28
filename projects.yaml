@@ -3532,3 +3532,12 @@ projects:
       from local rental companies: 15 000 pickup points, 46 countries, 19
       languages.
     category: travel-and-transportation
+  - name: yellowstake/agent-desk
+    github_id: yellowstake/agent-desk
+    homepage: https://yellowstake.com/tools/agent-desk
+    description: >-
+      Checks whether a US insurance lead can be called, autodialed or texted
+      now, citing TCPA, Do Not Call and state calling-hours rules. Hosted MCP
+      server at https://yellowstake.com/mcp (Streamable HTTP, no account),
+      plus a Node.js library.
+    category: other-tools-and-integrations
