@@ -127,6 +127,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: thrivedesk/thrivedesk-mcp
+    github_id: thrivedesk/thrivedesk-mcp
+    homepage: https://www.thrivedesk.com/mcp/
+    description: >-
+      Search, reply, tag, assign and report on ThriveDesk help desk
+      conversations from your AI assistant.
+    category: support-and-service-management
   - name: motionvideohq/motionvideo-mcp
     github_id: motionvideohq/motionvideo-mcp
     description: >-
